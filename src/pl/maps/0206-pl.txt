@@ -1,0 +1,127 @@
+===== Nazwa mapy =====
+Zdrada
+
+===== Opis mapy =====
+Jeremy, Tark i Casmetra musz¹ schwytaæ Dargema. Jeœli Jeremy zostanie pokonany to ca³a misja przepadnie. To ostatnia misja w kampanii.
+
+===== Pog³oski =====
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Dzieñ 1
+Wiadomoœæ:
+Wszystko sta³o siê tak szybko. Woda bulgota³a jak ogromny gejzer na powierzchni morza, wypluwaj¹c magiczny statek. Casmetra powiedzia³a, ¿e jest na nim Bidley... Ale by³ z nim ktoœ inny - ta osoba schwyta³a mojego brata i przejê³a Róg.		"To Dargem." - powiedzia³a ze z³oœci¹ kap³anka.		"Kto to jest Dargem?"		"Najemny mag. Pracowa³ dla Regny - a œciœlej dla jednego z jej lordów. To jest istne gniazdo ¿mij! Wszyscy próbuj¹ wymyœliæ, jak wbiæ sztylety innym w plecy. Jeden z tych lordów chcia³ zdobyæ Róg Otch³ani, a ¿e pragn¹³ go bardziej ni¿ wy... Wys³a³ wiêc Dargema."		"Do cholery... musimy ich natychmiast œcigaæ! Diego, przygotuj statki!" - rozkaza³em.		Œcigaliœmy Dargema, ale ostatecznie znikn¹³ za wysp¹. Zamiast tego, zostaliœmy powitani przez flotê Regny. Mieliœmy tylko garœæ statków, wiêc musieliœmy uciekaæ. Za³o¿yliœmy obóz na ma³ej wyspie i postanowiliœmy zebraæ si³y do uderzenia na fortecê Dargema, gdzie trzyma Róg i wiêzi mojego brata. Mam nadziejê, ¿e Bidley jest bezpieczny. 		Mamy jednak dobre wieœci: Tark powróci³! Razem ze swoim ludem wyszed³ z morza niedaleko naszego obozu.		"Obieca³em wróciæ." - sykn¹³ krótko przywódca jaszczurów.		"Mamy k³opoty. Bidley zosta³ schwytany." - wyjaœni³em.		"Niksy bêd¹ dla was walczyæ. Jednak¿e niektóre mog¹ byæ przeciwko tobie. Ale to ja jestem ksiêciem wiêc prawda jest po mojej stronie." - odpowiedzia³ Tark.
+
+Nazwa:
+Dzieñ 2
+Wiadomoœæ:
+"Jeremy." - Casmetra uœmiechnê³a siê. - "Mam wiêcej dobrych wiadomoœci. Kradzie¿ Rogu obudzi³a wê¿e morskie. Teraz wêdruj¹ po ca³ym oceanie."		"To œwietna wiadomoœæ - przynajmniej bêdziemy mieæ mnóstwo sma¿onego wêgorza."		"G³uptasie." - odpar³a Casmetra z delikatnym uœmiechem. - "Te stworzenia wci¹¿ czuj¹, ¿e musz¹ chroniæ Rogu Otch³ani. Ale nie s¹ w stanie zdecydowaæ czy trzeba go zwróciæ na miejsce, czy strzec tam, gdzie siê aktualnie znajduje. Mogê wiêc rzuciæ na nie czary, ¿eby wê¿e które chc¹ zwróciæ Róg na miejsce pomog³y nam pokonaæ tego zdrajcê, Dargema."		"To jest bardzo dobry pomys³." - zgodzi³em siê. - "Ale co im powiemy, gdy zdobêdziemy ju¿ Róg od Dargema? 'Rozejœæ siê, my tylko ¿artowaliœmy?'"		"Wy, mê¿czyŸni, zawsze staracie siê myœleæ 20 kroków do przodu." - powiedzia³a Casmetra, przewracaj¹c oczami.		Ale mimo wszystko, z pewnoœci¹ nie odrzuci³bym pomocy wê¿y morskich. Nawet jedna z tych piêknych bestii jest w stanie zatopiæ fregatê!
+
+Nazwa:
+Dzieñ 7
+Wiadomoœæ:
+Zwiadowcy donosz¹, ¿e Tatalianie, rozwœcieczeni niedawn¹ pora¿k¹, chc¹ straciæ ca³¹ swoj¹ flotê po raz kolejny. ZnaleŸli nas na tym archipelagu, który wczeœniej by³ znany tylko piratom. Wznieœli fort gdzieœ na wschodzie i przygotowuj¹ siê do inwazji. Z jednej strony to dobrze - raczej nie bêd¹ w stanie odró¿niæ dwóch pirackich band. Z drugiej strony by³oby straszne, gdyby oni, a nie my, z³apali Dargema. Jeœli tak siê stanie, Bidley z pewnoœci¹ zawiœnie na linie tu¿ obok tego przeklêtego maga.
+
+Nazwa:
+Dzieñ 12
+Wiadomoœæ:
+Wiêcej niepokoj¹cych wiadomoœci: wybuch³a wojna miêdzy Erathi¹, a Eeofolem. Z nieznanych przyczyn, na ca³ym kontynencie, zaczê³y pojawiaæ siê równie¿ dziwne miasta ze z³otymi kopu³ami. Casmetra uwa¿a, ¿e to inwazja W³adców ¯ywio³ów. Jedno z tych miast pojawi³o siê w pó³nocnym regionie archipelagu. Prawdopodobnie przyci¹gnê³a ich moc Rogu Otch³ani i licz¹, ¿e go zdobêd¹.
+
+Nazwa:
+Raider
+Wiadomoœæ:
+NajeŸdŸcy Dargema zaatakowali nasze statki dostawcze i zniknêli pod os³on¹ nocy.
+
+Nazwa:
+Dzieñ 24
+Wiadomoœæ:
+Zmêczy³em siê t¹ bezsensown¹ walk¹ i postanowi³em napisaæ list do Dargema. W tym czasie mój umys³ nie by³ ca³kowicie jasny - odœwie¿aj¹c g³owê rumem, napisa³em:		"Dargemie! Pisze Jeremy Albatross, kapitan armady Regny. Wszed³eœ mi w drogê i schwyta³eœ mojego brata. Uwolnij go natychmiast i oddaj nam artefakt! Jeœli to zrobisz, obiecujê, ¿e ty i twoi ludzie bêdziecie mogli opuœciæ wyspê bez szwanku.”
+
+Nazwa:
+halyava
+Wiadomoœæ:
+- Czas na halyava!	- Nie, AI, nie!!!
+
+Nazwa:
+Dzieñ 34
+Wiadomoœæ:
+Niksy Tarka donosz¹, ¿e pod tym archipelagiem istnieje ogromna sieæ jaskiñ. Wiele z nich jest wype³nionych wod¹, ale niektóre czêœci s¹ suche. To staro¿ytne jaskinie - w œrodku mo¿na znaleŸæ coœ wyj¹tkowego i potê¿nego.
+
+Nazwa:
+Dzieñ 40
+Wiadomoœæ:
+Dargem nie spieszy³ siê z odpowiedzi¹. Myœlê, ¿e to tylko kolejny dowód jego g³upoty i niezdolnoœci do krytycznego myœlenia. Jego list brzmia³ nastêpuj¹co:		"Samozwañczy kapitanie Jeremy Kuropatwo! Spêdzi³em w tych jaskiniach zdecydowanie zbyt wiele czasu, czekaj¹c, a¿ szczêœcie siê do mnie uœmiechnie i poœle mi podró¿nika, którego pech przeœladuje jeszcze bardziej ni¿ mnie. I tak siê sta³o. Zas³ugujê na Róg - choæ jeszcze nie wiem jak on dzia³a. Sugerujê ci siê st¹d wynosiæ. Twój brat jest jedynie gwarancj¹ mojego bezpieczeñstwa. Jak tylko odejdziesz, zostanie uwolniony. Dargem"
+
+Nazwa:
+Dzieñ 43
+Wiadomoœæ:
+Myœla³em o tym, co napisa³ Dargem. Wezwa³em Casmetrê do mojej kabiniy i powiedzia³em jej, ¿e myœlê o wycofaniu siê, aby zapewniæ bezpieczne uwolnienie Bidleya. Oczy kap³anki rozszerzy³y siê.		"Jeremy! Jak mo¿esz rozwa¿aæ coœ takiego!" - wykrzyknê³a.		"Ale moglibyœmy uratowaæ Bidleya i unikn¹æ niepotrzebnego rozlewu krwi." - zacz¹³em, ale Casmetra przerwa³a mi.		"Nawet nie wyobra¿asz sobie jak¹ szumowin¹ jest Dargem i co naprawdê jest tu stawk¹. Róg Otch³ani jest jednym z najwiêkszych artefaktów, jakie kiedykolwiek stworzono. Nie ma wzmianki o tym, kto go zrobi³ - prawdopodobnie powsta³ przed Cisz¹. To jest dar z Czasów Cudów! Jeœli tylko dowiemy siê jak on dzia³a, bêdziemy niczym bogowie!" - kap³anka wyjaœni³a z podekscytowaniem. Podesz³a do sto³u i ku mej uciesze poci¹gnê³a ³yk rumu. - "Dargem jest ³ajdakiem i z³oczyñc¹. Jedynym powodem, dla którego jeszcze nie zabi³ Bidleya jest to, ¿e jesteœmy w pobli¿u. Jeœli odejdziesz, zamorduje go i nakarmi nim rekiny. Zrozum to. Chyba... ¿e jesteœ tchórzem?" - zapyta³a z wyrzutem w oczach.		"Nie, o pani. Jeremy Albatross to najodwa¿niejszy i najœmielszy pirat miêdzy Enroth, Antagarichem i Jadame!" - oœwiadczy³em, zrywaj¹c siê na równe nogi.		"I w³aœnie za to ciebie kocham." - zaœmia³a siê kap³anka, obejmuj¹c mnie.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(6, 139, 0) ***Tabliczka***
+Wiadomoœæ:
+Posterunek Erathii
+
+(29, 11, 0) ***Chata proroka***
+Wiadomoœæ:
+Grupa piratów niezadowolonych z przywództwa Dargema chcia³aby do ciebie do³¹czyæ.
+Przyjmujesz ich?
+
+(0, 140, 0) ***Miecz sprawiedliwoœci***
+Wiadomoœæ:
+Czy jesteœ gotowy na sprawiedliwoœæ?
+
+(139, 3, 0) ***Tabliczka***
+Wiadomoœæ:
+Fortyfikacja Kreegan		
+
+(42, 47, 0) ***Wilk morski***
+Wiadomoœæ:
+Zatrzymaæ siê albo bêdê strzelaæ!
+
+(8, 21, 0) ***Chata proroka***
+Wiadomoœæ:
+Grupa piratów niezadowolonych z przywództwa Dargema chcia³aby do ciebie do³¹czyæ.
+Przyjmujesz ich?
+
+(54, 95, 1) ***Tabliczka***
+Wiadomoœæ:
+Sala Teleportacji
+
+(60, 136, 1) ***Zdarzenie***
+Wiadomoœæ:
+Pamiêtaj, ¿e ten monolit mo¿e prowadziæ wszêdzie i nie bêdzie ³atwo wróciæ.	
+
+(114, 3, 1) ***Zdarzenie***
+Wiadomoœæ:
+Te jaskinie s¹ tak stare jak œwiat....
+
+(111, 20, 1) ***Ksiêga magii powietrza***
+Wiadomoœæ:
+Czy odwa¿ysz siê zabraæ ten staro¿ytny tom?
+
+(113, 8, 1) ***Zdarzenie***
+Wiadomoœæ:
+Straszny mróz i ponura cisza negatywnie wp³ywaj¹ na twoj¹ za³ogê.
+
+(116, 26, 1) ***B³êkitny smok***
+Wiadomoœæ:
+Twoja obecnoœæ nie pozosta³a niezauwa¿ona. Obudzi³o siê potê¿ne stworzenie....
+
+(127, 4, 1) ***Diamentowy golem***
+Wiadomoœæ:
+Stra¿nicy staro¿ytnych pa³aców zostali zaalarmowani!
+
+(133, 26, 1) ***Zdarzenie***
+Wiadomoœæ:
+Wygl¹da na to, ¿e jest tu tajne przejœcie.
+
+(130, 59, 1) ***Zdarzenie***
+Wiadomoœæ:
+Jest tu ca³e gniazdo wê¿y morskich!
+
+===== Koniec pliku =====

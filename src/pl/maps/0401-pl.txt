@@ -1,0 +1,327 @@
+===== Nazwa mapy =====
+Œwiat w Ogniu.
+
+===== Opis mapy =====
+Henrietta i Frederick musz¹ przynieœæ Kulê Burzowego Ognia do Laboratorium Fredericka. Jeœli Henrietta lub Frederick zostan¹ pokonani, przegrasz scenariusz. Twoi bohaterowie s¹ ograniczeni do poziomu 6, ale Henrietta i Frederick przenios¹ Urok Many i Ko³nierz Przywo³ania do nastêpnego scenariusza.
+
+===== Pog³oski =====
+
+Nazwa:
+Shooting Stars
+Tekst:
+Nigdy wczeœniej nie widzia³em tak wielu spadaj¹cych gwiazd!
+
+Nazwa:
+Demons
+Tekst:
+Wygl¹da na to, ¿e demony powróci³y! S³ysza³eœ? Spalili kilka wiosek na po³udniu!
+
+Nazwa:
+Frederick Clues
+Tekst:
+Mówi¹, ¿e nekromanta zadomowi³ siê na naszej ziemi.
+
+Nazwa:
+Liston comes to Eeofol
+Tekst:
+Kilka dni temu do naszej tawerny zawita³a banda czarodziejów! Zanim udali siê w góry, spêdzili trochê czasu, rozpytuj¹c o kogoœ.
+
+Nazwa:
+Automatons Clue
+Tekst:
+Mówi¹, ¿e w górach mieszkaj¹ ¿elazne paj¹ki! Móg³bym przysi¹c, ¿e s¹ dzie³em szalonego czarodzieja, który zamieszka³ w pobli¿u naszej wioski.
+
+Nazwa:
+End is near
+Tekst:
+Legendy nas przed tym ostrzega³y! Koniec jest bliski!
+
+Nazwa:
+Land of the Giants
+Tekst:
+Jeœli jest ktoœ, kto mo¿e powstrzymaæ diab³y, to nasi wielcy s¹siedzi – tytani i smoki.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Night of Shooting Stars - Part I
+Wiadomoœæ:
+Wydawa³o siê, ¿e ta noc nigdy siê nie skoñczy. Stoj¹c oszo³omiona na nagim szczycie wzgórza nad wiosk¹, nie mog³am oderwaæ wzroku od smug ognia przecinaj¹cych niebo Eeofol; by³y zbyt piek¹ce, abym zauwa¿y³a, ¿e niektóre z nich gasn¹, a inne siê zapalaj¹. Potem zda³am sobie sprawê, ¿e w ogóle nie gasn¹, nawet gdy spuœci³am powieki. Dzieñ mia³ siê wkrótce rozpocz¹æ, a mimo to wci¹¿ widzia³am tylko mieszaninê ciemnych i jasnych kresek. 		Frederick kaza³ mi nigdy nie patrzeæ bezpoœrednio na s³oñce, aby nie uszkodziæ wzroku, ale nigdy nie wspomnia³, ¿e takie pal¹ce œwiat³o mo¿e padaæ z nieba równie¿ w nocy. Przycisnê³am d³onie do twarzy i niemal na oœlep pomknê³am w dó³ zbocza w stronê strumienia. Chyba krzyknê³am. By³am przera¿ona.
+
+Nazwa:
+Night of Shooting Stars - Part II
+Wiadomoœæ:
+Pomog³a woda i ch³ód. Wróci³ mi wzrok, ale strach nie znikn¹³ – mia³am wra¿enie, ¿e ten oœlepiaj¹cy p³omieñ pali³ mnie od œrodka. Póki jeszcze widzia³am, zauwa¿y³am, ¿e gwiazdy, których ogony p³onê³y tak jasno na nocnym niebie, nie p³onê³y w powietrzu. Dotar³y a¿ do ziemi, niczym ogromne, tl¹ce siê ska³y, dziwnie powoli i pozornie niedaleko st¹d, tu¿ za tymi wzgórzami. Potem wiatr przyniós³ s³aby zapach dymu – niezupe³nie podobny do fantazyjnego porannego zapachu rozpalanego w domach pieca. 		Przez ostatnie kilka lat przyzwyczai³am siê do zadawania pytañ, potem oduczy³am siê, jak to robiæ, a¿ w koñcu na nowo opanowa³em tê sztukê. Kiedy pozna³am mê¿czyznê, który wiedzia³ o œwiecie znacznie wiêcej, ni¿ mog³am sobie wyobraziæ, chcia³am pytaæ, pytaæ i pytaæ bez przerwy – by³am ciekawy wszystkiego. W koñcu nagle zda³em sobie sprawê, ¿e ¿¹dam zbyt wielu bzdur. Frederick stara³ siê tego nie okazywaæ, ale czasami niezadowolenie bra³o nad nim górê; wtedy by mnie odes³a³. 		Nie by³o gorszej kary ni¿ powrót z laboratorium pe³nego cudów do stodo³y z po³amanymi grabiami i brudnymi workami jutowymi. W koñcu nauczy³am siê myœleæ, zanim otworzy³am usta – i chyba powoli zrozumia³am, jak zadawaæ w³aœciwe pytania. Jedno z takich pytañ, które chcia³am teraz zadaæ: czy ska³y tak podobne do s³oñca mog¹ spaœæ z nieba?
+
+Nazwa:
+Frederick
+Wiadomoœæ:
+ZnajdŸ Fredericka. Musia³am go znaleŸæ. Nic nie mo¿e byæ teraz wa¿niejsze. Nawet od jego teleskopu – to znaczy wszystko, co mog³o na nas spaœæ z nieba, ju¿ to zrobi³o… Serce mi podpowiada³o, ¿e lepiej bêdzie teraz byæ przy nim. Ka¿da wiedza, jak¹ posiada³, nawet ta wiedza, która wzbudzi³a taki strach wœród moich wspó³obywateli, mog³aby byæ dzisiaj u¿yteczna. 		Odk¹d pamiêtam, zawsze by³am sama, mieszkaj¹c w stodole dziadka Haye'a. Nie by³ to mój w³asny dziadek – to sk¹dœ wiedzia³am, ale mimo to mnie nakarmi³, da³ trochê ubrania, a zim¹ pozwoli³ spaæ przy piecu w swoim domu; przez resztê czasu i tak wola³am byæ sama. 		Frederick pojawi³ siê w moim ¿yciu, kiedy mia³am... hmm, có¿, nawet nie wiem, ile mam teraz lat. Nie ma to znaczenia – po raz pierwszy odwa¿y³am siê wybraæ na wzgórza za naszym gajem i zobaczy³em tam du¿y nowy dom, a obok niego jednego niepokoj¹co wysokiego mê¿czyznê i dwóch mniejszych, wygl¹daj¹cych trochê jak nizio³ki, ale inaczej, z szar¹ skór¹. PóŸniej dowiedzia³am siê, ¿e tych ma³ych ludzików nazywano „gremlinami” i ¿e tak naprawdê nie byli ludŸmi, ale Frederick odmówi³ odpowiedzi na dalsze pytania; Porzuci³am tê sprawê i nigdy wiêcej nie widzia³em gremlinów. 		Jednak w tamtym momencie, byæ mo¿e ze strachu przed nieznanym, zamar³am i da³em siê z³apaæ – choæ równie dobrze mog³am ukryæ siê w lesie przed kimkolwiek. Frederick od razu zda³ sobie sprawê, ¿e nie jestem typem cz³owieka, który goni go w tê czêœæ lasu, i pozwala³ mi czasami do niego przychodziæ. Chyba potrzebowa³ ¿ywych uszu, w które móg³by wlaæ swoje szalone hipotezy – i nie obchodzi³o go, ¿e jestem tylko g³upi¹ ma³¹ dziewczynk¹, która nie potrafi nawet policzyæ palców. 		Tygodniami siedzia³am w laboratorium, bo i tak nikt w wiosce za mn¹ nie têskni³. Frederickowi czêsto brakowa³o moich chudych d³oni. Czasami prosi³ mnie, ¿ebym wczo³ga³a siê do zaawansowanej maszyny, ¿eby znaleŸæ pêkniêty w¹¿ lub sprawdziæ zu¿ycie przek³adni. Och, jak¹ radoœæ sprawi³o mi, gdy uda³o mi siê pomóc, a z³o¿ony mechanizm zacz¹³ syczeæ i krêciæ siê – mimo ¿e nie mia³am zielonego pojêcia, co siê z nim dzieje. On jednak zawsze wiedzia³, co siê wydarzy i dlaczego wszystko powinno siê udaæ. ZnajdŸ Fredericka. Rzeczywiœcie, nie by³o prawie nikogo innego, kto móg³by poradziæ sobie z niezwyk³oœci¹ tutaj.
+
+Nazwa:
+Halflings and Demons
+Wiadomoœæ:
+Wielu, którzy wczeœniej nie wierzyli w niebezpieczeñstwo, teraz je odczu³o, ale by³o te¿ wielu, którzy zlekcewa¿yli problem, mimo ¿e ten ju¿ puka³ do ich drzwi. Ró¿nica? Ten pierwszy widzia³ ju¿, co niebiañscy goœcie zrobili z ¿ywymi istotami, podczas gdy ten drugi musia³ to jeszcze zrobiæ. By³o jednak ju¿ za póŸno, ¿eby zm¹drzeli; Ze szczytu wzgórza obserwowa³am, jak stworzenia zalewaj¹ pozostawione przez nas farmy. 		Po raz pierwszy od dekady, jaka minê³a od ostatnich kiepskich zbiorów, w ¿yciu nizio³ków wydarzy³o siê coœ wiêkszego ni¿ nowy przepis na danie z rzepy... I nigdy nie wyobra¿a³am sobie, ¿e bêdzie to nios³o ze sob¹ tyle smutku. Fredericku, gdzie jesteœ?
+
+Nazwa:
+Uncle Kett
+Wiadomoœæ:
+Koszmar ujrza³ œwiat³o dzienne. To by³o tak, jakbyœ chcia³ siê obudziæ, ale nie móg³, bo ca³y czas nie spa³eœ. Ca³kiem rozbudzony i pe³en niedowierzania. Sprawy, które jeszcze kilka dni temu wydawa³y siê tak wa¿ne, zdawa³y siê po prostu znikn¹æ, spowite mg³¹. W ci¹gu tych dni wyimaginowane niebezpieczeñstwo przerodzi³o siê w bardzo realny horror. Kilka wiosek na pó³nocy zniknê³o, jakby nigdy ich nie by³o — tê wiadomoœæ przynieœli nieliczni szczêœliwcy, którzy prze¿yli. Wszêdzie unosi³ siê smród po¿arów i siarki, a jakiekolwiek poruszenie w krzakach wywo³ywa³o konsternacjê. 		O œwicie natknêliœmy siê na uchodŸców. Nizio³ki – tego, którego rozpozna³em jako starszego z wioski oddalonej o pó³ dnia drogi – rozgl¹da³y siê w oszo³omieniu, nie wiedz¹c, co robiæ. 		„Wujku Kett! Jak tu dotar³eœ?” – zawo³a³am do niego. „Nie mów mi, ¿e ca³¹ noc bieg³eœ tu przez las, prosto ze swojej farmy… a mo¿e tak?” 		„No có¿, kiedy ktoœ zacznie dobijaæ siê do twoich drzwi, wstaniesz nie tylko z ³ó¿ka, ale tak¿e ze spodni! Wiêc tak, uciekliœmy... Musimy zebraæ ludzi, tak myœlê!” 	„Kto ciê przegoni³? Znowu gobliny, jak piêæ lat temu? 		Zna³am ju¿ odpowiedŸ, ale jakoœ mia³em nadziejê, ¿e Kett powie inaczej. 		„To by³y diab³y, jak... z kilkoma du¿ymi, starymi rogami. Naprawdê nie wiem” – powiedzia³ starszy z zak³opotaniem. „Przywitali siê, zabijaj¹c mojego psa... jêkn¹³ tak okropnie. Nastêpnie kopali w drzwi. I wyskoczy³em przez okno; nie by³o czasu siê ubieraæ. Stanêli w krêgu wokó³ farmy. Nawet nie pamiêtam, jak ich mija³em. PóŸniej spotka³em kogoœ innego w lesie. Pomyœl, ¿e to my wszyscy i nigdy nie zobaczymy innych…”
+
+Nazwa:
+Frederick and Henrietta - Part I
+Wiadomoœæ:
+Czêsto nazywano mnie poszukiwaczk¹ przygód i krytykowano mnie za to. A czym w ogóle s¹ przygody? Historie o chwalebnych bohaterach i pogromcach smoków œpiewane w tawernach przez podró¿uj¹cych bardów? Jasne, lubi³am ich s³uchaæ, ale nigdy nie wspominali o zmêczeniu, zakrwawionych stopach, smrodzie trupów czy krzykach ludzi zjedzonych ¿ywcem, jak to, co s³yszeliœmy echem w lesie przez ca³¹ noc. Demony kr¹¿y³y. Wsie ju¿ im nie wystarcza³y – ci, którzy schronili siê w lesie, byli teraz tak¿e w niebezpieczeñstwie. Frederick i ja spêdziliœmy noc siedz¹c przy ognisku i wpatruj¹c siê w p³omienie, powtarzaj¹c te same powolne, pozbawione znaczenia uwagi. Byliœmy tak wyczerpani, ¿e nie mogliœmy nawet zasn¹æ. Jeœli to by³a przygoda, to mogê ciê zapewniæ, ¿e nigdy nie chcia³am przygody. 		Rano zgodziliœmy siê: nie ma tu dla nas nic do roboty. Musimy natychmiast opuœciæ Dolinê.
+
+Nazwa:
+Frederick and Henrietta - Part II
+Wiadomoœæ:
+Gdy s³oñce by³o ju¿ wysoko, odrêtwienie, w które wpadliœmy poprzedniej nocy w koñcu ust¹pi³o. Przynajmniej Frederick mówi³ tak szybko i energicznie jak poprzednio, a jego oko by³o doskonale wyczute w najdrobniejszych szczegó³ach chaosu. 		„Henrietto, chcê ci jeszcze raz podziêkowaæ. Idealny moment, ¿eby mnie wyci¹gn¹æ; wygl¹da na to, ¿e nasi obcy wiedz¹ wiêcej o demonologii ni¿ ca³a Akademia Bracadan. Przywo³uj¹ ju¿ ca³kiem potê¿ne istoty z Planu ¯ywio³ów Ognia i nie s¹dzê, ¿eby potrzebowali do tego miesiêcy rytua³ów, rzadkich odczynników czy sprzyjaj¹cej pozycji cia³ niebieskich. Jeœli bêdziemy zwlekaæ d³u¿ej… nie chcia³bym patrzeæ, jak Eeofol zamienia siê w mi³e, ciep³e miejsce, takie jak to, sk¹d przychodz¹ te rzeczy, przez te portale i bramy. Wiesz, niektórzy z nich wol¹ mieszkaæ wewn¹trz aktywnych wulkanów, a Eeofol jest pe³en ziej¹cych ogniem gór, które kiedyœ sta³y siê uœpione, ale mo¿na je przywróciæ do ¿ycia.
+
+Nazwa:
+Last day
+Wiadomoœæ:
+Przez ca³¹ noc coœ szeleœci³o, szumia³o i mrucza³o wokó³ obozu. Byli to mali s³udzy rogatych stworzeñ – chochliki i chowañce. Próbowaliœmy je przestraszyæ, rzucaj¹c w ciemnoœæ nasze eksploduj¹ce pociski, ale bezskutecznie... Do rana te pod³e stworzenia ju¿ wêszy³y po okolicy niemal na widoku, nie boj¹c siê niczego. Za kilka godzin ta horda zajmie ostatnie zak¹tki naszej czêœci Eeofol. By³o jasne jak s³oñce: jeœli dzisiaj nie opuœcimy Doliny, wszystko bêdzie stracone.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(21, 6, 0) ***Brama misji***
+Wiadomoœæ:
+Fryderyk ju¿ dawno temu powierzy³ Henrietcie klucz do swojego laboratorium, ale dziœ ze zdziwieniem znajduje na bramie kolejn¹ parê uchwytów, przez które przewleczone s¹ kajdanki ciê¿kiego zamka. Nie ma w nim najmniejszej szczeliny, a wszelkie próby znalezienia jakiegoœ tajnego przycisku koñcz¹ siê fiaskiem. Najprawdopodobniej jego tajemnicê zna tylko sam naukowiec.
+Wszelkie próby otwarcia ciê¿kiego zamka s¹ daremne. Kajdany s¹ tak grube, ¿e nawet próba ich przepi³owania zajê³aby godziny, a mo¿e i dni. I nawet gdyby zamek by³ odlany ze szczerego z³ota, co stanowi³oby nagrodê dla bardziej wytrwa³ych w³amywaczy, nie ma teraz czasu na takie g³upoty.
+Frederick przyciska d³oñ do zamka, a ten dr¿y. Jego palce tworz¹ kszta³t i ponownie dotykaj¹ zamka, kilka razy. Coœ w œrodku klika; jarzmo jakby zamienia siê w ciecz i znika wewn¹trz obudowy. Frederick otwiera bramê i zaprasza wszystkich aby poszli za nim.
+
+(14, 20, 0) ***Rozbójnik***
+Wiadomoœæ:
+Pod¹¿aliœmy œladami, które wkrótce zaprowadzi³y nas na polanê, po której tupa³o kilku obdartych mê¿czyzn. Wygl¹dali jak bandyci i nie mogli byæ kimkolwiek innym. W poœpiechu zbierali swoje rzeczy. 		Chudy mê¿czyzna wyjaœnia³ coœ przywódcy, ubranemu nieco ³adniej ni¿ pozostali. Wysoki mê¿czyzna odwróci³ siê s³ysz¹c ha³as i krzykn¹³ wskazuj¹c na nas palcem. Przywódca gangu skin¹³ g³ow¹ i wyci¹gn¹³ miecz. 	„Dinnae, ostrzegam ciê!” Krzykn¹³ chudy, „Nie powinieneœ by³ nas œcigaæ!”
+
+(13, 26, 0) ***Arcydiabe³***
+Wiadomoœæ:
+Chyba postrada³em zmys³y, myœl¹c, ¿e poradzimy sobie z tym gangiem stworzeñ. Zbyt póŸno zda³em sobie sprawê, ¿e moim impulsem by³o szaleñstwo; zauwa¿yli nas i by³o ju¿ za póŸno na ucieczkê...
+
+(20, 7, 0) ***Tabliczka***
+Wiadomoœæ:
+Eksperymentalny warsztat konserwacyjny. W³asnoœæ spó³ki górniczej. Aktualnie nie zatrudniamy.
+
+(17, 13, 0) ***Nizio³ek***
+Wiadomoœæ:
+„Co tu robisz, dziewko? S³ysza³em, ¿e lubisz patrzeæ na dziwne rzeczy, wiêc podejdŸ tam... Podoba Ci siê? ech? Ca³y czas kr¹¿y po okolicy, ani razu nie patrzy na to, co jest u jej stóp; nie, o wiele bardziej lubiê patrzeæ w niebo, a teraz spad³ stamt¹d prezent... „Czekasz tam na okazjê? Teraz w miejscu, w którym by³a, jest dziura w ziemi wielka jak brama, a konie zniknê³y…” 	„Ona i jej czarodziej sprowadzili na nas z³y los!.. Nawet stary Aiker nie pamiêta, ¿eby cokolwiek spad³o stamt¹d z góry, a jest ju¿ wystarczaj¹co stary... o ile stary myszo³ów tego nie zmyœla...”	„To jest czarna magia, to w³aœnie mówiê! Z³y duch siêgn¹³ ze swojej góry swoj¹ magi¹ i oderwa³ kawa³ek firmamentu! Ca³e szczêœcie, ¿e nikomu nic siê nie sta³o…”
+
+(16, 15, 0) ***Nizio³ek***
+Wiadomoœæ:
+„Co za BUUUM! Przysiêgam, moje okiennice rozbi³y siê o œcianê i rozpad³y siê...
+
+(14, 12, 0) ***Zdarzenie***
+Wiadomoœæ:
+Jakiœ rogaty le¿y na ziemi, trafiony prosto miêdzy oczy kilkoma ciê¿kimi kulami z procy. G³owa jest pêkniêta, jeden róg u³amany. To, co wczoraj wydawa³o siê nie do pomyœlenia, teraz spryskuje nasz¹ ziemiê œmierdz¹c¹ krwi¹. Wydawa³oby siê, ¿e to bestia; ale nie, nie bestia. Jego oczy by³y zbyt inteligentne, dopóki mu siê film nie urwa³. Nie duch ¿ywio³u, nie cz³owiek, nie magiczne stworzenie. I cisza dooko³a. Nie ma ju¿ o czym dyskutowaæ. 		„Powinniœmy natychmiast wpuœciæ wszystkich do tego diabelstwa!” 	„Wszyscy teraz kr¹¿¹ po lasach i depcz¹ nasze grzyby!” 	„Musimy przygotowaæ zasadzkê!”, us³ysza³em od nizio³ków gromadz¹cych siê wokó³ pokonanego stworzenia. Nagle wrzaski ucich³y i poczu³em tuzin intensywnych spojrzeñ. „Henrietto, znasz tu wszystkie œcie¿ki! Tylko ty wiesz, gdzie s¹ wszystkie zagrody!” 		Jakim wyzwaniem jest dla nich wyjœcie poza obrze¿a rodzinnej wioski. Przez ca³e ¿ycie bali siê obcych i tutaj by³ ucieleœniony ich strach. Nawet gdy byli martwi, pocili siê, choæ teraz stali z podniesion¹ brod¹ i pluli na br¹zowe zw³oki. Jeœli jest ich tam wiêcej... 		„Dlaczego, ch³opcy, gdzie jest jeden, bêd¹ inni, prawda? Lepiej zbierzmy trochê ciê¿kich kamieni i zbierzmy siê w kupê!”, Kosta, starszy woŸnica, który lamentowa³ nad koñmi, rzuci³ kapelusz na ziemiê. „Chcê, ¿eby te spalone œwinie zap³aci³y za moje kucyki! Wska¿ drogê, dziewczyno. Czy nie mo¿emy przeci¹æ lasu w drodze do Tall Ridges?
+
+(5, 20, 0) ***Chata proroka***
+Wiadomoœæ:
+Tutaj ukry³eœ zapas petard. W³aœciwie trzyma³eœ je na œwiêta, ale teraz bêd¹ musia³y przydaæ siê gdzieœ indziej. Potrzebujemy tylko ochotników, którzy je uzbroj¹.
+Musisz znaleŸæ jeszcze kilku ochotników.
+Na pocz¹tku ochotnicy byli nieco nieufni wobec nowej broni, ale teraz wydaje siê, ¿e podoba im siê ona nawet bardziej ni¿ zwyk³e kamienie. To zdecydowanie zwiêkszy³o skutecznoœæ ich strzelania! 	Czy chcesz uzbroiæ wszystkich ochotników?
+
+(11, 18, 0) ***Demon***
+Wiadomoœæ:
+Te stworzenia wygl¹da³y zwyczajniej ni¿ to w jamie – nie mia³y metalowych ozdób na ³apach, a na g³owie by³ tylko jeden róg, gruby i krótki. Wymieniali miêdzy sob¹ szorstkie, gard³owe odg³osy, jakby szczekali na siebie, ale widzia³am, ¿e rozumieli siê znacznie lepiej ni¿ psy. Jednak gdy tylko wataha nas zauwa¿y³a, k³ótnie usta³y. Ich kopyta wkopa³y siê w ziemiê, a stworzenia rzuci³y siê do walki.
+
+(9, 21, 0) ***Nizio³ek***
+Wiadomoœæ:
+Och, nie mogê w to uwierzyæ: w koñcu znajome twarze! Rano poszliœmy nabraæ trochê wody z saletr¹, aby nawieŸæ nasz ogród, ale tam by³y te rogate – ledwo uciekliœmy! Lepiej po³¹czmy si³y...
+
+(6, 32, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(6, 33, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(10, 32, 0) ***Diabe³***
+Wiadomoœæ:
+Kiedy tupaliœmy, próbowa³am siê w jakiœ sposób zabawiæ, nie poddaj¹c siê przera¿eniu i przygnêbieniu. Wyobrazi³am sobie surowo wygl¹daj¹cego kowala podkuwaj¹cego wrzeszcz¹ce rogate stworzenia. Rzeczywistoœæ okaza³a siê znacznie wykraczaæ poza wszystko, co mog³am sobie wyobraziæ; tam, na dawnym placu wiejskim Dry Ryehill, zobaczy³em... jego. 		Przysz³o mi na myœl s³owo „diabe³”, bo wed³ug pijanego mnicha, którego tyrady wys³ucha³em kiedyœ w miejscowej tawernie, nie ma nic straszniejszego od diab³a, ani na tym, ani na tamtym œwiecie. Czubek g³owy dwuno¿nego stworzenia, zwieñczony skrêconymi rogami, by³ widoczny nawet ponad dachami; ka¿da szponiasta stopa zdawa³a siê z ³atwoœci¹ zmia¿d¿yæ nizio³ka na papkê; a w jego d³oniach b³yszcza³a kosa, która z pewnoœci¹ mog³aby skosiæ m³ody gaj. Wtedy zda³em sobie sprawê: rogate nie maj¹ kowali. Diabe³ tylko kiwa na nich palcem, a oni rzucaj¹ siê, by podkuæ siebie nawzajem, walcz¹c o m³otki i gwoŸdzie. 		NajwyraŸniej to, co zobaczy³am, zaniepokoi³o mój umys³; Próbowa³am balansowaæ na granicy szaleñstwa, a ono rzuca³o mi coraz bardziej absurdalne wizje. Kole¿anki powiedzia³y mi póŸniej, ¿e œmia³am siê jak szalona i krzycza³am: „kup sobie d³u¿sze, ostrzejsze paznokcie!” jak mnie wci¹gnêli w krzaki z dala od drogi. „No, proszê, dziewczyno” – mrukn¹³ Kosta, próbuj¹c mnie uspokoiæ. „Jasne, to wielka bestia, tak, wstrêtna, ale zobacz, jak uderzê j¹ petard¹ prosto w oko, a potem zobaczymy, kto ma najbqardziej czerwony nos w tej wiosce! Opró¿nijcie swoje woreczki, ch³opcy! Czas nauczyæ diab³a œwiêtowaæ Nowy Rok na nasz sposób!”
+
+(8, 32, 0) ***Zdarzenie***
+Wiadomoœæ:
+Wiadomoœæ Fredericka wspomina³a o „imionach i twarzach z przesz³oœci” oraz wspomnia³a, ¿e kieruje siê na po³udnie… Zak³ada³am, ¿e zamierza spotkaæ siê ze starymi znajomymi, a jeœli tak, to mogli siê spotkaæ tylko tutaj w Dry Ryehill, miejscu, do którego przybywali handlarze obcokrajowcy i byli mniej unikani ni¿ w innych wioskach w Dolinie.		 W odleg³oœci mili od wioski by³o ju¿ jasne, ¿e ju¿ jej nie ma. NajwyraŸniej ci, którzy tu przybyli, spragnieni byli nie tylko zabijania, ale i równania z ziemi¹... A mo¿e by³o to jakieœ pokrêcone, obce podejœcie do stworzenia? A co, jeœli te stworzenia bêd¹ równie szczêœliwe, mog¹c kontemplowaæ stosy spalonych k³ód, jak nizio³ek na widok nowej, piêknie pomalowanej stodo³y? A ziemia wypalona na stopion¹ skorupê jest im tak droga, jak dziadkowi Haye’owi, jego ulubione, rêcznie zaorane grz¹dki z soczyst¹ marchewk¹? 		A jeœli zaskoczyli miejscowych to co z tego wynik³o?
+
+(0, 28, 0) ***Chata proroka***
+Wiadomoœæ:
+G³owa rodziny, szanowny Odo Two Aulns, wys³ucha³ mnie, ale nawet nie mrugn¹³ okiem. „Twoja ¿¹dza przygód na nic ci siê nie przyda, Henrietto. Myœlê, ¿e to wszystko zmyœlasz, ale znasz mnie” – Odo uœmiechn¹³ siê – „Nie mogê odmówiæ m³odej dziewczynie. Poprosi³bym kilku moich ch³opaków, ¿eby pojechali z tob¹, ale skoro mówisz, ¿e s¹ takie okropnoœci, wokó³, nie zaszkodzi³oby nam siê chroniæ, prawda? Powiem ci coœ, poproœ starszego z Dry Ryehill o po¿yczenie nam Wisiorka Beznamiêtnoœci; wtedy bêdziemy mogli byæ chronieni i oszczêdzi siê tych ludzi”.
+G³owa rodziny, szanowny Odo Two Aulns, wys³ucha³ mnie, ale nawet nie mrugn¹³ okiem. „Twoja ¿¹dza przygód na nic ci siê nie przyda, Henrietto. Myœlê, ¿e to wszystko zmyœlasz, ale znasz mnie” – Odo uœmiechn¹³ siê – „Nie mogê odmówiæ m³odej dziewczynie. Poprosi³bym kilku moich ch³opaków, ¿eby pojechali z tob¹, ale skoro mówisz, ¿e s¹ takie okropnoœci, wokó³, nie zaszkodzi³oby nam siê chroniæ, prawda? Powiem ci coœ, poproœ starszego z Dry Ryehill o po¿yczenie nam Wisiorka Beznamiêtnoœci; wtedy bêdziemy mogli byæ chronieni i oszczêdzi siê tych ludzi”.
+
+(15, 31, 0) ***Nizio³ek***
+Wiadomoœæ:
+Po bitwie z diab³em przeszukaliœmy ka¿dy zak¹tek Dry Ryehill. Obawia³am siê, ¿e spalone i zmasakrowane cia³o Fryderyka zaraz wyjdzie spod gruzów. Zw³ok jednak we wsi nie znaleŸliœmy, za to widzieliœmy wiele œladów, jakby w³aœciciele wielkich kopyt coœ za sob¹ ci¹gnêli. Œlady prowadzi³y na wschodnie krañce, a pobliski las zosta³ doszczêtnie spalony. 		Nagle, skrêcaj¹c pomiêdzy czarnymi, brzydkimi, martwymi drzewami, ruszy³a prosto na nas niewielka grupa nizio³ków. 		"Tam! Tam!...” Wrzeszczeli, biegn¹c równym galopem. Uda³o mi siê z³apaæ rudego ch³opca z szaleñstwem w oczach, a moi towarzysze z³apali pozosta³ych. Rudow³osy wstrzyma³ oddech i wypali³: „Zabrali naszych ludzi, a teraz ich rozstrzeliwuj¹, nie na œmieræ, nawet gorzej! Pomocy, dobrzy ludzie, nie pozwólcie, aby niegodziwcy dopuœcili siê czegoœ takiego! To los gorszy od œmierci, gorszy od czegokolwiek na œwiecie...” i zala³ siê ³zami.
+
+(28, 15, 0) ***Brama misji***
+Wiadomoœæ:
+Ta górska œcie¿ka prowadzi do fabryki Fredericka. Tylko on wie, jak siê tam dostaæ.
+Ta górska œcie¿ka prowadzi do fabryki Fredericka. Tylko on wie, jak siê tam dostaæ.
+Czy chcesz przejœæ?
+
+(23, 31, 0) ***Zdarzenie***
+Wiadomoœæ:
+"¯yjesz!" 		"Tak, i bardzo chcia³bym wiedzieæ, którego demonologa z Bracadan wkurzy³em. Nigdy nawet nie spotka³em siê z ¿adnym. Co za zamieszanie". Nie mia³am pojêcia, o czym Frederick mówi, ale by³am tak szczêœliwa, ¿e zobaczy³am go ¿ywego, ¿e nawet nie próbowa³am go o nic pytaæ. Jak zwykle karmi³ mnie gór¹ myœli i za³o¿eñ, jakbym przypadkowo pojawi³a siê rano w jego laboratorium i nie móg³ siê doczekaæ, a¿ moje ucho podzieli siê tym, co ugotowa³ w swojej g³owie.. 		„Jakiœ czas temu otrzyma³em list podpisany przez Khazandara – myœlê, ¿e mówi³em ci o nim… najwolniejszym umyœle w Bracadzie, za który z pewnoœci¹ prêdzej czy póŸniej zap³aci. Nie s³ysza³em o nim odk¹d opuœci³em te ziemie, ale kilka lat temu odnalaz³ mnie jego pos³aniec i nawi¹zaliœmy korespondencjê. Wygl¹da³o na to, ¿e nasze po³¹czenie zosta³o teraz odkryte. 		Podpis w jego ostatniej wiadomoœci wyda³ mi siê sfa³szowany; Postanowi³em, ¿e jeœli rzeczywiœcie mnie odnajd¹, powinienem dzia³aæ pierwszy. W piœmie zaproponowano spotkanie; Khazandar mia³ rzekomo wys³aæ mi kluczowy element do pewnego eksperymentu... ale w Dry Ryehill czeka³y na mnie demony — to stworzenia z innego poziomu istnienia, w³aœnie je widzia³aœ! Ktoœ ich wezwa³, ale zaniedba³ kontrolê. Schwytali mnie, ale nie bez wymordowania po drodze po³owy wioski!” 		„Frederick... te istoty... nie zosta³y wezwane. A przynajmniej nie przez czarodziejów na pewno.” 		„Nie przez czarodziejów? Dlaczego tak twierdzisz? To by³y archetypowe demony. Widzia³em wypchane demony w muzeum Akademii!” „Spadaj¹ce gwiazdy wysz³y ze ska³, te które spad³y tej nocy z nieba”. 		Frederickowi posmutnia³a twarz, zacz¹³ siê k³óciæ, ale ja po prostu zaprowadzi³am go na miejsce, gdzie stworzenia odprawia³y swój rytua³ i pokaza³am mu ogromny krater na skraju wioski; kamieñ, który tam spad³, by³ tak du¿y, ¿e zmieœci³by siê w nim diabe³ w œrodku, a mo¿e nawet kilka. Ska³a pêk³a, a pêkniêcia ods³oni³y coœ dziwnego i nienaturalnego jakby pl¹taninê kanciastych rur, albo... 		No có¿, bêdê... Gdyby tylko alchemicy Widman i Statten to zauwa¿yli. Nawet nie chcê o tym myœleæ... To znaczy, podejrzewa³em, ¿e to nie by³ twój zwyk³y deszcz meteorytów. Czekaj, wiêc to by³ zbieg okolicznoœci? Pos³aniec Khazandara rzeczywiœcie na mnie czeka³? Przejêliœmy ju¿ po³owê Doliny?! Henrietta, musimy natychmiast wracaæ do mojego laboratorium! Natychmiast tam kieruj siê, a ja… nie mówi³em ci tego, ale Khazandar namówi³ mnie kiedyœ na do³¹czenie do interesuj¹cego wydarzenia. projektu, a ja za³o¿y³bym kolejne stanowisko badawcze w górach na wschodzie. Teraz muszê siê tam dostaæ, a ty... 		Jadê prosto na pó³noc. Nie trzymano ciê tu samego. Inny wiêzieñ powiedzia³, ¿e w pobli¿u obozuje oddzia³ erathiañskich ¿o³nierzy. NajwyraŸniej ktoœ uciek³ z Doliny i zdo³a³ wezwaæ ich na pomoc. UchodŸcy teraz siê tam gromadz¹. Fryderyku, s³uchaj! Wiem, ¿e nie lubisz nizio³ków. Jasne, czasami czujê siê jak obca we w³asnym kraju, ale widzia³am, jakie s¹ te potwory. Musimy coœ zrobiæ, inaczej zabij¹ wszystkich i zamieni¹ ich w swoje brudne cia³a. Jeœli nie spróbujemy kogoœ uratowaæ… có¿, to mnie zabije". 		"...Tak, có¿, mog³oby nam zabrakn¹æ r¹k... w istocie by³oby to bardzo pomocne. Tak! Ahem. Zgadza siê, nie mo¿emy po prostu staæ z boku! A teraz pos³uchaj: zabierz wszystkich, których mo¿esz, do mojego laboratorium. Trzysta, mo¿e piêæ, jeœli uda mi siê sprawiæ, ¿e te stare majtki Gavina te¿ bêd¹ lataæ... Ktoœ bêdzie musia³ mi pomóc siê uspokoiæ, kiedy nasz lot siê skoñczy. 		"Czy bêdziemy lataæ jak ptaki?” 		"Niezupe³nie, ale to nasza jedyna szansa, jeœli diab³y w dalszym ci¹gu z takim zapa³em niszcz¹ wszystko na swojej drodze. Zaufaj mi jak zawsze, a wkrótce przekonasz siê o tym na w³asnej skórze. To wszystko! Jadê w góry."
+
+(31, 20, 0) ***Arcymag***
+Wiadomoœæ:
+Magowie pojawili siê nagle, jakby opad³a zas³ona niewidzialnoœci. Oczywiœcie czu³em ich obecnoœæ. To doœæ potê¿ni magowie – do tego stopnia, ¿e ich energii nie da siê ukryæ. Bardzo dobrze. Nawet silniejsi mogliby siê tym zaj¹æ. 		„Renegat Frederick!” 		G³os ich przywódcy dobieg³ zewsz¹d, jakby z nieba. ¯adnego echa, ¿adnego szeptu liœci czy wiatru, tylko beznamiêtna mowa wlewaj¹ca siê prosto do moich uszu. 		„Rada Bracady wie o twoich mrocznych czynach: zakazanych praktykach nekromancji, kradzie¿y statku powietrznego, haniebnej ucieczce z Bracady i twoich powi¹zaniach z renegatem Khazandarem. Jednak¿e nie wyrz¹dzi³eœ krzywdy ¿yj¹cym i dlatego zas³ugujesz na sprawiedliwy proces i sprawiedliwy wyrok – mo¿emy zagwarantowaæ, ¿e Twoja kara nie bêdzie obejmowa³a œmierci. Od³ó¿ broñ, uwolnij manê ze swojego cia³a i podejdŸ do nas. Wiesz to doskonale: pod¹¿aj¹c t¹ drog¹, popad³eœ w grzech. Mroczne ksiêgi mog¹ dawaæ wiedzê, ale zawsze jest ona przesi¹kniêta trucizn¹ bólu i œmierci. Naukowcowi nie wolno tego rozpowszechniaæ. Nadal uwa¿asz siê za poszukiwacza, prawda? Odkup siê, Fryderyku, i ¿yj jako uczciwy cz³owiek. Moje usta rozci¹gnê³y siê w uœmiechu. S³ysza³em to zbyt wiele razy. 		„Bogowie! Liston, to ty, prawda? Nadal pracujesz dla Gavina? M wtedy ogromny potencja³. Nawet mi³o jest pos³uchaæ „Renegad Frederick”. Ale „Renegat Khazandar”?! Nie za du¿y rozmiar jak na ciebie? Nawet twoi prze³o¿eni nie odwa¿yli siê jeszcze podj¹æ ¿adnej decyzji w jego sprawie; Inaczej bym to wiedzia³. Jest zbyt wiele jego zas³ug, zbyt wielu innych szanowanych czarodziejów w Akademii, którzy nie pozwol¹ wam, g³upi bandyci, zniszczyæ najlepszych umys³ów w Bracadzie w oparciu o absurdalne spekulacje – a sam Magnus jeszcze siê nie odezwa³. „Zakazane praktyki”! Zdajesz sobie sprawê, jak bezsensownie to brzmi? Powiedz mi, by³y kolego... czy naprawdê jest a¿ tak du¿a ró¿nica pomiêdzy Nagami i Meduzami? O tak, Meduzy s¹ wynikiem pokrêtnego procesu, który powoduje, ¿e obiekty, które prze¿y³y, wpadaj¹ w sza³ i odczuwaj¹ udrêkê. Jak mog³em zapomnieæ! A du¿a ró¿nica miêdzy Gremlinami a Troglodytami polega na tym, ¿e ich niewolnictwo jest zapisane w magicznych kontraktach i pieczêciach – czy siê nie mylê? Rozumiem, ¿e ka¿dy potrzebuje s³u¿by. A nasycanie pos¹gów duszami poleg³ych wojowników w celu zdobycia rozumnych tytanów jest oczywiœcie uczciwe wobec zmar³ych i czysto akademickie. Prawid³owo. No có¿, có¿, dlaczego siê tak rumienisz? Nie marnujmy wiêcej czasu i zacznijmy handlowaæ zaklêciami. Nigdy siê nie dogadamy, Liston. Twój umys³ nie jest wolny…”
+
+(29, 32, 0) ***Demon***
+Wiadomoœæ:
+To znowu te rogate wiadra na œmieci, ale teraz pierwszy ruch nale¿y do mnie! Ha, zobaczmy, ile jesteœ wart, kiedy moje rêce bêd¹ rozwi¹zane!
+
+(33, 34, 0) ***O¿ywieniec***
+Wiadomoœæ:
+Zatrzymuj¹c siê na chwilê, zag³êbi³em siê we wspomnieniach. Nie, na cmentarzu nie powinno byæ teraz niczego, co by³oby wa¿ne. Z wyj¹tkiem kilku... rzeczy, które kiedyœ mog¹ mi siê przydaæ w eksperymentach, mimo ¿e ju¿ jakiœ czas temu zmieni³em dziedzinê zainteresowañ naukowych. Nie ¿eby kogokolwiek to obchodzi³o. Tylko raz mo¿esz… nie, to prawda, co mówi¹; tylko umarli nie dbaj¹ o reputacjê.
+
+(18, 27, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(15, 13, 0) ***Zdarzenie***
+Wiadomoœæ:
+Rzeczywiœcie w miejscu, o którym wspominali wieœniacy, znajdowa³a siê „dziura” – jedna z g³adkimi, pozornie stopionymi krawêdziami, ale jakoœ nie by³o w jej pobli¿u zbyt gor¹co i nawet nie wygl¹da³o, jakby coœ siê tam w³aœnie pali³o. Co to mo¿e oznaczaæ? Czy niektóre z tych gwiazd, które spad³y w nocy, nie og³osi³y swojego rych³ego przybycia, ale po prostu spad³y… gdziekolwiek potrzebowa³y…? Zamar³am przera¿ona swoimi myœlami, podczas gdy wrzeszcz¹cy ch³opi machali rêkami i karcili mnie, jakby to wszystko by³o w jakiœ sposób moj¹ zas³ug¹. Odwróci³am siê do nich i próbowa³am wymyœliæ jak¹œ odpowiedŸ; nagle oburzenie na ich twarzach ust¹pi³o miejsca zdziwieniu, a potem przera¿eniu. Oszo³omiona, zda³am sobie sprawê, ¿e wieœniacy nie patrzyli ju¿ na mnie, ale za mn¹. 		Nad dziur¹ pojawi³a siê para ostrych rogów w kszta³cie pó³ksiê¿yca. Potem wypuœci³ dwie ogromne czerwone ³apy i wreszcie ich w³aœciciel potê¿nym skokiem wydosta³ siê z dziury. Wyprostowa³ siê, zaci¹gn¹³ siê bulgocz¹co i wypuœci³ dwa strumienie dymu. Ogromny, z grudkowat¹ skór¹ w kolorze œwie¿ego miêsa – a mo¿e w ogóle bez skóry? – tutaj, w œrodku wioski, wygl¹da³ nieskoñczenie obco. Oczy dziwnego goœcia by³y ognistymi plamami, a powietrze wokó³ jego postaci wirowa³o jak nad patelni¹. 		Poczu³em falê gor¹ca i dziwny, ¿elazny zapach lub smak na jêzyku – a potem by³o tak, jakby reakcja chemiczna usta³a, jak u Fredericka, kiedy pozwoli³ mi wrzuciæ coœ do fiolki. Oczy potwora pociemnia³y, jego skóra zrobi³a siê br¹zowa, ciep³o wokó³ niego opad³o i w koñcu mog³em mu siê dobrze przyjrzeæ. Jeœli ktoœ wyobra¿a³by sobie ogromnego dzika, któremu wyrastaj¹ rogi, traci szczecinê, staje na dwóch nogach jak mê¿czyzna i rosn¹ mu garby na grzbiecie i klatce piersiowej… to wci¹¿ by³by to bardzo szorstki i pochlebny opis stworzenia, które ujrza³am. Jego brzydota by³a uderzaj¹ca. 		Stworzenie pokrêci³o swoj¹ ogromn¹ g³ow¹ i spojrza³o na t³um. Jego usta otworzy³y siê i wypad³ obrzydliwie d³ugi jêzyk. Z g³oœnym brzêkiem potwór wykona³ pierwszy krok nad krain¹ Eeofol. Zabawne, pomyœla³am, ¿e jakiœ pracowity kowal ju¿ go podku³...
+
+(21, 4, 0) ***Forteca***
+Nazwa:
+Laboratory
+
+(8, 23, 0) ***Tabliczka***
+Wiadomoœæ:
+Na po³udnie - Dry Ryehill. Na wschód - Wee Cellars. Na zachód - Tall Ridges.
+
+(23, 8, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ta droga schodzi z laboratorium i prowadzi na po³udnie przez las w kierunku Dry Ryehill. Nie ma sensu teraz iœæ t¹ drog¹ – muszê znaleŸæ Fredericka.
+Ta droga schodzi z laboratorium i prowadzi na po³udnie przez las w kierunku Dry Ryehill. Nie ma sensu teraz iœæ t¹ drog¹ – muszê znaleŸæ Fredericka.
+Czy chcesz przejœæ?
+
+(33, 24, 0) ***Automaton***
+Wiadomoœæ:
+Dziedzictwo Czasu Cudów jest naprawdê bezcenne. W³adcy i wojownicy pragn¹ znaleŸæ zbroje i broñ pochodz¹ce z tamtych czasów, ale nie one s¹ najwa¿niejsze dla kogoœ, kto pragnie z czasem zmieniæ ca³y œwiat. Spêdzi³em lata zbieraj¹c maleñkie skrawki staro¿ytnych tajemnic maj¹c nadziejê, ¿e zbudujê z nich coœ w³asnego... i do czegos doszed³em. Moje maszyny s¹ nadal bardzo bezbronne, ich systemy napêdowe s¹ niestabilne i niewydajne, ale s¹ w miarê autonomiczne i zdolne do samodzielnego podejmowania prostych decyzji – a to ju¿ coœ, nie prawda¿?! 		Automaty i linia monta¿owa czekaj¹!
+
+(32, 19, 0) ***Kula p³on¹cego ognia***
+Wiadomoœæ:
+Z najwy¿sz¹ ostro¿noœci¹ wyci¹gn¹³em z pude³ka trzy kule ognia. Te lekkie, bezdymne Ÿród³a ciep³a powodowa³yby powstawanie pêcherzyków wody w kot³ach silnika, a jakoœæ wytwarzanej w ten sposób pary zapewnia³aby prawid³owe dzia³anie moich maszyn. Przez lata Sam namawia³a mnie, abym siê przeprowadzi³ do niej i zabra³ ze sob¹ moje projekty. By³oby ciszej, a wszystkie surowce by³yby ³atwo dostêpne – nalega³a. Dlaczego w ogóle to odk³ada³em? Wed³ug przybli¿onych obliczeñ, którymi zajmowa³em siê w drodze, ³adunek kul powinien wystarczyæ na d³ug¹ podró¿ do Jadame. Trzej z pewnoœci¹ zrobiliby to za mnie sami, ale teraz musia³em natychmiast wynieœæ w powietrze ka¿dy statek, jaki mia³em. Gdybym mia³ trochê wiêcej czasu na przygotowanie, móg³bym uruchomiæ skraplacz noœnika ciep³a i zwiêkszyæ pocz¹tkowy ³adunek kul... Albo móg³bym po prostu zostawiæ wszystko w spokoju, wznieœæ siê w powietrze i polecieæ w bezpieczne miejsce samotnie i bez strachu utkniêcia na œrodku oceanu. NIE! Oznacza³oby to zdradê nie tylko Henrietty, ale tak¿e mojego marzenia.
+
+(25, 9, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(26, 10, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(6, 26, 0) ***Demon***
+Wiadomoœæ:
+ONI te¿ ju¿ tu s¹! Czy naprawdê zjechali po ska³ach z nieba? A gdzie s¹ kowale, którzy wykuwali swoje podkowy? Czy bêd¹ nastêpni? 		Potwory podzieli³y siê na grupy, jakby planowa³y uszczypn¹æ mnie i moich towarzyszy. Z pewnoœci¹ byli inteligentniejsi od zwierz¹t – a na dodatek by³o ich coraz wiêcej! Jasne, mieliœmy przygotowane proce i wystarczaj¹c¹ iloœæ kamieni dla wszystkich, ale ¿a³owa³am, ¿e nie mamy te¿ czegoœ mocniejszego.
+
+(20, 32, 0) ***Czarci lord***
+Wiadomoœæ:
+Wiatr rzuci³ w nasz¹ stronê k³êby œmierdz¹cego dymu. Wraz z nim dobieg³ nas wielki, rozpaczliwy, niemal nieludzki wrzask, a potem us³yszeliœmy niesamowity, dudni¹cy g³os, jakby dochodz¹cy spod ziemi. Wbiegliœmy w dym i po stu krokach ujrzeliœmy obraz, od którego nap³ynê³y nam ³zy do oczu. 		Poœrodku czegoœ, co kiedyœ by³o ³¹k¹, a teraz by³o tylko krêgiem spalonej ziemi, sta³o coœ w rodzaju ogromnego paleniska z p³askim kamiennym kot³em, którego œciany by³y rozpalone do czerwonoœci, a wokó³ niego ¿arzy³o siê i bulgota³o jezioro gêstej mazi. Po kolana w nim, jakby nieœwiadome upa³u, górowa³y wysokie, potê¿ne stworzenia o jasnoczerwonej skórze, a kilku innych tego samego rodzaju olbrzymów wymachiwa³o d³ugimi biczami, popychaj¹c garœæ potykaj¹cych siê nizio³ków do kot³a. Dalej, w pobli¿u spalonych drzew, znane nam ju¿ rogate bestie sta³y na stra¿y du¿ego t³umu mieszkañców wioski. 		Nizio³ki przyprowadzono do kot³a, a wœród nich rozpozna³em Maltmana, karczmarza z Dry Ryehill. Zanim siê zorientowa³am, czerwony olbrzym machn¹³ biczem w ognistym pêdzie i trzech nieszczêœników zginê³o. T³um znów zacz¹³ wrzeszczeæ, podczas gdy potwory zdawa³y siê wykonywaæ jak¹œ rutynow¹, przyjemn¹ pracê - rzucaæ miêdzy sob¹ zw³oki, z ³atwoœci¹ rozdzieraæ je na kawa³ki, wrzucaæ do kot³a... Jedno ze stworzeñ zajrza³o do œrodka; najwyraŸniej usatysfakcjonowany, da³ znak innym. Giganci wpatrywali siê w kocio³, gestykulowali rêkami, ryczeli, a ich oczy b³yszcza³y. Potem g³os, który s³yszeliœmy z daleka, zagrzmia³ ponownie, jakby przemówi³o samo piek³o! Cia³o zabitego natychmiast stanê³o w p³omieniach, zamieni³o siê w obrzydliw¹ papkê, zagotowa³o siê w ogromn¹ czapê br¹zowej piany, upad³o, a poœrodku kot³a pojawi³a siê brzydka postaæ jednoro¿nego potwora. Z jego cia³a unosi³ siê k³êby dymu, a schn¹cy szlam kapa³ po nim z sykiem. 		Rudy ch³opiec mia³ racjê; to los gorszy od œmierci.
+
+(5, 25, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(5, 26, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(24, 17, 0) ***Rycerz***
+Nazwa:
+Xarfax
+
+(8, 27, 0) ***Rogaty demon***
+Wiadomoœæ:
+Dwuro¿ne stworzenia wyraŸnie ró¿ni³y siê od swoich jasnoskórych krewnych nie tylko wygl¹dem, ale tak¿e zachowaniem, tak jak doroœli ró¿ni¹ siê od grupy nieudolnych nastolatków. Byli wyraŸnie lepiej zorganizowani, wiêc zauwa¿yli nas wczeœniej. Stworzenia szybko po³¹czy³y siê w kilka oddzia³ów i zaatakowa³y.
+
+(21, 22, 0) ***Nizio³ek***
+Wiadomoœæ:
+Wszyscy w Eeofol s³yszeli o Tavinie, ale nie wszyscy wypowiadali siê o nim przychylnie. Nizio³ek, który opuœci³ swoj¹ rodzinn¹ wioskê z w³asnej woli, aby do³¹czyæ do Erathiañskiej stra¿y granicznej, nie by³ wzorem do naœladowania, jakiego chcieli dla swoich dzieci. Lata s³u¿by wojskowej pozostawi³y widoczne œlady na twarzy dowódcy o twardych rysach – wyblak³e oczy by³y g³êboko zapadniête, nos z³amany, a cienki policzek dr¿a³ od czasu do czasu niepokoj¹co. 		„Co siê dzieje na pó³nocy?” – zapyta³ Tavin, nie trac¹c czasu na powitania. 	„Œmieræ depcze mi po piêtach. Oderwaliœmy siê, ale wieœniacy... – Prawie jak martwi” – warkn¹³ dowódca. „Lasy tutaj s¹ ju¿ pe³ne stworzeñ i lada dzieñ bêd¹ pod ka¿dym krzakiem. Na po³udniu i zachodzie wszyscy, którzy nie uciekli, zostali ju¿ zamienieni w miêso. Poprowadzi³em przedni¹ grupê Gwardii, a za mn¹ sz³a reszta ludzi pod dowództwem kapitana Xarfaxa, pó³ dnia marszu za nami.” 	„Œledzony? Czy po drodze zosta³y napadniête przez rogate bestie?” 	„Nie, poradzili sobie ca³kiem nieŸle. Jest st¹d tylko jedno wyjœcie, ale to w³aœnie tam za³o¿yli warsztat. S³u¿y³em pod Xarfaxa'em przez 15 lat... Kiedy dzisiaj uda³em siê na spotkanie z jego jednostk¹, rozkaza³ swoim ludziom wyci¹æ mi w¹trobê. Ledwo uciekliœmy, ¿eby ukryæ siê za tymi s³abymi œcianami. Teraz zastanawiamy siê, jak uczyniæ siebie smaczniejszymi, ¿eby diab³y nie nudzi³y siê i po¿era³y nas”. 	„Tavin, musimy przez to przejœæ. Wci¹¿ jest nadzieja na uratowanie kogoœ, ale musimy dostaæ siê na pó³nocn¹ drogê. Twój dowódca jest zdrajc¹, ale razem mo¿emy...” 	Tavin z warkniêciem chwyci³ mnie za ko³nierz i wyci¹gn¹³ w powietrze niczym worek szmat. Jego spojrzenie by³o przera¿aj¹ce. 	"G³upia dziewczyno! Xarfax nie zdradzi³. Diab³y go oczarowa³y, s³yszysz?! Zabierzecie swoich g³upków z petardami, a my wybijemy staruszkowi tê g³upotê! A potem zgarniesz, kogo tylko zdo³asz... i zrobisz, co bêdziesz chcia³a. Nie chcê nic o tym wiedzieæ, wiêc nie powiem, kiedy mnie z³api¹ i zaczn¹ sma¿yæ na wolnym ogniu jak grub¹ kie³basê.
+
+(24, 8, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(23, 18, 0) ***Zdarzenie***
+Wiadomoœæ:
+Obdarta kohorta ustawi³a siê do bitwy. Rozbrzmia³y rozkazy, ale ju¿ nie w jêzyku Erathian. Jakiœ obcy jêzyk, prymitywny i zwierzêcy. Tarcze i opoñcze na ich zbrojach by³y grubo poplamione krwi¹ — nawet nie próbowali ich wyczyœciæ. Jak mogli oœmieliæ siê zdradziæ? Poddaæ siê tej nikczemnej sile? Co z³ama³o wolê tych doœwiadczonych ¿o³nierzy — czy to by³ strach przed rych³¹ œmierci¹... czy przed zamian¹ w obce cia³o? 		Teraz to nie ma znaczenia. Jest tylko jedna droga na pó³noc.
+
+(13, 23, 0) ***Chata proroka***
+Wiadomoœæ:
+Ta rodzina mieszka na odludziu i pozostaje nieprzenikniona i spokojna — Henrietta nawet myœli, ¿e samotnoœæ i monotonia ich ¿ycia sprawi³y, ¿e stali siê ca³kiem przyæmieni. S³ysz¹c najnowsze wieœci, nawet nie mrugnêli okiem. Siwow³osy ojciec ubolewa nad brakiem si³y roboczej, ale zgadza siê pozwoliæ niektórym swoim robotnikom pójœæ z tob¹, ale tylko za wysok¹ zap³atê.
+G³owa rodziny oœwiadcza, ¿e jego robotnicy nigdzie nie pójd¹ za darmo.
+G³owa rodziny chciwie spogl¹da na worek klejnotów, a robotnicy bior¹ swoje proce i szykuj¹ siê, by pójœæ za tob¹. Czy chcesz ich zatrudniæ?
+
+(16, 12, 0) ***Nizio³ek***
+Wiadomoœæ:
+„Spad³ z nieba. Mo¿esz w to uwierzyæ? Widzia³em to na w³asne oczy! Jest tam, w dziurze. Zbyt przera¿aj¹ce, ¿eby siê do niego zbli¿yæ”. 	„Nie widzê ¿adnej dziury w niebie. Czy masz jakieœ przywidzenia, bracie?”
+
+(26, 32, 0) ***Brama misji***
+Wiadomoœæ:
+Ta górska œcie¿ka prowadzi do fabryki Fredericka. Tylko on wie, jak tam dotrzeæ.
+Ta górska œcie¿ka prowadzi do fabryki Fredericka. Tylko on wie, jak tam dotrzeæ.
+Czy chcesz przejœæ?
+
+(24, 16, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed nami widaæ zamkniête bramy placówki Erathian.
+Próba szturmu na bramy by³aby zbyt niebezpieczna. Trzeba czekaæ, a¿ Xarfax zostanie pokonany.
+Po pokonaniu opêtanych i ucieczce samego Xarfaxa, ta placówka zosta³a opuszczona. Czy chcesz przejœæ?
+
+(19, 9, 0) ***Zdarzenie***
+Wiadomoœæ:
+Znak przy bramie g³osi: 	„Eksperymentalny warsztat konserwacyjny. W³asnoœæ firmy górniczej. Obecnie nie zatrudniamy”. 	Przygl¹daj¹c siê bli¿ej, zauwa¿asz zadrapania na znaku. Ledwie widoczne smugi brudu uzupe³niaj¹ je, tworz¹c symbole tajnego alfabetu wymyœlonego przez Fredericka. 	„...Wkrótce tu przybiegniesz, jakby pachnia³o gor¹cymi szarlotkami. Ten deszcz gwiazd ³amie wszystkie prawa kosmologii: nigdy nigdzie nie widzia³em opisanych takich zjawisk... prêdkoœæ przelatuj¹cych cia³ niebieskich, zwalnianie przekraczaj¹ce wszelkie normy, strumienie p³omieni o wektorze przeciwnym do... mój najsilniejszy filtr œwiat³a pêk³... niezwykle interesuj¹ce, ale sytuacja zmusza mnie do opuszczenia domu. Pojawiaj¹ siê imiona i twarze z poprzedniego ¿ycia; mo¿e byæ niebezpiecznie. Uwa¿aj i nie zapomnij o naszym sekrecie! Jadê na po³udnie i nawet nie myœl o tym, ¿eby...”
+
+(21, 5, 0) ***Zdarzenie***
+Wiadomoœæ:
+Przeszliœmy przez bramê, która otworzy³a siê przed Frederickiem, za nim pod¹¿a³a kolejka nizio³ków. ¯aden z nich nigdy tu wczeœniej nie by³. Gdyby to by³a inna okazja, byliby zdumieni widokiem eleganckiego laboratorium zwieñczonego kopu³¹ w stylu brakadañskim; ¿aden z nich nigdy nie widzia³ niczego ³adniejszego ni¿ zwyk³e kamienne chaty i drewniane stodo³y. Ale nie, mieszkañcy wsi mieli ju¿ doœæ wstrz¹sów przez ostatnie kilka dni i jedyn¹ rzecz¹, na któr¹ czekali, by³a szansa, by po³o¿yæ siê na trawie i pocieraæ zmêczone stopy. Postanowiliœmy nie niepokoiæ jeszcze zmêczonych nizio³ków i najpierw udaliœmy siê na wzgórze, aby Frederick móg³ sprawdziæ, czy jego dzie³a s¹ przygotowywane do pierwszego wielkiego lotu. 		Widok by³ niesamowity! Poœrodku polany otoczonej oœnie¿onymi górami, trzy ogromne bañki majestatycznie ko³ysa³y siê na wietrze, a pod ka¿d¹ z nich znajdowa³a siê bardzo du¿a ³ódŸ. 		Przyznajê, ¿e nawet ja z otwartymi ustami patrzy³em na te pajêcze mechanizmy, które zrêcznie porusza³y siê po pok³adach i olinowaniu, zaciska³y wêz³y stalowymi dziobami i robi³y coœ zupe³nie niezrozumia³ego. Wkrótce Frederick wróci³ z inspekcji tych, jak je nazywa³, sterowców. Z nut¹ dumy w g³osie powiedzia³: 		„Dobra robota! Moje automaty dzia³a³y sprawnie i bezb³êdnie. Zbiorniki s¹ nape³nione wod¹ po brzegi. Pozosta³o tylko w³o¿yæ kule ognia do pieców i jesteœmy gotowi do drogi! Ja pokierujê g³ównym sterowcem, a mechaniczni asystenci powtórz¹ moje manewry na pozosta³ych”. Wróciliœmy do nizio³ków. Spokojny krajobraz doliny gnie¿d¿¹cej siê miêdzy górami zdawa³ siê uspokajaæ biednych mieszkañców wioski — mo¿e nawet trochê za bardzo. Niektórzy spali, inni zapalali fajki. Frederick pokrêci³ g³ow¹, chwyci³ ¿elazny sto¿ek i przemówi³ do jego koñca. Rzecz wydawa³a tak g³oœny g³os, ¿e ci, którzy odpoczywali, podskoczyli. 		„Doœæ spania! Dalej, dalej, ruszajmy! Czasu jest bardzo, bardzo ma³o: demony mog¹ pojawiæ siê lada chwila, a wtedy wszyscy bêdziemy mieli du¿e k³opoty. W tym budynku s¹ przygotowane zapasy — niewiele, ale lepsze to ni¿ nic. WeŸ skrzynie i zanieœ je tam, gdzie ci poka¿ê, jeœli nie chcesz umrzeæ z g³odu w trakcie podró¿y”. „Mam nadziejê, ¿e te leniuchy nie zapomnia³y o worku...” – powiedzia³ Frederick, nie odrywaj¹c szyszki od twarzy, a ja by³am jedyn¹, która go us³ysza³a. 		Nagle ktoœ dotkn¹³ mojego ramienia. Odwróci³am siê; moje oczy spotka³y siê ze spojrzeniem Tavina. Wy³oni³ siê cicho za mn¹ – ale tego nale¿a³o siê spodziewaæ po tak doœwiadczonym wojowniku. Chcia³am go powitaæ, zadowolona, ¿e Gwardia prze¿y³a, ale w jego oczach by³o coœ, co sprawi³o, ¿e siê zawaha³am. Tavin zmru¿y³ oczy i powiedzia³: 		„Gdybym nie mia³ problemu z wyœledzeniem i znalezieniem ciê, te piekielne bestie nie zrobi³yby tego gorzej. Maj¹ tak dobry nos jak najlepsze psy myœliwskie w Erathii. Teraz idŸ i przynieœ mi tygodniowy zapas prowiantu i worek fajerwerków. Odprowadzê ich z doliny. Przynajmniej kupiê ci trochê czasu, powstrzymuj¹c ich na chwilê”. 	„Ale... Tavin, o czym ty mówisz? Potrzebujemy ciebie i twojej wiedzy! Samotne stawienie czo³a tym bestiom by³oby samobójstwem. Mo¿e nie znajd¹ tajnego przejœcia”. 	„Nie próbuj zmieniaæ mojego zdania, dziecko. Jeœli moje ¿ycie uratuje setki twoich, to jest cena, któr¹ zap³acê. Dlatego zosta³em ¿o³nierzem. Pewnego dnia zrozumiesz”. 		Westchnê³am i czuj¹c, ¿e nogi mi s³abn¹, zrobi³am, o co prosi³. Tavin zarzuci³ worek na ramiê, znów spojrza³ mi w oczy; i tak, bez s³owa ani jednego spojrzenia, zdecydowanym krokiem wyszed³ z doliny.
+
+(5, 21, 0) ***Zdarzenie***
+Wiadomoœæ:
+By³abym szczêœliwa jak ma³a dziewczynka, gdyby nie okolicznoœci. Oto nasz sekret! To jest magazyn z fajerwerkami na obchody Nowego Roku — przygotowaliœmy dla nich suchy schowek, z dala od wiosek. Nizio³ki s¹ bardzo ostro¿ne, jeœli chodzi o niebezpieczeñstwo i ogieñ, wiêc nalega³am, aby przechowywaæ te rzeczy w odosobnionym miejscu. Frederick robi³ je w ma³ych partiach w wolnym czasie, a raz do roku mieszkañcy wsi starali siê powstrzymaæ swoj¹ niechêæ do naukowca, poniewa¿ nikt inny nie móg³ im zapewniæ tej ukochanej rozrywki. Frederick zarobi³ na ¿ywnoœæ na ca³y rok za fajerwerki; Nizio³ki z pewnoœci¹ uwielbia³y swoje wielkie uroczystoœci! 	Ludzie z Doliny chwalili siê, ¿e nikt nigdy nie widzia³ tak ognistych deszczów, nawet w Bracadzie; nie szczêdzili wydatków, aby pokazaæ siê s¹siadom i cieszyæ siê jak jakimiœ prawdziwymi cudami. Frederick uœmiecha³ siê sucho i przyznawa³, ¿e rzeczywiœcie, niczego takiego nigdy nie widziano w Bracadzie. 	„Tam, wrzucasz parê monet jakiemuœ wykolejonemu iluzjoniœcie i masz dwa razy wiêcej widowiska” – mrucza³ do siebie, odwo¿¹c ciê¿ko zarobione pieni¹dze. 		Skrzynie zawiera³y kule wielkoœci cebuli, które eksplodowa³y z og³uszaj¹cym hukiem, rozpryskuj¹c wszêdzie jasne krople ognia. Zazwyczaj wystrzeliwano je w niebo z d³ugiej rury wykopanej w wiejskim placu jak sprê¿ynowy s³up, ale teraz mogliœmy ich u¿yæ do wyposa¿enia kilku nizio³ków uzbrojonych w procê. Te idealnie jednolite pociski nadawa³y siê do rzucania jeszcze lepiej ni¿ kamienne kule.
+
+(12, 20, 0) ***Zdarzenie***
+Wiadomoœæ:
+Gdy zbli¿yliœmy siê do ogniska, zobaczyliœmy poœpiesznie opuszczony obóz. Œlady tuzina dwuno¿nych stworzeñ prowadzi³y od niego do lasu. Przy ognisku le¿a³y dwa bezg³owe cia³a niebiañskich goœci — wygl¹da³o to tak, jakby ktoœ zacz¹³ je oprawiaæ w terenie, ale porzuci³ pracê w po³owie. 	„Ach, to s¹ nizio³ki …” — s³yszysz z krzaków. „OdejdŸ! Nie oœmielaj siê iœæ za nami, bo sprawimy, ¿e poczujesz smak stali, tak jak to zrobiliœmy tym dziwakom!” NajwyraŸniej mê¿czyŸni w krzakach nie s¹ wcale milsi od tych z rogami. Czy to ta sama banda, która piêæ lat temu sia³a zamêt w s¹siedniej dolinie? Do tej pory o nich zapomniano, ale na pewno nie by³o mowy, ¿eby nowi po prostu pojawili siê tutaj znik¹d. Có¿, chyba k³opoty przychodz¹ trójkami.
+
+(23, 24, 0) ***Zdarzenie***
+Wiadomoœæ:
+Palisada by³a niezwyk³ym widokiem w tych miejscach, ale ktoœ przej¹³ siê sytuacj¹ na tyle, ¿e j¹ zbudowa³. Da³o mi to trochê nadziei, nawet jeœli tylko nik³¹. Wartownicy byli pewni siebie i machali radoœnie, zapraszaj¹c mnie do obozu. 	Moi towarzysze padli na ziemiê, gdy tylko weszliœmy za mury; kilka dni bez jedzenia i odpowiedniego odpoczynku odbi³o siê na nich piêtnem. Nie byli przyzwyczajeni do takiego pozbawienia swoich miêsistych, dobrze od¿ywionych cia³. Poszed³em prosto do dowódcy. Sta³ poœrodku obozu, wyszczekuj¹c rozkazy i czekaj¹c, aby porozmawiaæ z nowoprzyby³ymi.
+
+(0, 25, 0) ***Nizio³ek***
+Wiadomoœæ:
+Nikt w tym domu nie zwraca³ na mnie uwagi. Staruszka nakrywa³a do sto³u, a dzieci bawi³y siê przy kominku. 		„Czy ten Feredrich namówi³ ciê do takich szaleñstw? Nie ufaj temu diab³u! Co on robi na cmentarzu? Rzuca uroki na rozkopane groby, prawda? Z nim bêdziesz zgubiona, tak jak twoja nic niewarta matka. Hej... usi¹dŸ i zjedz z nami posi³ek — przecie¿ nie mogê pozwoliæ, ¿eby goœæ by³ g³odny, prawda? Nie ma wiele, tylko gotowana na parze rzepa — wci¹¿ kolacja. Tylko nie myœl o tym, ¿eby nas wci¹gaæ w swoje g³upoty. Nigdzie siê nie wybieramy, mamy du¿o do zrobienia. Nie ma te¿ powodu, ¿eby to robiæ”. 		Zrozumia³am, ¿e s³owa s¹ bezu¿yteczne, ale nie odmówi³am przek¹ski. Staruszka wspomnia³a coœ o mojej matce, ale jej nie pamiêta³am i nikt nigdy nie powiedzia³ mi o niej ani s³owa. Próbowa³am namówiæ gospodyniê, ¿eby poopowiada³a podczas posi³ku, ale ta jêdza udawa³a, ¿e nagle og³uch³a.
+
+(26, 12, 0) ***Zdarzenie***
+Wiadomoœæ:
+Uwielbiam odkrywaæ nowe rzeczy, ale nienawidzê niespodzianek. W tym tkwi piêkno procesu: rozwijanie teorii, a nastêpnie jej praktykowanie, aby osi¹gn¹æ dok³adnie to, czego oczekujesz. Teoria oczywiœcie mo¿e byæ tak œmia³a, jak chcesz... 		Ten niezwyk³y opad gwiazd nie móg³ nie przyci¹gn¹æ mojej uwagi, chocia¿ tej nocy myœla³em o innych rzeczach. Nie wstydzê siê przyznaæ — rozwik³anie tego zjawiska by³o najbardzej nieprzyjemn¹ niespodziank¹ w moim ¿yciu. My wszyscy, naukowcy z Enroth, nawet ci, którzy jeszcze nie podejrzewaj¹, co siê sta³o, stanêliœmy przed faktem: ska³y mog¹ spadaæ z nieba. I nie tylko spadaæ, ale zabieraæ ze sob¹ goœci, których nikt nie zaprosi³by dobrowolnie do swojego domu. 		Teraz myœlê: co jeœli to wcale nie s¹ kamienie, ale coœ podobnego do naszych sterowców, tylko bardziej z³o¿one i doskona³e — a mo¿e tylko fragmenty takiego statku, który siê rozbi³? Czy mo¿liwe, ¿e tam, tak wysoko, ¿e nie mo¿emy tego zobaczyæ nawet przez nasze teleskopy, wielkie jak miasta kad³uby stworzone przez kogoœ lataj¹ gdzieœ w swoich interesach, przewo¿¹c ca³e narody, wymieniaj¹c sygna³y, a czasem salwy potwornych dzia³? I gdzie one cumuj¹ — bo ich port z pewnoœci¹ nie mo¿e znajdowaæ siê na naszej planecie, prawda? 		Z³apa³em siê na myœleniu. Teraz najbardziej chcia³bym znaleŸæ wspólny jêzyk z jednym z kosmitów, pos³uchaæ ich opowieœci o ich rodzinnych stronach, zadaæ tysi¹c pytañ... z jakiegoœ powodu nie wrzucili mnie prosto do kot³a, w którym z martwych cia³ tworzyli swoich wojowników. Mo¿e zobaczyli we mnie kogoœ, z kim mogliby dojœæ do porozumienia i zgodziæ siê w jakiejœ sprawie? Mo¿e powinienem by³... 		W³aœnie, gdy to rozwa¿a³em, najwyraŸniej dotarliœmy do mojego starego laboratorium. S³ysz¹c komendê Henrietty: „Przygotuj muszle!”, spojrza³em w górê i zobaczy³em du¿¹ grupê kosmitów blokuj¹cych nam drogê. Tym razem ustawili siê w szyku bojowym, a wœród nich by³ wyraŸny przywódca, szczup³y, szkar³atnoskóry, rogaty; ubrany by³ w piêkny pancerz, czarny, jakby pokryty grub¹ warstw¹ sadzy. Zrobi³ krok do przodu, spojrza³ mi prosto w oczy... i przejecha³ pazurem po gardle, oblizuj¹c cienkie wargi.
+
+(26, 11, 0) ***Zdarzenie***
+Wiadomoœæ:
+-move for AI
+
+(28, 14, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed nami widaæ zamkniête bramy placówki Erathian.
+Próba szturmu na bramy by³aby zbyt niebezpieczna. Trzeba czekaæ, a¿ Xarfax zostanie pokonany.
+Po pokonaniu opêtanych i ucieczce samego Xarfaxa, ta placówka zosta³a opuszczona. Czy chcesz przejœæ?
+
+(5, 30, 0) ***Zdarzenie***
+Wiadomoœæ:
+Gdy wychodziliœmy z wioski, towarzyszy³o nam kilku skrzatów. Wydaje siê, ¿e nic nie mo¿e zbiæ z tropu tych stworzeñ — nawet demony.
+
+(27, 32, 0) ***Zdarzenie***
+Wiadomoœæ:
+Za star¹ bram¹ spotka³em grupê nizio³ków, którzy ukrywali siê tu przed demonami.
+
+(2, 8, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+===== Koniec pliku =====

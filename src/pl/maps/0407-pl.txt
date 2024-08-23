@@ -1,0 +1,711 @@
+===== Nazwa mapy =====
+Nowy Porz¹dek
+
+===== Opis mapy =====
+Kastore doszed³ do w³adzy w Burton. Nizio³ki zosta³y og³oszone zdrajcami, wiêc ich ostatni¹ nadziej¹ jest powrót do Eeofol. Aby wygraæ, zdob¹dŸ zasoby na podró¿ powrotn¹ i dotrzyj do stoczni sterowców. Twoi bohaterowie s¹ ograniczeni do poziomu 36, ale przenios¹ Czapkê Admira³a do nastêpnego scenariusza.
+
+===== Pog³oski =====
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+AI - minus resources
+Wiadomoœæ:
+
+
+Nazwa:
+Return to Jadame - Part I
+Wiadomoœæ:
+Przez ca³¹ drogê powrotn¹ do Jadame, czeka³am tylko na jedn¹ rzecz. Jak tylko dotrê do brzegu, podzielê siê radosn¹ nowin¹ z ka¿dym nizio³kiem. Tavin ¿yje! A to oznacza, ¿e inni te¿ ¿yj¹ — czyjaœ rodzina, bracia, przyjaciele. Natychmiast zaczniemy przygotowywaæ ekipê ratunkow¹, a moje nowe doœwiadczenia pomog¹ w tym ¿eby posz³o nam o wiele lepiej ni¿ poprzednio. Lata ciê¿kiej pracy siê op³aci³y: nasze nowe sterowce s¹ szybsze i bardziej pojemne. Teraz zrekrutujemy armiê wojowników, których serca pragn¹ sprawiedliwoœci i za³adujemy potê¿ne Drednoty. Wrócimy do Eeofolu i rzucimy siê na wroga; poniewa¿ s¹ poch³oniêci wojn¹ z bohaterami Erathii, mo¿emy uderzyæ tam, gdzie nikt siê nas nie spodziewa. Uratujemy wszystkich, sprowadzimy ich tutaj, poka¿emy im, jak dobrze sobie poradziliœmy! Nie mog³am powstrzymaæ siê od podzielenia siê ka¿dym szczegó³em moich przysz³ych planów z Wynon¹. Chocia¿ gor¹co mnie wspiera³a to myœlê, ¿e trochê j¹ zmêczy³am swoim gadulstwem.
+
+Nazwa:
+Return to Jadame - Part II
+Wiadomoœæ:
+W koñcu nadszed³ d³ugo oczekiwany dzieñ: nasz statek rzuci³ kotwicê przy ma³ym nabrze¿u. Roz³adowano klatki z egzotycznymi zwierzêtami i pude³ka pe³ne jaj Koatli. Ani ja, ani pozostali uczestnicy wyprawy nie mogliœmy ukryæ radoœci. Po miesi¹cach wêdrowania przez mokr¹, b³otnist¹ d¿unglê ta ziemia wydawa³a siê nam jeszcze cenniejsza ni¿ wczeœniej, choæ matowa i spalona s³oñcem.
+
+Nazwa:
+Morton and Fort Rotwang
+Wiadomoœæ:
+Ostro¿nie szliœmy w g³¹b l¹du, unikaj¹c szerokich dróg i otwartych terenów wiejskich. Nasze uszy sta³y siê naszymi oczami; gdy jesteœ œcigany, im wiêcej oczu, tym lepiej. Uœmiechnê³am siê gorzko; chêtnie bym sobie dorobi³a jeszcze kilka par, gdyby Agar by³ dostêpny. Gdy mija³am w¹wóz, us³ysza³em ledwo s³yszalny dŸwiêk; chrapanie lub kichanie. Gestem da³em Wynonie znak, ¿eby zwolni³a. Uszy elfa drgnê³y i sekundê póŸniej wskaza³a kierunek, z którego dochodzi³ dŸwiêk. 		Cicho, jak prawdziwy zwiadowca, podkrad³am siê do w¹wozu we wskazanym miejscu. To, co zobaczy³am by³o smutne: kilku wychudzonych, rannych nizio³ków, ukrywaj¹cych siê pod brudnymi, podartymi ³achmanami. Nie widzia³am ich twarzy, ale ich bose piêty, pokryte rzadkimi siwymi w³osami sprawi³y, ¿e moje serce zabi³o szybciej. 		„Kosta, ty stary ³obuzie! Wstawaj! Twoje kucyki znowu po¿ar³y wszystkie marchewki Melanie!” 		Kosta podskoczy³ i spojrza³ na mnie ze strachem. £zy trysnê³y z oczu starego woŸnicy, a z jego piersi wyrwa³ siê krzyk przera¿enia, ale gdy tylko jego œlepe oczy rozpozna³y moj¹ twarz, zacz¹³ wyæ jeszcze g³oœniej, tym razem ze szczêœcia. 		„Henrietta, to ty? Ja ju¿ mam doœæ. Okazuje siê, ¿e mnie znaleŸli i teraz jestem w niebie”. 		„O czym ty mówisz, Kosta? To ja; ¿yjê. A ty ¿yjesz! Co ci siê sta³o?” 		„Morton. Ten cholerny goblin! Tyle moich kumpli zosta³o po³amanych przez jego diabelsk¹ maszyneriê! Ledwo wydostaliœmy siê z Rotwangu”. 		„Czekaj. Morton? On te¿ nas zdradzi³?” 		„Tak, dziewczyno, on te¿. Nic dziwnego, wiesz — dla zielonoskórego szumowiny, jakim jest. Kiedy ludzie zaczêli przychodziæ z pó³nocy z gorzkimi wieœciami, zaczêliœmy przygotowywaæ siê do walki. Nawet zastosowaliœmy ma³y podstêp: zastawiliœmy zasadzkê na Mortona i zniszczyliœmy kilkanaœcie jego strzelaj¹cych rzeczy, ale ten dziwol¹g o twarzy ropuchy i tak umocni³ swoj¹ pozycjê na przedmieœciach. Tylko garstka z nas wysz³a z tego ca³o, wiêc jesteœmy tutaj. Nie by³o sposobu, ¿eby wróciæ do miasta, wiêc poszliœmy szukaæ pomocy”. 		„Nie bój siê, stary kolego. W³aœnie j¹ znalaz³eœ!” 		„Wiêc Rotwang jest albo oblê¿ony, albo ju¿ upad³. Nawet jeœli to drugie, miasto musia³o ponieœæ du¿e szkody, wiêc Mortonowi zajmie trochê czasu odbudowanie obrony” - pomyœla³am, rozwa¿aj¹c nasze mo¿liwoœci.
+
+Nazwa:
+Kastore comes to power
+Wiadomoœæ:
+Kosta, gdy ju¿ by³ bezpieczny pod nasz¹ opiek¹, szybko odzyska³ przytomnoœæ. Jasne, nie sta³ siê m³odszy, ale nie by³ ju¿ tym ¿a³osnym, pó³¿ywym, przera¿onym i wyczerpanym biedakiem, którego znaleŸliœmy ukrywaj¹cego siê w norze jak królik. Opowiedzia³ mi szczegó³owo, co wydarzy³o siê w ci¹gu ostatnich kilku miesiêcy. 		Nigdy nie lubi³am Kastore'a; wyczuwa³am w nim coœ, co sprawia³o, ¿e traci³am wiarê w jego pragnienie pomocy w rozwoju Burton dla dobra wszystkich mieszkañców Terra Nova by³o szczere, poniewa¿ nigdy nie przegapi³by okazji aby to zadeklarowaæ ze swojego podestu. Okazuje siê, ¿e siê nie myli³am. Cz³owiek, który przyby³ zza morza chwyta³ siê wszystkiego, co wpad³o mu w rêce. Ci¹gle domaga³ siê wydobycia i zakupu wiêkszej iloœci rudy oraz zbudowania wiêkszej iloœci maszyn; nikt nie rozumia³ dlaczego. Zmiany nizio³ków sta³y siê d³u¿sze, a warunki pracy gorsze. 		Wielu zwróci³o siê wtedy do Fredericka, tak jak wczeœniej, gdy by³ szefem Associated Burton Works, ale stra¿nicy nie pozwolili im siê z nim zobaczyæ. Nikt nie widzia³ wynalazcy od tygodni. Po przybyciu Kastore, Frederick zacz¹³ znikaæ na d³ugi czas, najwyraŸniej prowadz¹c badania w laboratoriach ukrytych przed oczami ciekawskich, a teraz wygl¹da³o tak, jakby znikn¹³ na dobre — wydawa³o siê, ¿e nikt nie wiedzia³, gdzie jest, poza czarnoksiê¿nikiem. 		Kiedy pierwsi niezadowoleni pracownicy rozpoczêli strajk i zatrzymali m³oty parowe, domagaj¹c siê renegocjacji uk³adu zbiorowego, Kastore pozwoli³ swoim najemnikom w szerokich kapeluszach i d³ugich p³aszczach na brutalne st³umienie protestu. 		„Ci goœcie nie byli nasi – cholera wie, sk¹d ten przeklêty czarodziej wyci¹gn¹³ tych psubratów” – powiedzia³ Kosta. 		Jednak reakcja Kastore'a tylko doda³a otuchy nizio³kom; dawno temu nauczyli siê walczyæ, gdy ktoœ próbowa³ odebraæ im to, co zaczêli uwa¿aæ za swoje. Wkrótce wiêkszoœæ fabryk zosta³a zatrzymana, wiele maszyn zepsutych, a moi bracia zaczêli tworzyæ oddzia³y samoobrony. £apali najemników i bili ich gdzie popadnie, a na œcianach malowali graffiti wzywaj¹ce do zrzucenia z tronu nieproszonego goœcia z Deyji, który sam sobie zbudowa³, nie zwa¿aj¹c na opiniê tych, którzy nigdy nie chcieli ¿adnych królów ani w³adców w Burton ani innych wolnych miastach. 	Nastêpnie Kastore wyj¹³ spod prawa ka¿dego nizio³ka; niektórzy zostali przykuci do swoich maszyn, inni wrzuceni do lochów. Ci, których bandyci nie mogli dopaœæ, byli œcigani. Ja, jako przywódca buntuj¹cych siê ludzi, zosta³am oskar¿ony o pod¿eganie sabota¿ i organizowanie zamieszek.
+
+Nazwa:
+Murdoch
+Wiadomoœæ:
+Uda³o nam siê zadomowiæ w Larimarze, ale nie warto by³o zostawaæ tu na d³u¿ej. To ma³e, biedne miasteczko nie by³o dla nas dobr¹ baz¹ wypadow¹, a miejscowi wrêcz siê nas bali. Oczywiœcie, g³upio by³oby siê za to na nich z³oœciæ: winne by³o drakoñskie prawo spisane przez Kastore'a i kary obiecane przez uzurpatora. Kodeks karny stanowi³ prawie po³owê ciê¿kiego tomu, Leges Terrae Novae, opublikowanego przez drukarniê Burtona zaledwie miesi¹c temu. Pomyœleæ, ¿e nie min¹³ nawet rok, odk¹d stawiliœmy czo³a przeciwnoœciom losu ramiê w ramiê z tymi ludŸmi i pracowaliœmy na rzecz naszej wspólnej przysz³oœci! A teraz nasze drogi siê rozesz³y i bêd¹ siê rozchodziæ coraz bardziej z ka¿dym mijaj¹cym dniem. 		Wystarczaj¹cym dowodem na to by³o moje spotkanie z miejscowym ch³opakiem, zbyt m³odym, by pamiêtaæ nasze zmagania z piratami lub Zogiem. Ch³opak wyskoczy³ zza krzaków z g³oœnym wrzaskiem, prawdopodobnie mia³ to byæ okrzyk bojowy. Prawie siê rozeœmia³em — brzmia³o to tak zabawnie z jego ptasim g³osikiem. Ch³opiec wcale nie by³ zawstydzony tym, ¿e nie zrobi³ na mnie po¿¹danego wra¿enia, wskaza³ na mnie kijem, który w jego wyobraŸni zamieni³ siê w pistolet: 		„Giñ, ty zdrajco karze³ku! Bum, bum, bum! Jestem Murdoch, najlepszy strzelec w Ravage Roaming! Potrafiê trafiæ wroga w serce z odleg³oœci mili! Bój siê!” 		Kiedyœ œmia³em siê i bawi³em z dzieæmi, gdy w swoich grach udawa³y ogry, gobliny i inne potwory, ale to brzmia³o innaczej. Wybryki dziecka niemi³o mnie zaskoczy³y. Oburzy³am siê, wyrwa³am kij z r¹k ma³ego ³obuza, trzasnê³am nim o kolano, rzuci³am w krzaki i porz¹dnie mu przywali³am w g³owê. Ch³opiec nie by³ tchórzem; nie wybuchn¹³ p³aczem, tylko na mnie naplu³ i uciek³, ogl¹daj¹c siê i krzycz¹c: 		„Tak, ty te¿ tego po¿a³ujesz!” Murdoch jest blisko i wie, ¿e tu jesteœcie! Zobaczycie! Zastrzeli was wszystkich jak psy preriowe, którymi jesteœcie, a my... a my przestaniemy siê juz baæ, i wszystko bêdzie jak dawniej!”
+
+Nazwa:
+Moonchild
+Wiadomoœæ:
+Siedzia³am sama przy ogniu, pogr¹¿ony w myœlach, gdy Kosta podszed³ do mnie, wyci¹gaj¹c flaszkê Kaktusowego Trójniaka, mia¿d¿¹co mocnego trunku z jego w³asnej destylacji, z którego by³ niesamowicie dumny. Nigdy nie przepada³am za ceremoniami; wziê³am kilka ³yków, a potem po prostu siedzieliœmy w ciszy. Przypomnia³am sobie, jak dawno temu, zimowymi wieczorami, gdy by³am jeszcze bardzo ma³a, siada³am przy kominku w chacie starego Haye'a, a mój przybrany dziadek, zwykle wybredny i krzykliwy, zaplata³ w³osy nad moim prawym uchem swoimi sztywnymi palcami. 		„S³uchaj, Kosta... Co to jest "Ksiê¿ycowe Dziecko"? Czy s³ysza³eœ kiedyœ, ¿eby ktoœ tak siê nazywa³?” 		„Wiadomo, dziewczyno... Kiedy m³oda dziewczyna przynosi...” 		Stary woŸnica nagle zadr¿a³, jakby przypomnia³ sobie coœ bardzo wa¿nego i prawie krzykn¹³: „Nie, nie, nie wiem o ¿adnym dziecku, nie chcê wiedzieæ, nigdy nie widzia³em, nigdy nie by³em blisko, do diab³a z tym, gdzie rogate istoty wyci¹gaj¹ swoje p¹ki!” 		Stary cz³owiek upuœci³ manierkê, podskoczy³ i odszed³, uderzaj¹c piêtami o piasek. Siedzia³am wpatruj¹c siê w p³omienie. Z ciemnoœci wy³oni³a siê szczup³a postaæ. Wynona sta³a po drugiej stronie ogniska, z g³ow¹ uniesion¹ ku niebu. 		„Mamy piosenkê... Nie znasz naszego jêzyka, ale postaram siê j¹ dla ciebie przet³umaczyæ”. 		Nazywali j¹ Ksiê¿ycowym Dzieckiem 	Tañcz¹c¹ na p³yciznach rzeki. 	Samotne Ksiê¿ycowe Dziecko 	Œpi¹ce w cieniu wierzby. 	Rozmawiaj¹ce z drzewami dziwnych pajêczyn, 	Œpi¹ce na stopniach fontanny, 	Machaj¹ce srebrn¹ ró¿d¿k¹ do pieœni nocnych ptaków, 	Czekaj¹ce na s³oñce na górach.		 „To piêkne... Ale dlaczego by³ taki przestraszony? Nie mog³o to byæ przez elfi¹ pieœñ. Musi byæ coœ jeszcze... Chcia³bym znaæ odpowiedŸ, ale nie chcê, ¿eby wiêcej biednych starców nie umiera³o lub ucieka³o w przera¿eniu. O Bogowie, nigdy nie b³aga³am was o sekrety mojej przesz³oœci. Podoba mi siê obecny stan rzeczy. ¯yjê, jestem silna i mogê sama decydowaæ, czego chcê i dok¹d idê... Dlaczego teraz?”
+
+Nazwa:
+Mission Objectives
+Wiadomoœæ:
+Wyjêci spod prawa, moi ludzie w poœpiechu opuœcili swoje domy i warsztaty. W fabrykach pracowali teraz uni¿eni, zielonoskórzy goblini — by³o ich wielu i zrobiliby wszystko, aby uciec od skrajnej nêdzy. Co zadziwiaj¹ce, ³ó¿ko w barakach robotniczych i miska lepkiej papki z korzeni pa³ki wodnej, najtañszego jedzenia, jakie mo¿na sobie wyobraziæ, oznacza³y dla nich godn¹ pozazdroszczenia pomyœlnoœæ. Nie mieli pojêcia o bezpieczeñstwie i higienie pracy, a wypadki w miejscu pracy nigdy nie os³abia³y ich zapa³u. Byli niezdarni i powolni w nauce, ale nowi nadzorcy fabryk mianowani przez Kastore'a, mogli ³atwo zmieniaæ robotnika przy maszynie ka¿dego dnia; prêdzej czy póŸniej któryœ z nich musia³ staæ siê przynajmniej w pewnym stopniu podatny na naukê. Wszystko to oznacza³o, ¿e Kastore nie potrzebowa³ ju¿ nizio³ków. Wielu ucieka³o na po³udnie, do miast, do których chciwa rêka uzurpatora jeszcze nie dotar³a. Jedn¹ z takich ostatnich ostoi wolnoœci by³ Fort Rotwang, obecnie oblegany przez Mortona. 		Sabota¿ uzbrojonych grup wyrz¹dzi³ sporo szkód goblinowi, a my mieliœmy teraz dwa lub trzy tygodnie, zanim bêdzie móg³ siê naprawdê okopaæ i otrzymaæ posi³ki. Do tego czasu musieliœmy przerwaæ oblê¿enie i po³¹czyæ siê z uchodŸcami w mieœcie. Po wyzwoleniu Rotwang powinien staæ siê nasz¹ g³ówn¹ baz¹, w której przygotowywalibyœmy siê do lotu do Eeofol. Oczywiœcie, ekipa ratunkowa nie wchodzi³a teraz w grê — gdy tylko opuœciliœmy Jadame, nikt nie czeka³by na nas tutaj. Stawka by³a tak wysoka, jak to tylko mo¿liwe: albo pomo¿emy Erathii pokonaæ czerwonoskór¹ szarañczê i odzyskaæ ojczyznê, albo zginiemy próbuj¹c. Taki los z pewnoœci¹ jest lepszy ni¿ chowanie siê gdzieœ na krañcu œwiata jako dwukrotni zbiegowie. Jeden z nizio³ków w zespole Kosty okaza³ siê doœwiadczonym planist¹ z centralnego biura Associated Works. Z jego pomoc¹ byliœmy w stanie wykonaæ obliczenia. Potrzebowalibyœmy co najmniej 125 jednostek siarki, rtêci i rudy na dozbrojenie i d³ugi lot. Myœla³am o próbie skontaktowania siê z Frederickiem, ale nikt nie wiedzia³, gdzie jest, co siê z nim sta³o, ani czy mia³ coœ wspólnego z tym, co dzia³o siê tutaj na ziemi, któr¹ niedawno uwa¿aliœmy za nasz¹. 		Dziêkujê ci, stary przyjacielu! Uratowa³eœ nas, pomagaj¹c nam staæ siê odwa¿nymi i zaradnymi. Tobie zawdziêczam si³ê, która we mnie ¿yje, któr¹ czujê coraz bardziej ka¿dego dnia. Czas wzi¹æ moje ¿ycie i los mojego ludu w swoje rêce. Pójdziemy w³asn¹ drog¹. Mam nadziejê, ¿e masz siê dobrze, gdziekolwiek jesteœ. Wierzê, ¿e pewnego dnia spotkamy siê ponownie i opowiesz mi o swoich nowych, wspania³ych odkryciach.
+
+Nazwa:
+Lightning Rod Warning
+Wiadomoœæ:
+Podskoczy³em na ³ó¿ku; poczu³em coœ, co wydawa³o mi siê dawno zagubione wœród wspomnieñ mojego dawnego ¿ycia w Eofolu. W³osy na moich stopach zje¿y³y siê... i nie tylko na moich stopach. Gdy wyszed³em z namiotu, zobaczy³em moich towarzyszy, ka¿dy z fryzur¹ przypominaj¹c¹ dmuchawiec. W powietrzu unosi³ siê zapach burzy... i czegoœ jeszcze. Ten zapach — sk¹d go zna³em? Och. Oczywiœcie. Moja pamiêæ otworzy³a œluzy, a wra¿enia wyla³y siê na mnie pêdem. Wzrok, s³uch, wêch, nawet smak — wszystko znów by³o ostre, tak jak w dzieciñstwie. D³ugi letni dzieñ mojej beztroskiej m³odoœci: Frederick w swoim warsztacie, pokazuj¹cy mi b³yszcz¹c¹ ¿elazn¹ kulê i opowiadaj¹cy o piorunach, ³adunkach i o tym, jak zamierza ujarzmiæ pioruny i sprawiæ, by obraca³y kamienie m³yñskie, oœwietla³y ciemnoœæ jaskiñ, a nawet odpêdza³y dzikie bestie. Klikn¹³ coœ; pokój wype³ni³ siê tym znajomym zapachem, a w³osy na moich stopach stanê³y dêba, dok³adnie tak jak teraz. Wzdrygn¹³em siê. Przypomnia³em sobie, co by³o dalej. Uœmiechaj¹c siê tajemniczo, Frederick zaprosi³ mnie, abym dotkn¹³ b³yszcz¹cej kuli. Wyci¹gn¹³em rêkê, aby poczuæ ³adn¹, ma³¹ okr¹g³¹ rzecz, ale wci¹¿ by³ dobry ³okieæ miêdzy moj¹ d³oni¹ a kul¹, gdy piorun uderzy³ z g³oœnym trzaskiem, a ból przeszy³ moje cia³o. P³aka³em i przeklina³em przez d³ugi czas, podczas gdy Frederick wykrzykiwa³ przeprosiny, mamrocz¹c s³owa, których w tamtym momencie nie rozumia³em — coœ o kalibracji, obliczonej mocy i energii ³uku. Czy to mo¿liwe, ¿e w koñcu opanowa³ piorun, ale rzemieœlnicy teraz myœl¹, ¿e dzikie bestie to... my?
+
+Nazwa:
+Lightning Rod Warning... Again
+Wiadomoœæ:
+Moje najgorsze obawy siê potwierdzi³y. Natknêliœmy siê na coœ, co mog³am opisaæ jedynie jako paskudny przejaw pokrêconego geniuszu mrocznego eksperymentatora. Podczas wyprawy rozpoznawczej zawêdrowaliœmy do ma³ej skalistej doliny. Zapach burzy i spalonego cia³a oraz zwêglone szkielety przywi¹zane do metalowych piorunochronów — to by³y ponure dekoracje ponurego pustkowia, które widzieliœmy. 		Piasek wokó³ ¿elaznych konstrukcji w niektórych miejscach zamieni³ siê w szk³o; niektóre du¿e kamienie by³y popêkane, a ich ods³oniête powierzchnie ukazywa³y wzory przypominaj¹ce drzewa wyryte w nich przez jak¹œ nieznan¹ si³ê. By³o w nich jakieœ mroczne, magnetyczne piêkno... Tu i ówdzie rozrzucone by³y wypalone znaki z jakimiœ numerami. To by³a egzekucja, d³uga i bolesna; wygl¹da³o, jakby trwa³a przez ca³y czas, gdy nieszczêœnicy testowali swoj¹ now¹ broñ. Gor¹co pragn¹³am, aby umys³em stoj¹cym za tym okropnym wynalazkiem nie by³ nikt inny, tylko Frederick. Teraz wiedzieliœmy: piorun móg³ uderzyæ w ka¿dego z nas, w ka¿dej chwili. Musieliœmy o tym pamiêtaæ i staraæ siê znaleŸæ jakiœ sposób ochrony.
+
+Nazwa:
+Couatls Scouts
+Wiadomoœæ:
+Tego dnia Koatl, z którego Wynona i ja próbowaliœmy zrobiæ zwiadowcê, wróci³ do obozu. Nie by³am jeszcze przekonana, ¿e te stworzenia mog¹ byæ przydatne gdziekolwiek poza polem bitwy. Mimo to elfka upiera³a siê, ¿e Koatle s¹ niesamowicie inteligentne. Znalaz³a wspólny jêzyk z tymi stworzeniami znacznie szybciej, ni¿ siê spodziewa³am. Prawdopodobnie dziêki rytua³owi Tlamaca. Prawie zapomnia³am o dreszczyku emocji, gdy patrzy³em, jak mój przyjaciel pomaga ma³emu wê¿owi, o piórach w odcieniach czerwieni, wydostaæ siê z jaja. Wydawa³o siê, jakby to by³o pokolenia temu, kiedy Koatle panowa³y nad œwiatem, a œwiat by³ zaledwie kilkoma wyspami... 		WiêŸ, jaka nawi¹za³a siê miêdzy Wynon¹ a jej nowymi przyjació³mi, by³a niezwyk³a, wrêcz nierozerwalna. Przytulaj¹c zmêczonego zwiadowcê za jego du¿¹, poszarpan¹ g³owê, mog³a zobaczyæ wszystko, co on sam widzia³ przez ostatnie kilka dni. Wydawa³o siê, ¿e nie byliœmy jedynymi celami ³owców nagród, których wys³a³ Kastore. Koatl zobaczy³ kilku rewolwerowców ci¹gn¹cych zakutego w kajdany mê¿czyznê, który wygl¹da³ jak alchemik. Na pó³nocy znajdowa³o siê równie¿ inne wiêzienie, strze¿one przez Molochów, ale nie by³o sposobu, aby dowiedzieæ siê, kto w nim gnije. 		Nie byliœmy sami w walce z Kastore; przynajmniej to wydawa³o siê w jakiœ sposób zachêcaj¹ce. 
+
+Nazwa:
+Abandoned Factory
+Wiadomoœæ:
+Wynona zrobi³a ogromne postêpy w opanowywaniu korzyœci p³yn¹cych z przyjaŸni z Koatlami. Nie tak dawno chichota³am, gdy próbowa³a wyjaœniæ zadanie swojemu pierwszemu pierzastemu szpiegowi; teraz mieliœmy ca³e stado zwinnych zwiadowców przeszukuj¹cych chmury i powstrzymuj¹cych wrogie sterowce przed startem. Koatle s¹ o wiele m¹drzejsze od Wiwern; te bezmyœlnie rzuca³y siê na œmig³a sterowców z przyzwyczajenia, by trafiæ w ogon swojej ofiary, i straciliœmy ponad tuzin, zanim wpad³y na pomys³ zaatakowania balonu. 		Z drugiej strony, nasi skrzydlaci przyjaciele doskonale znali s³abe punkty sterowców, wiêc teraz mieliœmy zdecydowan¹ przewagê powietrzn¹. Ponadto, dziêki tym niesamowitym stworzeniom, wiedzieliœmy o dobrze ufortyfikowanej, niezdobytej twierdzy zdrajców i o co najmniej trzech dowódcach z rosn¹cej w si³ê armii Kastore, którzy rozmieœcili swoje wojska na podejœciach do tego bastionu. Wiedzieliœmy równie¿ o stale rosn¹cej populacji smoków i o jednym bardzo intryguj¹cym mieœcie, opuszczonym po tym, jak nieumarli powstali z grobów. W mieœcie tym znajdowa³y siê nienaruszone manufaktury i odlewnie, co oznacza³o, ¿e po pochowaniu nieumar³ych moglibyœmy wyprodukowaæ automaty na w³asne potrzeby.
+
+Nazwa:
+Enemy Hero Waves - First Warning
+Wiadomoœæ:
+Kastore rzuci³ na nas ca³¹ potêgê swojej rosn¹cej w si³ê armii. To nie jest po prostu próba zastraszenia renegatów lub st³umienia rebelii. To oznacza wojnê na wyniszczenie, któr¹ z pewnoœci¹ przegramy. Ka¿dego dnia piece jego kuŸni i fabryk p³on¹ coraz gorêcej; gobliny zdobywaj¹ doœwiadczenie i pracuj¹ coraz lepiej a on wymaga od nich coraz wiêcej. Wczeœniej czy póŸniej na ka¿dego z nas przypadaj¹ dwie, a nawet trzy samobie¿ne maszyny lub strzelcy. Ka¿da godzina dzisiejszej zw³oki z pewnoœci¹ przyniesie nam jutro gorzkie pora¿ki i straty. Nie mo¿emy walczyæ na dwóch frontach naraz — jednym w teraŸniejszoœci, z dawnymi przyjació³mi, a drugim w przysz³oœci, ze starymi wrogami. Mimo to wierzê, ¿e mo¿emy zebraæ wystarczaj¹co du¿o si³ i ruszyæ do Eeofol, zanim Kastore rzuci siê na nas.
+
+Nazwa:
+Final Warning (415)
+Wiadomoœæ:
+Nie mo¿emy d³u¿ej czekaæ. Musimy przygotowaæ sterowce i wyruszyæ do Eeofolu, albo Kastore porwie nas jak fala sztormowa zmywa zamek z piasku na pla¿y. Wszystko, co tu osi¹gnêliœmy to taki zamek, wziêty mylnie za nowy dom. Nasza przysz³oœæ nie le¿y ju¿ na tych ja³owych ziemiach — le¿y tam, za oceanem. Jest tylko jedno miejsce godne, by nazwaæ je domem. Mo¿emy zgin¹æ w tej ciê¿kiej walce z demonami, ale upadniemy na w³asnej ziemi.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(104, 106, 0) ***Chata proroka***
+Wiadomoœæ:
+W chacie wita ciê ponury, czarnooki czarodziej. 	„Nasza Gildia studiuje sposoby oswajania i rozmna¿ania wiwern z Ravage Roaming” — mówi. „Niestety, stworzenia nie pozwalaj¹ nam jeszcze zbli¿aæ siê do swoich gniazd. Z³ap m³od¹ wiwernê i przynieœ mi j¹, a zostaniesz sowicie wynagrodzony”.
+Bez stworzenia nie ma nagrody. Po co nam wiwerny, pytasz? Mniej gadania, wiêcej dzia³ania.
+Widzê, ¿e jesteœ odwa¿ny. Niewielu odwa¿y siê wejœæ do gniazda wiwerny. WeŸ te kryszta³y; jestem pewien, ¿e znajdziesz dla nich lepsze zastosowanie, ni¿ my mo¿emy to sobie wyobraziæ.
+
+(89, 29, 0) ***Tabliczka***
+Wiadomoœæ:
+Mount Copper Mines
+
+(2, 46, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Wspinaj¹c siê po zboczu stromej góry, natkn¹³eœ siê na ogromn¹ br¹zow¹ statuê wojownika. Jak ten pomnik znalaz³ siê tutaj, na œrodku pustkowia? Zanim zd¹¿y³eœ zareagowaæ, statua nagle siê poruszy³a. 	„Tytani?”, rozleg³ siê donoœny g³os kolosa. „Nie jesteœcie tytanami... Có¿, to jeszcze lepiej. Straci³em swój miecz w walce z Tytanami. Zwróæ mi go, a pozwolê ci przejœæ.”
+Br¹zowy kolos nadal tu jest i nie ma zamiaru ciê przepuœciæ.
+Br¹zowy Kolos przyjmuje Gladiusa i pozwala ci przejœæ. Czy chcesz przejœæ?
+
+(20, 106, 0) ***Chata proroka***
+Wiadomoœæ:
+W ma³ej chatce na wyspie spotykasz czarodziejkê.	„Mo¿e ju¿ o mnie s³ysza³aœ”, mówi. „Jestem Lyadra i spotka³am ju¿ kiedyœ jednego z twoich rzemieœlników. Chyba nazywa³ siê Todd... a mo¿e Bertram? Niewa¿ne. 	Od wielu lat badam anio³y, ale wci¹¿ nie znalaz³am ¿adnego dowodu na moj¹ hipotezê co do ich natury. Co gorsza, same anio³y nie s¹ w nastroju, ¿eby siê ze mn¹ komunikowaæ. S³ysza³am, ¿e wiele dekad temu ktoœ uwiêzi³ kilka anio³ów tutaj, w górach, i umieœci³ gryfy, aby strzeg³y ich cel. Gdybyœ móg³ je uwolniæ, byæ mo¿e zgodzi³yby siê pomóc mi w moich badaniach. PrzyprowadŸ mi dziesiêæ anio³ów, a ja nauczê ciê czaru Miejski Portal w zamian za zwój tego zaklêcia. Jestem pewna, ¿e teraz znajdziesz dobre zastosowanie dla tak potê¿nego zaklêcia, a tym bardziej w przysz³oœci.
+Lyadra wci¹¿ tu jest, ale nie masz o czym z ni¹ rozmawiaæ, dopóki nie bêdziesz mia³ dziesiêciu anio³ów.
+Wreszcie! Byæ mo¿e teraz uda mi siê zrozumieæ to, czego nigdy nie uda³o mi siê dowiedzieæ od anio³ów w Brakadzie i Erathii.
+Przynieœcie mi zwój z zaklêciem Miejski Portal, a ja ciê go nauczê.
+Widzê, ¿e przychodzicie z pustymi rêkami. Niestety, nie wiem, gdzie mo¿na znaleŸæ taki zwój w tych okolicach, ale byæ mo¿e miejscowi magowie mog¹ wam w tym pomóc.
+Czy bylibyœcie sk³onni nauczyæ siê zaklêcia Miejski Portal w zamian za zwój?
+
+(5, 77, 0) ***Tabliczka***
+Wiadomoœæ:
+Guild Caravans
+
+(70, 84, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Zza bramy dochodzi st³umiony g³os, który brzmi jak g³os nizio³ka. 	„Stój! Kto idzie? Jak siê nazywasz?”
+„Nie znamy ciê, nie otworzymy!”
+Henrietta, to ty? Myœleliœmy, ¿e Kastore te¿ ciê pojma³. WejdŸ, nie ka¿ nam czekaæ.
+
+(86, 13, 0) ***Zwój z zaklêciem***
+Wiadomoœæ:
+To by³a pu³apka... Po zabiciu smoków nie znalaz³eœ ani skarbu, ani cennych artefaktów. Ilsingore prze¿y³: gdy przygotowywa³eœ siê do ataku na potê¿nego smoka, wielka bestia wzbi³a siê w powietrze i odlecia³a. Po dok³adnym przeszukaniu legowiska odkry³eœ magiczny zwój. Mo¿e pomo¿e ci opuœciæ to miejsce?
+
+(73, 65, 0) ***Tabliczka***
+Wiadomoœæ:
+Fort Rotwang — pó³noc
+
+(29, 85, 0) ***Chata proroka***
+Wiadomoœæ:
+S³ysza³eœ wieœci? Morton oblega Rotwang! Musimy go odeprzeæ, i to szybko! Jeœli nie uda nam siê tego zrobiæ do koñca miesi¹ca, mo¿e to oznaczaæ du¿e k³opoty.
+Rotwang jest nadal oblê¿ony.
+Mówisz, ¿e si³y Mortona zosta³y pokonane? Nareszcie!
+Teraz, gdy Rotwang nie jest ju¿ w niebezpieczeñstwie, mo¿emy zaj¹æ siê gromadzeniem zasobów na nasz¹ podró¿ do domu. Bêdziemy potrzebowaæ 125 rudy, 125 rtêci i 125 siarki. Jednak zdobycie takiej iloœci zapasów to trudne zadanie, a w okolicy jest bardzo ma³o kopalni. Jakby tego by³o ma³o, w okolicach Rotwang nie ma ju¿ ¿adnych targowisk. Niektórzy kupcy mrocznych elfów mog¹ nadal tu byæ, ale nie³atwo im bêdzie przywieŸæ tu swoje towary, wiêc obstawiam, ¿e bêd¹ podnosiæ ceny tak mocno, jak tylko mog¹.
+Nadal nie znalaz³eœ zasobów? Spiesz siê, nasz czas siê koñczy.
+Œwietnie! Za³adujmy wszystko i udajmy siê do stoczni sterowców, tu¿ na pó³noc od Rotwangu.
+
+(89, 14, 0) ***Suweren***
+Nazwa:
+Ilsingore
+
+(6, 52, 0) ***Tabliczka***
+Wiadomoœæ:
+Kopalnie Dolere
+
+(20, 9, 0) ***Fabryka***
+Nazwa:
+Corakstone
+
+(97, 25, 0) ***Fabryka***
+Nazwa:
+Góra Miedziana
+
+(7, 47, 0) ***Fabryka***
+Nazwa:
+Nowy Dolere
+
+(24, 84, 0) ***Fabryka***
+Nazwa:
+Larimar
+
+(87, 97, 0) ***Fabryka***
+Nazwa:
+Arcadia
+
+(71, 8, 0) ***Barbarzyñca***
+Nazwa:
+Zaghrebar
+
+(1, 59, 0) ***Wiêzienie***
+Nazwa:
+Balindar
+Biografia:
+Balindar jako pierwszy w Bracadzie przetestowa³ technologiê Enrothean polegaj¹c¹ na u¿yciu najlepszej stalowej zbroi do tworzenia pos¹gów przeznaczonych do o¿ywnienia, zamiast zwyk³ego kamienia, rudy, a nawet metali szlachetnych. Szablonowi naukowcy buduj¹cy golemy nie przyjêli tej innowacji z zadowoleniem, wiêc prace Balindara, choæ znacznie lepsze od prototypów, nadal maj¹ status eksperymentalny.
+
+(66, 47, 0) ***Fabryka***
+Nazwa:
+Rotwang
+
+(75, 39, 0) ***Chata proroka***
+Wiadomoœæ:
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu przywieŸæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ ci rtêæ. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 rtêæ.
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu przywieŸæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ ci rtêæ. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 rtêæ.
+Kupiæ 1 rtêæ za 10000 z³ota?
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu przywieŸæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ ci rudê. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 rudê.
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu dostarczaæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ ci rudê. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 rudê.
+Kupiæ 1 rudê za 10000 z³ota?
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu dostarczaæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ ci siarkê. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 siarkê.
+Reprezentujê Gildiê Kupieck¹ na tych pustkowiach. Ostatnio coraz trudniej jest tu dostarczaæ towary, a ostatnio wiêkszoœæ punktów handlowych zosta³a zamkniêta. Mimo to jesteœmy gotowi dostarczyæ wam siarkê. Bior¹c pod uwagê ostatnie trudnoœci w transporcie towarów, prosimy o cenê, która bêdzie dla nas op³acalna: 10000 z³ota za 1 siarkê.
+Kupiæ 1 siarkê za 10000 z³ota?
+
+(64, 38, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(16, 20, 0) ***Awanturnik***
+Nazwa:
+Jangaard
+
+(69, 58, 0) ***Chata proroka***
+Wiadomoœæ:
+Przygotowywaliœmy siê do wojny z Gildi¹ Nekromantów przez d³ugi czas, ale nasze wojska nie s¹ jeszcze wystarczaj¹co silne, aby rzuciæ im wyzwanie. Wiemy jednak o artefakcie zwanym Pierœcieniem Zapomnienia, który mo¿e zapobiec o¿ywieniu nieumar³ych. Bylibyœmy wdziêczni ka¿demu, kto móg³by nam go dostarczyæ.
+Przygotowywaliœmy siê do wojny z Gildi¹ Nekromantów przez d³ugi czas, ale nasze wojska nie s¹ jeszcze wystarczaj¹co silne, aby rzuciæ im wyzwanie. Wiemy jednak o artefakcie zwanym Pierœcieniem Zapomnienia, który mo¿e zapobiec o¿ywieniu nieumar³ych. Bylibyœmy wdziêczni ka¿demu, kto móg³by nam go dostarczyæ.
+Tak, to jest Pierœcieñ Zapomnienia! Nie mam pieniêdzy, aby ci zap³aciæ, ale mam kilka kryszta³ów, które na pewno ci siê przydadz¹. 	Wymieniæ Pierœcieñ Zapomnienia na kryszta³y?
+
+(64, 70, 0) ***Chata proroka***
+Wiadomoœæ:
+Spotykasz alchemika w chacie. Wydaje siê byæ bardzo zdenerwowany. 	„Jakie szczêœcie, ¿e ciê znalaz³em! S³uchaj. Jestem alchemikiem z Bracady. Przyby³em tu z moim koleg¹ Balindarem. Dowiedzieliœmy siê o du¿ym z³o¿u erudyny znalezionym w Jadame i chcieliœmy wypróbowaæ ten rzadki i drogi metal jako materia³ na golemy. Niestety okaza³o siê, ¿e Kastore i jego s³udzy dotarli do z³o¿a przed nami. Na nasze nieszczêœcie dowiedzieli siê, ¿e przybyliœmy z Bracady. Balindar zosta³ schwytany i teraz siedzi w wiêzieniu, podczas gdy mnie uda³o siê uciec. Czy móg³byœ nam pomóc? Mogê zrobiæ stalowe golemy dla twojej armii, ale nie mogê tego zrobiæ bez Balindara”.
+Balindar nadal jest w wiêzieniu. Bez niego nie mogê ci pomóc.
+Balindar ofiarowuje ci czterdzieœci stalowych golemów w ramach wdziêcznoœci za ratunek. Informuje ciê równie¿, ¿e jego kolega jest chêtny do rozpoczêcia tworzenia nowych golemów, ale bêdzie potrzebowa³ do tego zasobów.
+Alchemik jest sk³onny stworzyæ stalowe golemy dla twojej armii, ale ostrzega, ¿e trudno je wyprodukowaæ. Zadanie bêdzie ciê kosztowaæ 10 drewna, 4 kryszta³y i 4 klejnoty. Na dodatek alchemik chce 3000 z³ota za ka¿d¹ partiê golemów.
+Niestety, te zasoby nie wystarcz¹, aby stworzyæ stalowe golemy.
+Dostarczone zasoby wystarcz¹, aby stworzyæ 20 stalowych golemów. Czy chcesz oddaæ zasoby do dyspozycji alchemika?
+
+(73, 81, 0) ***Nizio³ek grenadier***
+Wiadomoœæ:
+Mówisz, ¿e wracamy do Eeofol?
+
+(24, 66, 0) ***Chata proroka***
+Wiadomoœæ:
+Posiadam wiele kopalni z³ota w tej czêœci pustkowi. Niestety, niedawno gorgony z Ravage Roaming zapanowa³y w regionie, w którym znajduj¹ siê moje kopalnie i wygna³y nas — ale uda³o mi siê je zamkn¹æ w kopalniach. Zatrudni³em zb³¹kanego barbarzyñcê, Wededha, i mia³em nadziejê, ¿e rozwi¹¿e mój problem z tymi rogatymi bestiami, ale ten oszust wzi¹³ zaliczkê i odszed³ œmiej¹c siê, a tak¿e schowa³ klucze do kopalni! Chêtnie zap³aci³bym komuœ, ¿eby rozwi¹za³ mój problem z gorgonami, ale dopóki barbarzyñca ma klucze, nie ma sposobu, ¿eby siê tam dostaæ.
+Barbarzyñca nigdy nie wróci³; jednak jeœli uda ci siê zdobyæ klucze, najbli¿sza kopalnia jest dzieñ drogi na pó³nocny wschód st¹d — powinieneœ siê tam udaæ.
+Znalaz³eœ klucze? To œwietna wiadomoœæ! Ale jeszcze bardziej cieszê siê, ¿e kopalnia zosta³a uwolniona od gorgon. Oto twoja nagroda!
+Teraz powinieneœ udaæ siê do drugiej kopalni. Jest tu¿ na wschód st¹d, za garnizonem, niedaleko starego cmentarzyska smoków.
+Teraz powinieneœ udaæ siê do drugiej kopalni. Jest tu¿ na wschód st¹d, za garnizonem, niedaleko starego cmentarzyska smoków.
+Oto twoja nagroda! Zas³u¿y³eœ na ni¹.
+Trzecia kopalnia znajduje siê w pobli¿u miasta Arcadia na po³udniowym wschodzie. Jest tu¿ obok rancza — nie mo¿na jej przegapiæ.
+Trzecia kopalnia znajduje siê w pobli¿u miasta Arcadia na po³udniowym wschodzie. Jest tu¿ obok rancza — nie mo¿na jej przegapiæ.
+Oto twoja nagroda! Zas³u¿y³eœ na ni¹.
+Czwarta kopalnia znajduje siê na po³udnie od Rotwang, za strumieniem. W pobli¿u znajduje siê staw z kamieniami szlachetnymi — miejsce nie powinno byæ trudne do znalezienia.
+Czwarta kopalnia znajduje siê na po³udnie od Rotwang, za strumieniem. W pobli¿u znajduje siê staw z kamieniami szlachetnymi — miejsce nie powinno byæ trudne do znalezienia.
+Oto twoja nagroda! Zas³u¿y³eœ na ni¹.
+Nasza pi¹ta kopalnia znajduje siê na pó³noc od Rotwang. Miejmy nadziejê, ¿e wkrótce nie bêdzie tam ju¿ ¿adnych gorgon.
+Nasza pi¹ta kopalnia znajduje siê na pó³noc od Rotwang. Miejmy nadziejê, ¿e wkrótce nie bêdzie tam ju¿ ¿adnych gorgon.
+Oto twoja nagroda! Zas³u¿y³eœ na ni¹.
+Szósta i ostatnia kopalnia znajduje siê daleko na wschód, w pobli¿u magicznych równin. Udaj siê prosto na wschód od Rotwang i idŸ dalej, a prêdzej czy póŸniej tam dotrzesz.
+Szósta i ostatnia kopalnia znajduje siê daleko na wschód, w pobli¿u magicznych równin. Udaj siê prosto na wschód od Rotwang i idŸ dalej, a prêdzej czy póŸniej tam dotrzesz.
+Oto twoja nagroda! Zas³u¿y³eœ na ni¹.
+Nie mogê w to uwierzyæ: uda³o ci siê! Gorgony zniknê³y! Teraz mo¿emy wróciæ do kopalñ.
+Nie mam nic innego, czym móg³bym ciê wynagrodziæ, ale mogê daæ ci trochê siarki. Chcesz?
+
+(66, 50, 0) ***Zdarzenie***
+Wiadomoœæ:
+Morton - minus movement
+
+(20, 38, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed tob¹ widaæ wejœcie do portalu, z rozrzuconymi dooko³a koœæmi ludzi, ogrów i minotaurów. Kr¹¿¹ pog³oski, ¿e smok za³o¿y³ tu swoj¹ kryjówkê, a mo¿e nawet wiêcej ni¿ jeden.
+Czy chcesz podejœæ do portalu?
+
+(28, 71, 0) ***Barbarzyñca***
+Nazwa:
+Wededh
+
+(10, 92, 0) ***Wiêzienie***
+Nazwa:
+Thulig
+Biografia:
+Thulig jest niezwykle odwa¿nym elfem, a najlepszym sposobem na jego rekrutacjê jest rzucenie wyzwania w stylu „idŸ nie wiem dok¹d, przynieœ nie wiem co”. Ukrad³ „nie wiem co” spod paszczy smoka, z podziemnego skarbca krasnoludów, a nawet z paszczy wygas³ego wulkanu. Jego znakiem rozpoznawczym s¹ równie¿ g³oœne pora¿ki, a zap³aci³ za siebie nieporównywalnie wysokie kwoty okupu.
+
+(1, 24, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(80, 90, 0) ***Rdzawy smok***
+Wiadomoœæ:
+W powietrzu unosi³ siê zapach siarki. W miarê jak zbli¿aliœmy siê do gór, zapach stawa³ siê coraz silniejszy. Przed nami pojawi³ siê ogromny w¹wóz, a nad nim lata³y... Nie ptaki. Smoki — dziesi¹tki i setki Rdzawych Smoków! Widzia³eœ ju¿ Rdzawe Smoki na wyspach na po³udnie od Jadame, ale nie w takiej liczbie. Co najgorsze, smoki ciê zauwa¿y³y. Jest za póŸno, ¿eby uciekaæ, bêdziesz musia³ z nimi walczyæ.
+
+(13, 43, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(1, 105, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(53, 24, 0) ***Wiêzienie***
+Nazwa:
+Yovilla
+Biografia:
+Ca³kowicie pewna swego misyjnego daru, Yovilla bêdzie g³osiæ kazania nawet do nieo¿ywionych przedmiotów, poniewa¿ ka¿dy z nich mo¿e mieæ w sobie ducha, który mo¿e zostaæ wyznawc¹. Zdarzy³o siê to wczeœniej, gdy przekona³a ma³¹ rzekê, by rozdzieli³a swe wody. Poruszony jej ¿arliw¹ mow¹, duch rzeki nie pozwoli³ jej zamoczyæ stóp, a tak¿e przekaza³ jej sekrety swojej magii.
+
+(56, 27, 0) ***Brama misji***
+Wiadomoœæ:
+Przed nami pojawi³a siê stocznia sterowców, a obok sta³o kilka statków powietrznych. To nasza droga do domu. Jednak nie mo¿emy liczyæ na sukces w walce z diab³ami, jeœli nie przygotujemy wszystkiego czego potrzebujemy, a bez Kuli P³on¹cego Ognia nigdy nie dotrzemy do Eeofol.
+Przed nami pojawi³a siê stocznia sterowców, a obok sta³o kilka statków powietrznych. To nasza droga do domu. Jednak nie mo¿emy liczyæ na sukces w walce z diab³ami, jeœli nie przygotujemy wszystkiego czego potrzebujemy, a bez Kuli P³on¹cego Ognia nigdy nie dotrzemy do Eeofol.
+Czy chcesz udaæ siê do stoczni sterowców?
+
+(50, 27, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ta œcie¿ka przez opuszczon¹ kopalniê prowadzi do starego wiêzienia, a nastêpnie skrêca do stoczni sterowców; jednak odkrywasz, ¿e kopalnia siê zawali³a i nie mo¿esz przejœæ dalej. Lokalny stra¿nik, mroczny elf, mówi, ¿e zna inn¹ drogê, ale ¿¹da nagrody w postaci artefaktów, które by³yby dla niego przydatne w jego pracy.
+Stra¿nik ci nie pomo¿e, a nie ma innego widocznego sposobu, aby dostaæ siê do wiêzienia i stoczni sterowców.
+Stra¿nik jest gotowy poprowadziæ ciê przez góry. Czy by³byœ sk³onny daæ mu artefakty?
+
+(74, 105, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed nami, na skale, siedzi ogromny czarny smok. Majestatyczna bestia uwa¿nie ciê obserwuje. W koñcu przemówi³ do ciebie. 	„Wiem, czego tu szukasz. Bezdennego Tygla Rtêci, prawda? No có¿... Zrób mi przys³ugê i pozwolê ci pójœæ w góry. 	Ilsingore, niegodny syn rodu smoków, porzuci³ nas w godzinie próby. Myœleliœmy, ¿e on i jego s³udzy udali siê na pustyniê Ironsand, ale niedawno pojawi³ siê ponownie na tych ziemiach z kilkoma innymi smokami. Nie wiem, czego tu chce, ale nie chcê widzieæ tego zdrajcy. OdpêdŸ go, a pozwolê ci przejœæ”.
+Czarny smok nie pozwoli ci przejœæ. Wygl¹da na to, ¿e jedynym sposobem, by siê tu przedostaæ, jest zgoda na warunki smoka.
+Widzia³em Ilsingore'a odlatuj¹cego na wschód. Dobrze, pozwolê ci przejœæ. Pamiêtaj jednak, ¿e w górach czekaj¹ na ciebie smoki ze stada Ilsingore'a i bêdziesz musia³ z nimi walczyæ. Czy chcesz wejœæ do jaskiñ?
+
+(107, 78, 0) ***Wiêzienie***
+Nazwa:
+Khevasar
+Biografia:
+Khevasar zacz¹³ kwestionowaæ fundamentaln¹ zasadê filozofii, któr¹ studiowa³ przez dziesiêciolecia: postulat, ¿e druid sprawuje w³adzê nad wszystkimi aspektami natury, a tak¿e ma prawo nie tylko do wykorzystywania jej do swoich celów, ale tak¿e do zmieniania jej zgodnie ze swoimi pogl¹dami i pragnieniami. Spowodowa³o to, ¿e wielu jego kolegów z AvLeean oskar¿y³o go o trzymanie siê archaicznej herezji Enrothean.
+
+(95, 1, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na brzegu górskiego jeziora wita ciê kilka Niks. Jedna z nich wychodzi naprzód. „Ostatnio nasz fort zosta³ zaatakowany przez ogromnego smoka, wyraŸnie przywódcê potê¿nego stada. S¹dzimy, ¿e jego legowisko znajduje siê gdzieœ w tych górach. WypêdŸ go z tych ziem, a my sowicie ciê wynagrodzimy”.
+Smok nadal tam jest.
+Widzieliœmy, jak Ilsingore odlecia³. Nigdy nie s¹dzi³em, ¿e poradzisz sobie z ca³ym stadem smoków. WeŸ tê Królewsk¹ Zbrojê Niks; jestem pewien, ¿e potrzebujesz jej bardziej ni¿ my.
+
+(69, 80, 0) ***Nizio³ek***
+Wiadomoœæ:
+Zbierzcie siê ch³opaki, zaraz wyruszamy!
+
+(93, 75, 0) ***Obóz bohatera***
+Nazwa:
+Ilmarin
+Biografia:
+Alchemiczna teza Ilmarina opisa³a ulepszon¹ technologiê aktywacji z³otego golema. Sam wyrzeŸbi³ pos¹g, który mia³ o¿ywiæ przed komisj¹, i jakoœ postanowi³ nadaæ mu kobiece cechy. Z³ota kobieta zniknê³a w noc po pokazie a Ilmarin od tamtej pory przeczesuje œwiat w poszukiwaniu tej, która rozpali³a mi³oœæ w jego sercu.
+
+(9, 24, 0) ***Zdarzenie***
+Wiadomoœæ:
+Tancred - bonus
+
+(37, 24, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(68, 9, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(59, 28, 0) ***Wynalazca***
+Nazwa:
+Umender
+
+(37, 35, 0) ***Chata proroka***
+Wiadomoœæ:
+Alchemik spotyka ciê w chacie. 	„Coœ dziwnego dzieje siê od kilku tygodni. Zaledwie rok temu pomaga³em Frederickowi w jego poszukiwaniach laboratorium Agara, a teraz Burton to inne miejsce. Nieznajome twarze i wszechobecne dziwne wynalazki, a teraz sam Król Deyja jest u w³adzy. Spójrzmy prawdzie w oczy: nie podoba mi siê to, co siê tu dzieje, i wracam do Enroth. Niestety, musia³em opuœciæ moje laboratorium. Potrzebujê klejnotów, aby kontynuowaæ moje eksperymenty i z³ota, aby kupiæ nowe odczynniki alchemiczne. 	Pomó¿ mi, a zdobêdê dla ciebie zwój z zaklêciem Miejski Portal. Chocia¿ nie przeniesie ciê na inny kontynent, na pewno teraz siê przyda.
+Niestety, taka iloœæ klejnotów i z³ota nie wystarczy.
+Och, œwietnie! Teraz w koñcu mogê wróciæ do domu. WeŸ ten zwój, bêdziesz go potrzebowaæ.
+
+(97, 61, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Podró¿uj¹c przez las, napotykasz grupê kap³anów ubranych w zielone szaty. Musz¹ byæ druidami. 	„Witaj”, mówi jeden z nich. „Przybyliœmy tutaj w poszukiwaniu druida Xavera. Kiedyœ by³ jednym z nas, zanim zmieni³ strony i do³¹czy³ do renegatów, którzy wyrz¹dzili wiele szkód w Enroth. Uciek³ do Jadame i teraz wydaje siê, ¿e wraca do swoich starych sztuczek. Widzisz martwy las wokó³ nas? Wierzymy, ¿e Xaver jest odpowiedzialny za to, co siê tu wydarzy³o. Trudno powiedzieæ, gdzie teraz jest, ale jednoro¿ce widzia³y, jak zmierza³ w stronê tajemniczego czarnego portalu w jaskiniach. Byæ mo¿e ten portal zaprowadzi ciê do niego. 	Pomó¿ nam go znaleŸæ i ukaraæ, a my ci pomo¿emy”.
+Druidzi nadal tu s¹. Lepiej ich nie niepokoiæ, chyba ¿e przyniesiesz dobre wieœci.
+„S³yszeliœmy o twoim zwyciêstwie”, mówi druid. „Nie mamy z³ota, aby ciê nagrodziæ, ale oto coœ lepszego: Pierœcieñ Nieskoñczonych Bogactw”. 	Czy chcesz przyj¹æ nagrodê?
+
+(25, 92, 0) ***Zdarzenie***
+Wiadomoœæ:
+Po drodze mieliœmy miasteczko o imponuj¹cej nazwie Larimar, które mia³o byæ naszym pierwszym przystankiem podczas wêdrówki przez Jadame i zakoñczyæ nasz¹ wyczerpuj¹c¹ wyprawê. Nie spodziewaliœmy siê fanfar, czerwonych dywanów ani ¿adnych innych g³upich zaszczytów dla powracaj¹cych podró¿ników; marzyliœmy tylko o ciep³ych posi³kach, miêkkich ³ó¿kach i œwie¿ych ubraniach. 		Niestety, nasze marzenia zosta³y natychmiast rozbite, gdy tylko zobaczyliœmy przestraszone twarze miejscowych. W mgnieniu oka ulica opustosza³a, wszystkie okiennice w oknach by³y zamkniête, a drzwi zaryglowane. Miasteczko wymar³o; tylko wiatr bawi³ siê roœlinami ko³ysz¹cymi siê wzd³u¿ drogi. Na jednych drzwiach zobaczy³em kilka plakatów z po¿ó³k³ego pergaminu. Pierwszy i najwiêkszy przedstawia³ brzydkiego nizio³ka z krzy¿em, z ponur¹ twarz¹ przypominaj¹c¹ prze¿uty naleœnik. Podpis brzmia³: „Henrietta. Poszukiwana ¿ywa lub martwa.” Inne plakaty by³y ozdobione równie rozdzieraj¹cymi twarzami, a wiele z tych nazw by³o mi bardzo znanych.
+
+(57, 27, 0) ***Zdarzenie***
+Wiadomoœæ:
+Naiwnoœci¹ by³oby zak³adaæ, ¿e stocznia sterowców po prostu pozostanie bez ochrony. Gdy tylko zbli¿yliœmy siê do sterowców, zza wzgórz wy³oni³a siê horda automatonów — setki! — Jakiœ dziwnie znajomo wygl¹daj¹cy wynalazca wydawa³ im rozkazy
+
+(49, 65, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed nami pojawi³ siê kamienny mur z nietypowo wygl¹daj¹c¹ bram¹, a przed nim sta³ mê¿czyzna o wygl¹dzie górnika. 	„Nie mo¿esz przejœæ? Ja te¿ nie. Ta brama zosta³a zbudowana, aby uniemo¿liwiæ komukolwiek przejœcie przez portal do Rotwangu. Kiedyœ by³y klucze do otwierania bramy, ale barbarzyñca Wededh oszuka³ naszego pana i je zabra³.”
+Rozumiem, ¿e nadal nie znalaz³eœ kluczy? W takim razie bêdziemy musieli poszukaæ tego barbarzyñcy.
+Œwietnie, te klucze pasuj¹ do zamka! Otworzymy bramê?
+
+(35, 98, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(47, 3, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(33, 15, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(15, 26, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(35, 25, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(67, 9, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(32, 16, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(46, 4, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(68, 97, 0) ***Tabliczka***
+Wiadomoœæ:
+Strze¿ siê Rdzwych Smoków!
+
+(72, 0, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(14, 12, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(14, 11, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(24, 90, 0) ***Najemnik***
+Wiadomoœæ:
+Zza rogu wy³oni³a siê garstka najemników. Ustawili siê w jeden szereg na koñcu ulicy i wycelowali w nas broñ. Jeden wyszed³ naprzód; mia³ na sobie idealnie wyprasowany, czarny jak wêgiel strój i wypolerowany na olœniewaj¹cy po³ysk napierœnik. Dziwny widok; nigdy wczeœniej nie widzia³em najemnika tak dbaj¹cego o swój wygl¹d. Jak mo¿na mieæ nadziejê, ¿e pozostanie siê tak eleganckim, przemierzaj¹c pustkowia tygodniami, œpi¹c na go³ej ziemi i czo³gaj¹c siê wœród spiczastych ska³ i ciernistych krzewów? NajwyraŸniej coœ w ich opisie stanowiska i podejœciu do obowi¹zków uleg³o zmianie, gdy mnie nie by³o... 		Wystrojony najemnik splun¹³ na ziemiê i przemówi³ chrapliwie: 	„Zgodnie z rozkazem szeœæ ³amane na szeœæ Najwy¿szego Nadzorcy Kastore'a, macie dobrowolnie z³o¿yæ broñ i udaæ siê do miejskiego wiêzienia, sk¹d zostaniecie przewiezieni do Burton i postawieni przed uczciwym s¹dem za sabota¿ i zdradê”. 		„Zdradê?! W³aœnie wróciliœmy z d³ugiej podró¿y. Byliœmy z dala od ziem Jadame przez miesi¹ce, a ten twój Kastore doskonale o tym wie! To musi byæ jakaœ pomy³ka—” 		„Zamknij siê! Albo poddasz siê pokojowo, albo wymienimy wasze g³owy za obiecan¹ nagrodê... Hmm. Jeœli nagroda jest taka sama, to chyba moglibyœmy trochê poæwiczyæ nasze strzelanie... co o tym myœlisz, Gerth?” 		Najemnik po prawej stronie przywódcy wykrzywi³ usta w cynicznym uœmiechu.
+
+(36, 97, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(16, 84, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Niedawne osuwisko zablokowa³o wejœcie do tej jaskini. Oczyszczenie przejœcia bêdzie wymaga³o 25 drewna i 25 rudy na podpory oraz 25 klejnotów na zap³atê in¿ynierom.
+Niedawne osuwisko zablokowa³o wejœcie do tej jaskini. Oczyszczenie przejœcia bêdzie wymaga³o 25 drewna i 25 rudy na podpory oraz 25 klejnotów na zap³atê in¿ynierom.
+Czy chcesz oczyœciæ przejœcie?
+
+(31, 93, 1) ***Rycerz œmierci***
+Nazwa:
+Urdeon
+
+(78, 40, 1) ***Chata proroka***
+Wiadomoœæ:
+S³ysza³eœ ju¿, ¿e ta przestronna jaskinia jest czêsto odwiedzana przez szczurokszta³tnych przemytników. Byæ mo¿e to tutaj trzymaj¹ swoje skarby. 	W jednej z chat w jaskini natykasz siê na podstêpnego goœcia. 	„Jeœli przyszed³eœ tu w poszukiwaniu towarów, zapomnij o tym! Kiedyœ przemycaliœmy rzeczy do Burton, ale wojska Kastore'a odciê³y teraz wszystkie drogi prowadz¹ce do tego miasta. Si³¹ blokuj¹c¹ jedn¹ z nich jest banda dowodzona przez wynalazcê Eanswythe'a. Gdybyœ po³o¿y³ kres temu problemowi, podzielilibyœmy siê z tob¹ czymœ wartoœciowym”.
+Przemytnicy zajmuj¹ siê swoimi sprawami. Najlepiej zbytnio im nie przeszkadzaæ.
+S³yszeliœmy o twoim zwyciêstwie. Ach tak, nagroda... Oto magiczne buty, które niedawno zdobyliœmy od piratów z Regnan. Zadowolony?
+
+(69, 54, 1) ***Chata proroka***
+Wiadomoœæ:
+S³ysza³eœ ju¿, ¿e tê przestronn¹ jaskiniê odwiedzaj¹ szczurokszta³tni przemytnicy. Byæ mo¿e to tutaj trzymaj¹ swoje skarby. 	W jednej z chat w jaskini natykasz siê na podstêpnego goœcia. 	„Jeœli przyszed³eœ tu w poszukiwaniu towarów, zapomnij o tym! Kiedyœ przemycaliœmy rzeczy do Burton, ale wojska Kastore'a odciê³y teraz wszystkie drogi prowadz¹ce do tego miasta. Si³¹ blokuj¹c¹ jedn¹ z nich jest banda dowodzona przez nies³awnego najemnika Jangaarda. Gdybyœ po³o¿y³ kres temu problemowi, podzielilibyœmy siê z tob¹ czymœ wartoœciowym”.
+Przemytnicy zajmuj¹ siê swoimi sprawami. Najlepiej zbytnio im nie przeszkadzaæ.
+S³yszeliœmy o twoim zwyciêstwie. Ach tak, nagroda... Tutaj: magiczny p³aszcz, który niedawno zdobyliœmy od ogrów. Zadowolony?
+
+(96, 48, 1) ***Chata proroka***
+Wiadomoœæ:
+S³ysza³eœ ju¿, ¿e tê przestronn¹ jaskiniê odwiedzaj¹ szczurokszta³tni przemytnicy. Byæ mo¿e to tutaj trzymaj¹ swoje skarby. W jednej z chat w jaskini natykasz siê na podstêpnego goœcia. „Jeœli przyszed³eœ tu w poszukiwaniu towarów, zapomnij o tym! Kiedyœ przemycaliœmy rzeczy do Burton, ale wojska Kastore'a odciê³y teraz wszystkie drogi prowadz¹ce do tego miasta. Si³¹ blokuj¹c¹ jedn¹ z nich jest banda dowodzona przez nies³awnego najemnika Zarghebara. Gdybyœ po³o¿y³ kres temu problemowi, podzielilibyœmy siê z tob¹ czymœ wartoœciowym”.
+Przemytnicy zajmuj¹ siê swoimi sprawami. Najlepiej zbytnio im nie przeszkadzaæ.
+S³yszeliœmy o twoim zwyciêstwie. Ach tak, nagroda... Oto magiczny gad¿et, który niedawno zdobyliœmy od bandytów. Zadowolony?
+
+(39, 72, 1) ***Chata proroka***
+Wiadomoœæ:
+Dowiadujesz siê, ¿e drzwi chaty maj¹ ogromny zamek. Od razu zauwa¿asz niezwyk³y otwór na klucz w kszta³cie... Emblematu Wiedzy.
+Czujesz, ¿e nie znajdziesz Emblematu Wiedzy.
+Czy chcesz otworzyæ drzwi chaty?
+W chacie wita ciê potê¿ny minotaur. 	„Nie patrz tak na mnie”, mówi, „Nie jestem jednym z popleczników Kastore! Wrêcz przeciwnie, przez ostatnie kilka miesiêcy moi bracia i ja stoczyliœmy wiele walk z bandytami wynajêtymi przez tego... elfa. I oœmielaj¹ siê nazywaæ siebie minotaurami!”, oczy potwora œwiec¹ groŸnie. „S³uchaj. Widzia³em, jak walczysz. Twoje ramiona s¹ w porz¹dku, ale broñ nie jest jedynym Ÿród³em si³y wojownika. My, minotaury, nie jesteœmy silnymi wojownikami; mamy wœród nas równie¿ magów. Mogê ciê wyszkoliæ, ¿ebyœ sprawi³, ¿e twoi wrogowie postradaj¹ zmys³y, ale zazwyczaj nie zdradzamy naszych sekretów osobom z zewn¹trz. Jednak jestem gotów zrobiæ dla ciebie wyj¹tek. Przynieœ mi 75 drewna, 75 rudy, 75 kryszta³ów, 75 klejnotów, 75 siarki, 75 rtêci i 75000 z³ota, a zdradzê ci nasz sekret.
+„To za ma³o!”, warczy minotaur. „Nie przychodŸ do mnie wiêcej z takim marnym groszem, bo po¿a³ujesz!”
+„Czy chcesz daæ zasoby minotaurowi?”
+Mogê ciê teraz nauczyæ zaklêcia Berserk, ale ¿eby ci pomóc potrzebujê zwoju lub ksi¹¿ki z tym zaklêciem! Nie wiem, gdzie mo¿esz zdobyæ taki zwój, ale mo¿esz znaleŸæ coœ w skarbnicy Rdzawych Smoków niedaleko st¹d. Uwa¿aj jednak! Roz³o¿y³o siê tam najwiêksze stado tych stworzeñ, jakie kiedykolwiek widzia³em!
+„Gdzie jest zwój?”, warczy minotaur. „Nie przychodŸ do mnie wiêcej z pustymi rêkami, bo po¿a³ujesz!”
+„Czy chcesz nauczyæ siê zaklêcia Berserk w zamian za zwój?”
+
+(79, 92, 1) ***Druid***
+Nazwa:
+Xaver
+
+(75, 94, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(54, 50, 1) ***Chata proroka***
+Wiadomoœæ:
+Reprezentujê Gildiê Kupieck¹. Kiedyœ kupowa³em drewno z Murmurwoods, ale ostatnio dowiedzia³em siê, ¿e w tej okolicy mo¿na kupiæ równie¿ drewno doskona³ej jakoœci i w niskiej cenie. Jestem gotów zap³aciæ za nie rzadkimi zasobami!
+Reprezentujê Gildiê Kupieck¹. Kiedyœ kupowa³em drewno z Murmurwoods, ale ostatnio dowiedzia³em siê, ¿e w tej okolicy mo¿na kupiæ równie¿ drewno doskona³ej jakoœci i w niskiej cenie. Jestem gotów zap³aciæ za nie rzadkimi zasobami!
+Kupiæ 1 jednostkê rtêci za 25 jednostek drewna?
+Reprezentujê Gildiê Kupieck¹. Kiedyœ kupowa³em drewno z Murmurwoods, ale ostatnio dowiedzia³em siê, ¿e w tej okolicy mo¿na kupiæ równie¿ drewno doskona³ej jakoœci i w niskiej cenie. Jestem gotów zap³aciæ za nie rzadkimi zasobami!
+Reprezentujê Gildiê Kupieck¹. Kiedyœ kupowa³em drewno z Murmurwoods, ale ostatnio dowiedzia³em siê, ¿e w tej okolicy mo¿na kupiæ równie¿ drewno doskona³ej jakoœci i w niskiej cenie. Jestem gotów zap³aciæ za to rzadkimi zasobami!
+Kupiæ 1 jednostkê siarki za 25 jednostek drewna?
+
+(4, 15, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(7, 15, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(10, 15, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(13, 15, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 13, 1) ***Wiêzienie***
+Nazwa:
+Valqest
+
+(7, 8, 1) ***Wiêzienie***
+Nazwa:
+Yargo
+
+(9, 8, 1) ***Wiêzienie***
+Nazwa:
+Skrell
+
+(11, 8, 1) ***Wiêzienie***
+Nazwa:
+Stina
+
+(14, 8, 1) ***Wiêzienie***
+Nazwa:
+Seneth
+
+(16, 8, 1) ***Wiêzienie***
+Nazwa:
+Winzells
+
+(21, 8, 1) ***Wiêzienie***
+Nazwa:
+Jerhesh
+
+(25, 8, 1) ***Wiêzienie***
+Nazwa:
+Reventyr
+
+(23, 8, 1) ***Wiêzienie***
+Nazwa:
+Elderian
+
+(31, 5, 1) ***Zdarzenie***
+Wiadomoœæ:
+death
+
+(9, 3, 1) ***Wiêzienie***
+Nazwa:
+Terghez
+
+(11, 3, 1) ***Wiêzienie***
+Nazwa:
+Razargal
+
+(16, 3, 1) ***Wiêzienie***
+Nazwa:
+Horoagh
+
+(18, 3, 1) ***Wiêzienie***
+Nazwa:
+Phott
+
+(23, 3, 1) ***Wiêzienie***
+Nazwa:
+Guerhaugh
+
+(25, 3, 1) ***Wiêzienie***
+Nazwa:
+Strobus
+
+(13, 13, 1) ***Barbarzyñca***
+Nazwa:
+Banbragh
+
+(7, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(9, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(11, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(14, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(16, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(18, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(21, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(23, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(25, 6, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(13, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(16, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(18, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(20, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(46, 0, 1) ***Fabryka***
+Nazwa:
+511
+
+Zdarzenia czasowe:
+
+Nazwa:
+511 - Grail damage build
+Wiadomoœæ:
+
+
+(43, 0, 1) ***Fabryka***
+Nazwa:
+431
+
+Zdarzenia czasowe:
+
+Nazwa:
+431 - Grail damage build
+Wiadomoœæ:
+
+
+(40, 0, 1) ***Fabryka***
+Nazwa:
+411
+
+Zdarzenia czasowe:
+
+Nazwa:
+411 - Grail damage build
+Wiadomoœæ:
+
+
+(36, 0, 1) ***Fabryka***
+Nazwa:
+331
+
+Zdarzenia czasowe:
+
+Nazwa:
+331 - Grail damage build
+Wiadomoœæ:
+
+
+(33, 0, 1) ***Fabryka***
+Nazwa:
+244
+
+Zdarzenia czasowe:
+
+Nazwa:
+244 - Grail damage build
+Wiadomoœæ:
+
+
+(30, 0, 1) ***Fabryka***
+Nazwa:
+221
+
+Zdarzenia czasowe:
+
+Nazwa:
+221 - Grail damage build
+Wiadomoœæ:
+
+
+(9, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(11, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(1, 3, 1) ***Wiêzienie***
+Nazwa:
+Gohh
+
+(3, 3, 1) ***Wiêzienie***
+Nazwa:
+Rumeon
+
+(1, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(5, 1, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(7, 3, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+===== Koniec pliku =====

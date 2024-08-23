@@ -1,0 +1,677 @@
+===== Nazwa mapy =====
+Smo³owate i pierzaste
+
+===== Opis mapy =====
+Henrietta i Wynona musz¹ pokonaæ Pactala i przeprowadziæ staro¿ytny rytua³, aby stworzyæ tajemniczego Karmazynowego Koatla. Twoi bohaterowie s¹ ograniczeni do poziomu 20, ale przenios¹ swoje doœwiadczenie i Kapelusz Admira³a do nastêpnego scenariusza.
+
+===== Pog³oski =====
+
+Nazwa:
+Pactal's Tribe
+Tekst:
+Pactal i jego plemiê podbi³o wiêkszoœæ wysp tego archipelagu.
+
+Nazwa:
+Couatl Hunt
+Tekst:
+Plemiê Paktala poluje na koatle, a na wyspach nie ma ju¿ ich prawie wcale. Mówi¹, ¿e reszta ukrywa siê pod ziemi¹.
+
+Nazwa:
+Basilisk/Gorgon Lairs
+Tekst:
+Na naszych wyspach bazyliszki i gorgony wol¹ zak³adaæ swoje legowiska w jaskiniach.
+
+Nazwa:
+Researcher of Amberlian Empire Ruins
+Tekst:
+Badacza z Jadame widziano na zachodniej wyspie w pobli¿u ruin. Wygl¹da na to, ¿e studiuje staro¿ytne artefakty.
+
+Nazwa:
+Crimson Couatls
+Tekst:
+Szkar³atne p³aszcze by³y ostatnio widziane kilka wieków temu. Tylko jedno plemiê zna sekret ich hodowli.
+
+Nazwa:
+Serpentmen
+Tekst:
+Wiele staro¿ytnych œwi¹tyñ na tych wyspach zosta³o zbudowanych w czasach staro¿ytnych przez wê¿owców.
+
+Nazwa:
+Slavers
+Tekst:
+Handlarze niewolnikami i piraci odwiedzaj¹ te wyspy coraz czêœciej, wykorzystuj¹c konflikty pomiêdzy plemionami jaszczuroludzi.
+
+Nazwa:
+Slave market
+Tekst:
+Handlarze niewolnikami rozbili swój obóz bardzo blisko tego miejsca. Zauwa¿ono nawet jakieœ koatle w swoich klatkach!
+
+Nazwa:
+Dagdaro
+Tekst:
+Czarnoksiê¿nik Dagdaro osiad³ w jednej z wulkanicznych jaskiñ. Mówi¹, ¿e bada schwytane koatle i planuje wykorzystaæ je do stworzenia okropnych potworów.
+
+Nazwa:
+Areshrak
+Tekst:
+Areshrak jest praw¹ rêk¹ jaszczurocz³ea Paktala. Niektórzy zapewniali mnie, ¿e jego ³owcom uda³o siê nawet ujarzmiæ kilka rdzawych smoków!
+
+Nazwa:
+Ha'Ora
+Tekst:
+Ostatni raz widziano wiedŸmê Ha’Orê w jaskiniach. Ona jedna wie, jak przywo³ywaæ statki zaklêciami.
+
+Nazwa:
+Pyramid Island
+Tekst:
+Raz na sto lat wyspa Wielkiej Piramidy wy³ania siê z dna morza. Pospiesz siê, bo inaczej bêdzie za póŸno!
+
+Nazwa:
+Stoic Watchman Hint
+Tekst:
+Skarby mo¿na czasem znaleŸæ w dziuplach du¿ych drzew.
+
+Nazwa:
+Dagger Wound
+Tekst:
+Inne plemiê jaszczuroludzi zamieszkuje wyspê Dagger Wound, po³o¿on¹ daleko na wschodzie, na drugim krañcu Morza Ifarine.
+
+Nazwa:
+Mist
+Tekst:
+Na zachód st¹d, na wschodnim Morzu Enroth, le¿¹ Wyspy Mgliste, jedno z najwiêkszych oœrodków mistrzostwa magii na œwiecie.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+AI - minus res
+Wiadomoœæ:
+
+
+Nazwa:
+AI - bonus gold, wood, sulfur
+Wiadomoœæ:
+
+
+Nazwa:
+Expedition
+Wiadomoœæ:
+Nie wiem do koñca, jakie mia³em nadzieje, wyruszaj¹c na tê wyprawê. Latanie w powietrzu by³o dla mnie po prostu ekscytuj¹ce... Wszystko w nim wydawa³o siê magiczne, a kraina poni¿ej wydawa³a siê niesamowita i tajemnicza, nawet jeœli by³a to martwym, nagim i przypominaj¹cym skorupkê jajka pustkowiem. A tutaj, na tych wyspach... Chyba spodziewa³em siê zobaczyæ coœ niezwyk³ego, ale kiedy pofalowana, b³êkitna tafla morza skoñczy³a siê pod nami i zaczêliœmy szybowaæ nad d¿ungl¹, po prostu nic ju¿ nie widzia³em. Jedyne, co uda³o mi siê dostrzec, to b³otnista zieleñ, prawie ca³kowicie ukryta pod kêpami wilgotnej mg³y. Cisza. Chmury powy¿ej i k³êbi¹ca siê mg³a poni¿ej. Przez wiele dni Wynona z entuzjazmem opowiada³a mi o cudach natury, które kiedyœ widzia³a na Wyspach Dagger Wound po drugiej stronie morza, ale teraz nawet ona wydawa³a siê smutna i cicha. Bior¹c pod uwagê tak s³ab¹ widocznoœæ, nie mogliœmy nawet sporz¹dzaæ map. 		Œmig³a naszych sterowców miota³y siê w wilgotnym, lepkim powietrzu pewnie i w dobrym rytmie. Ten, na którym jechaliœmy, by³ nowym, masowo produkowanym modelem, z balonami z grubej tkaniny i niezawodnymi silnikami zasilanymi paliwem p³ynnym destylowanym z ziemnego oleju. Frederick ledwo móg³ powstrzymaæ swój zachwyt, gdy pokazywa³ mi statek z pierwszej serii, a jego oczy lœni³y; minê³o du¿o czasu, odk¹d widzia³em go w takim stanie. Prawdopodobnie nie, odk¹d mieszkaliœmy w Eeofol. Gor¹czkowo potrz¹sa³ piêœci¹ i be³kota³, ¿e ten model nie wymaga ¿adnych bezcennych magicznych artefaktów, a tym samym zrewolucjonizuje ¿ycie na planecie; jak Enroth w ci¹gu nocy skurczy³ siê do rozmiarów pomarañczy; i jak przedostanie siê na inny kontynent bêdzie wkrótce tak proste, jak zabranie wózka z kucykami do nastêpnej wioski na jarmark. Tyle, ¿e musieliœmy jeszcze wczeœniej przeprowadziæ testy niezawodnoœci, zasobów i zasiêgu... Tak mia³em. Z t¹ karawan¹. I oczywiœcie wszystko mog³o nam siê przytrafiæ w drodze, ale naprawdê mi to nie przeszkadza³o. 		Im wiêcej ziemi znajdowa³o siê pod kontrol¹ Burtona i im dalej ros³y nowe, fabryczne miasta, tym rzadziej mog³em osobiœcie wyruszaæ na misje zwiadowcze i tym wiêcej czasu musia³em spêdzaæ na studiowaniu raportów zwiadowców, tworzeniu planów i rozmowach z innymi decydentami. Razem z podw³adnymi æwiczê te¿ w grach wojennych... tak, skauci byli uwa¿ani za czêœæ si³ zbrojnych Wspólnoty Nowej Ziemi – tak w oficjalnych dokumentach nazywano zwi¹zek naszych miast. Terra Nova – s³owa z jakiegoœ zapomnianego jêzyka skrybów. Nie wiem, jak i sk¹d wiedza o tym siê rozprzestrzeni³a, ale ostatnio coraz czêœciej mo¿na by³o us³yszeæ wœród rzemieœlników s³owa lub ca³e frazy w tym uroczyœcie brzmi¹cym jêzyku. 		"Regia solis erat sublimibus alta columnis" – mrukn¹³em do siebie, próbuj¹c zrozumieæ cokolwiek poni¿ej. W ci¹gu ostatniej godziny coœ nieznacznie zmieni³o siê w sposobie naszego lotu, jakby statek mia³ trudnoœci z utrzymaniem wysokoœci, a warkot silnika sta³ siê nieco napiêty. Podszed³ do mnie marynarz pe³ni¹cy wachtê, a na jego brudnej twarzy widaæ by³o zmartwienie. 		„Szefie, materia³ balonów zasysa wodê jak pompa. Jest tu za mokro. Tracimy wysokoœæ, a paliwo ledwo siê pali; dym jest pe³en sadzy. 		„Zrozumia³em, Borys. IdŸ i zobacz, co siê dzieje z ³o¿yskami oporowymi; coœ skrzypi na wale. A ja...” 		W nastêpnej minucie strza³a trafi³a w pok³ad miêdzy nami. Rzuci³em siê w bok; gdy rozmawialiœmy, nasz statek straci³ wysokoœæ tak bardzo, ¿e kil niemal ociera³ siê o wierzcho³ki drzew! Dopiero teraz uda³o mi siê coœ dostrzec w tym zielonym morzu. Mnóstwo wysokich, krzywych i poskrêcanych pni, przypominaj¹cych ¿ywop³ot. Ponad st³umionym kaszlem silnika dudni³y odg³osy ziemi: szelest, bulgotanie, trajkotanie, piski... i przysiêgam, ¿e s³ysza³em szalone krzyki dochodz¹ce z setek ust, a tak¿e ryk kilku bardzo du¿ych stworzeñ. Strza³y lecia³y z lasu; wiêkszoœæ zosta³a wystrzelona z si³¹ niewystarczaj¹c¹, aby dosiêgn¹æ naszego statku, ale kilka uderzy³o w burty i pok³ad. Ciê¿kie, d³ugie i ostre strza³y o pstrokatym upierzeniu. 		„Zrzuæ balast! Teraz! Musimy nabraæ wysokoœci!”, krzykn¹³em i pobieg³em do kranów na dolnym pok³adzie. Nabraliœmy wody jako balastu, a teraz trzeba j¹ spuœciæ. 		Kiedy schodzi³em po trapie – twarz¹ do przodu, jak nauczy³ mnie Boris, marynarz z wieloletnim doœwiadczeniem – wokó³ naszego statku migota³y ogromne cienie, us³ysza³em warczenie, syki, krzyki mojej przera¿onej za³ogi i wreszcie trzask, gdy nasz balon pêk³ wci¹¿ lecimy – to prawda, traciliœmy wysokoœæ i ledwo poruszaliœmy œmig³ami, ale wci¹¿ ko³ysaliœmy siê w powietrzu – a teraz nie mieliœmy pojêcia, dok¹d. Nie mam pojêcia, jak daleko jest ziemia i co jest tam na dole. Wszystko czego pragn¹³em to przetrwaæ to.
+
+Nazwa:
+Snakes and Dreadnoughts
+Wiadomoœæ:
+Có¿ to by³o za zaskakuj¹ce miejsce. Nie, niezbyt mi³o zaskakuj¹ce; wrêcz przeciwnie. Wielu z nas, którzy prze¿yli katastrofê, mog³o nie do¿yæ nawet nastêpnego ranka; ten wilgotny, cuchn¹cy las by³ nie tylko wrogi, ale po prostu pe³en nienawiœci do nas, jakby w odwecie za to, ¿e nasz sterowiec podczas katastrofy zrobi³ ogromn¹ polanê, przewracaj¹c dziesi¹tki gigantycznych drzew – nawet nie mog³em sobie wyobraziæ, jak by³y stare. Na szczêœcie drewno tych gigantów by³o wilgotne i miêkkie; z³ama³y siê po zderzeniu z mocnym kad³ubem naszego statku i spowolni³y nasz upadek, pomagaj¹c nam mimowolnie wykonaæ stosunkowo miêkkie l¹dowanie awaryjne. Niestety, nie obesz³o siê bez ofiar œmiertelnych. Szeœciu cz³onków za³ogi zaginê³o – prawdopodobnie wypad³o za burtê podczas upadku. Rany i kontuzje poch³onê³y ¿ycie kolejnych czterech. W pierwszych godzinach po katastrofie straciliœmy jeszcze dwóch marynarzy – jakaœ szybka bestia zaci¹gnê³a jednego w krzaki i nigdy wiêcej go nie widzieliœmy, a drugiego uk¹si³ w¹¿, którego nie zauwa¿y³ w trawie, i niemal natychmiast zmar³. 		„Uwaga! Natychmiast odsuñ siê od krzaków i drzew! Kto nie ma przydzielonej pracy, niech idzie na statek i zostaje na nim!” – rozleg³ siê g³os Wynony. 		Podczas upadku doœæ mocno uderzy³em g³ow¹ w gródŸ, skutkiem czego wykonywa³em polecenia z opóŸnieniem, nie mówi¹c ju¿ o tym, ¿e nie mia³em zielonego pojêcia, czego siê spodziewaæ po tym miejscu. Gdyby nie moja niespodziewana towarzyszka i jej ogromna wiedza, nasza wyprawa mog³aby zakoñczyæ siê jeszcze tej nocy, z prostego powodu – œmierci wszystkich jej uczestników. Ale nie: kiedy dochodzi³em do siebie, mroczny elf w pe³ni dowodzi³, pokazuj¹c ludziom, które drzewa mo¿na wyci¹æ, a do których nigdy nie nale¿y siê zbli¿aæ, gdzie i z czego rozpalaæ ogniska, jak wi¹zaæ i przycinaæ ubrania, aby nie dopuœciæ te niebezpiecznym ma³e stworzenia przed dotarciem do cia³a, jak wycisn¹æ z gêstych wê¿owych pn¹czy p³yn gasz¹cy pragnienie i tak dalej. 		Mój wzrok by³ niewyraŸny i wygl¹da³o, jakby po obozie biega³y trzy lub cztery Wynony naraz, wykrzykuj¹c rozkazy, zachêcaj¹c, uderzaj¹c powolnych, wymachuj¹c toporami i rozpalaj¹c œmierdz¹ce, dymi¹ce ogniska, aby odpêdziæ owady. W koñcu elf, sapi¹c g³oœno, opad³ obok mnie na k³odê. W jej d³oni trzyma³a dziwacznie obrzydliwie wygl¹daj¹c¹ stonogê – Wynona przegryza³a pierœcienie jej pancerza i z apetytem coœ wysysa³a. Gdybym nie rzuci³ siê do ty³u, gdy wci¹¿ spadaliœmy, z pewnoœci¹ zrobi³bym to teraz – choæ wydawa³oby siê, ¿e ka¿dy, kto lubi³ jeœæ œwie¿o wyjêt¹, wci¹¿ gor¹c¹, w¹tróbkê pancernika, nie powinien wstydziæ siê ¿adnego egzotycznego dania na œwie¿ym powietrzu. „Jak siê czujesz, dowódco? Pozwól mi na ciebie spojrzeæ. Och, twoje oczy s¹ ca³e czerwone, co po urazie g³owy nie jest dobrym objawem. 		„Prze¿yjê, dziêki. To minie. Nie mam ju¿ zawrotów g³owy ani nawet nie mam md³oœci". 		„No có¿, dziêki bogom. S³uchaj, nie mo¿emy tu zostaæ. Rozbiliœmy siê w najgorszym miejscu, jakie mo¿na sobie wyobraziæ – jest tam ogromne mrowisko i kilka „kot³ów czarownic” – to do³y pe³ne wê¿y. I prawie wszystko, co tu widzia³em – przynajmniej to, co rozpozna³em – jest tak samo truj¹ce jak jêzyk mojej by³ej teœciowej. Gdy jeszcze byliœmy na nogach, widzia³em czystszy i bardziej suchy obszar na wschód st¹d”. 		„Wiêc tam siê udamy. Dziêkujê. Gdyby nie twoja wiedza i umiejêtnoœci, to byœmy...” 		„Nie wspominaj o tym. Wiedzia³em, ¿e to mo¿e siê zdarzyæ i to kolejny powód, dla którego poprosi³em ciê, ¿ebyœ mnie przyj¹³. Nawiasem mówi¹c, widzia³am coœ jeszcze – mo¿e byæ wa¿ne. Pamiêtasz tê ogromn¹, nadêt¹ bañkê statku, która przelecia³a za nami? 		„Tak, to eksperymentalny model ³adunku. Ma dwie gondole, jedn¹ dla silnika, drug¹ dla ³adowni. 		„Teraz pos³uchajcie: widzia³em, jak ta czêœæ ³adowni odpada³a z balonu i rozpada³a siê w powietrzu, a z niej wypad³o kilka metalowych kawa³ków. Kiedy to siê sta³o, statek lecia³ ju¿ doœæ nisko. Jeœli te rzeczy siê do czegoœ nadadz¹, mo¿emy ich poszukaæ. Byæ mo¿e prze¿y³y katastrofê. Myœlê, ¿e powinniœmy sprawdziæ na pó³noc st¹d”. 		"Naprawdê?! To s¹ drednoty! Zarekrutowaliœmy ich do naszej wyprawy, aby pomogli nam ci¹gn¹æ ciê¿kie ³adunki, kiedy i jeœli zdecydujemy siê na za³o¿enie sta³ego obozu. Có¿, obóz czy nie obóz, naprawdê przyda³yby nam siê teraz te maszyny. A co jeœli ponownie odwiedz¹ nas te... ptaki? Jaszczurki? Czymkolwiek s¹ te lataj¹ce istoty, które wpakowa³y nas w te opa³y. Zobaczmy, jak im siê podoba obróbka promieniami cieplnymi!”
+
+Nazwa:
+Tlamac Hundred Thoughts
+Wiadomoœæ:
+Te lasy wydaj¹ siê zbyt dziwne. Ju¿ dawno przesta³am baæ siê ciemnych i nieznanych dŸwiêków, ale tutaj, kiedy pe³niê nocn¹ stra¿¹ przy ognisku, coœ sprawia, ¿e czujê siê bardzo nieswojo. To tak, jakby ktoœ próbowa³ czytaæ w moich myœlach i wk³adaæ do g³owy cudze... 		Dziœ wieczorem przej¹³am wachtê Wynony tu¿ przed œwitem. W³aœnie wtedy, gdy czujesz siê najbardziej œpi¹cy... Aby siê o¿ywiæ, wyjê³am instrument, który zrobi³ mi stary mechanik. Ju¿ jako dziecko próbowa³am nauczyæ siê graæ na gwizdku – flecie trzcinowym, z którego ka¿de dziecko w Eeofol mog³oby wydobywaæ radosne lub marzycielskie melodie. Niestety, w ogóle nie mia³am s³uchu do muzyki. Nie potrafi³am nawet zagraæ najprostszej piosenki ze wszystkich, tej o g³upiej ropusze, któr¹ najmniejsze dzieci poradzi³y sobie bez problemu. Inne dzieci naœmiewa³y siê ze mnie a ja wkurza³am siê i wy¿ywa³em na nich, i tak to siê krêci³o... 		Któregoœ wieczoru us³ysza³am dŸwiêk tego instrumentu w Burton. By³ dziwny i niepodobny do niczego, co kiedykolwiek wczeœniej s³ysza³am; rozprzestrzenia³ siê po pustkowiu niczym krêgi na wodzie, a moje serce zatrzepota³o w rytm tego dŸwiêku. Ku mojej radoœci granie na niej nie wymaga³o znajomoœci nut ze s³uchu; Rougar, mistrz we wszystkim, co robi³, chêtnie pokaza³ mi, jak na nim graæ i zrobi³ dla mnie mniejsz¹. Nazywa³ to harf¹ szczêkow¹. 		Przy³o¿y³am harfê do zêbów i lekko dotknê³am jêzykiem. Zung... DŸwiêk przelecia³ nad polan¹, na której obozowaliœmy. Od razu wyczu³am, ¿e dzieje siê coœ dziwnego i nieoczekiwanego, ale nie mog³em siê powstrzymaæ. Z ciemnej plamy lasu wy³oni³a siê wysoka, niewyraŸna postaæ; sz³a w moj¹ stronê, jakby oscylowa³ w rezonansie z dŸwiêkiem. 		„Pozdrawiam ciê, ma³a kobietko. Raz w ¿yciu szaman mo¿e zobaczyæ przysz³oœæ – a ostatnio zosta³o mi objawione, ¿e przyjdziesz i odmienisz mój los. Có¿, nie wiedzia³em, ¿e to bêdziesz dok³adnie ty; ale ty dzier¿ysz Pieœñ Duchów, pos³añca, który dostarcza nasze modlitwy bogom. Nie mo¿e byæ mowy o pomy³ce: to na ciebie czeka³em". 		Zdawa³o mi siê, ¿e ten g³os brzmia³ nie w rzeczywistoœci, ale prosto w mojej g³owie. Teraz widzia³em wyraŸniej; przede mn¹ sta³ imponuj¹cy Jaszczurocz³ek, przepasany zmatowia³ym, ciê¿kim z³otym ³añcuchem. Mówi¹, ¿e jaszczuroludzie przez ca³e ¿ycie nie przestaj¹ rosn¹æ – i có¿, nigdy wczeœniej nie widzia³em takiego olbrzyma. By³ jednak niewiarygodnie w¹t³y, pajêczyna naroœli na g³owie by³a obwis³a, a zêby zniszczone. Zda³am sobie sprawê, ¿e nie by³ to wojownik o niespotykanej mocy, ale po prostu bardzo stary jaszczurocz³ek. 		„Tlamac Sto Myœli to moje imiê. Jeœli nie masz nic przeciwko, przyjdê do ciebie od czasu do czasu i poopowiadam historie o mnie, moich ludziach i tym miejscu. Wyczuwam, ¿e jesteœ g³odna wiedzy i wiem, ¿e bêdziesz jej potrzebowaæ, jeœli chcesz tu przetrwaæ i znaleŸæ to, czego pragniesz”. 		„Czego... pragnê?” 		„Jesteœ samotna, ma³a kobietko. Byæ mo¿e sama tego nie wiesz, ale Twoje serce nie chce byæ samotne. Obawiasz siê, ¿e b³êdnie oceni³aœ osoby, które do tej pory uwa¿a³aœ za bliskie tobie, i byæ mo¿e masz racjê. Nie bój siê; ju¿ znalaz³eœ we mnie przyjaciela i znajdziesz nowych. Niektóre w pobli¿u, a inne w miejscach, gdzie... Ale o tym porozmawiamy innym razem. PrzyjdŸ i spotkaj siê ze mn¹ w mojej chacie. Powiem ci, co znajdziesz w tych krainach i pomogê ci zrozumieæ, jak to zrobiæ.” 		Zamruga³am kilka razy, oniemia³a, a kiedy ponownie szeroko otworzy³am oczy, nikogo tam nie by³o. Tylko ciemny las i blask ognia. Spojrza³am wstecz. Wynona sta³a kilka stóp za mn¹. 		"Widzia³eœ to? Widzia³eœ go?! Ten, z którym rozmawia³em? 		"Hmm. Có¿, na pewno coœ widzia³am. Mo¿esz mi powiedzieæ, co to by³o? Albo kto? A co to by³a za dziwna muzyka? Przysiêgam, ¿e przez ca³y czas tylko to s³ysza³am – ani jednego s³owa. I wiesz, ¿e ufam swoim uszom.”
+
+Nazwa:
+Tribes of Lizardmen
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		Ka¿dy w tym lesie ma swój w³asny rodzaj prawdy. Legendy mówi¹, ¿e s¹ miejsca, gdzie ¿ycie jest zupe³nie inne... i teraz, kiedy ciê znam, wierzê, ¿e to prawda. Teraz, gdy ca³ym twoim œwiatem jest œmieræ, która zawsze bêdzie bardziej cierpliwa od ciebie – dziœ lub jutro z pewnoœci¹ padniesz jej ofiar¹... Ale dopóki tego nie zrobisz, zrobisz wszystko, aby wyrzeŸbiæ sobie swoje ma³e miejsce pod s³oñcem . Plemiona k³óci³y siê odk¹d pamiêtamy. Kiedyœ jednak byliœmy spokojni. Znaliœmy nasze sposoby na przetrwanie w tych lasach — znalezienie po¿ywienia, miejsca do spania i bezpiecznego rozmna¿ania siê. Nie mieliœmy o co siê k³óciæ... dopóki nie by³o nas zbyt wielu. 		Moje plemiê nazywa³o siê wtedy Kamienne Dzieci – zapuœciliœmy siê do kilku g³êbokich jaskiñ pod klifami Niebieskiego Szponu, ch³odnych i suchych, i tam osiedliliœmy siê. Nasze kobiety da³y nam silne i liczne dzieci i ³atwo by³o nam tam odpieraæ drapie¿niki i wrogów. Ci, którym nie uda³o siê znaleŸæ takiego bezpiecznego schronienia, nadal ¿yli po staremu: w³óczyli siê po lasach i celebrowali ka¿dy dzieñ, w którym nikt nie umar³ ani nie zosta³ zjedzony... a w ich sercach ros³a zazdroœæ i nienawiœæ do tych, którym uda³o siê to osi¹gn¹æ, przerwaæ odwieczny cykl. Do nas. 		Nie by³o miêdzy nimi jednoœci; istnia³o kilka plemion, ka¿de z w³asnym przywódc¹ oraz w³asnymi zwyczajami. A miêdzy nimi pola³a siê ju¿ krew... a jednak znalaz³ siê ktoœ, kto pokaza³ im wspólny cel. Wiedzieli, ¿e wkrótce rzuc¹ siê sobie do garde³, ale Tepotl Puste Oko przekona³ ich, ¿e najpierw musz¹ stan¹æ ramiê w ramiê i zetrzeæ obrazê samej istoty naszego pokrewieñstwa. Nas, Kamienne Dzieci.
+
+Nazwa:
+Couatls
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		W tamtych czasach wojownicy znali honor. Moglibyœmy pozostaæ w naszych jaskiniach, chronieni przez ich œciany. Mimo to wódz Pichi Czerwona Chmura wyprowadzi³ swoj¹ armiê nad ziemiê i zacz¹³ przygotowywaæ siê do bitwy. Nasi wojownicy byli silni i wprawni w pos³ugiwaniu siê mieczem i maczug¹, ale Tepotl mia³ ³uki. Jeden z jego oczodo³ów by³ pusty – mówiono, ¿e oko zosta³o wyrwane przez szpon wielkiego, pierzastego wê¿a. Nikt nigdy nie prze¿y³ spotkania z tym stworzeniem, najsilniejsz¹ i najniebezpieczniejsz¹ istot¹ z naszych legend – Koatlem. Tak naprawdê nie mia³o znaczenia, czy Tepotl rzeczywiœcie z nim walczy³, czy po prostu wymyœli³ niewiarygodn¹ historiê, aby wzbudziæ podziw u innych. Drugie oko widzia³o dobrze, a¿ za dobrze. Nie tylko sam opanowa³ tê podstêpn¹ broñ, ale tak¿e wyszkoli³ kilkuset wojowników. Ich ³uki by³y s³abe i s³abo strzela³y, a mimo to powali³y po³owê naszych najlepszych wojowników, zanim jeszcze dotarli do swoich szeregów. 		Ka¿dy z naszych ludzi walczy³, jakby by³ opêtany przez ducha samego Quetzala, ale to nie wystarczy³o. Upadli, a tuzin wrogów rzuci³o siê na ka¿dego, kto to zrobi³, rozdzieraj¹c najlepsz¹ czêœæ naszego plemienia, po¿eraj¹c ich serca, kalaj¹c i pl¹druj¹c ich cia³a. Bitwa jeszcze siê nie skoñczy³a, a ju¿ zacz¹³ siê miêdzy nimi spór; tu i ówdzie na przesi¹kniêtym krwi¹ polu wybucha³y potyczki i sprzeczki. Ale Stu Pe³zaczy, stra¿ przyboczna Tepotla, potê¿nych olbrzymów, z których ka¿dy wyci¹³ sobie jedno oko aby naœladowaæ swojego przywódcê, wci¹¿ atakowali pozosta³oœci naszej armii. Wkrótce musieli w³amaæ siê do naszych jaskiñ i po³o¿yæ kres ¿yciu Kamiennych Dzieci. 		I wtedy mój przodek, wielki szaman Hoatzin Kamienny Umys³, zrobi³ to, na co przygotowywa³ siê przez ca³e ¿ycie. Wbi³ nó¿ w pierœ, zaintonowa³ zaklêcie i skierowa³ swoje myœli ku Wielkiemu Wê¿owi. Jego syn, Xochi, który nie zas³u¿y³ sobie jeszcze na miano prawdziwego szamana, wyci¹gn¹³ ostrze z cia³a ojca, a tryskaj¹ca krew mieni³a siê czerwon¹ têcz¹ w promieniach zachodz¹cego s³oñca. Z niebios dobieg³ wielog³osowy ryk. Koalty przyjê³y ofiarê Hoatzina i napadli na naszych wrogów. 		Zakrwawione Pióra. Tak¹ nazwê przyjê³y resztki mojego plemienia po tej bitwie. Pierzaste Wê¿e sk¹pane we krwi Pe³zaczy i ich sojuszników, a mój ród poœwiêci³ przysz³oœæ plemienia swoim wybawicielom. W armii Tepotla by³o zbyt ma³o ocala³ych, aby dalej ¿yæ jako odrêbne plemiona. Od tamtej pory nazywano je Nocnymi Pe³zaczami, a ich ca³e ¿ycie polega³o na tropieniu i polowaniu na nas i naszych ¿ywych bogów.
+
+Nazwa:
+Pirates and slavers
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		Sto wielkich zakrêtów firmamentu temu wierzyliœmy, ¿e nasze wyspy to ca³y œwiat i ¿e my, Zakrwawione Pióra, jesteœmy jego w³adcami. Od tego czasu nauczyliœmy siê wielu rzeczy, które zniweczy³y nasze wyobra¿enia o porz¹dku wszechœwiata... W dawnych czasach unikaliœmy Gorzkich Wód, które pali³y nasz¹ skórê i tylko pilna potrzeba mog³a nas zmusiæ do wejœcia na pok³ad rzeŸbionych ³odzi i podró¿owania miêdzy wyspami. Kiedy pierzaœci bogowie pojawili siê w naszym ¿yciu, mogliœmy poprosiæ ich, aby przenieœli nas przez wody i nie baliœmy siê ju¿ podró¿owaæ po wyspach. Jednak nigdy nie widzieliœmy innej krainy ni¿ nasza, nawet jeœli wznieœliœmy siê w niebo, œciskaj¹c szyjê Koatla. 		Nawet d³ugo po tym, jak opuœciliœmy Komnaty Krwi, nigdy nie podejrzewaliœmy, ¿e za Gorzkimi Wodami istniej¹ inne czuj¹ce istoty, choæ nasze legendy g³osi³y, ¿e gdzieœ istnieje inna kraina zamieszkana przez takich jak my i ¿e mieszkaj¹ tam krewni naszych bogów. Pozostawaliœmy w nieœwiadomoœci, dopóki do naszych brzegów nie przyp³ynê³a ogromna ³ódŸ, jakiej nigdy wczeœniej nie widzieliœmy. Wyrasta³y z niej dziwne, nagie drzewa, a z ich ga³êzi zwisa³y ogromne, postrzêpione tkaniny. 		Obserwowaliœmy istoty, które wysiad³y z du¿ej ³odzi. Ich pobyt na wyspach nie by³ d³ugi; wyciêli kilka drzew, przyciêli je, przymocowali do otworów w burtach statku i odp³ynêli. Spêdzi³em kilka tygodni rozmyœlaj¹c o tym, co widzia³em i próbuj¹c wyjaœniæ to wydarzenie cz³onkom mojego plemienia, ale nie by³o wystarczaj¹co du¿o czasu, aby wyrobiæ sobie opiniê na temat stworzeñ, które widzia³em. Pewnego dnia na morzu pojawi³o siê kilka ³odzi takich jak pierwsza; trzy z nich mia³o czarne ¿agle, a dwie inne, brudne i ociê¿a³e, wygl¹da³y nieco inaczej. Napêdzane by³y d³ugimi wios³ami. Tego dnia zrozumia³em, ¿e poza nasz¹ ziemi¹ nie ma spokoju. Oczywiœcie œmiesznie by³oby mieæ tak¹ nadziejê; czuj¹ce istoty zawsze maj¹ ze sob¹ rachunki do wyrównania, a im wiêcej z nich mieszka w pobli¿u, tym silniejsze jest pragnienie, aby to zrobiæ. Z ³odzi wios³owych przywieziono na brzeg kilkudziesiêciu zwi¹zanych mê¿czyzn. Inni, podobnie jak ci, którzy przyszli tu po raz pierwszy, robili zagrody z bali i tam umieszczano wiêŸniów, poganianych ciosami i kopniêciami. Po kilku dniach przyp³ynê³y inne ³odzie i zabra³y je i od tego czasu statki p³ywa³y i p³ywa³y, a w zagrodach nigdy nie brakowa³o ¿ywego towaru. 		W dawnych czasach Zakrwawionych Piór nigdy nie tolerowalibyœmy takich s¹siadów. Nasze zwyczaje nie uznaj¹ wiêzieñ; albo od razu zabijemy pokonanego wroga, albo wypuœcimy go, jeœli honor lub wy¿sze wzglêdy tego wymagaj¹. To, co zobaczyliœmy, by³o odra¿aj¹ce... ale teraz byliœmy s³abi i musieliœmy myœleæ o naszej przysz³oœci. Szukanie nowych wrogów, o których sile i mocy nie mieliœmy pojêcia, by³oby nie do przyjêcia. Sama odwieczna wojna z Pe³zaczami by³a wystarczaj¹co wyczerpuj¹ca... Nieproszeni goœcie nigdy nie próbowali przedostaæ siê w g³¹b naszej krainy, a my po prostu zdecydowaliœmy, ¿e bêdziemy ich unikaæ. Dopiero znacznie póŸniej dowiedzieliœmy siê, ¿e nasi wrogowie, znacznie mniej skrupulatni w zwi¹zkach, wdali siê w stosunki z obcymi. 		Kilka lat temu po raz pierwszy zobaczy³am stworzenia takie jak ty, ma³a kobieto, wœród niewolników przywo¿onych tu na statkach. Zanim ciê pozna³em, myœla³em, ¿e to m³ode; ale teraz zda³em sobie sprawê, ¿e handlarze niewolników nigdy nie przyprowadzili tu ¿adnych dzieci. NajwyraŸniej nie mog¹ przetrwaæ podró¿y przez Gorzkie Wody. Jest kilku takich jak ty, którzy nawet teraz marniej¹ w zagrodach niewolników...
+
+Nazwa:
+Crimson Couatls
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		Wielkie wê¿e zechcia³y ³askawie nas zaakceptowaæ jako swoich m³odszych krewnych. Z biegiem czasu dowiedzieliœmy siê wiêcej o tym, jak ¿yli nasi wybawiciele; wpuœcili nawet naszych szamanów do odosobnionych dolin, gdzie za³o¿yli swoje gniazda. Ku naszemu wielkiemu zaskoczeniu, synergia gor¹cej krwi Creeperów i magii Hoatzina nada³a piórom Koatlów, którzy walczyli w tej bitwie, trwa³y karmazynowy odcieñ. Nikt nigdy nie pomyœla³, ¿e mo¿na zmieniæ boga. Nikt nie móg³ sobie wyobraziæ, ¿e bóg mo¿e staæ siê silniejszy – i to nie poprzez modlitwê czy ofiarê... Karmazynowi Koatlowie stali siê inni. Nie czekali ju¿ na ofiary, siedz¹c w swoich gniazdach i otaczaj¹c siê aur¹ b³ogos³awieñstwa; wyruszyli na polowanie na serca naszych wrogów. Byli nie do powstrzymania, ich pióra odrzuca³y strza³y i miecze, a ich k³y i pazury przynosi³y œmieræ. 		Krew, magia i ciep³o. Szaman Xochi zda³ sobie sprawê, ¿e to, co wydarzy³o siê na polu bitwy, mo¿e zostaæ odtworzone. Ca³e ¿ycie próbowa³ zg³êbiæ tajemnicê tej przemiany. Umieraj¹c, da³ synowi jajko, nad którym od lat rzuca³ zaklêcia w g³êbokiej jaskini, zadymionej od ognisk i œmierdz¹cej zgni³¹ krwi¹ i popio³ami. W chwili, gdy jego duch odszed³ na spotkanie Quetzala, z wnêtrza jajka rozleg³ siê stukot. Nowy Karmazynowy Koatl mia³ wkrótce zobaczyæ ten œwiat. 		Minê³y kolejne trzy pokolenia. Zakrwawione Pióra opuœci³y jaskinie, w których nasze plemiê przetrwa³o wszystko – g³ód, mróz, najazdy niezliczonych wrogów, choroby... Przeprowadziliœmy siê do nowego podziemnego miasta, obok ziej¹cej ogniem góry. Jego rozleg³e korytarze by³y wystarczaj¹co przestronne, aby pomieœciæ pierzaste wê¿e i wystarczaj¹co gor¹ce, aby zamieniæ pielêgnacjê jaj z Karmazynowymi Koatlami w zadanie, z którym móg³ sobie poradziæ nawet uczeñ szamana. Przy takim ci¹g³ym cieple wystarczy³o je od czasu do czasu odwróciæ na drug¹ stronê, polaæ krwi¹ naparzon¹ z czarodziejskich zió³ i nakarmiæ ich swoj¹ energi¹ za pomoc¹ d³ugo wyuczonych zaklêæ, tych samych, które wymyœli³ Xochi Brat Wê¿a. Rz¹dziliœmy nad dwiema trzecimi wysp, nadal odpychaliœmy Pe³zacze i nigdy nie podejrzewaliœmy, ¿e los wkrótce poka¿e nam ze swoje brzydsze oblicze...
+
+Nazwa:
+Tlamac's Story
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		Nie mogliœmy ju¿ ¿yæ tam, gdzie nie by³o naszych bogów; ka¿de z Zakrwawionych Piór musia³o modliæ siê przynajmniej raz dziennie, przywi¹zuj¹c siê do cia³a Koatla, w przeciwnym razie straci³by si³y. Jaszczuroludzie nie znosz¹ intensywnego, suchego upa³u, ale ³aska wielkich wê¿y wystarczy³a, abyœmy czuli siê zdrowi. Co gorsza, nasze ¿ony zaczê³y sk³adaæ coraz wiêcej ja³owych lêgów... i nawet z nielicznych p³odnych jaj rodzi³o siê bardzo niewiele samic. W ci¹gu zaledwie trzech pokoleñ od chwili, gdy przenieœliœmy siê do Sal Krwi, liczebnoœæ naszego plemienia zmniejszy³a siê o po³owê. 		Wódz Titipan Dwa Ogony zrobi³, co musia³. Œci¹gn¹³ na siebie kl¹twê, ale ocali³ swoje plemiê przed degeneracj¹. Jego banda szturmem wdar³a siê do sal szamana, wymordowa³a wszystkich, którzy stanêli na drodze, i zniszczy³a wszystkie jaja, a nastêpnie Titipan wyprowadzi³ plemiê z gor¹cych jaskiñ z powrotem do kamiennych tuneli pod B³êkitnym Szponem. W nastêpnych dniach wielu zmar³o, nie mog¹c znieœæ roz³¹ki z utraconymi bogami. Wœród nich by³ sam wódz Titipan; w godzinach swojej œmierci p³aka³ i b³aga³ Wielkiego Wê¿a o przebaczenie i mi³osierdzie. Quetzal pos³ucha³ jego proœby: ci, którzy prze¿yli, mogli dalej ¿yæ po zerwaniu po³¹czenia z Koatlami, bez ich b³ogos³awieñstw... ale tak¿e bez koniecznoœci poœwiêcania swojej przysz³oœci na rzecz teraŸniejszoœci. 		Stra¿ przyboczna Titipana przechytrzy³a nie tylko szamanów, ale tak¿e same Koatle. W ich duszach by³a tylko mi³oœæ i czeœæ, wiêc wielkie wê¿e nie wyczu³y niebezpieczeñstwa gdy wojownicy, œciskaj¹c ich szyje i szepcz¹c œwiête s³owa uwielbienia, nagle wyci¹gnêli swoje d³ugie no¿e i w jednej chwili zabili swoich bogów – doros³ych, m³ode, nowe pisklêta i zniedo³ê¿nia³e, które nie opuœci³y ju¿ swoich gniazd... Ani jeden jaszczurocz³ek, który podniós³ rêkê na boga, nie prze¿y³ nawet godziny; smutek zabi³ ka¿dego. Nie znaleŸli tylko jednego ma³ego korytarza; nikt o tym nie wiedzia³, z wyj¹tkiem bezpoœrednich potomków Hoatzina i Xochi. W tej sali, w lekkim plecaku z ga³¹zek, le¿a³o kilka jaj; Wê¿owy Brat chcia³, aby jego dzieci zatrzyma³y je tutaj, bez wzglêdu na to, co siê stanie i jakie trudnoœci spadn¹ na plemiê. Uczeñ m³odego szamana, trzymaj¹c siê za ranê w boku, wszed³ do sali, z sykiem po³o¿y³ koszyk na plecach i wœlizn¹³ siê do sekretnego przejœcia, które natychmiast siê za nim zawali³o. To by³o sto wspania³ych zwrotów akcji. Ten uczeñ nazywa³ siê Tlamac. On stoi dziœ przed tob¹.
+
+Nazwa:
+Halfling
+Wiadomoœæ:
+Szliœmy œcie¿k¹, któr¹ wskazali nam przyjaciele Tlamaca, jako stosunkowo bezpieczn¹, nawet dla tych, którzy nie spêdzili ca³ego ¿ycia w d¿ungli. Moglibyœmy tu trochê odpocz¹æ; w koñcu próbowanie nad¹¿ania za ka¿dym szelestem i cieniem by³o niezwykle mêcz¹ce. Mnie jednak nie by³o staæ na taki luksus, bo dowódca zawsze musia³ mieæ siê na bacznoœci. Zacz¹³am oswajaæ siê z tymi lasami i wiele rzeczy, które wczeœniej by³y przede mn¹ ukryte, nie umknê³y ju¿ mojej uwadze – ale tym razem przeszed³abym obok, nigdy nie dowiaduj¹c siê o najwa¿niejszej rzeczy w moim ¿yciu... gdyby nie Wynona.		 Ucho ciemnego elfy drgnê³o i w nastêpnej chwili wskoczy³a w krzaki z wyci¹gniêtym sztyletem. Po kilku sekundach szarpaniny wyci¹gnê³a... nizio³ka. By³ siwow³osy, wychudzony i ubrany w bardzo ¿a³oœnie wygl¹daj¹ce ³achmany. Najpierw zbada³am jego cia³o i rêce, próbuj¹c zdecydowaæ, czy mo¿e stwarzaæ jakieœ zagro¿enie, a dopiero potem spojrza³am na jego twarz. To by³o jak kolejne uderzenie pioruna z dynama Fredericka. Przeb³ysk z przesz³oœci. Wspomnienie, które myœla³am, ¿e zosta³o wymazane.		 „Wuj... wujek Kett...?” 		„Ja te¿ to kiedyœ powtarza³em... Ksiê¿ycowe Dziecko?!”.		 „Kett! To ja. Ja! Henrietta! Jakie ksiê¿ycowe dziecko? Zapomnia³eœ mnie?" 		„Jak mo¿na o Tobie zapomnieæ? W³aœnie to mówiê. Nigdy nie myœla³em, ¿e to ciebie zobaczê, zanim zacznê rechotaæ. Mia³em tylko nadziejê, ¿e komuœ powiem. Walczymy. Nie ka¿dy z nas sta³ siê jeszcze miêsem dla demonów. Trwa wojna.” 		„Jaka wojna? Diab³y znowu na kogoœ napad³y? S³ysza³em, ¿e urzadzi³y sie w Erathii. A kim jesteœmy „my”?!” 		„My... ci, którzy pozostali, kiedy odszed³aœ. Niektórzy nazywaj¹ nas partyzantami, inni bardziej „szczurami jaskiniowymi”... he, he, cholera racja, my gryziemy. A kiedy to robimy, boli. A ty... ochhhh.” 		„Wujku Kett! Co jest nie tak? Wynona! On ledwo oddycha!” – „Pos³uchaj, Henrietto. Ta rana... i ta... Jeœli w ogóle mia³abym czas, móg³abym spróbowaæ wysuszyæ z nich infekcjê. Przykro mi, ale teraz jest ju¿ za póŸno. On umiera. Oto wszystko, co mogê zrobiæ...” 		Wynona da³a umieraj¹cemu mê¿czyŸnie odrobinê eliksiru i jego oczy siê otworzy³y. Dysz¹c, nizio³ek wymamrota³: 		„Pos³uchaj mnie, Henrietto... Erathia i AvLee najechali Eeofol i walcz¹ z diab³ami. Chcieliœmy pomóc, wiêc ze wszystkich naszych kryjówek zebraliœmy wszystkich, którzy mogli trzymaæ broñ. Nasz oddzia³ zaatakowa³ nadmorskie miasteczko Kreeganów – wœliznêliœmy siê tam przez kryptê i wtedy zostaliœmy zdradzeni. Olema, przeklêty mieszaniec... wys³a³ tych, którzy prze¿yli bitwê do Kreelah, dla przyjemnoœci Lucyfera, ale statek zosta³ zatopiony przez piratów... Tylko mnie uda³o siê wyjœæ z tego ca³o...” 		Kett zacz¹³ strasznie sapaæ i przewraca³ oczami z powrotem. Z³apa³am go za g³owê i potrz¹sn¹³am: 		„Wujku Kett! Wujku... Proszê, oddychaj, nie odchodŸ... Twój oddzia³? Czy byli inni? I wszyscy zginêli?” 		„Ahhh... Ksiê¿ycowe Dziecko... Jak dobrze ciê widzieæ... Proszê, wybacz, b³agam ciê za wszystkich, którzy... Twoja... twoja matka mia³a na imiê Auna. Zapytaj o ni¹ Tavina...” 		„Tavin ¿yje? Kett! Kett!” 		„Odszed³, przyjacielu. Daj mu odejœæ. Zas³u¿y³ na to”. 		Siedzia³am na ziemi z g³ow¹ starca na kolanach, prze³ykaj¹c gorzkie ³zy. 		„Myœlê, ¿e wiem, dok¹d siê udamy gdy wydostaniemy siê z tych wysp. 		„Wynona, ja...” 		„Sama o tym doskonale wiesz. Znam ciê dopiero od niedawna, ale wiele siê o tobie dowiedzia³am. Twoje serce jest tam, gdzie siê urodzi³aœ. Eeofol mieszka³ w twojej duszy przez te wszystkie lata. Nie znam tego miejsca, ale musi byæ piêkne. Przynieœæ wolnoœæ swojej krainie to cel dla prawdziwego wojownika!” 		„Ty te¿ myœlisz, ¿e jestem wojownikiem?” 		„"Te¿"? Masz na myœli, ¿e s¹ inni, którzy tak twierdz¹? Có¿, zatem nadszed³ czas, aby przyj¹æ swoje powo³anie.” 		„Muszê to przemyœleæ. Mo¿e Tlamac pomo¿e mi zrozumieæ siebie...”.
+
+Nazwa:
+Pactal's Lair
+Wiadomoœæ:
+Tlamac Sto Myœli przemówi³: 		Paktal Po¿eracz Dzieci jest œwietnym przywódc¹. Zaskoczony, ¿e tak o nim mówiê, prawda? Jestem po prostu za stary, ¿eby pozwoliæ nienawiœci przyæmiæ mój os¹d. Jest silny i elastyczny, twardy i ostry jak z¹b ¿aby krwiopijcy, ale jego umys³ jest plastyczny i otwarty na wszystko, co mo¿e przynieœæ korzyœæ jego plemieniu. Wasze statki powietrzne zosta³y zaatakowane przez jego wiwerny. Nie wiem, gdzie Pactal je znalaz³ i z pewnoœci¹ nie czci ich tak, jak my czciliœmy Koatle... ale jakimœ cudem uda³o mu siê pozyskaæ tak potê¿ne stworzenia, niespotykane na naszych ziemiach, w jego s³u¿bê. Potrafi³ zrobiæ wojowników z psich ³bów, o których zawsze myœleliœmy, ¿e to robactwo niegodne nawet kopniaka – wystarczy³ wœciek³y krzyk, aby uciekli w krzaki. Jego wojownicy p³ywaj¹ statkami miêdzy wyspami, walcz¹ w szyku, dzier¿¹ broñ i u¿ywaj¹ narzêdzi, o których nawet nie s³ysza³em, a on sam nagle pojawia siê tu i ówdzie i nigdy nie œpi w tym samym obozie polowym dwie noce z rzêdu. Jakby potrafi³ widzieæ plany swoich wrogów dwa kroki do przodu. Wiem jednak coœ o nim... 		Pactal chce przej¹æ wszystkie wyspy – jeœli nie dla siebie, to dla swojego syna. Kilka lat temu ukrad³ lêg z³o¿ony przez pi¹t¹ ¿onê starego wodza Zakrwawionych Piór, jednak wbrew swojemu zwyczajowi czêœæ jaj pozostawi³ niezjedzon¹. Wychowuje jedn¹ z dziewcz¹t, zamierzaj¹c siê z ni¹ o¿eniæ; jej dzieci bêd¹ jego kluczem do nieograniczonej w³adzy nad wszystkimi jaszczuroludziami na naszych wyspach. I nie jestem przekonany, ¿e by³aby to z³a przysz³oœæ dla moich krewnych... 		Tak czy inaczej, jeœli jesteœ zdecydowany wyrwaæ Pactalowi Puste Oko, bêdziesz musia³ znaleŸæ miejsce, gdzie Po¿eracz Dzieci przetrzymuje swoj¹ przysz³¹ ¿onê. Z pewnoœci¹ to w³aœnie tam spêdza ca³y swój czas pomiêdzy wyprawami. Stary Tlamac ma przyjació³ wœród niewidzialnych duchów lasów i bagien. Pos³uchaj, co mi powiedzieli... 		Tylko nieliczni wybrani, co do których Pactal nie ma w¹tpliwoœci, mog¹ wejœæ do jego legowiska. To dowódcy jego stra¿y, jest te¿ jeden kapitan piratów, ten, który sprzeda³ mu Puste Oko, który cieszy siê takim zaufaniem. Na szczêœcie dla ciebie jaszczuroludzie maj¹ bardzo s³ab¹ pamiêæ do ludzkich twarzy... Rozpoznaj¹ kapitana po jego tarczy i trójzêbie, a oba s¹ misternymi artefaktami o wielkiej mocy. Myœlê, ¿e mo¿esz spróbowaæ znaleŸæ podobne. Jeœli jeden z twoich wojowników pojawi siê wymachuj¹cymi nimi przed  stra¿nikami, wezm¹ go za kapitana i pozwol¹ mu wejœæ. Bêd¹ ¿¹daæ przekazania artefaktów na przechowanie, ale w tym momencie nie bêdzie to ju¿ mia³o znaczenia.
+
+Nazwa:
+Pactal Warning
+Wiadomoœæ:
+Jeden z jaszczuroludzi, który od jakiegoœ czasu o ciebie walczy, przyniós³ ci niepokoj¹ce wieœci. Nasze dzia³ania nie mog³y pozostaæ niezauwa¿one przez Pactala. Jeœli tak siê stanie, za kilka miesiêcy opuœci swoje legowisko, aby nas zaatakowaæ i zmusiæ do walki na w³asnych warunkach. Poza tym niektóre wyspy i jaskinie mog¹ wówczas staæ siê dla nas niedostêpne.
+
+Nazwa:
+Endgame Warning
+Wiadomoœæ:
+Jeden ze zwiadowców gnolli donosi, ¿e Pactal opuœci³ swoje legowisko, a jego si³y s¹ wiêksze ni¿ kiedykolwiek wczeœniej. Ale nie to jest najgorsze. Wydarzenia ostatnich dni wskazuj¹, ¿e wulkan na centralnej wyspie wkrótce siê przebudzi. Jeœli tak siê stanie, jaskinie wulkaniczne w g³êbi zostan¹ zalane law¹ i przeprowadzenie rytua³u bêdzie niemo¿liwe.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(29, 66, 0) ***Cytadela***
+
+Zdarzenia czasowe:
+
+Nazwa:
+Blue AI - 142 - Tavern
+Wiadomoœæ:
+
+
+(15, 101, 0) ***Przystañ***
+
+Odwiedzaj¹c Rycerz:
+Nazwa:
+Steed
+
+Zdarzenia czasowe:
+
+Nazwa:
+Pink AI - Castle
+Wiadomoœæ:
+
+
+Nazwa:
+Pink AI - bonus
+Wiadomoœæ:
+
+
+(49, 21, 0) ***Cytadela***
+
+Zdarzenia czasowe:
+
+Nazwa:
+Blue AI - 332 - Shipyard
+Wiadomoœæ:
+
+
+(30, 67, 0) ***W³adca bestii***
+Nazwa:
+Ksharek
+
+(11, 74, 0) ***Chata proroka***
+Wiadomoœæ:
+Kilka miesiêcy temu wraz z moimi przyjació³mi magami przybyliœmy z kontynentu, aby zbadaæ te wyspy. Plotka g³osi, ¿e znajduj¹ siê tu magiczne kule zdolne wzmacniaæ zaklêcia Magii Wody. Te kule zosta³y stworzone przez cywilizacjê, która rz¹dzi³a tymi wyspami, zanim jeszcze osiedlili siê tu jaszczuroludzie. Nasze poszukiwania jak dot¹d nie da³y rezultatu, ale jestem pewien, ¿e tu s¹. Przynieœ mi jedn¹ z tych kul, a wymieniê j¹ na zwój z zaklêciem Klonowanie. Ostrzegam jednak: ufam tylko mrocznym elfom.
+Nie zlokalizowa³em jeszcze kuli. Mo¿e warto zajrzeæ do jaskiñ albo do gniazd Koatlów?
+Ta kula jest w³aœnie tym, czego potrzebujê!
+Dotrzyma³eœ swojej czêœci umowy, a ja dotrzymam swojej.
+Nie ufam ci. Nie jesteœ mrocznym elfem!
+Czy chcia³byœ zamieniæ kulê na zwój zaklêæ Klonowanie?
+
+(19, 106, 0) ***Tabliczka***
+Wiadomoœæ:
+Placówka Gildii Najemników
+
+(9, 57, 0) ***Chata proroka***
+Wiadomoœæ:
+Widzisz te ruiny? To wszystko, co pozosta³o z dawno zaginionego imperium, które niegdyœ rz¹dzi³o po³udniowymi wybrze¿ami Jadame. Przyby³em na te wyspy, aby zbadaæ artefakty stworzone tam w dawnych czasach, ale wyspy te roj¹ siê od krwio¿erczych dzikusów, handlarzy niewolników i piratów. Gdybym by³ silniejszy, móg³bym zwiedzaæ te strony, ale jestem stary. Co mogê zrobiæ? Artefakty, które mnie interesuj¹ to Eliksir ¯ycia, £uk Strzelca Wyborowego i Studnia Czarodzieja. Moi uczniowie próbowali je wyœledziæ przez d³ugi czas, ale jedynym ich odkryciem by³o to, ¿e na przestrzeni minionych stuleci artefakty zosta³y podzielone na kilka czêœci. Niestety, nigdy nie uda³o mi siê zlokalizowaæ wiêkszoœci z nich, ale Fiolka ¯ycia znajduje siê w rêkach jasnowidza, który mieszka w jaskiniach w pobli¿u legowiska czarnoksiê¿nika.
+Niestety potrzebujê Eliksiru ¯ycia, £uku Strzelca i ród³o Maga. ¯adne inne artefakty nie mog¹ pomóc w moich badaniach.
+Te artefakty s¹ dok³adnie tym, czego potrzebujê! Czy zechcia³byœ mi je daæ?
+W dawnych czasach, zanim zainteresowa³em siê staro¿ytnymi ruinami, by³em instruktorem w akademii wojskowej. Bardzo mi pomog³eœ, wiêc jestem gotowy nauczyæ Henriettê tego, co wiem.
+Myœla³am, ¿e wyrazi³am siê jasno, ¿e bêdê rozmawiaæ tylko z Henriett¹.
+Mogê wyszkoliæ twoich ¿o³nierzy w zakresie technik obronnych. Czy chcia³byœ, ¿eby wziêli udzia³ w szkoleniu?
+W dawnych czasach, zanim zainteresowa³em siê staro¿ytnymi ruinami, by³em instruktorem w akademii wojskowej. Bardzo mi pomog³eœ, wiêc jestem gotowy nauczyæ Wynonê tego, co wiem.
+Myœla³em, ¿e wyrazi³em siê jasno, ¿e bêdê rozmawiaæ tylko z Wynon¹.
+Mogê wyszkoliæ twoich ¿o³nierzy w zakresie technik obronnych. Czy chcia³byœ, ¿eby wziêli udzia³ w szkoleniu?
+
+(81, 99, 0) ***Tabliczka***
+Wiadomoœæ:
+Wyspa Wêgorza
+
+(41, 47, 0) ***Reptilion***
+Wiadomoœæ:
+Pactal zaskoczy³ nas, ale odmówi³ nam honorowej œmierci w bitwie. Spl¹tano nas w sieci i sprzedano jak miêso. Wstyd, co za wstyd! Nie ma sposobu, aby to zetrzeæ; jedyne, co mo¿emy teraz zrobiæ, to poœwiêciæ nasze ¿ycie w zemœcie na tym, który nas tak zhañbi³. Czy dasz nam tê szansê?
+
+(58, 34, 0) ***Assid***
+Wiadomoœæ:
+Wykonuj¹c polecenia zapisane na pergaminie, który handlarz niewolników da³ ci wraz z rachunkiem sprzeda¿y, Assidy szybuj¹ w dó³ ze swoich ¿erdzi i l¹duj¹ wokó³ ciebie. WyraŸnie dobrze wyszkolone stworzenia czekaj¹ na twoje rozkazy.
+
+(60, 37, 0) ***Nizio³ek***
+Wiadomoœæ:
+To bêdzie spotkanie! A ja myœla³em, ¿e historie o ucieczce z Eeofol podczas inwazji diab³ów to tylko bajki. 		Nas? Jesteœmy z wybrze¿a. Miêdzy nami a ziemi¹, któr¹ zajê³y czerwone pyski, znajduje siê pasmo górskie, wiêc nigdy nie dotarli do naszych stron. S¹ nas tam tylko dwie wioski... a raczej, powinienem powiedzieæ, by³y. Nikt o nas nie wiedzia³ i przez lata nie zwracaliœmy na to uwagi, ale miesi¹c temu jakiœ podmuch wiatru wepchn¹³ piracki szkuner do naszej zatoczki. Te dranie porwa³y nas i wepchnê³y w swoje ³apy; kto nie pasowa³, gin¹³. Wiem, ¿e nie interesuj¹ Ciê takie historie, ale wiesz co by³o niesamowite? W ³adowni siedzia³ ju¿ nizio³ek. Có¿, przez wiêkszoœæ czasu tam le¿a³, majacz¹c z powodu swoich ran. Mogliœmy siê jedynie dowiedzieæ, ¿e mia³ na imiê Kett; nie pochodzi³ z naszych stron, ale zosta³ z³apany gdzieœ w Eeofol. Kiedy szkuner tu zawin¹³ i wyrzucono nas z ³adowni, dokumenty kapitana nie zgadza³y siê. Przeliczali nas z dziesiêæ razy, ale za ka¿dym razem kogoœ brakowa³o. 		W koñcu ta gruba œwinia, która dowodzi³a, splunê³a i zgodzi³a siê wzi¹æ nas „tak jak jest”. PóŸniej sami policzyliœmy i Kett znikn¹³. Uciek³? Spad³ z trapu i uton¹³? Nie wiem. Nie dba, o to. Chcê tylko wyjœæ st¹d ¿ywy. Czy nas przyjmiesz?
+
+(54, 43, 0) ***Chata proroka***
+Wiadomoœæ:
+Handlarze niewolnikami ciê obrzydzaj¹. Chcia³byœ zburzyæ ich bazê i powiesiæ ich wszystkich na drzewach, ale pamiêtasz s³owa Tlamaca: stary szaman prosi³ ciê, abyœ nie sprowadza³ na jego plemiê dalszych k³opotów ani nie wci¹ga³ go w nowe konflikty, gdy grozi³ mu bezwzglêdny Paktal. W chacie z krzywym napisem „Si³a robocza na ka¿dy gust i na ka¿d¹ kieszeñ” siedzi gruby mê¿czyzna o chytrej twarzy, ubrany w brokat i aksamit – albo emerytowany pirat, albo nikczemny kupiec. 		„Ach, jak mi³o widzieæ nowe twarze w naszej skromnej placówce handlowej! Mam nadziejê, ¿e ponownie spotkamy siê z Pañstwem jako stali klienci, gdy¿ nasza oferta jest na bie¿¹co uzupe³niana najwyborniejszym towarem. Dziœ mam dla Was trzy partie: Assidy, bezpoœrednia dostawa z Solendore, która osobiœcie ³apie je na jakichœ klifach morskich; Koatle, lokalna specjalnoœæ, doskona³a do walk na arenie; Jaszczuroludzie, stra¿ przyboczna jakiegoœ lokalnego ksiêcia, bardzo zrêczni ³ucznicy. A tak, prawie zapomnia³em: jest te¿ kilka nizio³ków – niedawno dostarczone, trochê chude i obdarte, ale bogowie, oni znaj¹ swoje proce! Ka¿da partia to tylko 5000 monet i 10 klejnotów. Kiedy zap³acisz, dam ci paragon i ¿eton, który mo¿esz pokazaæ stra¿nikowi przy wiêzieniu.
+Handlarz niewolników jest nadal ¿yczliwy, ale niezachwiany: 	„Dzia³alnoœæ charytatywna jest zakresem kompetencji naszej rady dyrektorów. Ja nie jestem do tego upowa¿niony. Monety i klejnoty – przykro mi, ale nie mogê przyj¹æ niczego innego.
+Handlarz, uœmiechaj¹c siê g³upawo, wyci¹ga miêsist¹ d³oñ: 	„Jestem bardzo szczêœliwy, ¿e nasze towary przyci¹gnê³y Twoj¹ uwagê. Proszê, przygotowa³em dokumenty i ¿eton. Czy jesteœ gotowy zap³aciæ?”
+Handlarze niewolnikami ciê obrzydzaj¹. Chcia³byœ zburzyæ ich bazê i powiesiæ ich wszystkich na drzewach, ale pamiêtasz s³owa Tlamaca: stary szaman prosi³ ciê, abyœ nie sprowadza³ na jego plemiê dalszych k³opotów ani nie wci¹ga³ go w nowe konflikty, gdy grozi³ mu bezwzglêdny Paktal. W chacie z krzywym napisem „Si³a robocza na ka¿dy gust i na ka¿d¹ kieszeñ” siedzi gruby mê¿czyzna o chytrej twarzy, ubrany w brokat i aksamit – albo emerytowany pirat, albo nikczemny kupiec. 		„Ach, jak mi³o widzieæ nowe twarze w naszej skromnej placówce handlowej! Mam nadziejê, ¿e ponownie spotkamy siê z Pañstwem jako stali klienci, gdy¿ nasza oferta jest na bie¿¹co uzupe³niana najwyborniejszym towarem. Dziœ mam dla Was trzy partie: Assidy, bezpoœrednia dostawa z Solendore, która osobiœcie ³apie je na jakichœ klifach morskich; Koatle, lokalna specjalnoœæ, doskona³a do walk na arenie; Jaszczuroludzie, stra¿ przyboczna jakiegoœ lokalnego ksiêcia, bardzo zrêczni ³ucznicy. A tak, prawie zapomnia³em: jest te¿ kilka nizio³ków – niedawno dostarczone, trochê chude i obdarte, ale bogowie, oni znaj¹ swoje proce! Ka¿da partia to tylko 7500 monet i 10 klejnotów. Kiedy zap³acisz, dam ci paragon i ¿eton, który mo¿esz pokazaæ stra¿nikowi przy wiêzieniu.
+Handlarz niewolników jest nadal ¿yczliwy, ale niezachwiany: 	„Dzia³alnoœæ charytatywna jest zakresem kompetencji naszej rady dyrektorów. Ja nie jestem do tego upowa¿niony. Monety i klejnoty – przykro mi, ale nie mogê przyj¹æ niczego innego.
+Handlarz, uœmiechaj¹c siê g³upawo, wyci¹ga miêsist¹ d³oñ: 	„Jestem bardzo szczêœliwy, ¿e nasze towary przyci¹gnê³y Twoj¹ uwagê. Proszê, przygotowa³em dokumenty i ¿eton. Czy jesteœ gotowy zap³aciæ?”
+Handlarze niewolnikami ciê obrzydzaj¹. Chcia³byœ zburzyæ ich bazê i powiesiæ ich wszystkich na drzewach, ale pamiêtasz s³owa Tlamaca: stary szaman prosi³ ciê, abyœ nie sprowadza³ na jego plemiê dalszych k³opotów ani nie wci¹ga³ go w nowe konflikty, gdy grozi³ mu bezwzglêdny Paktal. W chacie z krzywym napisem „Si³a robocza na ka¿dy gust i na ka¿d¹ kieszeñ” siedzi gruby mê¿czyzna o chytrej twarzy, ubrany w brokat i aksamit – albo emerytowany pirat, albo nikczemny kupiec. 		„Ach, jak mi³o widzieæ nowe twarze w naszej skromnej placówce handlowej! Mam nadziejê, ¿e ponownie spotkamy siê z Pañstwem jako stali klienci, gdy¿ nasza oferta jest na bie¿¹co uzupe³niana najwyborniejszym towarem. Dziœ mam dla Was trzy partie: Assidy, bezpoœrednia dostawa z Solendore, która osobiœcie ³apie je na jakichœ klifach morskich; Koatle, lokalna specjalnoœæ, doskona³a do walk na arenie; Jaszczuroludzie, stra¿ przyboczna jakiegoœ lokalnego ksiêcia, bardzo zrêczni ³ucznicy. A tak, prawie zapomnia³em: jest te¿ kilka nizio³ków – niedawno dostarczone, trochê chude i obdarte, ale bogowie, oni znaj¹ swoje proce! Ka¿da partia to tylko 10000 monet i 15 klejnotów. Kiedy zap³acisz, dam ci paragon i ¿eton, który mo¿esz pokazaæ stra¿nikowi przy wiêzieniu.
+Handlarz niewolników jest nadal ¿yczliwy, ale niezachwiany: 	„Dzia³alnoœæ charytatywna jest zakresem kompetencji naszej rady dyrektorów. Ja nie jestem do tego upowa¿niony. Monety i klejnoty – przykro mi, ale nie mogê przyj¹æ niczego innego.
+Handlarz, uœmiechaj¹c siê g³upawo, wyci¹ga miêsist¹ d³oñ: 	„Jestem bardzo szczêœliwy, ¿e nasze towary przyci¹gnê³y Twoj¹ uwagê. Proszê, przygotowa³em dokumenty i ¿eton. Czy jesteœ gotowy zap³aciæ?”
+
+(40, 8, 0) ***Zdarzenie***
+Wiadomoœæ:
+Bonus for Pactal
+
+(91, 15, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+W d¿ungli w pobli¿u brzegu mo¿na zobaczyæ kilka zarysów nieporêcznych maszyn. Wygl¹daj¹ jak drednoty, które wypad³y ze statku powietrznego.
+Chcesz je zabraæ ze sob¹?
+
+(94, 0, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+W d¿ungli w pobli¿u brzegu mo¿na zobaczyæ kilka zarysów nieporêcznych maszyn. Wygl¹daj¹ jak drednoty, które wypad³y ze statku powietrznego.
+Chcesz je zabraæ ze sob¹?
+
+(61, 64, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(88, 22, 0) ***Koatl***
+Wiadomoœæ:
+Jaszczuroludzie Tlamaca zdo³ali zwabiæ kilka Koatli ukrywaj¹cych siê pomiêdzy drzewami. Czy chcia³byœ je zabraæ ze sob¹?
+
+(50, 50, 0) ***Koatl***
+Wiadomoœæ:
+Te Koatle s¹ zwi¹zane grubymi linami tak mocno, ¿e przypominaj¹ ogromne, pstrokate kie³baski. Kiedy poczuj¹ zaklêcie Tlamaca, podnosz¹ g³owy i ¿a³oœnie piszcz¹, jakby b³aga³y o ich uwolnienie.
+
+(82, 43, 0) ***Wiwerna***
+Wiadomoœæ:
+Od razu rozpozna³em odg³osy wydawane przez stworzenia ukrywaj¹ce siê w zaroœlach. S³ysza³em je, gdy upadaliœmy i nigdy ich nie zapomnê. Wola³bym zabiæ te „smoki” tutaj, na ziemi, ni¿ stawiæ im czo³a ponownie w powietrzu.
+
+(1, 90, 0) ***Chata proroka***
+Wiadomoœæ:
+W chatce z trzciny na brzegu rzeki spotykasz brodatego czarodzieja. Wygl¹da jak pirat. „S³ysza³em o tobie” – mówi czarodziej. – „Przyszed³em tu z moimi kolegami, ale nie chcieli mi pomóc w moich badaniach, wiêc ich zostawi³em. Widzisz, magowie Regnan zgromadzili mnóstwo magicznej wiedzy przez ostatnie stulecia — ale s¹ pewne zaklêcia, których nigdy nie uda³o nam siê udoskonaliæ. Jednym z nich jest Sza³. Kreeganie wiedz¹, jak zwiêkszyæ moc tego zaklêcia dziesiêciokrotnie, ale ja nie podzielê siê swoimi sekretami 	S³ysza³em, ¿e czarnoksiê¿nicy z Nighonu odwiedzili ostatnio te wyspy, nie wiem czego tu chcieli, ale kilku czarnoksiê¿ników mia³o nieszczêœcie natkn¹æ siê na lokalne potwory. Stracili dwa cenne artefakty, Ksiêgê Ognia i Kulê P³on¹cego Ognia. ZnajdŸ je i przynieœ do mnie, a podzielê siê z tob¹ Zwojem Sza³u.
+Gdzie s¹ artefakty? ¯adnych artefaktów, ¿adnego zwoju!
+Brodaty mê¿czyzna ze zdziwieniem spogl¹da na kulê i ksiêgê. 	Nie mogê w to uwierzyæ... To jest dok³adnie to!” – mamrocze oszo³omiony pirat. – „Oto zwój, o którym mówi³em”. 	Czy chcia³byœ wymieniæ kulê i ksiêgê na zwój zaklêcia Sza³?
+
+(29, 61, 0) ***W³adca bestii***
+Nazwa:
+Kenatoth
+
+(98, 91, 0) ***Chata proroka***
+Wiadomoœæ:
+Kilka miesiêcy temu wraz z moimi przyjació³mi magami przybyliœmy z kontynentu, aby zbadaæ te wyspy. Plotka g³osi, ¿e znajduj¹ siê tu magiczne kule, zdolne wzmacniaæ zaklêcia magii Wody. Te kule zosta³y stworzone przez cywilizacjê, która rz¹dzi³a tymi wyspami, zanim jeszcze osiedlili siê tu jaszczuroludzie. Nasze poszukiwania jak dot¹d nie da³y rezultatu, ale jestem pewien, ¿e tu s¹. Przynieœ mi jedn¹ z tych kul, a wymieniê j¹ na zwój z zaklêciem Teleportacja. Ostrzegam jednak: ufam tylko mrocznym elfom.
+Nie zlokalizowa³em jeszcze kuli. Mo¿e warto zajrzeæ do jaskiñ albo do gniazd Koatli?
+Ta kula jest w³aœnie tym, czego potrzebujê!
+Dotrzyma³eœ swojej czêœci umowy, a ja dotrzymam swojej.
+Nie ufam ci. Nie jesteœ mrocznym elfem!
+Czy chcia³byœ zamieniæ kulê na zwój zaklêæ Teleportacja?
+
+(4, 36, 0) ***Cytadela***
+
+Odwiedzaj¹c WiedŸma:
+Nazwa:
+Xolo
+
+(93, 58, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Szukasz ³odzi? Mo¿esz mieæ moj¹ za jedyne 2000 sztuk z³ota. Jest tylko jeden problem; przecieka. Bêdziesz musia³ to naprawiæ sam.
+Szukasz ³odzi? Mo¿esz mieæ moj¹ za jedyne 2000 sztuk z³ota. Jest tylko jeden problem; przecieka. Bêdziesz musia³ to naprawiæ sam.
+Kupiæ ³ódŸ?
+
+(105, 39, 0) ***Chata proroka***
+Wiadomoœæ:
+WejdŸ. Teraz pójdziemy do jaskini pod moim mieszkaniem i przedstawiê ciê moim przyjacio³om. Rytua³ ³¹czenia dusz zostanie przeprowadzony w naszym opuszczonym podziemnym mieœcie, Halls of Blood, na pó³nocny zachód st¹d. Na razie jednak mogê ciê nauczyæ, jak nawi¹zaæ tymczasow¹ wiêŸ z Koatlami. Rzucê na ciebie pomniejsze zaklêcie, a ty bêdziesz musia³ pokazaæ wielkiemu wê¿owi kryszta³ w kolorze krwi, aby pomóc mu wyczuæ w tobie przyjaciela. Mam teraz pod opiek¹ dwójkê doros³ych Koatli, których przywróci³em do zdrowia po konfrontacji z myœliwymi Pactala. Z przyjemnoœci¹ pomog¹ Ci go wyœledziæ. Gdy odbierzesz mu Puste Oko, udaj siê do Halls of Blood. Bêdê tam na ciebie czekaæ i zrobimy, co nam przeznaczone.
+Dwa ogromne, têczowe, pierzaste wê¿e wy³aniaj¹ siê z ciemnoœci jaskini i zbli¿aj¹ siê, zwabione magicznym blaskiem kryszta³u. Mrucz¹ cicho i patrz¹ na ciebie swoimi z³otymi oczami. Czy jesteœ gotowy zaakceptowaæ ich przyjaŸñ?
+
+(48, 78, 0) ***Brama misji***
+Wiadomoœæ:
+Drzewa na tej wyspie wydaj¹ siê bardzo m³ode. Wed³ug mieszkañców sama wyspa dopiero niedawno wy³oni³a siê z morza. Niewiele o niej wiadomo, ale znajduje siê tam niezwyk³a piramida. Piraci próbowali siê do niej dostaæ, maj¹c nadziejê na znalezienie skarbu, ale jak dot¹d bezskutecznie. 	Gdy zbli¿asz siê do piramidy, widzisz zastêpy Trytonów blokuj¹cych ci drogê. Kiedy próbujesz siê zbli¿yæ, krzycz¹ coœ w nieznanym jêzyku, uniemo¿liwiaj¹c dalszy ruch. 	Wynona by³a w ca³ym Jadame i w kilku miejscach poza nim. Mo¿e uda jej siê znaleŸæ z nimi wspólny jêzyk?
+Nie uda³o siê znaleŸæ ¿adnej innej drogi do piramidy, a Trytony wci¹¿ tu s¹.
+Po d³ugiej rozmowie z Wynon¹ Trytonowie niechêtnie zgadzaj¹ siê Ciê przepuœciæ. Jeden z nich ostrzega Ciê jednak, ¿e piramidy strzeg¹ ¿ywio³aki i d¿iny, które bêd¹ walczyæ na œmieræ i ¿ycie.
+
+(46, 78, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+D¿iny zostaj¹ pokonane, a droga do piramidy otwarta.
+Czy chcesz przejœæ?
+
+(47, 78, 0) ***Czarodziej***
+Nazwa:
+Mallerio
+
+(45, 78, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(57, 41, 0) ***Tabliczka***
+Wiadomoœæ:
+Rynek niewolników. Nie zawracaj sobie g³owy oferowaniem Gnolli i Wê¿owych Ludzi.
+
+(105, 1, 0) ***Chata proroka***
+Wiadomoœæ:
+W chacie wita ciê czarodziej – z pewnoœci¹ nie jest to miejscowy cz³owiek, s¹dz¹c po jego wygl¹dzie. 	„Czy chcia³byœ nauczyæ siê rzadkich zaklêæ? Có¿, w tym mogê ci pomóc! Znam sekrety Teleportacji, ale potrzebujê ksi¹¿ki lub zwoju z tym zaklêciem, aby móc ciê go nauczyæ. S³ysza³em o magach mrocznych elfów, których nie brakuje, ale niestety nie lubi¹ dzieliæ siê swoimi bogactwami.”
+Niestety potrzebujê zwoju. Bez tego nie mogê ci pomóc.
+Czarownik uwa¿nie ogl¹da zwój. „Wiêc uda³o ci siê go zdobyæ! Nie mam pojêcia jak, ale nie obchodzi mnie to. Mogê ciê nauczyæ zaklêcia Teleportacja, ale w zamian za tê przys³ugê poproszê ciê o oddanie mi zwoju. Wiesz, ¿e maj¹ wielk¹ wartoœæ.”
+W chacie wita ciê czarodziej – z pewnoœci¹ nie jest to miejscowy cz³owiek, s¹dz¹c po jego wygl¹dzie. 	„Czy chcia³byœ nauczyæ siê rzadkich zaklêæ? Có¿, w tym mogê ci pomóc! Znam sekrety Klonowania, ale potrzebujê ksi¹¿ki lub zwoju z tym zaklêciem, aby móc ciê go nauczyæ. S³ysza³em o magach mrocznych elfów, których nie brakuje, ale niestety nie lubi¹ dzieliæ siê swoimi bogactwami.”
+Niestety potrzebujê zwoju. Bez tego nie mogê ci pomóc.
+Czarownik uwa¿nie ogl¹da zwój. „Wiêc uda³o ci siê go zdobyæ! Nie mam pojêcia jak, ale nie obchodzi mnie to. Mogê ciê nauczyæ zaklêcia Klonowanie, ale w zamian za tê przys³ugê poproszê ciê o oddanie mi zwoju. Wiesz, ¿e maj¹ wielk¹ wartoœæ.”
+W chacie wita ciê czarodziej – z pewnoœci¹ nie jest to miejscowy cz³owiek, s¹dz¹c po jego wygl¹dzie. 	„Czy chcia³byœ nauczyæ siê rzadkich zaklêæ? Có¿, w tym mogê ci pomóc! Znam sekrety Modlitwy, ale potrzebujê ksi¹¿ki lub zwoju z tym zaklêciem, aby móc ciê go nauczyæ. S³ysza³em o magach mrocznych elfów, których nie brakuje, ale niestety nie lubi¹ dzieliæ siê swoimi bogactwami.”
+Niestety potrzebujê zwoju. Bez tego nie mogê ci pomóc.
+Czarownik uwa¿nie ogl¹da zwój. „Wiêc uda³o ci siê go zdobyæ! Nie mam pojêcia jak, ale nie obchodzi mnie to. Mogê ciê nauczyæ zaklêcia Modlitwa, ale w zamian za tê przys³ugê poproszê ciê o oddanie mi zwoju. Wiesz, ¿e maj¹ wielk¹ wartoœæ.”
+Nie pamiêtam, czy mówi³em ci to ju¿ wczeœniej, ale znam sekrety zaklêcia Wskrzeszenie. Nie mam nic przeciwko nauczeniu ciê tego zaklêcia, ale niestety bêdzie to wymaga³o zwoju, a s³ysza³em, ¿e nawet mroczne elfy go nie maj¹. Kr¹¿¹ jednak pog³oski o pewnym czarnoksiê¿niku z Nighon, który za³o¿y³ tu laboratorium w jaskiniach. Byæ mo¿e by³by sk³onny rozstaæ siê ze zwojem lub dwoma? Albo nie. W ka¿dym razie s³ysza³em, ¿e ten czarnoksiê¿nik zwyk³ studiowaæ magiê wskrzeszenia.
+Niestety potrzebujê zwoju. Bez tego nie mogê ci pomóc.
+Nawet nie zapytam, jak wpad³o to coœ w swoje rêce. Czy chcia³byœ nauczyæ siê zaklêcia Wskrzeszenie w zamian za zwój?
+
+(38, 42, 0) ***Chata proroka***
+Wiadomoœæ:
+W chatce na palach na œrodku rzeki wita ciê gnoll przyodziany w niezwyk³e, zielone maskowanie. 	„Kiedyœ hodowa³em wiwerny, gorgony i inne stworzenia. Jako pierwszy znalaz³emæ wspólny jêzyk z stadem Rdzawych Smoków zamieszkuj¹cych te wyspy, ale póŸniej zosta³em zdradzony, a moje miejsce zaj¹³ zdrajca-jaszczurocz³ek Areshrak. Pomó¿ mi go pokonaæ, a ja pomogê tobie.
+Areshrak wci¹¿ tam jest! Czujê jego obecnoœæ.
+Sprawiedliwoœæ sta³a siê faktem! Obawiam siê, ¿e moje plemiê nie przyjmie mnie z powrotem, wiêc bêdê musia³ opuœciæ te wyspy. A co do nagrody... Przyjmij proszê te Koatle. Znalaz³em je niedawno w jaskiniach, gdzie ukrywa³y siê przed ³owcami Paktala.
+
+(24, 66, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(15, 102, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Podchodz¹æ do fortecy piratów, zdajesz sobie sprawê, ¿e prawdopodobnie bli¿ej ju¿ niej nie podejdziesz. Przed nami strome klify, a wokó³ niemal nieprzenikniona d¿ungla. 	Plotka g³osi, ¿e widziano czarnoksiê¿nika Dagdaro, który za³o¿y³ pracowniê w jaskiniach i widziano go czêsto odwiedzaj¹cego tê twierdzê w zwi¹zku z jakimiœ interesami ze Steedem Byæ mo¿e czarownik wie, jak dostaæ siê do œrodka?
+Poszukiwania bezpiecznej drogi do twierdzy nie powiod³y siê, podobnie jak próby pod¹¿ania za piratami.
+Po dok³adnym zbadaniu legowiska czarnoksiê¿nika znajdujesz mapê i dowiadujesz siê, ¿e w pobli¿u znajduje siê ³atwe do przeoczenia przejœcie przez d¿unglê, które mo¿e przybli¿yæ ciê do fortecy. Czy chcesz z niego skorzystaæ?
+
+(6, 38, 0) ***W³adca bestii***
+Nazwa:
+Tzolki
+
+(80, 66, 0) ***Brama misji***
+Wiadomoœæ:
+Ta morska brama zosta³a przejêta przez piratów z Regnan. Niestety, ma zbyt wiele dzia³ i próba zaatakowania garnizonu ze statku by³aby zbyt niebezpieczna. Jednak piraci s¹ sk³onni ciê przepuœciæ, jeœli zap³acisz im 5 klejnotów.
+Nie masz wystarczaj¹cej liczby klejnotów i nie ma sensu szturmowaæ bramy.
+Piraci zauwa¿yli klejnoty i pozwalaj¹ ci przep³yn¹æ, ale nie bêd¹ d³ugo trzymaæ otwartej bramy. 	Czy chcesz przejœæ?
+
+(90, 30, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Szukasz ³odzi? Mo¿esz mieæ moj¹ za jedyne 2000 sztuk z³ota. Jest tylko jeden problem; przecieka. Bêdziesz musia³ sam j¹ naprawiæ.
+Szukasz ³odzi? Mo¿esz mieæ moj¹ za jedyne 2000 sztuk z³ota. Jest tylko jeden problem; przecieka. Bêdziesz musia³ sam j¹ naprawiæ.
+Kupiæ ³ódŸ?
+
+(89, 21, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Zauwa¿asz kilka Koatli, ale one nie zwracaj¹ na ciebie uwagi. S³yszeliœcie, ¿e Jaszczuroludzie z plemienia Tlamaca byli w stanie okie³znaæ te stworzenia za pomoc¹ magicznych kryszta³ów. Mo¿e i Ty byœ to zrobi³?
+Koatle wci¹¿ tu s¹. Nie wydaj¹ siê chêtne do ataku, ale te¿ nie maj¹ zamiaru do ciebie do³¹czyæ.
+Magia kryszta³ów zwabi³a kilka Koatli. Czy chcesz je zabraæ ze sob¹?
+
+(67, 35, 0) ***Butelka***
+Wiadomoœæ:
+...sh...su...27...1...Eas...Mis...Jada...
+
+(100, 42, 0) ***Zdarzenie***
+Wiadomoœæ:
+Witaj goœciu. Pamiêtasz mnie: Jestem Tlamac Sto Myœli. Ten, który mia³ zostaæ kolejnym wielkim szamanem wojowniczych Zakrwawionych Piór, ale zakoñczy³ d³ugie, smutne ¿ycie bez domu, rodziny, celu i opieki nad tymi, którym przysiêga³ s³u¿yæ. Nie mam potomków ani uczniów, tylko kilku pomocników, którzy czuj¹c pustkê w duszach od czasu do czasu wymykaj¹ siê z plemienia, aby byæ tutaj i zobaczyæ naszych zagubionych bogów. 	Nie chcê umrzeæ, zanim nie przeka¿ê œwiêtej wiêzi z pierzastymi wê¿ami temu, kto zgodzi siê przyj¹æ ich przyjaŸñ i zamieniæ z nimi czêœæ swojej duszy, nawet jeœli dla niego nie bêd¹ to ¿ywe bóstwa. Rytua³, który wykona³ mój przodek, aby zjednoczyæ dusze naszych wspó³plemieñców i pierzastych wê¿y, wymaga wielkiej koncentracji bólu, smutku i nienawiœci. Obawiam siê, ¿e dzisiaj nie wystarcz¹ nawet emanacje ka¿dej ofiary wielkiej bitwy, a ty sam nie chcia³byœ tego za tak¹ cenê... Ale znam przedmiot, który niesie nieskoñczone morze takich uczuæ nagromadzonych przez wiele, wiele wielkich przemian. 		Przywódca wrogich Nocnych Pe³zaczy, Pactal Po¿eracz Dzieci, jest potomkiem Tepotla Pustego Oka, wata¿ki, który poprowadzi³ wszystkie plemiona wysp do walki przeciwko nam i który by³ œwiadkiem, jak bogowie odpowiedzieli na wezwanie i ocalili nasze plemiê przed zag³ad¹. Tylko jeden na dwudziestu wojowników pod dowództwem Tepotla prze¿y³ rzeŸ, a dusza Pustego Oka wch³onê³a niemoc ka¿dego, kto zgin¹³ tego dnia. 		Bêd¹c na ³o¿u œmierci, wla³ ten czarny ocean do swojego wielkiego ³uku bojowego i poda³ go swojemu synowi. Ka¿dy z jego potomków zrobi³by to samo, ale bêd¹c jeszcze w kwiecie wieku, nasyci³ wybran¹ broñ niszczycielsk¹ moc¹ i osobiœcie wykoñczy³ swoich rannych wojowników, aby j¹ powiêkszyæ. Pactal odziedziczy³ Wielkie Ubolewanie Pe³zaczy poprzez Kie³ Ostatniego Krzyku, szpon bojowy nale¿¹cy do jego dziadka; nie mia³ ochoty czekaæ kolejnych kilkudziesiêciu tur, a¿ wreszcie zasi¹dzie na tronie wodza, wiêc pozby³ siê ojca i wujków, nasy³aj¹c na nich stado wœciek³ych gorgon podczas polowania. 		Przela³ czarn¹ moc ze szponu bojowego na niesamowity artefakt – Lunetê. Dosta³ j¹ od kapitana piratów za ca³¹ beczkê bezcennej ¿ó³ci wydobytej z rzadkich rubinowych wê¿y i nazwa³ je Pustym Okiem, na czeœæ swojego przodka. Mówi¹, ¿e od tego czasu potrafi widzieæ to, co ukryte i przeszukiwaæ ziemiê; nie ma innego sposobu, aby wyjaœniæ, dlaczego jego mordercy byli w stanie raz za razem bez przerwy znajdowaæ i niszczyæ jaskinie za pomoc¹ szponów i m³odych Krwawych Piór. Za ka¿dym razem, gdy tak siê dzieje, pojawia siê tam sam Pactal, wysysa jajka i po¿era m³odych jaszczuroludzi. Przypuszczam, ¿e widzisz, jaki jest dumny ze swojego przydomka. 		Czujê w Tobie si³ê i szczeroœæ; Koatle z pewnoœci¹ bêd¹ zachwycone ¿e znajd¹ nowych przyjació³ w Tobie i Twoich towarzyszach. Co wiêcej, bêdê móg³ tak¿e przekazaæ Ci najcenniejszy sekret, jaki skrywa³em przez ca³e ¿ycie. Nie tylko staniesz siê równy naszym pierzastym bogom... bêdziesz móg³ tak¿e sam ich stworzyæ. Nauczê ciê, jak stworzyæ wielkiego Karmazynowego Koatla. Byli nieobecni na œwiecie zbyt d³ugo i chcê jeszcze raz oddaæ czeœæ ucieleœnieniu dawnej wielkoœci mojego plemienia, zanim umrê. WejdŸ do mojej chaty. Mam ci wiele do pokazania i wyjaœnienia.
+
+(80, 37, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(81, 38, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(10, 65, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(4, 6, 0) ***W³adca bestii***
+Nazwa:
+Shaabar
+
+(3, 5, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 4, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(38, 4, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(37, 4, 0) ***W³adca bestii***
+Nazwa:
+Pactal
+
+(39, 4, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(7, 40, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(2, 105, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(2, 106, 0) ***Kapitan***
+Nazwa:
+Thelas
+
+(29, 104, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(30, 104, 0) ***Nawigator***
+Nazwa:
+Pholius
+
+(87, 85, 0) ***Nawigator***
+Nazwa:
+Darand
+
+(104, 104, 0) ***Kapitan***
+Nazwa:
+Renglie
+
+(86, 86, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(104, 102, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(39, 24, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(38, 24, 0) ***W³adca bestii***
+Nazwa:
+Areshrak
+
+(32, 66, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(58, 30, 1) ***Brama misji***
+Wiadomoœæ:
+Bramy strze¿e dwóch wojowników w staro¿ytnych zbrojach. S¹ prawie tak ogromni i schorowani jak Tlamac, a ich oczy b³yszcz¹ religijnym blaskiem. 	„Wielki szaman czeka na ciebie. CodŸ szybko! Pragniemy ujrzeæ boga!”
+Czy jesteœ gotowy, ¿eby przejœæ?
+
+(31, 32, 1) ***Brama misji***
+Wiadomoœæ:
+Jaskinie te prowadz¹ do o³tarza ofiarnego, gdzie kap³ani plemienia Pactala sk³adaj¹ w ofierze Koatle.
+Czy chcesz przejœæ?
+
+(49, 104, 1) ***Zdarzenie***
+Wiadomoœæ:
+Pink AI - bonus
+
+(104, 30, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+S³yszeliœcie, ¿e ta tajemnicza jaskinia jest domem Koatli. Po kilku twoich próbach wejœcia do jaskini okazuje siê, ¿e krêcisz siê w kó³ko. Wygl¹da na to, ¿e prawdziwe wejœcie jest ukryte za jak¹œ potê¿n¹ magiczn¹ iluzj¹ i nie mo¿na z³amaæ tego zaklêcia.	 S³yszeliœcie od Jaszczuroludzi, ¿e ostatnio widziano na wyspach grupê arcymagów przybywaj¹cych tutaj z Wysp Mg³y. Byæ mo¿e jeden z nich móg³by Ci pomóc.
+Próby rozwiania magicznych iluzji spe³z³y na niczym. Jedyne, co przychodzi Ci do g³owy, to znaleŸæ kogoœ, kto mo¿e Ci pomóc.
+Arcymag zgadza siê Ci pomóc, jednak bez szczególnej chêci. Przez chwilê obserwujesz, jak czarodziej pracuje nad magiczn¹ barier¹, po czym otwiera siê przed tob¹ niewidziane wczeœniej wejœcie do jaskiñ Koatli. 	Czy chcesz przejœæ?
+
+(66, 42, 1) ***Chata proroka***
+Wiadomoœæ:
+W chatce po³o¿onej w k¹cie wilgotnej jaskini spotykasz starego jaszczurocz³eka. Wygl¹da na to, ¿e jest ciê¿ko ranny. "Witaj! Przyby³em tu z Wysp Ran Sztyletu. Nasz wódz wys³a³ mnie tutaj do lokalnych plemion jako ambasadora. Niestety ani ja, ani moi bracia nie mieliœmy pojêcia, gdzie siê znaleŸliœmy. Pactal i jego plemiê traktowali nas jak wrogów! Ledwo uda³o mi siê wydostaæ z wyspy Pactala, zanim ukry³em siê w tej jaskini. Bojê siê, ¿e nigdy siê st¹d nie wydostanê. Jestem stary i cierpiê z powodu moich ran. Przynieœ mi trochê bazyliszków i gorgon; maj¹c ich u boku, móg³bym jeszcze dotrzeæ do ³odzi i wróciæ na moje wyspy.
+Gdzie s¹ bazyliszki i gorgony, o których ci mówi³em? Przebywanie w tej jaskini jest zbyt niebezpieczne, ale wydostanie siê st¹d na w³asn¹ rêkê nie by³oby ³atwiejsze.
+Te bazyliszki i gorgony s¹ w³aœnie tym, czego potrzebujê!
+Przebywanie w tej jaskini jest niebezpieczne... Ale teraz mogê spróbowaæ dostaæ siê na moj¹ ³ódkê.
+Teraz chcia³bym, ¿ebyœ przyj¹³ tê koronê jako prezent. Chcieliœmy ofiarowaæ j¹ plemieniu Paktala w geœcie dobrej woli, ale teraz, nie ma mowy. Czy chcesz wzi¹æ Koronê Piêciu Mórz?
+
+(103, 92, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+W g³êbi jaskiñ zauwa¿asz kilka Koatli, ale nie zwracaj¹ na ciebie zbytniej uwagi. S³yszeliœcie, ¿e Jaszczuroludzie z plemienia Tlamaca byli w stanie okie³znaæ te stworzenia za pomoc¹ magicznych kryszta³ów. Mo¿e i Ty byœ to zrobi³?
+Koatle wci¹¿ tu s¹. Nie wydaj¹ siê chêtni do ataku, ale te¿ nie maj¹ zamiaru do ciebie do³¹czyæ.
+Magia kryszta³ów zwabi³a kilka Koatli. Czy chcesz je zabraæ ze sob¹?
+
+(92, 93, 1) ***Chata proroka***
+Wiadomoœæ:
+Kilka miesiêcy temu wraz z moimi przyjació³mi magami przybyliœmy z kontynentu, aby zbadaæ te wyspy. Plotka g³osi, ¿e znajduj¹ siê tu magiczne kule, zdolne wzmacniaæ zaklêcia magii Wody. Te kule zosta³y stworzone przez cywilizacjê, która rz¹dzi³a tymi wyspami, zanim jeszcze osiedlili siê tu jaszczuroludzie. Nasze poszukiwania jak dot¹d nie da³y rezultatu, ale jestem pewien, ¿e tu s¹. Przynieœ mi jedn¹ z tych kul, a wymieniê j¹ na zwój z zaklêciem Modlitwa. Ostrzegam jednak: ufam tylko mrocznym elfom.
+Nie zlokalizowa³em jeszcze kuli. Mo¿e warto zajrzeæ do jaskiñ albo do gniazd Koatli?
+Ta kula jest w³aœnie tym, czego potrzebujê!
+Dotrzyma³eœ swojej czêœci umowy, a ja dotrzymam swojej.
+Nie ufam ci. Nie jesteœ mrocznym elfem!
+Czy chcia³byœ zamieniæ kulê na zwój zaklêæ Modlitwa?
+
+(56, 59, 1) ***W³adca bestii***
+Nazwa:
+Gyrzan
+
+(83, 20, 1) ***WiedŸma***
+Nazwa:
+Chiqtli
+
+(81, 19, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Zauwa¿asz kilka Koatli w du¿ych klatkach. Najprawdopodobniej klucz do drzwi ma wiedŸma, któr¹ widzia³eœ przy o³tarzu ofiarnym.
+Twoje próby w³amania siê do klatki s¹ bezowocne. Bêdziesz musia³ znaleŸæ klucz.
+Klucz, który znalaz³eœ u wiedŸmy, pasuje do wszystkich klatek. Czy chcia³byœ je otworzyæ?
+
+(41, 47, 1) ***Tabliczka***
+Wiadomoœæ:
+Jaskinie Pierzastego Wê¿a
+
+(102, 103, 1) ***£owca***
+Nazwa:
+Leyda
+
+(102, 104, 1) ***Zdarzenie***
+Wiadomoœæ:
+Pink AI - bonus
+
+(23, 73, 1) ***Koatl***
+Wiadomoœæ:
+Twoi wojownicy znaleŸli kilka Koatli ukrywaj¹cych siê w tych jaskiniach. Czy chcia³byœ je zabraæ ze sob¹?
+
+(55, 96, 1) ***Brama misji***
+Wiadomoœæ:
+W tych jaskiniach jest bardzo gor¹co i niewiele stworzeñ odwa¿a siê tu osiedliæ. Jednak miejsce to jest bogate w kryszta³y, a piraci od jakiegoœ czasu wydobywaj¹ tu klejnoty i wysy³aj¹ je do Regny. Równie¿ kilka miesiêcy temu w tych jaskiniach pojawi³ siê nieproszony goœæ; mówi siê, ¿e jest czarnoksiê¿nikiem z Nighon.
+Czy chcesz przejœæ?
+
+(12, 34, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(39, 52, 1) ***Chata proroka***
+Wiadomoœæ:
+Jest tu obóz Jaszczuroludzi. Ich dowódca wrzeszczy do ciebie: 	„Postanowiliœmy pozbyæ siê Czarnych Smoków, które opanowa³y podziemne przejœcie pomiêdzy naszymi wioskami, ale nasze wysi³ki okaza³y siê bezowocne. Sprawili, ¿e podró¿owanie pod ziemi¹ jest zbyt niebezpieczne. Jeœli pomo¿esz nam uporaæ siê z tymi potworami, podzielimy siê z tob¹ spostrze¿eniami, które mog¹ ci siê przydaæ, gdy dojdzie do bójki z Pactalem.”
+S³yszeliœmy, ¿e Czarne Smoki nadal blokuj¹ przejœcie. Wróæ, kiedy ju¿ ich nie bêdzie.
+Przejœcie znów jest bezpieczne! W zamian za Twoj¹ pomoc mo¿emy podzieliæ siê naszym doœwiadczeniem bojowym.
+Przywódca Jaszczuroludzi jest gotowy wyszkoliæ Henriettê, gdy ju¿ tu dotrze.
+Przywódca Jaszczuroludzi jest gotowy wyszkoliæ Henriettê, gdy ju¿ tu dotrze.
+W zamian za wytêpienie smoków, jaszczuroludzie s¹ sk³onni przeszkoliæ ciê w obronie. Czy zgodzi³byœ siê?
+Przywódca Jaszczuroludzi jest gotowy wyszkoliæ Wynonê, gdy ju¿ tu dotrze.
+Przywódca Jaszczuroludzi jest gotowy wyszkoliæ Wynonê, gdy ju¿ tu dotrze.
+W zamian za wytêpienie smoków, jaszczuroludzie s¹ sk³onni przeszkoliæ ciê w obronie. Czy zgodzi³byœ siê?
+
+(102, 102, 1) ***Brama misji***
+Wiadomoœæ:
+Nikt nie zna pochodzenia tych jaskiñ. Wed³ug przewodnika gnolli le¿a³y one opuszczone przez wiele lat, ale oko³o dwie dekady temu zaczê³y siê tu pojawiaæ elfy i stworzenia morskie.
+Czy chcesz przejœæ?
+
+(13, 62, 1) ***Zdarzenie***
+Wiadomoœæ:
+Tan AI - bonus
+
+(14, 62, 1) ***WiedŸma***
+Nazwa:
+Wergna
+
+(57, 30, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Witaj goœciu. Mo¿e ju¿ czas, ¿ebym przesta³ ciê tak nazywaæ, bo ju¿ wkrótce odprawimy rytua³, a ty staniesz siê równ¹ bogom, now¹ pani¹ tych sal. Czy sprowadzi³aœ Wielkie Ubolewanie Pe³zaczy? Czy Puste Oko jest w twoich rêkach?
+Duchy mówi¹ mi, ¿e Paktal Po¿eracz Dzieci nadal emituje czarn¹ aurê cierpienia, co oznacza, ¿e Puste Oko wci¹¿ jest w jego posiadaniu. Przynieœ mi to! Nie mogê czekaæ wiecznie, a moja dusza ju¿ dawno jest zmêczona cierpieniem w tej zwiêd³ej skorupie.
+Czujê Puste Oko! Pozwól mi tego dotkn¹æ, a pójdziemy do sali staro¿ytnego szamana. Przygotowa³em wszystko do rytua³u zjednoczenia dusz. Jesteœ gotowy?
+
+(60, 48, 1) ***Chata proroka***
+Wiadomoœæ:
+Wygl¹da na to, ¿e Koatle nigdzie siê nie spieszy³y i nie zwracaj¹ na ciebie zbytniej uwagi. S³yszeliœcie, ¿e Jaszczuroludzie z plemienia Tlamaca byli w stanie okie³znaæ te stworzenia za pomoc¹ magicznych kryszta³ów. Mo¿e i Ty byœ to zrobi³?
+Koatle wci¹¿ tu s¹. Nie wydaj¹ siê chêtne do ataku, ale te¿ nie maj¹ zamiaru do ciebie do³¹czyæ.
+Magia kryszta³ów zwabi³a kilku Koatli. Czy chcesz je zabraæ ze sob¹?
+
+(59, 49, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Zauwa¿asz kilka Koatli w du¿ych klatkach. Najprawdopodobniej wódz gnolli, którego widzia³eœ przy o³tarzu ofiarnym, ma klucz do drzwi.
+Twoje próby w³amania siê do klatki s¹ bezowocne. Bêdziesz musia³ znaleŸæ klucz.
+Klucz, który znalaz³eœ u gnolla, pasuje do wszystkich klatek. Czy chcia³byœ je otworzyæ?
+
+(51, 16, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(54, 14, 1) ***Brama misji***
+Wiadomoœæ:
+Twój przewodnik, jaszczurocz³ek, informuje ciê: przed tob¹ magiczna bariera blokuj¹ca przejœcie przez podziemne jezioro. Nie wiadomo, kto j¹ stworzy³, ale przewodnik wspomina, ¿e w przesz³oœci czêsto widywano w tych jaskiniach wiedŸmê Dekha.
+Twój przewodnik, jaszczurocz³ek, informuje ciê: przed tob¹ magiczna bariera blokuj¹ca przejœcie przez podziemne jezioro. Nie wiadomo, kto j¹ stworzy³, ale przewodnik wspomina, ¿e w przesz³oœci czêsto widywano w tych jaskiniach wiedŸmê Dekha.
+ Teraz, gdy wiedŸmy ju¿ nie ma, magiczna bariera zniknê³a. Czy chcia³byœ przep³yn¹æ?
+
+(4, 44, 1) ***WiedŸma***
+Nazwa:
+Dekha
+
+(3, 42, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(1, 48, 1) ***Chata proroka***
+Wiadomoœæ:
+W jaskini znajdujesz chatê; wygl¹da doœæ niepozornie, ale jest zapieczêtowany magi¹. Byæ mo¿e chatka ta nale¿y do jednej z miejscowych czarownic. A mo¿e nie. Tak czy inaczej, tylko mag, który stworzy³ pieczêæ, mo¿e j¹ z³amaæ.
+W jaskini znajdujesz chatê; wygl¹da doœæ niepozornie, ale jest zapieczêtowany magi¹. Byæ mo¿e chatka ta nale¿y do jednej z miejscowych czarownic. A mo¿e nie. Tak czy inaczej, tylko mag, który stworzy³ pieczêæ, mo¿e j¹ z³amaæ.
+Kiedy wchodzisz do chaty Ha’Ory, znajdziesz przejœcie do jaskiñ. Podczas eksploracji nagle natkniesz siê na ma³¹ paczkê Koatli. 	Czy chcesz je zabraæ ze sob¹?
+
+(55, 107, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(33, 6, 1) ***Obóz bohatera***
+Nazwa:
+Ha'Ora
+Biografia:
+Ha'Ora jest siostr¹ innej s³ynnej wiedŸmy, Voy. Ich matka krad³a hodowcom gorgon sól, bezcenny towar w Tatalii, i naciera³a ni¹ sk³adane przez siebie jaja, maj¹c nadziejê, ¿e wykluj¹ siê jaszczuroludzie tak potê¿ni jak te ziej¹ce ogniem byki, ale zamiast tego jej dzieci rozwinê³y nieortodoksyjne zainteresowania do s³onych wód Enroth i do d³ugich podró¿y.
+
+(55, 26, 1) ***Chata proroka***
+Wiadomoœæ:
+Wynona i ja weszliœmy do sali szamanów. Tlamac sta³ tam przy ogromnym kamiennym naczyniu, w którym bulgota³ czerwony, gryz¹cy, gêsty p³yn, a na œrodku le¿a³o du¿e jajko, którego powierzchnia wygl¹da³a, jakby by³a podziurawiona cienkimi kamiennymi p³ytkami. Szaman wyrecytowa³ zaklêcia z g³êbokim warczeniem i wyla³ krew na jajo z miski w kszta³cie czaszki. Kiedy podeszliœmy bli¿ej, podniós³ wzrok. Jaszczuroludzie nie potrafi¹ siê uœmiechaæ, ale zrozumia³am, ¿e by³ szczêœliwy.		 „I ja te¿ to przewidywa³em. Jesteœ nie tylko silna; cenisz tak¿e swoich towarzyszy. Gdybyœ urodzi³a siê wœród jaszczuroludzi, by³bym dumny, mog¹c nazwaæ ciê moim dowódzc¹... I wiedzia³em, ¿e bêdziesz chcia³a przenieœæ prawo do zrobienia tej wspania³ej rzeczy na swoj¹ przyjació³kê, tê, która ¿y³a d³u¿ej ni¿ kolwiek inny z jaszczuroludzi i wie wiêcej o ¿ywych istotach ni¿ ktokolwiek inny na œwiecie. To z pewnoœci¹ nagrodzi jej nieskoñczon¹ mi³oœæ do wszystkiego, co trzepocze, skacze i pe³za. Dla wszystkich, którzy ¿yli, ¿yj¹ i bêd¹ ¿yæ. Uwolnimy wiele dusz; têskni¹ za pokojem i powrotem na wielkie mokrad³a ¿ycia, gdzie bêd¹ mogli narodziæ siê na nowo. PodejdŸ, Wynona. WeŸ miskê i powtarzaj za mn¹.
+Przez sekundê myœla³em, ¿e umar³am. Jêki, krzyki, kaszle, charczenie, b³agania – wszystko to przeniknê³o mnie w jednej chwili. Moje serce zabi³o mocniej... ale potem poczu³am, jak zalewa mnie potê¿na fala ciep³a i niez³omnej mocy, wraz z podekscytowanymi krzykami dziesi¹tek pierzastych wê¿y, które w tym momencie przedostawa³y siê przez wejœcia. Wynona zamar³a z jajkiem w d³oniach, jakby ba³a siê ruszyæ, a ja widzia³am w jej oczach szczêœcie kobiety, która dawno porzuciwszy nadziejê na urodzenie dziecka, nagle dowiedzia³a siê, ¿e jednak zostanie matk¹. Koatle otoczy³y nas i zamilkli. Us³ysza³em szelest i ciche, nieœmia³e pukanie, jakby ktoœ nieœmia³y prosi³ o wejœcie do domu. Tlamac poda³ Wynonie d³uto – du¿y, skamienia³y kie³, który kiedyœ nale¿a³ do jakiejœ staro¿ytnej bestii. 		„Zbyt d³ugo drzema³ w œrodku i teraz trudno mu przedostaæ siê do œwiat³a. Pomó¿ mu, dobrze?
+
+(2, 3, 1) ***WiedŸma***
+Nazwa:
+Wallen
+
+(105, 31, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Wygl¹da na to, ¿e Koatle nigdzie siê nie spieszy³y i nie zwracaj¹ na ciebie zbytniej uwagi. S³yszeliœcie, ¿e Jaszczuroludzie z plemienia Tlamaca byli w stanie okie³znaæ te stworzenia za pomoc¹ magicznych kryszta³ów. Mo¿e i Ty byœ to zrobi³?
+Koatle wci¹¿ tu s¹. Nie wydaj¹ siê chêtni do ataku, ale te¿ nie maj¹ zamiaru do ciebie do³¹czyæ.
+Magia kryszta³ów zwabi³a kilka Koatli. Czy chcesz je zabraæ ze sob¹?
+
+(3, 16, 1) ***WiedŸma***
+Nazwa:
+Sahssa
+
+(4, 17, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(48, 105, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(47, 105, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Dagdaro
+
+===== Koniec pliku =====

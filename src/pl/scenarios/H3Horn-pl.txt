@@ -1,0 +1,45 @@
+Name:
+Róg Otch³ani
+
+Description:
+Dwaj piraci, Bidley i Jeremy, chc¹ odzyskaæ Róg Otch³ani skradziony przez podstêpn¹ Casmetrê, która pozostawi³a ich na niechybn¹ œmieræ. Musz¹ znaleŸæ drogê powrotn¹ na Regnê, a nastêpnie dokonaæ zemsty na wiedŸmie.  
+
+
+Frontier — Róg Otch³ani A
+
+Right-click text:
+Jeremy znalaz³ siê na niezbadanych wyspach z dala od Regny. Kapitan musi zapaliæ Lodestar, aby znaleŸæ drogê do domu.
+
+Prologue:
+Jeremy ponownie znalaz³ siê na jakimœ piaszczystym wybrze¿u, daleko od domu. Straci³ kontakt z bratem, lecz nie utraci³ wiary. Tak jak mia³o to miejsce na pocz¹tku tej durnej historii z Utopi¹ i Alkinem. Teraz jednak Jeremy Albatros pa³a³ pal¹cym pragnieniem dokonania zemsty na Casmetrze za jej zdradê. 
+
+
+Heart of Water — Róg Otch³ani B
+
+Right-click text:
+Bidley utkn¹³ w Wiecznym Oceanie, ale nie chce tu zostaæ. Jedyne wyjœcie prowadzi przez miasto Coralgate. Jeœli miejscowi bêd¹ próbowali go powstrzymaæ, czeka ich ciê¿ki los.
+
+Prologue:
+Dla Bidleya na zawsze pozostanie zagadk¹ czy sen, w którym oddycha³ pod wod¹ by³ proroczy, czy by³ tylko zwyk³¹ mar¹. Teraz bowiem znajdowa³ siê g³êboko pod wod¹, oddychaj¹c swobodnie oraz obserwuj¹c p³yn¹ce nieopodal ryby i ¿ó³wie.
+
+
+Horn of the Abyss — Róg Otch³ani C
+
+Right-click text:
+Piraci i Ksi¹¿ê Niks musz¹ powstrzymaæ Casmetrê, zanim bêdzie mog³a wykorzystaæ moc Rogu Otch³ani, który ukrad³a.
+
+Prologue:
+Prêdzej czy póŸniej, ka¿dy podstêp doczeka swego koñca. Po tym jak Casmetra zdradziecko pozbawi³a Bidleya Rogu Otch³ani, natychmiast zda³a sobie sprawê, ¿e pirat pod¹¿y w œlad za ni¹. Mog³aby ¿a³owaæ swych decyzji, ale na to by³o ju¿ za póŸno. Bidley, Jeremy oraz Tark w³aœnie szykowali siê do oblê¿enia jej wyspy oraz zakoñczenia jej niecnych planów.
+
+
+All hands on board! — Róg Otch³ani D
+
+Right-click text:
+Bidley ma teraz Róg Otch³ani, ale nie jest zbyt dobrze przygotowany na bycie „Królem Piratów”. Piraci, czarnoksiê¿nicy, ¿ywio³aki, a nawet czarodzieje Dargema – wszyscy oni byliby œwiadkami obalenia nowego w³adcy i odzyskania artefaktu.
+
+Prologue:
+Gdy roœniesz w si³ê, musisz pamiêtaæ, ¿e zawsze znajd¹ siê tacy, którzy bêd¹ próbowali przeciwstawiæ siê twojej w³adzy. 	Bidley nie by³ przygotowany na to, ¿e po zdobyciu Rogu Otch³ani stanie siê on nowym Królem Piratów. Wielu wrogów po³¹czy³o swe si³y, by obaliæ nowo wy³onionego hegemona i odebraæ mu Róg. 	Czy Bidley bêdzie w stanie odeprzeæ zakusy nieprzyjació³? Czy przejdzie próbê w³adzy i autorytetu? 	
+
+Epilogue:
+Ka¿da historia ma swój pocz¹tek i koniec. Ta rozpoczê³a siê w jakiejœ zatêch³ej tawernie na wybrze¿ach Krewlod, a zakoñczy³a siê wraz z ¿yciami wrogów Króla Piratów. 	Od tej chwili, jeszcze przez d³ugi czas nikt nie odwa¿y siê zakwestionowaæ jego potêgi. Róg Otch³ani nale¿y wy³¹cznie do Bidleya, który prawo do posiadania tego artefaktu udowodni³ w³asn¹ krwi¹. 	Jednak¿e... czy jego umys³ oprze siê po¿eraj¹cej otch³ani? 	
+

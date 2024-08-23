@@ -1,0 +1,352 @@
+===== Nazwa mapy =====
+Poza horyzont
+
+===== Opis mapy =====
+Aby obroniæ miasto Burton przed Ogrami, musisz pokonaæ ich przywódcê Zoga. Jednak jeœli Henrietta lub Frederick zostan¹ pokonani, misja przepadnie. Bohaterowie s¹ ograniczeni do poziomu 12. Henrietta i Frederick przenios¹ elementy Studni Czarodzieja i Pierœcienia Magów do nastêpnego scenariusza.
+
+===== Pog³oski =====
+
+Nazwa:
+Zog Clue 1
+Tekst:
+Mówi¹, ¿e Terghez, s³uga Zoga, zna drogê do jego twierdzy.
+
+Nazwa:
+Zog Clue 2
+Tekst:
+Wielu wie, ¿e do twierdzy Zoga prowadzi podziemne przejœcie, ale nikt go jeszcze nie widzia³.
+
+Nazwa:
+Balthazar goes to war
+Tekst:
+Minotaury zbudowa³y swoj¹ placówkê na pó³nocny wschód od Burton. Wygl¹da na to, ¿e przygotowuj¹ siê do wojny z mrocznymi krasnoludami.
+
+Nazwa:
+Pirates
+Tekst:
+W zatoce w pobli¿u twierdzy ogrów widziano statek pod pirack¹ bander¹.
+
+Nazwa:
+Mage Hut
+Tekst:
+Czarodziej z krainy za morzem osiedli³ siê na wschód od Burton. Mówi¹, ¿e pomaga podró¿uj¹cym magom uczyæ siê nowych zaklêæ.
+
+Nazwa:
+Ogre Garrison
+Tekst:
+Ci, którzy widzieli wejœcie do twierdzy Zoga twierdz¹, ¿e strzeg¹ go niezliczone hordy orków i ogrów.
+
+Nazwa:
+Ravage Roaming
+Tekst:
+Wiwerny s¹ tu liczne na pustkowiach Ravage Roaming. Ca³e gniazdo tych stworzeñ zosta³o zauwa¿one na pó³noc od Burton!
+
+Nazwa:
+Firearms
+Tekst:
+Magowie i rzemieœlnicy z czasów Regnan ciê¿ko pracuj¹ nad udoskonaleniem broni palnej.
+
+Nazwa:
+Trailblazer
+Tekst:
+Pionier z pó³nocy od Burton mo¿e pomóc ci znacznie szybciej przemierzaæ pustkowia Ravage Roaming.
+
+Nazwa:
+Ironfist
+Tekst:
+Zog nazwa³ swój potê¿ny artefakt na czeœæ Archibalda. Samozwañczy król i Szakal byli sojusznikami podczas Wojen Sukcesyjnych.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+AI - minus resources
+Wiadomoœæ:
+
+
+Nazwa:
+Burton - Part 1
+Wiadomoœæ:
+Burton cuchnê³o. To by³o nasze pierwsze wra¿enie z tego miejsca. Ca³e miasto by³o przesi¹kniête ostrym zapachem czegoœ nieznanego — powietrze wydawa³o siê ciê¿kie, lepkie... i brudne, jeœli mo¿na tak powiedzieæ o powietrzu. 		Z powodu tego smrodu nasz przyjazd do Jadame niemal przerodzi³ siê w wielk¹ awanturê w pierwszych minutach, kiedy postawiliœmy stopy na jego ziemi. Prze¿yliœmy wiele po drodze i wielu z nas bardzo ciê¿ko znios³o podró¿ ale w chwili, gdy znaleŸliœmy siê na sta³ym l¹dzie i wdychaliœmy powietrze nowego œwiata, uchodŸcy z Eeofolii krzyknêli jak jeden m¹¿, ¿e nienawidz¹ tego miejsca i za¿¹dali, ¿ebyœmy kontynuowali podró¿. Nie mia³am pojêcia, co im powiedzieæ, wiêc po prostu spojrza³am na Fredericka. Widzia³am, jak wielk¹ cenê zap³aci³ za to, ¿e musia³ towarzyszyæ mieszkañcom wioski, którzy nieustannie nêkali go swoimi nieudolnymi skargami i proœbami. Teraz widzia³am, jak jego twarz robi³a siê coraz bardziej purpurowa z ka¿dym nowym okrzykiem t³umu i wiedzia³am, ¿e nie da siê unikn¹æ wybuchu. 		Jednak burza nadesz³a z nieoczekiwanego kierunku. Zza pleców naukowca wysz³a niska, krêpa kobieta z podwiniêtymi rêkawami. Wygl¹da³a na jego kole¿ankê z Jadame, Sam — opowiedzia³ mi o niej trochê po drodze. Na jej twarzy dostrzeg³em zmêczenie mieszaj¹ce siê ze z³oœci¹, a smutek z determinacj¹. Zacisnê³a piêœci wzd³u¿ cia³a, spojrza³a Frederickowi w oczy i krzyknê³a chrapliwie: 		„Frederick, stary druhu! Spodziewa³am siê, ¿e prêdzej czy póŸniej przyjdziesz, i nie tylko ty; musia³eœ siê na to zdecydowaæ i przycupn¹æ na dnie naszej nory! Ale, kurczê, jeœli nie ma was tu wiêcej ni¿ pancerników na ranczu starego Donalda... Có¿, czeœæ wam, drodzy goœcie. Dziadek mojego dziadka spêdzi³ czterdzieœci lat na poszukiwaniu miejsca, w którym móg³by zapuœciæ korzenie w tej ziemi. I wiecie co? Znalaz³ jedyne miejsce w promieniu setek mil, które nie œmierdzia³o. A potem przysz³y Ogry i uciê³y mu g³owê — dziêki Bogom, ¿e stary g³upiec zd¹¿y³ ju¿ sp³odziæ synów, którzy rozproszyli siê na osiem wiatrów, gdy tylko doroœli. Dziadek mojego ojca nie by³ typem cz³owieka o wielkich pomys³ach — miejsce, w którym siê osiedli³, œmierdzia³o tak samo jak wszêdzie indziej w okolicy, ale by³o to dobre miejsce do walki z wrogami. Dziadek mojego ojca odkry³ Ÿród³o smrodu — widzisz star¹ fontannê tam? Próbowa³ wykopaæ studniê, ¿eby zdobyæ wodê, ale tryska³ z niej "olej ziemny". To dlatego to miejsce œmierdzi. Mój ojciec odkry³, ¿e ten olej dobrze siê pali, wiêc nauczy³ siê wytapiaæ metal tym paskudnym, ale gor¹cym paliwem. A potem przyby³y tu Ogry z miejsc, gdzie rzeczywiœcie nie œmierdzi, ale nie mo¿na te¿ zdobyæ metalu na broñ i zbrojê. Zgadnij, co mu zaoferowali?” 		„Eee, ¿eby wymieniæ metal na coœ, czego mieli du¿o?” — zasugerowa³ jeden z nizio³ków. 		„Brawo, ch³opcze! Za³apa³eœ!” A wiesz, czego ogry maj¹ pod dostatkiem? G³upiej si³y. Jakis ich wa¿niak poszed³ i roztrzaska³ mojego tatê w ka³u¿y swoj¹ maczug¹, a potem powiedzia³, ¿e oddamy mu ca³y metal, a oni w zamian nie zabij¹ nikogo wiêcej. Mo¿e. Có¿, przynajmniej nie wszyscy. Mo¿e. Jeœli nastrój dopisze. Prawdopodobnie nie. W ka¿dym razie wykona³ œwietn¹ robotê, zachêcaj¹c nas. O, nawiasem mówi¹c, spójrz tam, tam i tam — Sam zatoczy³a pe³ne ko³o d³oni¹, wskazuj¹c na obrze¿a miasta. „Te dobre, stare Ogry s¹ wszêdzie. A tam, w miejscu, gdzie nie œmierdzi, jest ich g³ówna forteca, a tam siedzi jedna wielka, oœlizg³a ropucha, wygl¹da jak œwie¿e gówno pancernika i nazywa siê Zog. Tak, i jest tam jeszcze kilkaset jego dobrych kumpli. Kontynuowaæ? Nie bêdê ciê b³aga³a, ¿ebyœ nie przesta³. Ale widzê, ¿e twoje bañki nie wytrzymaj¹ wiêcej ni¿ sto mil bez napraw, ze wszystkimi dziurami i czymkolwiek innym. Gdzie wyl¹dujesz nastêpnym razem, nawet nie zgadnê. Có¿, mam nadziejê, ¿e nie bêdzie œmierdzia³o. IdŸ ju¿ sobie.”
+
+Nazwa:
+Burton - Part 2
+Wiadomoœæ:
+UchodŸcy stali tam, ich twarze by³y bia³e jak papier. Ci, którzy zaczêli wspinaæ siê po trapach z powrotem do statków, zamarli miêdzy niebem a ziemi¹, kurczowo trzymaj¹c siê stopni. Wzi¹³am g³êboki oddech, staraj¹c siê nie skrzywiæ od zapachu, drapi¹c czerwon¹ ziemiê palcem u nogi... i zrobi³am krok naprzód. 		„Czeœæ, Sam. Rozumiem, ¿e spodziewa³aœ siê Fredericka i jego przyjació³ i nie s¹dzi³aœ, ¿e bêdzie nas tak wielu — ale wszyscy straciliœmy nasz dom. Jeœli pozwolisz nam tu zostaæ, bêdziemy wdziêczni i postaramy siê byæ u¿yteczni. Nie unikamy pracy ani walki”. 		Na moje ostatnie s³owa twarze nizio³ków stoj¹cych obok mnie posmutnia³y, ale, dziêki bogom, nikt nie wykrztusi³ ani jednego s³owa. Ku mojemu zaskoczeniu, s³owa Sama jakoœ ich uspokoi³y i jednoczeœnie rozweseli³y: wszyscy w milczeniu pobiegli roz³adowaæ sterowce. Kiedy ciê¿ka praca zosta³a wykonana, Sam zaprosi³a wszystkich do pospiesznie nakrytych sto³ów. By³o nieznane, lekko podejrzanie pachn¹ce miêso wydzielaj¹ce mnóstwo pary i ca³kiem sporo butelek wina; dziwnie zielonkawe w odcieniu, ale wci¹¿ niezaprzeczalnie wino. Gor¹ce jedzenie w koñcu zmy³o zmêczenie wyczerpuj¹cym lotem. Niektórzy z nas, którzy byæ mo¿e rozwinêli zbyt du¿e uznanie dla tutejszego trunku, zaczêli nawet rzucaæ dowcipami w stylu: „Jasne, nizio³ek nie jest ptakiem, ale...”.
+
+Nazwa:
+Mechanics
+Wiadomoœæ:
+Miasto zrobi³o silne wra¿enie, choæ mieszane. By³y tam... du¿e domy? Ma³e fabryki? Coœ pomiêdzy, wszêdzie. Dym, para, skrzypi¹ce drewno i brzêcz¹cy metal... Nic w porównaniu z naszymi cichymi, schludnymi wioskami, ale czu³am, ¿e moi rodacy szybko siê zadomowi¹. Nie by³o wyjœcia, a jeœli nizio³ek osiedli siê gdzieœ, wkrótce musi to staæ siê przytulnym domem, nawet jeœli trzeba zacz¹æ siê od nory pod gór¹. Nie musieliœmy jednak kopaæ — Sam zakwaterowa³a uchodŸców na obrze¿ach w starych budynkach zbudowanych z suszonej na s³oñcu ceg³y. 		Zosta³y zbudowane wiele lat temu przez ma³e plemiê ogrów, które pok³óci³o siê ze swoimi krewnymi i przysz³y b³agaæ, aby zatrudniæ je jako robotników, ale ostatecznie olbrzymy okaza³y siê niezdolne do wykonywania po¿ytecznej pracy i odesz³y, nigdy wiêcej o nich nie s³yszano. Ich domy od tamtej pory sta³y w ruinie i mia³y zostaæ rozebrane na kamienie, zanim nagle sta³y siê przydatne. Ma³e nizio³ki uwa¿a³y te konstrukcje za ogromne i niewygodne, ale tylko na pocz¹tku. Po kilku dniach œciany by³y wy³o¿one wszelkiego rodzaju doniczkowymi pomidorami i innymi roœlinami, a Urstan, wiejski cieœla, robi³ eleganckie sto³y i krzes³a dla nowych mieszkañców. 		Miejscowi, mechanicy, okazali siê ludŸmi ma³omównymi, ale niesamowicie pracowitymi. Nawet dzieci tutaj przyzwyczai³y siê do wstawania wczeœnie rano, aby pomagaæ doros³ym w fabrykach lub kuŸniach, zamiast paradowaæ i siê bawiæ. Okaza³o siê, ¿e Sam ma mnóstwo talentów organizacyjnych — ju¿ nastêpnego dnia ka¿dy nizio³ek otrzyma³ skórzany fartuch z zestawem prostych narzêdzi i instrukta¿ dotycz¹cy pracy, któr¹ mia³ wykonaæ. 		Praca jest najlepszym lekarstwem na smutne myœli. Zanim siê zorientowa³am, nowi uczniowie Sam byli po uszy w produkcji wszelkiego rodzaju czêœci mechanicznych: kó³ zêbatych, tulei, wa³ów, krzywek i rzeczy, o których nie mia³am pojêcia do czego s³u¿¹ i widzia³am je tylko u³o¿one w warsztacie w odleg³ym Eeofolu. Czym jest zawór dyszy i do czego s³u¿y? Oczywiœcie mog³am zapytaæ Fredericka, ale nie odwa¿y³am siê teraz go rozpraszaæ. By³ zajêty budowaniem ogromnego hangaru, szopy czy czegoœ takiego na skraju wioski, poniewa¿ nasze sterowce wymaga³y gruntownego remontu. Oczywiœcie, pod warunkiem, ¿e sam remont wystarczy... 		Cisza nie trwa³a d³ugo; jeden ze zwiadowców Sam przyniós³ wiadomoœæ, ¿e armia dowodzona przez jednego z poruczników Zoga ruszy³a w stronê Burton i ¿e wkrótce tu bêd¹. Miejscowi nie wydawali siê byæ zbici z tropu t¹ nowin¹, ale brzêczenie, klekot i skrobanie w warsztatach stawa³o siê coraz g³oœniejsze, a miasto pogr¹¿y³o siê w ciê¿kiej mieszance pary i dymu.
+
+Nazwa:
+Armadillos
+Wiadomoœæ:
+Nadszed³ dzieñ, w którym w koñcu dowiedzia³am siê, sk¹d pochodzi to dziwnie smakuj¹ce, twarde miêso... 		Te stworzenia, wygl¹daj¹ce jak ruchome stosy kamieni o krótkich, grubych nogach, s³u¿y³y nie tylko jako Ÿród³o po¿ywienia, ale tak¿e jako zwierzêta juczne. Strasznie uparte, ale spokojne i powolne, pas³y siê spokojnie na du¿ym, ogrodzonym terenie - uwa¿a³em je za ca³kowicie ja³owe, ale najwyraŸniej mo¿na by³o tam znaleŸæ trochê paszy. By³y tym, co miejscowi nazywali pancernikami. Ka¿de stado mia³o przywódcê z ogromn¹ kostn¹ obro¿¹ i wydawa³o mi siê, ¿e te wielkie zwierzêta wymaga³y specjalnego traktowania. Jednak mój stary znajomy Kosta nie wydawa³ siê nawet przejmowaæ faktem, ¿e jego nowi przyjaciele nie mieli ani kopyt, ani warkoczyków. W ci¹gu kilku dni po naszym przybyciu zobaczy³am, jak krêci³ siê po stajniach, zagl¹da³ do paszczy tych ogromnych pancernych bestii, zaprzêga³ je i ogólnie wygl¹da³ na absolutnie szczêœliwego. Chcia³abym byæ taka. Jeszcze nie znalaz³am tutaj odpowiedniej rzeczy do zrobienia.
+
+Nazwa:
+First week passed
+Wiadomoœæ:
+Min¹³ tydzieñ, odk¹d osiedliliœmy siê w Jadame. 		Burton i jego przedmieœcia nie by³y zbyt zielone, nie by³o tam stawów, tylko czarne ka³u¿e bulgocz¹cego szlamu; wydziela³y ten charakterystyczny smród, do którego jednak przyzwyczailiœmy siê po zaledwie tygodniu. Miejscowi ch³opcy czasami podpalali jakiœ dla ¿artu, za co dostawali porz¹dne lanie od matek — a miejscowe kobiety, trzeba wspomnieæ, mog³y z ³atwoœci¹ rzuciæ m³otem kowalskim kilka s¹¿ni w górê jedn¹ rêk¹. Nic dziwnego, ¿e niegrzeczne dzieciaki traci³y wszelk¹ wolê do k³ótni na sam widok marszcz¹cej siê matki. 		Przez jakiœ czas waha³am siê, czy zapytaæ o to Sam; w koñcu zebra³em siê w sobie i zapyta³em, dlaczego w Burton jest tak ma³o mê¿czyzn i dlaczego kobiety nie zajmuj¹ siê pracami domowymi, tylko kuj¹, wierc¹ i spawaj¹ metal. 		"Mê¿czyŸni zawsze myœl¹, ¿e wszystko jest w ich rêkach! Dlatego teraz jest tak, jak jest." Kiedy ogry zaczê³y pojawiaæ siê w naszym kraju, utworzy³y coœ w rodzaju milicji — zrobi³y sobie miecze, tarcze, muszkiety i tym podobne. Oczywiœcie nikt nie umia³ walczyæ. I tak byli zabijani — jeden po drugim, jeden po drugim, a niektóre nawet skoñczy³y jako niewolnice Zoga. 	Có¿, szczerze mówi¹c, nasze kobiety nie mia³y zbyt wielu kobiecych zajêæ nawet wczeœniej. Jak widaæ, w naszym kraju nic tak naprawdê nie roœnie. Jest tylko olej ziemny, ruda i chwasty, które mog¹ trawiæ tylko pancerniki, wiêc musieliœmy dbaæ o byd³o. Pancernik to nie owca ani krowa, pamiêtaj, i nie jest taki ³atwy w obs³udze. Wymaga trochê si³y i woli. Nie wymaga jednak wypasania, wiêc pomagaliœmy naszym ojcom i mê¿om, ucz¹c siê, jak kuæ, odlewaæ metal, robiæ wszystko. Teraz dosz³o do tego, ¿e prawie nie ma ju¿ mê¿czyzn... no có¿, jakoœ sobie radzimy. Nie mo¿emy siê poddaæ. Jeœli mamy towar, mamy przynajmniej coœ do wymiany na jedzenie na targu portowym w Orca Maw. Ale nie mo¿emy siê tam teraz dostaæ, poniewa¿ stwory zablokowa³y drogê, któr¹ jad¹ nasze karawany. Wiedz¹, ¿e mamy coœ, co ich tu zaskoczy, wiêc na razie nie oœmielaj¹ siê nas atakowaæ, ale jeœli nie uda nam siê ich wygoniæ do ich nieœmierdz¹cej nory w górach, wezm¹ nas si³¹". 		W Burton wci¹¿ by³o doœæ spokojnie, z wyj¹tkiem ha³asu i dudnienia kuŸni, które znajdowa³y siê w prawie ka¿dym domu. 		Nisio³ki, ku mojemu zdumieniu, zaczê³y eksplorowaæ pustkowia, a nawet wspinaæ siê na ma³e ska³y w wolnym czasie, ale nigdy nie oddala³y siê zbytnio od Burton. 	Miejscowi, z wyj¹tkiem zwiadowców, równie¿ próbowali trzymaæ siê blisko, wcale nie z powodu bliskoœci twierdz Zoga. Wiêkszoœæ lokalnych wodzów ogrów z³o¿y³a mu przysiêgê; podczas gdy wczeœniej, jak twierdzili mieszkañcy miasta, przynajmniej z niektórymi z nich mo¿na by³o sobie poradziæ, wystarczaj¹co ostro¿nie, teraz Szakal mia³ coœ, co sprawi³o, ¿e zapragnêli mu s³u¿yæ. Plotka g³osi³a, ¿e ostatnio zamiast maczugi ozdobionej par¹ kamiennych rogów barana, znaku przynale¿noœci do szlachetnej kasty magów bitewnych, zacz¹³ nosiæ ogromny i ewidentnie zaczarowany m³ot.
+
+Nazwa:
+Frederick - First conversation
+Wiadomoœæ:
+Straci³am kontakt z Frederickiem w tym ca³ym zamieszaniu. By³o tyle do zrobienia — to znaczy, próbowaliœmy stworzyæ sobie nowy dom i jednoczeœnie przygotowaæ siê do walki z ogrami Zoga. Spotka³am mojego mentora przez przypadek, wychodz¹c z lokalnej kuŸni. Nawet by mnie nie zauwa¿y³ — obci¹¿ony ogromn¹ stert¹ zwojów i papierów, szed³ niemal bez celu, a ja te¿ bym go przegapi³a, gdyby nie wrodzona zdolnoœæ nizio³ków do rozpoznawania siê nawzajem, i nie tylko, po stopach. Nie by³o innej pary tak eleganckich butów saffiañskich w Burton. Pamiêtam, jak powiedzia³ ze smutnym uœmiechem, ¿e urok odpornych na zu¿ycie podeszew by³ najcenniejsz¹ rzecz¹, jak¹ przekaza³ mu jego brakadyjski mentor. 		„Frederick!”, zawo³a³am. 		„Ach, Henrietta! Minê³o trochê czasu. S³ysza³am, ¿e uchodŸcy zostali przesiedleni. Co myœlisz o ogrowych domach z suszonych na s³oñcu cegie³? £adne, prawda?” Podczas lotu stara³em siê przekonaæ samego siebie, by zaakceptowaæ koniecznoœæ wykorzystania ¿agli z balonów do zbudowania obozu namiotowego — ale to niesamowite szczêœcie! Wszystkie te puste, ogromne budynki, by pomieœciæ wszystkich. Zawsze uwa¿a³em te historie o wyj¹tkowym szczêœciu nizio³ków za przesadê, zw³aszcza widz¹c, jak raz po raz siejesz spustoszenie w moim laboratorium. Ale ostatnie kilka dni sprawi³o, ¿e nawet taki sceptyk jak ja uwierzy³. 		"Tak... domy s¹ ogromne, ale nie wiem, co jest gorsze — duszna nora z nieznoœnymi teœciami czy setka mieszkañców w jednym miejscu. Pozostali zdaj¹ siê lubiæ dotyk ramienia s¹siada, nawet jeœli naciska na ich ¿ebra. Daje im to trochê si³y". 		"A ty? Czy to nie dlatego uciek³eœ z domu i znalaz³eœ moj¹ kryjówkê, której nawet doœwiadczeni jasnowidze Bracadianie nie mogli wyœledziæ? Có¿, teraz w Burton jest mnóstwo ciekawskich oczu, a wiesz, ¿e wolê pracowaæ, gdy mam przestrzeñ i nikt nie wêszy. Lubiê byæ sam z wiedz¹. W tym jesteœmy do siebie podobni, Henrietto, i to w³aœnie w tobie jest ciekawe. Ciekawski nizio³ek, który nienawidzi siedzieæ w swojej norze i pragnie wiedzy. Dobrze, chcesz mi pomóc w moim warsztacie dzisiaj?” 		„Och, mogê?” 		Resztê dnia spêdzi³am, pomagaj¹c Frederickowi. Rozmawialiœmy o wielu rzeczach i po raz pierwszy od naszego przyjazdu poczu³am trochê ciep³a.
+
+Nazwa:
+Two weeks
+Wiadomoœæ:
+Minê³y trzy tygodnie odk¹d opuœciliœmy Eeofol. Przyzwyczailiœmy siê do spania w niewygodnych miejscach i pozycjach, przyzwyczailiœmy siê do dudnienia m³otów kuŸniczych i gor¹ca pieców. ¯ycie by³o bardzo ciê¿kie, ale jakoœ czu³am, ¿e znów staje siê uporz¹dkowane i spokojne, zmiana, któr¹ nawet ja teraz docenia³am. Po raz pierwszy po kolejnym wyczerpuj¹cym dniu nie zemdla³am, gdy tylko moja g³owa dotknê³a prowizorycznej poduszki. Dni zaczê³y wracaæ do mnie w odwrotnej kolejnoœci — niezrêczne i zabawne chwile dopasowywania siê do nieznanego stylu ¿ycia Burtona, poranek, kiedy spotka³a nas Sam. 		Ka¿dy dzieñ i ka¿da noc naszego wyczerpuj¹cego lotu. Pamiêtam, ¿e uderzy³ mnie widok ogromnego oceanu oddzielaj¹cego Antagarich i Jadame; tymczasem wiêkszoœæ nizio³ków by³a tak wyczerpana, ¿e nie mogli nawet zacz¹æ doceniaæ zapieraj¹cego dech w piersiach widoku. Czekaj¹c na koniec ciemnoœci, unosz¹c siê nad powierzchni¹ elfickich jezior, aby daæ naszym silnikom odpocz¹æ i uzupe³niæ wodê. Ukrywaj¹c siê wysoko w chmurach nad martwymi krainami, próbuj¹c unikn¹æ ogromnych smoków duchów, s³ysz¹c ich œmiertelne wycia, nasze serca zamar³y ze strachu. I rzucaj¹c ostatnie spojrzenie na oddalaj¹ce siê pola i wioski naszego rodzinnego Eeofolu, niemal zablokowane dymem i blaskiem ognia przed naszym wzrokiem. 		Ostatni¹ rzecz¹, któr¹ pamiêta³am, zanim zapad³am w sen, by³y stalowe oczy Tavina, bez cienia strachu. Tylko bezinteresownoœæ, odwaga i determinacja, by powstrzymaæ demony i daæ nam czas na ucieczkê. Och, jak my… jak potrzebujê kogoœ tak nieustraszonego u boku. Czy kiedykolwiek móg³abym staæ siê taka jak on?
+
+Nazwa:
+Ogre village
+Wiadomoœæ:
+Pewnego ranka Sam wpad³a do mojego mieszkania: 		„Czas iœæ!” 		„Ale dok¹d?”, zapyta³am, otrz¹saj¹c siê ze snu, w którym wêdrowa³am przez lasy do domu. Takie przyjemne sny sta³y siê prawdziwym luksusem. 		„Zwiadowcy natknêli siê na opuszczon¹ wioskê ogrów. Wydaje siê, ¿e to miejsce, w którym dwadzieœcia lat temu, Dirtskirsi próbowali zorganizowaæ jakiœ jarmark, zanim Zog zosta³ Wysokim Wodzem. Diabe³ wie, czym zamierzali tam handlowaæ, ale cokolwiek to by³o, Szakal pokrzy¿owa³ plany. Jego filozofia jest taka, ¿e szanuj¹cy siê ogr po prostu idzie i bierze to, czego potrzebuje, kiedy tylko tego chce. Tak czy inaczej, to idealne miejsce na zbudowanie ufortyfikowanej twierdzy! No dalej, ubierz siê, za³ó¿ buty... ooo. Jasne. No to po prostu za³ó¿ jakieœ ubrania. Ruszamy natychmiast. Musimy siê pospieszyæ”.
+
+Nazwa:
+Terghez
+Wiadomoœæ:
+Zwiadowcy odkryli, ¿e rzeczywiœcie istnieje sposób, aby dostaæ siê do twierdzy Zoga... ale jakim kosztem! Drogê blokuje garnizon, a w nim hordy krwio¿erczych i najohydniejszych stworzeñ... Nawet z najpotê¿niejszymi artefaktami i magi¹ nie unikniemy ogromnych strat — i szczerze mówi¹c, nie mamy jeszcze ¿adnego z nich. Nie; musieliœmy pomyœleæ o czymœ innym. 	W koñcu mieliœmy szczêœcie: pijany ogr zosta³ zauwa¿ony przy ognisku, chwal¹c siê, ¿e jego dowódca ma „oookr¹¹g³yyy kaaamieñ o wieeelkiej mooocy”, który rzekomo otwiera³ przejœcie do sieci podziemnych jaskiñ — tam dowódca spotka³ siê z pos³añcami samego Zoga! Zbytnie rozpieszczanie kaktusowym bimbrem nie jest dobre — szczególnie jeœli w pobli¿u mog¹ znajdowaæ siê wrodzy zwiadowcy, wy³apuj¹cy ka¿de nieostro¿nie rzucone s³owo.
+
+Nazwa:
+Second conversation with Frederick
+Wiadomoœæ:
+Od jakiegoœ czasu niebo by³o dla mnie raczej Ÿród³em niepokoju ni¿ podziwu, jednak nie mog³am nie zauwa¿yæ, ¿e tej nocy wygl¹da³o szczególnie piêknie. Mnóstwo gwiazd nad oœwietlonymi ksiê¿ycem kamiennymi dolinami b³yszcza³o jak precyzyjnie oszlifowane klejnoty, które mo¿na znaleŸæ tylko w skarbcach najbogatszych ksi¹¿¹t. Muszê siê przyznaæ: bezczelnie zapo¿yczy³am to piêkne porównanie z jednej z powieœci, których Fryderyk niemal u¿y³ jako paliwa, ubolewaj¹c nad tym, ¿e w swoim poœpiesznie spakowanym baga¿u zamiast bardziej przydatnych ksi¹¿ek naukowych znalaz³ ten „balast”. 		Oczywiœcie nigdy nie widzia³em ¿adnego z tych klejnotów, ale sam nie mog³abym tego lepiej opisaæ. Siedzieliœmy z Sam przy ogniu, piek¹c szasz³yki z miêsem i chlebem, a ja chciwie s³ucha³am jej niesamowitych opowieœci. Sam wydawa³a siê mieæ ich tyle samo, co gwiazd nad nami. Ja równie¿ mia³am do opowiedzenia kilka zabawnych opowieœci z ¿ycia wsi, a Sam cieszy³a siê z nich wystarczaj¹co, powstrzymuj¹c co jakiœ czas chrapliwy œmiech. Wydawa³o mi siê, ¿e znalaz³am pierwszego nowego przyjaciela od bardzo dawna. Frederick nie bra³ udzia³u w naszej rozmowie — by³ zajêty w³asnymi badaniami. Przyniós³ do ognia ca³e pud³o luster, rur, zakrzywionych linijek i innych urz¹dzeñ, ale spêdzi³ wiêkszoœæ wieczoru w ciemnoœciach na uboczu, od czasu do czasu podbiegaj¹c i chwytaj¹c nowe kawa³ki szk³a i instrumenty. 		Sam i ja przez chwilê obserwowaliœmy, jak Frederick bada³ niebo przez d³ug¹ rurê, tak¹ jak te, które jak mówi³, by³y u¿ywane na statkach do ogl¹dania odleg³ych l¹dów, ale nie by³o to zbyt zabawne, wiêc wróci³yœmy do naszej rozmowy. Kiedy ca³e miêso zosta³o zjedzone i z ognia pozosta³y tylko ¿arz¹ce siê wêgle, Frederick wróci³ i podniós³ palec. Tajemniczo oœwietlony s³abym migotaniem ogniska, powiedzia³: 		„Ksiê¿yc! S¹ z ksiê¿yca!” 		„Kto?” — zapyta³am. 		„Demony. Wszystko siê zgadza: ¿yj¹ na ksiê¿ycu. To nie jest zaskoczeniem; zbyt wiele mrocznych kultów i praktyk jest zwi¹zanych z tym luminarzem. Ka¿dy naukowiec i nawigator wie: nasz œwiat ma kszta³t kuli, a cia³a niebieskie kr¹¿¹ wokó³ niej, daj¹c nam œwiat³o s³oneczne w dzieñ i ksiê¿ycowe w nocy. Nauka akademicka uwa¿a, ¿e tylko bezcielesne istoty mog¹ mieszkaæ na S³oñcu i Ksiê¿ycu. Istniej¹ inne hipotezy, ale wybieraj¹c miêdzy nieprawdopodobnym a absolutnie nieprawdopodobnym, zawsze sk³aniam siê ku bardziej przyziemnemu wyjaœnieniu. Od bardzo dawna patrzê na Ksiê¿yc przez teleskop. Jestem teraz pewien, ¿e to, co uda³o mi siê dostrzec, to góry, równiny i niezliczone kratery, co oznacza, ¿e tamten œwiat jest materialny. Demony prawdopodobnie zbudowa³y tam w³asne miasta i zamki — i z pewnoœci¹ obserwowa³y nasz œwiat poni¿ej, byæ mo¿e przez lunetê tak¹ jak moja. Pe³ni zazdroœci o nasze b³êkitne oceany, zielone lasy i rozleg³e ³¹ki, przygotowywali inwazjê, a tej nocy ich kamienne statki spad³y na Eeofol, zamieniaj¹c ¿yzn¹ ziemiê w popielat¹ pustyniê podobn¹ do tej, z której przybyli. To by³y statki — nie ma co do tego w¹tpliwoœci. Kiedy zajrza³em w szczeliny, zobaczy³em coœ — prawdopodobnie nie mechanizmy... lub mechanizmy dzia³aj¹ce na nieznanych mi zasadach, ale z ca³¹ pewnoœci¹ produkty umys³u, a nie naturalne formacje”. 		Tej nocy Ÿle spa³am — znów œni³y mi siê diab³y. Wyrywa³y drzewa, go³ymi rêkami rozbija³y góry na gruzy i uk³ada³y ska³y w ogromne, brzydkie wie¿e. Czy istnieje jakaœ si³a, która mo¿e siê temu oprzeæ?
+
+Nazwa:
+Third conversation
+Wiadomoœæ:
+Ogl¹da³em, jak Burton przygotowuje siê do spotkania twarz¹ w twarz z Zogiem. Wczorajsi oracze i pasterze, nizio³ki, poœpiesznie uczyli siê rzemios³a wojennego. Wiêkszoœæ moich rodaków to dobrzy strzelcy z procy, ale nigdy wczeœniej nie musieliœmy æwiczyæ na manekinach z brudnej skóry ani oddawaæ salw na komendê. Miejmy nadziejê, ¿e kiedy nadejdzie czas, prawdziwe bomby trafi¹ prawdziwych ogrów z tak¹ sam¹ celnoœci¹. Próbowa³am omówiæ przygotowania z Frederickiem, ale zasta³am go ca³kowicie spokojnego. Widzia³am go tak niewzruszonego tylko podczas kluczowych eksperymentów lub wystrzeliwania nowej, wymyœlnej maszyny. 		„Frederick, czy mamy szansê pokonaæ Zoga?” 		„Podczas gdy Zog i jego towarzysze zagnie¿d¿aj¹ siê w swojej fortecy, d³ubi¹c w nosie maczugami, z naszych warsztatów wychodzi coraz wiêcej gotowych do walki automatów. Zamierzamy sprawiæ temu dzikusowi niemi³¹ niespodziankê. Nawet jeœli spodziewa siê napotkaæ opór, prawdopodobnie wyobra¿a sobie coœ w rodzaju grupy ledwo wyszkolonych kobiet i kar³ów, niezdolnych do niczego”. Postanowi³am nie obraziæ siê na Fredericka za porównanie nizio³kó do kar³ów. 		„Wiesz, to dobrze, ale nie powiedzia³abym, ¿e to poprawi³o mi humor. Zog nie widzi w nas zagro¿enia, jasne, ale my równie¿ mamy tylko mgliste pojêcie o tym, co nas czeka, gdy dotrzemy do jego kryjówki. Zwiadowcy robi¹, co mog¹, ale maj¹ ma³o doœwiadczenia i jeszcze mniej wiarygodnych informacji. Potrzebujemy wiêcej zwiadowców, wiêcej lunet. Nowych, lepszych od tych, które mamy. 		„Jesteœ m¹dr¹ dziewczyn¹, Henrietto, i cieszê siê, ¿e nie pomyli³em siê, myœl¹c, ¿e szybko siê uczysz. Kiedyœ zaskoczona przez demony, teraz robisz co mo¿esz, ¿eby dowiedzieæ siê wszystkiego o swoim wrogu, zanim spotkasz siê z nim twarz¹ w twarz. Ju¿ myœla³em, jak ulepszyæ lunety, ¿eby by³y bardziej porêczne dla nizio³ków. Krótsza ogniskowa przy tym samym wspó³czynniku powiêkszenia, kompaktowy rozmiar... Nie wspominaj¹c ju¿ o tym, ¿e twój talent do cichego chodzenia i niski wzrost pozwol¹ ci zapuœciæ siê g³êbiej na terytorium wroga ni¿ zwiadowcy Sam. Czy mo¿esz znaleŸæ jakichœ zdolnych nizio³ków gotowych na takie przedsiêwziêcie?” 		„Tak”, odpowiedzia³am spokojnie. Nieœwiadomie zdobywa³am doœwiadczenie w przewodzeniu moim braciom od pierwszego dnia inwazji i naprawdê zaczyna³am siê w tym orientowaæ.
+
+Nazwa:
+Zog Warning
+Wiadomoœæ:
+„Frederick, ile jeszcze potrwaj¹ nasze przygotowania?”, zapyta³am. 		„Zagro¿enie jest powa¿ne, wiêc przygotowania powinny byæ równie powa¿ne, mój ma³y przyjacielu”. 		„Ale zwiadowcy donosz¹, ¿e Zog ju¿ wyczu³ nasz¹ rosn¹c¹ si³ê. Zamierza opuœciæ swoj¹ kryjówkê; albo sprowadzi walkê do nas na w³asnych warunkach, albo mo¿e uciec! Musimy go przygwoŸdziæ w jego fortecy, gdzie nie ma szans na wycofanie siê ani ucieczkê!”
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(44, 4, 0) ***Twierdza***
+
+Zdarzenia czasowe:
+
+Nazwa:
+AI - bonus gold
+Wiadomoœæ:
+
+
+(47, 50, 0) ***Brama misji***
+Wiadomoœæ:
+Ludzie z pustkowi zbudowali tu fortyfikacje, aby chroniæ siê przed ogrami Zoga. Pozwalaj¹ przejœæ tylko tym, którzy przybywaj¹ z Burton.
+Zosta³eœ rozpoznany po fladze, któr¹ powiewasz. Czy chcesz kontynuowaæ?
+
+(53, 65, 0) ***Chata proroka***
+Wiadomoœæ:
+W chacie jest stary czarodziej, poch³oniêty przez jak¹œ ksiêgê. W koñcu zwraca siê do ciebie. „Ju¿ dawno nikt mnie nie odwiedzi³”, mówi. „To dzikie miejsce, co tu robisz? Niewielu w tych okolicach interesuje siê wiedz¹ magiczn¹. Mogê ciê nauczyæ jednego lub dwóch zaklêæ, jeœli chcesz, ale potrzebujê zwoju, z którym bêdê móg³ pracowaæ. W przeciwnym razie moja rada bêdzie dla ciebie bezu¿yteczna. 	S³ysza³em, ¿e zwój zaklêcia B³ogos³awieñstwo wpad³ w rêce rycerzy, którzy przybyli tu z pó³nocnych krain. Ostatnim razem, gdy ich widzia³em, obozowali w pobli¿u chaty wiedŸmy.
+Niestety, nie mogê ci pomóc bez zwoju.
+Ten zwój jest dok³adnie tym, czego potrzebujê! Teraz mogê ciê nauczyæ zaklêcia B³ogos³awieñstwo, ale w zamian poproszê ciê, abyœ zostawi³ mi zwój. 	Czy przyjmiesz moj¹ ofertê?
+B³ogos³awieñstwo to przydatne zaklêcie, ale co dobrego w magii, która nie mo¿e zraniæ twojego wroga? Zaklêcie B³yskawicy mo¿e byæ bardzo przydatne przeciwko ogrom i goblinom. Niestety, nie mam zwoju z tym zaklêciem, ale byæ mo¿e mo¿esz coœ zdobyæ od Meduza w zachodnich górach. Te paskudne stworzenia uwielbiaj¹ gromadziæ magiczne przedmioty.
+Niestety, nie mogê ci pomóc bez zwoju.
+Ten zwój jest dok³adnie tym, czego potrzebujê! Teraz mogê ciê nauczyæ zaklêcia B³yskawicy, ale w zamian poproszê ciê, ¿ebyœ zostawi³ mi zwój. 	Czy przyjmiesz moj¹ ofertê?
+£ucznicy wroga mog¹ byæ powa¿nym zagro¿eniem — ale zdradzê ci sekret: mo¿esz ich unikn¹æ. Zaklêcie Zapomnienia mo¿e byæ niezwykle przydatne przeciwko ka¿demu strzelcowi — a z tego, co s³ysza³em, Zog ostatnio rekrutowa³ wielu najemników orków do swojej armii. Zwoje z tym zaklêciem nie s¹ ³atwe do zdobycia, ale mo¿esz znaleŸæ coœ wartoœciowego w jaskini przemytników.
+Niestety, nie mogê ci pomóc bez zwoju.
+Ten zwój jest dok³adnie tym, czego potrzebujê! Teraz mogê ciê nauczyæ zaklêcia Zapomnienia, ale w zamian poproszê ciê, ¿ebyœ zostawi³ mi zwój. 	Czy przyjmiesz moj¹ ofertê?
+Zosta³o mi jeszcze jedno zaklêcie, którego mogê ciê nauczyæ: Kontratak. Kiedyœ mia³em przy sobie zwój, ale minotaurowie-zbójcy zabrali mi go. Pewnie nadal go maj¹. Powodzenia!
+Niestety, nie mogê ci pomóc bez zwoju.
+Ten zwój jest dok³adnie tym, czego potrzebujê! Teraz mogê ciê nauczyæ zaklêcia Kontratak, ale w zamian poproszê ciê, ¿ebyœ zostawi³ mi zwój. Czy przyjmiesz moj¹ ofertê?
+
+(68, 47, 0) ***Twierdza***
+
+Zdarzenia czasowe:
+
+Nazwa:
+131 - AI - bonus troops + citadel
+Wiadomoœæ:
+
+
+Nazwa:
+146 - AI - big bonus
+Wiadomoœæ:
+
+
+(41, 41, 0) ***Brama misji***
+Wiadomoœæ:
+Ludzie z pustkowi zbudowali tu fortyfikacje, aby chroniæ siê przed ogrami Zoga. Pozwalaj¹ przejœæ tylko tym, którzy przybywaj¹ z Burton.
+Zosta³eœ rozpoznany po fladze, któr¹ powiewasz. Czy chcesz kontynuowaæ?
+
+(8, 27, 0) ***Tabliczka***
+Wiadomoœæ:
+Czasem kluczem jest moc, a czasem kluczem jest po prostu klucz. Oba maj¹ swoj¹ cenê.
+
+(2, 27, 0) ***Chata proroka***
+Wiadomoœæ:
+Kap³an w szacie wita ciê przy chacie. Przez chwilê patrzy ci w oczy, a nastêpnie gestem zaprasza ciê do œrodka. 	„Witam. Zapuœci³em siê na te ziemie w imieniu Arcykap³ana Œwi¹tyni S³oñca. Nasz odwieczny wróg, Gildia Nekromantów, przygotowuje siê do wypowiedzenia nam wojny. Nekromanci i ich nikczemne kreatury pojawiaj¹ siê na tych pustkowiach w ostatnich miesi¹cach w wiêkszej liczbie. S¹ nawet czarni rycerze, przynajmniej tak s³ysza³em! Wierzymy, ¿e te ziemie s¹ domem dla przeklêtych artefaktów od ubieg³ego stulecia. Ich twórc¹ by³... Ech, to nie ma znaczenia. Wa¿ne jest to, ¿e te artefakty musz¹ zostaæ znalezione i zniszczone, zanim wpadn¹ w rêce Gildii Nekromantów. Przynieœ je do nas, a ja dam ci coœ, co sprawi, ¿e warto bêdzie poœwiêciæ na to czas”.
+Jeszcze nie znalaz³eœ artefaktów? Spiesz siê! Mo¿esz znaleŸæ niektóre z nich w starych grobach i na cmentarzyskach, ale podejrzewam, ¿e niektóre ju¿ wpad³y w rêce Gildii. Bêdziesz musia³ je zdobyæ si³¹.
+Kap³an d³ugo przygl¹da siê ka¿demu z artefaktów i w koñcu mówi: „By³eœ nieocenion¹ pomoc¹ dla naszej Œwi¹tyni. Natychmiast przeka¿ê artefakty moim braciom. Upewnimy siê, ¿e nie skrzywdz¹ nikogo innego. A co do nagrody... WeŸ ten Z³oty £uk”.
+
+(45, 67, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Twoje wojska zatrzyma³y siê przy klifie. G³êbokie szczeliny w ziemi uniemo¿liwiaj¹ przejœcie; musisz zbudowaæ most.
+Nie mo¿esz zbudowaæ mostu bez materia³ów; najpierw musisz znaleŸæ drewno.
+U¿ywaj¹c 20 drewna, mo¿esz zbudowaæ most przez rozpadliny i kontynuowaæ swoj¹ drogê. Chcesz go zbudowaæ?
+
+(32, 53, 0) ***Tabliczka***
+Wiadomoœæ:
+Persanal rohmeng of Zog. Dont trempl down. Ofendors wil be fed to orcs.
+
+(41, 10, 0) ***Brama misji***
+Wiadomoœæ:
+Jest tu kolejny garnizon ogrów, jeszcze lepiej ufortyfikowany ni¿ poprzedni. Nie ma mo¿liwoœci, aby go szturmowaæ. Gdy zamierzasz siê odwróciæ, barbarzyñca wo³a do ciebie z muru. 	„Zog trzyma wszystkich w strachu, ale nie zdoby³ prawdziwej lojalnoœci. Niektórzy ogrzy nie chc¹ siê p³aszczyæ przed Zogiem, ale nikt nie oœmiela siê stan¹æ mu na drodze, dopóki ma ¯elazn¹ Piêœæ. Teraz, gdybyœ przynios³a nam jakieœ bardzo potê¿ne artefakty, takie jak Z³oty £uk, Anielskie Strza³y i Ciêciwê z Grzywy Jednoro¿ca, Zog mia³by trudnoœci z walk¹ z rywalami. Zrób to, a wpuœcimy ciê do jego obozu, gdzie bêdziesz móg³a zrobiæ co chcesz”.
+Przejêcie tak potê¿nej fortyfikacji jest nie do pomyœlenia. Mo¿esz siê przedostaæ tylko wtedy, gdy przyniesiesz artefakty barbarzyñcom.
+Widz¹c artefakty w twoich rêkach, barbarzyñcy zgadzaj¹ siê przepuœciæ twoje wojska. To mo¿e byæ twoja jedyna opcja, aby wejœæ do obozu Zoga. Czy chcesz oddaæ artefakty i przejœæ?
+
+(42, 41, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na drodze spotykasz mê¿czyznê o wygl¹dzie ³otrzyka. 	„To jest obóz wojenny miejscowych minotaurów” – mówi. „Ogry próbowa³y wtargn¹æ kilka razy, ale minotaury Balthazara znaj¹ ich fortyfikacje. 	A tak przy okazji... Zdob¹dŸ dla mnie 15 klejnotów, a poka¿ê ci tajne przejœcie do ich obozu”.
+„To zdecydowanie za ma³o!” – oburza siê ³otrzyk. „Masz coœ jeszcze?”
+„Bardzo dobrze” – mówi ³otrzyk i siêga po klejnoty. „ChodŸ za mn¹; poka¿ê ci tajne przejœcie. Ale uwa¿aj! Minotaury nie przepadaj¹ za nieproszonymi goœæmi”.
+
+(11, 48, 0) ***Chata proroka***
+Wiadomoœæ:
+W chacie spotyka ciê czarodziej. Wydaje siê byæ przestraszony. 	„Dziêkujê!”, mówi. „Gdyby nie ty, nie poradzi³bym sobie z tymi Drzewcami! Kto by pomyœla³, ¿e moje eksperymenty z magi¹ ognia zamieni¹ ca³y las w popió³? 	Zanim przyby³em na te pustkowia, uczy³em czarodziejów magii ¿ywio³ów, w szczególnoœci zaklêæ ziemi i ognia. PrzyprowadŸ mi zdolnego ucznia, a nauczê go wszystkiego co wiem. Zazwyczaj pobieram wysok¹ op³atê za moje lekcje, ale skoro mi pomog³eœ, zrezygnujê z czesnego.
+Niestety, nie czujê w tobie ¿adnego talentu do magii. Mo¿e znasz jakiegoœ czarodzieja?
+Czy chcesz zostaæ przeszkolony w Magii Ziemi?
+PrzyprowadŸ mi zdolnego ucznia, a nauczê go wszystkiego, co wiem.
+Niestety, nie czujê w tobie ¿adnego talentu do magii. Mo¿e znasz jakiegoœ czarodzieja?
+Czy chcesz zostaæ przeszkolony w Magii Ognia?
+
+(11, 43, 0) ***Brama misji***
+Wiadomoœæ:
+Ludzie z pustkowi zbudowali tu fortyfikacje, aby chroniæ siê przed ogrami Zoga. Pozwalaj¹ przejœæ tylko tym, którzy przybywaj¹ z Burton.
+Zosta³eœ rozpoznany po fladze, któr¹ powiewasz. Czy chcesz kontynuowaæ?
+
+(38, 51, 0) ***Tabliczka***
+Wiadomoœæ:
+Obandon rob ye ol who enta hir. Ye no tasty in rob an we r to lazi to disrob ye.
+
+(44, 66, 0) ***Mag bitewny***
+Nazwa:
+Jerhesh
+
+(32, 18, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Piraci rozbili obóz na tym brzegu. Mo¿esz wynaj¹æ tu statek i za³ogê, ale tylko za wysok¹ op³at¹. Przynieœ 20 kryszta³ów, 10 klejnotów i 4000 z³ota, aby przekonaæ piratów, by do³¹czyli do ciebie.
+Piraci nie bêd¹ z tob¹ rozmawiaæ, jeœli nie przyniesiesz im 20 kryszta³ów, 10 klejnotów i 4000 z³ota.
+Widz¹c z³oto i klejnoty, piraci s¹ gotowi udostêpniæ swój statek i siebie jako za³ogê. Wystarczy 20 kryszta³ów, 10 klejnotów i 4000 z³ota. Czy siê zgadzasz?
+
+(63, 5, 0) ***Barbarzyñca***
+Nazwa:
+Naghban
+
+(44, 5, 0) ***Mag bitewny***
+Nazwa:
+Zog
+
+(43, 66, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(23, 67, 0) ***Ogr szaman***
+Wiadomoœæ:
+Wiêc tak wygl¹daj¹ ogry. Ogromne, niezdarne, z matow¹, oliwkow¹ skór¹ i s³abo uzbrojone — ale bior¹c pod uwagê ich si³ê, nie ma to a¿ tak du¿ego znaczenia; maczuga w rêkach takiego olbrzyma mo¿e byæ groŸniejsza ni¿ najostrzejszy miecz. Zog zdaje siê jednak zdawaæ sobie sprawê, ¿e z dobr¹ broni¹ i zbroj¹ jego ludzie nie znajd¹ sobie równych w bitwie. Mo¿emy tylko mieæ nadziejê, ¿e nie znajdzie innego Ÿród³a metalu i oczywiœcie póki ¿yjemy nie pozwolimy im po³o¿yæ r¹k na rzemioœle z Burtona.
+
+(57, 2, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Jedyne przejœcie przez góry wydaje siê zablokowane przez wysoki mur. Nie ma bram ani drzwi. Wygl¹da jak magiczna bariera — ale jak Ogry mog³y j¹ wyczarowaæ, bior¹c pod uwagê ich ¿a³osne umiejêtnoœci magiczne? 	Przygl¹daj¹c siê uwa¿nie murowi, znajdujesz ma³y otwór. Kula, któr¹ mia³ przy sobie Naghban, idealnie pasuje do kszta³tu; musi byæ kluczem.
+Przygl¹daj¹c siê uwa¿nie murowi, znajdujesz ma³y otwór. Kula, któr¹ trzyma³ Naghban, idealnie pasuje do kszta³tu; musi byæ kluczem.
+Mur dr¿y, gdy przyk³adasz do niego kulê. Jeœli zostawimy j¹ w œrodku, moc trzymaj¹ca kamienie pryœnie. Czy chcesz otworzyæ przejœcie?
+
+(67, 8, 0) ***Mag bitewny***
+Nazwa:
+Terghez
+
+(68, 7, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(31, 67, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(52, 6, 0) ***Zdarzenie***
+Wiadomoœæ:
+Bonusowe oddzia³y dla Zoga
+
+(52, 36, 0) ***Tabliczka***
+Wiadomoœæ:
+Ka¿dy mo¿e siê wzbogaciæ! Gwarantujemy nagrodê 1 klejn za g³owê ogra. Skontaktuj siê z Gierdem w jaskini Balthazara.
+
+(22, 67, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(68, 48, 0) ***Barbarzyñca***
+Nazwa:
+Tan-Ghun
+
+(56, 39, 0) ***Brama misji***
+Wiadomoœæ:
+Ludzie z pustkowi zbudowali tu fortyfikacje, aby chroniæ siê przed ogrami Zoga. Pozwalaj¹ przejœæ tylko tym, którzy przybywaj¹ z Burton.
+Zosta³eœ rozpoznany po fladze, któr¹ powiewasz. Czy chcesz kontynuowaæ?
+
+(58, 2, 0) ***Zdarzenie***
+Wiadomoœæ:
+Wszystko wskazuje na to, ¿e jesteœ bardzo blisko twierdzy Zoga. Co wiêcej, mo¿esz poczuæ zapach dymu ognisk. Co jeœli przywódca ogrów wyszed³ ze swojej kryjówki, by rozprostowaæ koœci, zapolowaæ, zebieraæ daninê albo pok³aniaæ ty³ek do przed jakimœ bo¿kiem lub cokolwiek innego co te szumowiny lubi¹ robiæ w wolnym czasie? Nie ma lepszego momentu na szybki wymarsz i niespodziewany atak!
+
+(55, 39, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na drodze spotykasz mê¿czyznê o wygl¹dzie ³otrzyka. 	„To jest obóz wojenny miejscowych minotaurów” – mówi. „Ogry próbowa³y wtargn¹æ kilka razy, ale minotaury Balthazara znaj¹ ich fortyfikacje. 	A tak przy okazji... Zdob¹dŸ dla mnie 15 klejnotów, a poka¿ê ci tajne przejœcie do ich obozu”.
+„To zdecydowanie za ma³o!” – oburza siê ³otrzyk. „Masz coœ jeszcze?”
+„Bardzo dobrze” – mówi ³otrzyk i siêga po klejnoty. „ChodŸ za mn¹, poka¿ê ci tajne przejœcie”.
+
+(13, 61, 0) ***Fabryka***
+Nazwa:
+Burton
+
+Zdarzenia czasowe:
+
+Nazwa:
+Player - 211 - Reinforcement
+Wiadomoœæ:
+Sukces bohaterów podniós³ morale mieszkañców Burton: nowi ochotnicy nie mog¹ siê doczekaæ, by do³¹czyæ do wojowników i oczyœciæ miasto z okropnych ogrów!
+
+(64, 67, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Tutaj mieszka przywódca bandytów — jego banda zablokowa³a niektóre przejœcia. Jest sk³onny rozmawiaæ o przepuszczeniu ciê tylko wtedy, jeœli dostarczysz jego ludziom rudê, niezale¿nie od powodu, dla którego jej potrzebuj¹.
+Bandyci nie bêd¹ z tob¹ rozmawiaæ, dopóki nie przyniesiesz im rudy.
+Czy chcesz przekazaæ rudê bandytom?
+
+(17, 71, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(33, 26, 0) ***Mag bitewny***
+Nazwa:
+Horoagh
+
+(16, 8, 0) ***Mag bitewny***
+Nazwa:
+Guerhaugh
+
+(18, 71, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(70, 2, 1) ***Zwój z zaklêciem***
+Wiadomoœæ:
+„Relikwia”, o której mówili twoi zb³¹kani ludzie, okaza³a siê magicznym zwojem z zaklêciem Teleport. Nie mam pojêcia, dlaczego rogaty mia³by zatrudniæ kogoœ, a tym bardziej tê ¿a³osn¹ gromadkê, aby go tu strzeg³a; jednak, jak twierdzi jeden z nizio³ków, minotaur wspomnia³, ¿e relikwia powinna byæ kluczem do pokonania Zoga.
+
+(69, 1, 1) ***Nizio³ek grenadier***
+Wiadomoœæ:
+„Stój! Kto idzie?”, groŸny, ale nieco powœci¹gliwy g³os dobieg³ z ciemnoœci. 		„Nie jesteœmy twoimi wrogami — chyba ¿e jesteœ z gangu Zoga!” 		„Ale... Co... Nie! Zostaliœmy wynajêci do ochrony œwiêtej relikwii! Poka¿ siê, bezczelny obcy!” 		„Ty?! Myœla³em, ¿e zjad³y ciê ogry!”, krzyknê³am, zanim zosta³em obrzucony sykami ze wszystkich stron. Ci ludzie byli pierwszym oddzia³em, który wystawiliœmy po uruchomieniu masowej produkcji petard Fredericka. Wyjechali z miasta na misjê rozpoznawcz¹, ale nigdy nie wrócili. Od tego czasu osobiœcie wyrusza³am na zwiad. 		„Cicho! Nie mam ochoty zostaæ pogrzebanym pod zawalonym wa³em! Tak, to my. Zostaliœmy wynajêci”. 		„Co? Zatrudnieni?! Jak w celu ochrony czegoœ?! Nawet nie chcê pytaæ przez kogo ani dlaczego. Co do cholery, myœla³eœ?” 		„Có¿... Ten goœæ by³ wielkim kolesiem z rogami i kopytami, ale nie czerwonymi. Nie zapyta³, czy chcemy skorzystaæ z jego oferty czy nie i najwyraŸniej nie obchodzi³o go kim jesteœmy. Œmieszne, prawda? Grenadierzy w lochu, gdzie g³az mo¿e spaœæ ci na g³owê, jeœli tylko kichniesz w z³ym momencie! A wszystko przez ten przeklêty kawa³ek spleœnia³ego pergaminu! Do diab³a ze wszystkim, niech ten byczy dziwol¹g i jego z³oto id¹ do diab³a! Zapomnia³em ju¿ jak wygl¹da s³oñce!” Coœ na smutnej twarzy mówcy b³ysnê³o w œwietle pochodni. 		„No dobrze, wy, nêdzne wymówki najemników. Wybaczam ci dezercjê, ale teraz wracaj do szeregu. No, uciekajmy st¹d! Lepiej zgin¹æ w bitwie, ni¿ dostaæ ska³¹ w ³eb, co nie?”
+
+(48, 21, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(4, 0, 1) ***Barbarzyñca***
+Nazwa:
+Creghol
+
+===== Koniec pliku =====

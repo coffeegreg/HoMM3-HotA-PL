@@ -1,0 +1,108 @@
+Name:
+Wykuci w ogniu
+
+Description:
+M³oda Henrietta z dnia na dzieñ straci³a dom, staj¹c siê œwiadkiem chaosu i niezliczonych ofiar. Nie z³ama³o to jednak jej ducha; znalaz³a w sobie si³ê i zjednoczy³a tych, którzy prze¿yli. £¹czy si³y z ekscentrycznym wynalazc¹ z Bracady i wyrusza na poszukiwanie nowego domu i nowego ¿ycia.
+
+
+World on Fire — Wykuci w ogniu A
+
+Right-click text:
+Kreeganie najechali Eeofol podczas Nocy Spadaj¹cych Gwiazd. Nizio³ek Henrietta musi znaleŸæ rzemieœlnika Fredericka, który mo¿e wiedzieæ, co dalej zrobiæ.
+
+Prologue:
+Eeofol. Kraina gigantów. Dlaczego tak siê nazywa? W g³êbi duszy wszyscy s¹ pewni, ¿e chodzi o nas. Jasne, mo¿e to brzmieæ absurdalnie, ale boli œwiadomoœæ, ¿e niektórzy nazywaj¹ ciê „nizio³kiem”, jakbyœ by³ tylko po³ow¹ czegoœ prawdziwego. Zawsze unikaliœmy obcych; stoj¹c obok nich, zbyt trudno by³o nam siê przekonaæ, ¿e to nieprawda. Nie podoba³y nam siê ¿adne zmiany, poniewa¿ oznacza³y przyznanie, ¿e wczeœniej robiliœmy coœ z³ego. Wierzyliœmy jednak w stare, dobre przes¹dy; a tej nocy, gdy niebo nad nami rozpad³o siê na tysi¹c ognistych kawa³ków, wielu z nas marzy³o o gwiazdach. Ja? Poczu³am, ¿e dzieje siê coœ dziwnego i przera¿aj¹cego i tylko jeden cz³owiek móg³ mi pomóc to zrozumieæ. To nieznajomy nauczy³ mnie kochaæ niebo bardziej ni¿ ziemiê.
+
+Epilogue:
+Eeofol umiera³. Jab³onie wci¹¿ kwit³y, pszenica dojrzewa³a, ale z gór unosi³ siê ju¿ smród siarkowego popio³u, a wody sp³ywaj¹ce po zboczach nieuœpionych ju¿ wulkanów by³y okropne. Ju¿ nied³ugo nie bêdzie tu ju¿ ¿ycia; to tylko brzydkie pozory, które tworz¹ goœcie z nieba. Jak trudno jest przekonaæ nizio³ka, aby po raz pierwszy w ¿yciu spojrza³ w górê i zmierzy³ siê z w³asn¹ przysz³oœci¹! Tak niewielu jest tutaj takich, którzy wybrali to, co niepojête. Mo¿e oni sami prze¿yj¹ i zachowaj¹ pamiêæ o naszej ziemi, gdy ta umrze.
+
+
+Beyond the Horizon — Wykuci w ogniu B
+
+Right-click text:
+Miastu Burton zagra¿aj¹ ogry z Ravage Roaming. Henrietta, Frederick i Sam musz¹ odeprzeæ ich ataki i pokonaæ przywódcê ogrów, Zoga Szakala.
+
+Prologue:
+Strach i podekscytowanie s¹ najlepszym lekarstwem na smutek. Zrozumia³em to, gdy na horyzoncie pojawi³ siê l¹d. Nasza d³uga, wyczerpuj¹ca podró¿ przez ocean dobiega³a koñca, a przed nami wy³ania³ siê nowy kontynent Jadame. Uciekinierzy nie wiedzieli jeszcze, ¿e teren poni¿ej to bezp³odne pustkowie, a wioska górników, do której zmierzaliœmy, to brudna i ha³aœliwa dziura. Burton nie jest miejscem dla s³abych; ka¿da osada na tych ziemiach przyci¹ga tych, którzy nie buduj¹, nie uprawiaj¹ ziemi ani nie wypasaj¹ owiec. Prawo do nowego domu bêdzie mia³o wysok¹ cenê; jednak po raz pierwszy od dnia wyjazdu twarze moich niespodziewanych pasa¿erów pojaœnia³y.
+
+Epilogue:
+Nadesz³y pierwsze radoœci i smutki nowego œwiata. Potem przysz³y pierwsze sukcesy i pora¿ki, pojawili siê nowi wrogowie i nowi przyjaciele. ¯ycie mia³o gorzki smak krwi, ale z ekscytuj¹c¹ nut¹ zwyciêstwa. Jadame przyjê³a nasze ofiary, daj¹c nam to, czego nigdy nie chcieliœmy, ale zaakceptowaliœmy, aby przetrwaæ. Do tej pory tylko kilku z nas opanowa³o fach wojownika, ale wszyscy zostali bohaterami. Wybrana garstka nauczy³a siê przewodziæ, lecz ka¿dy jest gotowy powstaæ, gdy us³yszy wezwanie. Nowe rany mog¹ czasami krwawiæ, ale jeœli to czujesz, oznacza to, ¿e wci¹¿ ¿yjesz.
+
+
+Dead or Alive — Wykuci w ogniu C
+
+Right-click text:
+Nowe nag³e zagro¿enie spotka³o Burtona: najazdy piratów dowodzonych przez Dargem. Nie nale¿y lekcewa¿yæ Regnanów i aby rozwi¹zaæ ten problem, potrzebna bêdzie pomoc.
+
+Prologue:
+Znowu przypomnia³am sobie o domu. Te spokojne, marzycielskie czasy, kiedy nawet rzadkie bijatyki na wiejskich ucztach zawsze koñczy³y siê zgod¹ przy kielichu... Tutaj nie znaleŸliœmy jeszcze choæby nici porozumienia z ogrami i goblinami, chocia¿ ostatnio sprawiaj¹ nam mniej k³opotów. Niedawno na naszych ziemiach zaczêli pojawiaæ siê piraci z Regnan. Wygl¹da na to, ¿e pog³oski o tym, ¿e w Burton dzieje siê teraz coœ ciekawego, rozesz³y siê daleko. Nasi obserwatorzy zauwa¿yli chodz¹ce zw³oki w pobli¿u miejskich murów. Czysty zbieg okolicznoœci, czy te¿ nieumarli te¿ czegoœ od nas chc¹?
+
+Epilogue:
+Poœcig... Miecz w d³oni.. i ledwo widoczna œcie¿ka pomiêdzy martwymi wzgórzami przed nami. Pêdzê dalej, ledwie rzucaj¹c okiem na mapê, a cichy szkielet jedzie u mojego boku. Nagle budzê siê, otrz¹saj¹c siê z koszmaru, który drêczy³ mnie ca³ymi dniami, w snach i poza nimi. Kiedy unieruchomiliœmy tego robaka, Dargema, zostawi³am Boyda oraz jego, aby sami siê policzyli. Czy powinnam siê spodziewaæ, ¿e tej nocy w moich snach pojawi siê drugi niespokojny trup? No có¿, tylko dwa to nie tak Ÿle. Po ucieczce z Eeofol widzia³am ich tysi¹ce...
+
+
+Tomb Raiders — Wykuci w ogniu D
+
+Right-click text:
+Frederick musi znaleŸæ Henriettê, która wyruszy³a na poszukiwanie czarnoksiê¿nika Agara. Ostatnia otrzymana od niej wiadomoœæ g³osi³a, ¿e jej zespó³ odkry³ staro¿ytny grobowiec i uda³ siê do œrodka, aby go zbadaæ. Osuwiska spowodowane przez gigantyczne robaki zablokowa³y wiele dróg prowadz¹cych przez prze³êcze górskie. Rozwi¹zaniem musz¹ byæ statki powietrzne...
+
+Prologue:
+Poradziæ sobie maj¹c mniej wszystkiego... najgorsza udrêka, jak¹ mo¿na sobie wyobraziæ dla kogoœ, kto zna swoj¹ wartoœæ. Bywa³y chwile, gdy zaspokajanie moich zainteresowañ wi¹za³o siê z odkrywaniem nowych œwiatów. Móg³bym uwolniæ niesamowit¹ moc ukryt¹ w ziarenku materii – a teraz tygodniami turlam siê w œmierdz¹cej beczce, ¿eby przetestowaæ ma³¹ hipotezê! Tak czy inaczej muszê siê dowiedzieæ, czy ten samozwañczy rzemieœlnik, Fenimore, Farragut, jakkolwiek siê nazywa, rzeczywiœcie osi¹gn¹³ coœ niespotykanego na tym œwiecie, czy te¿ jest po prostu kolejnym jarmarcznym g³upcem, jak wszyscy inni „naukowcy”, których tu dotychczas spotka³em ?
+
+Epilogue:
+Ciesz siê, nizio³ku. Sam Kastore ryzykuje, by wydostaæ ciê z tego labiryntu. Có¿, oczywiœcie nie jesteœ powodem, dla którego tu jestem, ale z pewnoœci¹ przyda³by mi siê dobry kuksaniec, jaki towarzyszy byciu twoim wybawicielem. Na razie jednak s¹ wa¿niejsze rzeczy, którymi trzeba siê zaj¹æ: wiedza utracona w ci¹gu eonów i zapomniane cuda! W tym grobowcu jest ich pe³no. Tylko ta maleñka plamka w twoich d³oniach kryje w sobie niewypowiedzian¹ moc. Przysiêgam, ¿e ju¿ nied³ugo, sprawiê, ¿e bêdzie s³u¿yæ mnie i tylko mnie, tak jak robi to ju¿ twój przyjaciel ze swoim œwie¿o odnalezionym wgl¹dem w naturê rzeczy. Moje najbli¿sze plany s¹ jasne… i Deyja mo¿e jeszcze chwilê poczekaæ na swojego króla.
+
+
+Deus Ex Machina — Wykuci w ogniu E
+
+Right-click text:
+Artefakt odzyskany ze staro¿ytnego grobowca pomóg³ w opracowaniu projektu nowego rodzaju broni. Rzemieœlnicy Todd i Bertram to g³ówni zawodnicy w wyœcigu o dzia³aj¹cy sprzêt bojowy, który móg³by zmieniæ losy bitwy.
+
+Prologue:
+Z³ota proporcja. WskaŸnik wszystkich mechanizmów. ¯adnemu rzemieœlnikowi nie uda³o siê tego jeszcze obliczyæ; czujesz to tylko wtedy, gdy usuwasz nadmiar metalu, ruch za ruchem, a¿ ca³y zaczniesz œpiewaæ: oto nadchodzi doskona³oœæ! Wtedy nieuchronnie znajdziesz wadê w innej czêœci i tak dzieje siê dzieñ po dniu, rok po roku... Prawie straci³em rozum w tym niekoñcz¹cym siê cyklu, ale gdy by³em ju¿ na krawêdzi, ktoœ przys³a³ mi te plany. Nie mam pojêcia, jaki rodzaj niedoskona³oœci ma w sobie. Byæ mo¿e nie mam odpowiedniej wiedzy. Jednak jedno wiem na pewno; nikt nigdy nie by³ bli¿ej wprowadzenia czegoœ takiego w ¿ycie ni¿ ja.
+
+Prologue:
+Ach, gdyby tylko naukowcy wiedzieli, ile kosztuj¹ te ich teorie... Gdyby kiedykolwiek próbowali zaplanowaæ zakupy, zatrudnienie, czynsz z góry, oszczêdzaj¹c sobie k³opotu p³acenia po stokroæ za poœpiech. Tak wiele ambitnych projektów zmarnowano na moich oczach! I wiele projektów uratowa³em, pomagaj¹c twórcom woln¹ od uprzedzeñ fachow¹ wiedz¹ i oczywiœcie, trochê pieniêdzmi. Nie, nie oœmielam siê nazwaæ siebie najwiêkszym motorem postêpu; mimo to jest tylko jeden krasnolud w Burton, który mo¿e udŸwign¹æ tak monumentalny projekt.
+
+Epilogue:
+Brak Ci geniuszu? WeŸ tuzin zdolnych umys³ów, pomó¿ im pozbyæ siê przes¹dów, a nie zrobi¹ nic gorszego. Po raz kolejny okaza³o siê, ¿e to dzia³a, nawet w takim zacofanym œwiecie jak ten. Nie mieli pojêcia, jak marny by³ ich talent i wiedza w porównaniu do wielkich umys³ów, które kiedyœ stworzy³y ten cud. Po prostu wmówili sobie, ¿e to zadanie le¿y w ich mocy. Co za bezczelnoœæ! Kocham takich ludzi. Dobrze zagraj na strunach ich pró¿noœci, a bêdziesz móg³ ich poprowadziæ dok¹dkolwiek... lub sprawiæ, by wytyczyli ci szlak, nawet do nieba.
+
+Epilogue:
+Brak Ci geniuszu? WeŸ tuzin zdolnych umys³ów, pomó¿ im pozbyæ siê przes¹dów, a nie zrobi¹ nic gorszego. Po raz kolejny okaza³o siê, ¿e to dzia³a, nawet w takim zacofanym œwiecie jak ten. Nie mieli pojêcia, jak marny by³ ich talent i wiedza w porównaniu do wielkich umys³ów, które kiedyœ stworzy³y ten cud. Po prostu wmówili sobie, ¿e to zadanie le¿y w ich mocy. Co za bezczelnoœæ! Kocham takich ludzi. Dobrze zagraj na strunach ich pró¿noœci, a bêdziesz móg³ ich poprowadziæ dok¹dkolwiek... lub sprawiæ, by wytyczyli ci szlak, nawet do nieba.
+
+
+Tarred and Feathered — Wykuci w ogniu F
+
+Right-click text:
+Henrietta i Wynona udaj¹ siê na niezbadane wyspy na po³udnie od Jadame. Marz¹ o odnalezieniu tajemniczych koatli, ale raczej nie czeka ich tam przyjêcie powitalne.
+
+Prologue:
+Jest tak wiele miejsc w Jadame, gdzie ¿aden przyrodnik nie postawi³ jeszcze stopy, a jednak mój g³ód odkryæ nieustannie prowadzi mnie do miejsc, do których trudno dotrzeæ konno, a co dopiero w ogromnym wozie prowadzonym przez pancerniki. Za mn¹ piesza wêdrówka przez w¹wóz Garrote. Marzy³am o tym, co zwykle: nowych butach, a jeszcze lepiej o parze w³asnych skrzyde³, nie maj¹c zielonego pojêcia, na co siê za chwilê natknê. Kiedy ostatni raz by³am w Burton, nie wynaleziono tam jeszcze nawet butów; teraz w miejscu, gdzie kiedyœ sta³y chaty z zielonej skóry, têtni³o ogromne, ha³aœliwe i œmierdz¹ce miasto, a nad nim lata³y, szczerze mówi¹c, statki powietrzne. Ma³o tego, mia³a stamt¹d wyruszyæ wyprawa na archipelag, którego ¿aden podró¿nik jeszcze nie odkry³. Kto zamieszkuje te wyspy? Nie chcia³am straciæ szansy, ¿eby siê dowiedzieæ.
+
+Epilogue:
+Kto móg³by sobie wyobraziæ, ¿e na tych wyspach dokonano odkryæ godnych najwiêkszych podró¿ników Imperium Amberlian? Dziesi¹tki niewidzianych jeszcze ptaków, zwierz¹t i gadów, ca³y lud zagubiony we mgle stuleci i, có¿, niesamowite koatle! Same by wystarczy³y. Nikt nigdy nie wyobra¿a³ sobie, ¿e proces rozwoju wewn¹trzowalnego mo¿na kontrolowaæ tak, ¿e zamiast ma³ego wê¿a wykluje siê piêkne, wielkie stworzenie. Nawet d³ugie ¿ycie elfa nie wystarczy³oby, gdyby ktoœ mia³ to wszystko opisaæ – a jeœli chodzi o eksploracjê, nadal mam wiêkszoœæ Jadame. Moja zaprzysiê¿ona siostra, któr¹ tu znalaz³am, mia³a tylko ma³y kawa³ek odleg³ego Antagarich i nawet on zosta³ teraz przejêty przez demony. Teraz moje miejsce jest przy niej, ale pewnego dnia na pewno wrócê.
+
+
+New Order — Wykuci w ogniu G
+
+Right-click text:
+Kastore doszed³ do w³adzy w Burton. Nizio³ki zosta³y wyjête spod prawa i teraz ich ostatni¹ nadziej¹ jest powrót do ojczyzny, Eeofol. Przed wyruszeniem w poszukiwaniu odpowiedniego œrodka transportu Henrietta bêdzie musia³a zgromadziæ niezbêdne zapasy i sprzêt.
+
+Prologue:
+Pró¿ny cz³owiek liczy swoje bogactwa w sztukach z³ota. Praktyczny, w rêkach gotowych spe³niæ jego rozkazy. A ten naprawdê potê¿ny, w pracuj¹cych nad urzeczywistnieniem swoich planów. Mam teraz ca³y kraj takich umys³ów. Mo¿e nie jest to coœ wielkiego, ale wszystko jest moje. Ka¿dy z moich poddanych marzy o zdobyciu choæby odrobiny cudów z Grobu do badañ. Postronnemu mo¿e siê wydawaæ, ¿e chêtnie udostêpniam te cuda, ale w rzeczywistoœci dzielê siê tylko tym, co w tej chwili bêdzie s³u¿y³o moim interesom. Moj¹ jedyn¹ nagrod¹ za ciê¿k¹ pracê jest pozwolenie na pokrycie wiêkszej liczby moich potrzeb, a mimo to wszyscy zaanga¿owani wychodz¹ zadowoleni. Czy to nie jest szczyt zarz¹dzania ludŸmi?
+
+Epilogue:
+Nowy dom, który tu zbudowaliœmy; ci, których uwa¿a³am za towarzyszy, jeœli nie za przyjació³ – wszystko, co zyska³am w Jadame, przecieka mi przez palce. To jest jak olej ziemny; nie mo¿esz tego z³apaæ rêkami. Potrzebne s¹ ¿elazne rury, œlimaki i rzemieœlniczy dar. Podobnie potrzeba odwagi i silnej woli, aby œwiat ci siê podda³. Spêdzi³am lata, wykuwaj¹c je, ale moje ostrze roztrzaska³o siê w zderzeniu z dzie³em lepszego rzemieœlnika. Teraz muszê go przekuæ na nowo i zgasiæ w diabelskiej krwi; za wszystkich, którzy byli ze mn¹ w drodze tutaj i za tych, którzy bêd¹ przy mnie, gdy bêdê go opuszczaæ. Ta obca ziemia nie mia³a staæ siê nasz¹ w³asnoœci¹, ale teraz mo¿emy odzyskaæ tê, na której siê urodziliœmy.
+
+
+Homecoming — Wykuci w ogniu H
+
+Right-click text:
+Henrietta wraca do swojej ojczyzny z sojusznikami u boku. S¹ gotowi raz na zawsze wypêdziæ Kreegan i odzyskaæ dom nizio³ków.
+
+Prologue:
+Martwa ziemia. Woda bez ¿ycia. Zatrute powietrze. Na tych ziemiach panuje teraz tylko ogieñ; ogieñ, którego nizio³ki zawsze tak siê obawia³y. Poch³on¹³ ca³¹ si³ê ¿yciow¹ Eeofolu i wci¹¿ rodzi bestie. Krajobraz, który widzia³am z nieba, by³ straszny, ale wiedzia³am, ¿e tak w³aœnie bêdzie. Teraz ju¿ wiem na pewno: to moja ziemia, choæ nie kocha³am jej tak jak kiedyœ. Znajdê tych, którzy walczyli o to przez te wszystkie lata, i razem przegonimy diab³y przez bramy piek³a lub zginiemy próbuj¹c.
+
+Epilogue:
+W krainie, która pragnie po prostu ¿yæ w pokoju, nie ma czasu dla bohaterów. Zamieni³am miecz na motykê i po raz pierwszy od dzieciñstwa poczu³am na plecach obci¹¿enie, jakiego wymaga taka praca od osób j¹ wykonuj¹cych. UchodŸcy, którzy spêdzili d³ug¹ dekadê w odleg³ych krajach, teraz wracaj¹ do Eeofol. Szukaj¹ pozosta³oœci swoich gospodarstw i uprawiaj¹ zasypane popio³em pola. Planuj¹ dobre zbiory i s³usznie; gleba jest zawsze hojna po wielkich po¿arach. Kocham ciê, Eeofolu. Odda³am ci wszystko, co w sobie mia³am i nie oczekujê niczego w zamian, ale ju¿ nied³ugo znów staniesz siê sob¹... Kiedy moi ludzie wyzdrowiej¹ i zaczn¹ odczuwaæ z³oœæ z powodu mojej troski o nich, spróbujê zmieniæ œwiat raz jeszcze... gdzieœ indziej.
+

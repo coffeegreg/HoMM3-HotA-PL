@@ -1,0 +1,36 @@
+Name:
+Pod pirack¹ bander¹
+
+Description:
+Opowieœæ o pewnym piracie, szerzej znanym jako Jeremy Albatross. Nigdy nie traci³ ducha i by³ przekonany, ¿e szczêœcie mu sprzyja. Nawet po utracie ukochanego "Czarnego jednoro¿ca" i trafieniu na nieznan¹ wyspê, bez szans na powrót w rodzinne strony. Nawet wtedy nie straci³ nadziei.
+
+
+Piraci i palmy — Pod pirack¹ bander¹ A
+
+Right-click text:
+Uszed³szy ca³o z katastrofy morskiej, pirat Jeremy znalaz³ siê na wyspie pomiêdzy Nighonem, a Eeofolem. Nieopodal znajduje siê opuszczony erathiañski fort, który nale¿y zdobyæ, a nastêpnie rozbudowaæ do zamku.
+
+Prologue:
+Rozwi¹z³e ¿ycie pirata... Bezkresne morze, skrzypi¹cy statek i szumi¹cy s³ony wiatr! 	M³ody pirat Jeremy Albatross prowadzi³ w³aœnie taki ¿ywot, dopóki pewnego dnia œmieræ nie zapuka³a do jego drzwi. Ciê¿ko stwierdziæ czy to wina drogi wiod¹cej ku zgubie, czy te¿ ³añcuch przypadkowych zdarzeñ? 	Desperacko próbuj¹c zgubiæ erathiañski poœcig, Jeremy poprowadzi³ "Czarnego jednoro¿ca" - jego karawelê - prosto w serce sztormu. Zaufa³ fortunie, ca³kowicie odrzucaj¹c fakt, ¿e wielkie, burzliwe fale mog¹ przewróciæ statek i pos³aæ go do skrzyni Davy'ego Jonesa. 	Fortuna uœmiechnê³a siê do Jeremy'ego... ale nie w taki sposób, w jaki sobie marzy³. Jego statek zosta³ rzucony o ska³y, które wybi³y w nim ogromn¹ dziurê. Naprawienie szkód okaza³o siê niemo¿liwe, jednak¿e za³odze uda³o siê skierowaæ "Czarnego jednoro¿ca" w kierunku l¹du, cumuj¹c ton¹cy okrêt przy przybrze¿nej rafie. 	Dziêki temu Jeremy Albatross unikn¹³ œmierci, jak równie¿ æwieræ jego za³ogi oraz wierny towarzysz Patris. Z³ota pla¿a nieznanego l¹du, b³êkitne niebo nad ich g³owami, zielone morze siêgaj¹ce a¿ po horyzont... Czeka³a ich nowa przygoda. 	
+
+
+Pan wyspy — Pod pirack¹ bander¹ B
+
+Right-click text:
+Kreegañskie si³y pochodz¹ce z pobliskiego Eeofolu ju¿ nied³ugo zacumuj¹ u wybrze¿a. Zanim do tego dojdzie nale¿y przej¹æ nad wysp¹ ca³kowit¹ kontrolê. Nie ma czasu do stracenia.
+
+Prologue:
+Jeremy jeszcze nie myœla³ o tym, co czeka go w przysz³oœci. Po prostu cieszy³ siê swoim ¿yciem. Jednak¿e, gdzieœ daleko na kontynencie, liczne kohorty demonicznych Kreegan zaczyna³y swe manewry. Przygotowywali siê na ostateczny ruch - spe³nienie wielkiego planu zak³adaj¹cego unicestwienie tego œwiata. Teraz rozes³ali swych zwiadowców do ka¿dego zak¹tka we wszystkich krainach... 	Zbieg okolicznoœci chcia³, i¿ ta ma³a wyspa z niewielkim fortem na œrodku, nad którym powiewa piracka flaga, stoi na ich drodze. 		By prze¿yæ, Jeremy musi zjednoczyæ ca³¹ wyspê pod swoim sztandarem. Czy i tym razem mu siê uda? 	
+
+
+Diabli poranek — Pod pirack¹ bander¹ C
+
+Right-click text:
+Wróg jest blisko, lecz piraci nie s¹ ju¿ zdani wy³¹cznie na siebie. Wraz z tubylcami przygotowali siê na wizytê nieproszonych goœci. Atak Kreegan musi zostaæ odparty, a ich baza zaopatrzeniowa - przejêta.
+
+Prologue:
+Czarne statki zacumowa³y u wybrze¿a. Na piaszczystych pla¿ach odcisnê³y siê œlady szponów i kopyt straszliwych, obcych stworzeñ, które zniszcz¹ wszystko co tylko stawi im opór. Jeremy i jego nowy kompan Alkin pochylili siê nad map¹, staraj¹c siê znaleŸæ sposób na odparcie inwazji Kreegan. 	Czy pospolite ruszenie, w którego sk³ad wchodz¹ tubylcy oraz bandyci, bêdzie w stanie stawiæ skuteczny opór inwazji, czy te¿ zginie wdeptane w b³oto? 	Jeremy nadal ufa swemu szczêœciu. Osaczony, nie ma innego wyjœcia prócz stawienia czo³a nowemu wrogowi. Nie mo¿e sobie pozwoliæ na pora¿kê. 	
+
+Epilogue:
+Niedobitki demonicznej armii zosta³y zepchniête z powrotem do morza. Z tego zwyciêstwa byliby dumni nawet najwspanialsi dowódcy: garstka ¿o³daków i dzikusów dobrze poradzi³a sobie z Kreeganami! Szkoda jedynie, ¿e nikt nigdy siê o tym nie dowie. 	Jeremy sta³ nad brzegiem morza, wspólnie z walcz¹cymi œwiêtuj¹c zwyciêstwo. Jego radoœæ by³a jeszcze wiêksza z uwagi na to, ¿e szybkie i solidne kreegañskie statki pozosta³y zacumowane w nienaruszonym stanie. Natychmiast kaza³ je za³adowaæ, a nied³ugo potem zebrawszy za³ogê wyruszy³ w drogê. 	Bêd¹c na pok³adzie i wpatruj¹c siê w znikaj¹c¹ wyspê, Jeremy przypomnia³ sobie, ¿e nigdy nie zapyta³ Alkina o to kim naprawdê jest i co robi³ na tej wyspie. Jednak¿e od razu odrzuci³ te myœli - wszak czeka³y na niego nowe, nieznane przygody... 	
+

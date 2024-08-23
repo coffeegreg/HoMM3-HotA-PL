@@ -1,0 +1,572 @@
+===== Nazwa mapy =====
+¯ywy lub Martwy.
+
+===== Opis mapy =====
+Musisz pokonaæ pirata Dargema, który rzuci³ wyzwanie mieszkañcom pustkowi. Jednak jeœli Henrietta lub Frederick zostan¹ pokonani, wszystko przepadnie. Bohaterowie s¹ ograniczeni do poziomu 12. Henrietta i Frederick przenios¹ elementy Studni Czarodzieja i Pierœcieñ Magów do nastêpnego scenariusza.
+
+===== Pog³oski =====
+
+Nazwa:
+Regnan Archmages
+Tekst:
+Dargem wynaj¹³ ca³¹ grupê by³ych czarodziejów z Regnan!
+
+Nazwa:
+Western Elves
+Tekst:
+Wœród najemników Dargema jest kilku zachodnich elfów. Mówi siê, ¿e s¹ doskona³ymi strzelcami.
+
+Nazwa:
+Dargem's Shooters
+Tekst:
+Dargem dysponuje pokaŸn¹ si³¹ strzelców.
+
+Nazwa:
+Portals
+Tekst:
+W ostatnich tygodniach piraci nieustannie napadali na ziemie wokó³ Burton. Atakuj¹ nawet przez portale!
+
+Nazwa:
+Sandworms
+Tekst:
+We wschodnich górach widziano dziwne stworzenia przypominaj¹ce gigantyczne robaki.
+
+Nazwa:
+Arion Clue
+Tekst:
+Przemytnicy i najemnicy rozbijaj¹ obóz na wybrze¿u. S³ysza³em, ¿e kupuj¹ artefakty i sprzedaj¹ pirack¹ artyleriê.
+
+Nazwa:
+Stanley Clue
+Tekst:
+Czy s³ysza³eœ historiê o kapitanie piratów, który straci³ pamiêæ? Mówi¹, ¿e wielu wilków morskich nosi teraz wisiorki, aby siê chroniæ.
+
+Nazwa:
+Dark Elves
+Tekst:
+Gildia Handlowa Ciemnego Elfa dotar³a a¿ do tej odleg³ej czêœci Jadame. Za³o¿yli punkt handlowy na po³udnie od Burton.
+
+Nazwa:
+Dargem's Past
+Tekst:
+Dargem by³ kiedyœ czarownikiem.
+
+Nazwa:
+Steadwick's Fall
+Tekst:
+Mówi¹, ¿e stolica dalekiej Erathii niedawno pad³a ofiar¹ ataku, co zdarzy³o siê po raz pierwszy w historii.
+
+Nazwa:
+Restoration of Erathia
+Tekst:
+Pewien podró¿nik opowiedzia³ mi, ¿e w Erathii szaleje wojna na skalê niewidzian¹ od stuleci.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+AI - resource control
+Wiadomoœæ:
+
+
+Nazwa:
+Part I - Dargem
+Wiadomoœæ:
+Podobnie jak wiele miejsc za³o¿onych przez zdesperowanych ludzi gotowych zrobiæ wszystko, aby odwróciæ swój los, Burton mia³ swoje ciemniejsze chwile. Jednym z nich by³ handel z piratami — nie Regnanami, ale wyrzutkami odrzucanymi nawet przez to bezprawne imperium. Chêtnie kupowali wyposa¿enie statków, lufy dzia³, kule armatnie i inne materia³y. Zap³ata by³a dokonywana w pewnych rzadkich substancjach, o których pochodzenie nigdy nie pytano. Trwa³o to krótko i by³o robione tylko z desperacji, ale nie mo¿na by³o uciec od tego kawa³ka historii. Gdy tylko sytuacja siê poprawi³a i pojawi³y siê legalne Ÿród³a zaopatrzenia i pojawi³y siê inne potrzeby, interesy z piratami spe³z³y na niczym. Zmartwienie nie by³o wystarczaj¹co mocnym s³owem, aby opisaæ reakcjê morskich w³óczêgów na ten rozwój sytuacji; ca³kowicie siê wkurzyli. 		„Mo¿e my te¿ chcemy zostaæ uczciwymi handlarzami! Ale nie, kurcze, okazuje siê, ¿e nasze kufle nie s¹ wystarczaj¹co dobre!”, kipia³ z wœciek³oœci przywódca jednej z band, szczególnie nieprzyjemny typ o imieniu Dargem. „Dobra, poczekaj tylko”, warkn¹³. „Czas pokazaæ tym l¹dowym szczurom, ¿e brak szacunku dla partnerów biznesowych ma swoj¹ cenê”. 		Dargem dotrzyma³ s³owa; kilka band piratów spiskowa³o, by odci¹æ wszystkie szlaki handlowe Burtona i zaczê³o pl¹drowaæ wozy z zaopatrzeniem. Sytuacja stawa³a siê krytyczna.
+
+Nazwa:
+Part II - Boyd
+Wiadomoœæ:
+Zwo³ano nadzwyczajne zebranie, aby znaleŸæ wyjœcie. Us³ysza³am wiele opowieœci od mieszkañców miasta o okrucieñstwach pope³nionych przez Dargema i jego kumpli. Niektóre by³y wrêcz przera¿aj¹ce, pomimo pal¹cego s³oñca Jadamean! 	By³a jednak jedna opowieœæ, która naprawdê mnie zainteresowa³a; jedna o pewnym Boydzie, którego Dargem rzekomo skaza³ na niezwykle okrutny koniec, nawet jak na standardy piratów. Istnia³o kilka wersji tej historii, ale wszystkie zgadza³y siê, ¿e m³ody cz³owiek o imieniu Boyd, awanturnik i buntownik, do³¹czy³ kiedyœ do za³ogi brygu, têskni¹c za nowymi dreszczykami emocji. Maj¹c naturalny talent do opowiadania zabawnych historii i œpiewania sproœnych piosenek, szybko sta³ siê dusz¹ za³ogi — z wyj¹tkiem kapitana brygu, Dargema, który nie lubi³ tego zbytnio. 		Sam bêd¹c jeszcze doœæ m³odym jak na pirackiego przywódcê, do tej pory opanowa³ tylko jeden sposób, aby utrzymaæ za³ogê w ryzach — poprzez strach i groŸby oczywiœcie. Zna³ magiê powietrza, wiêc jego groŸby nie by³y puste; nikt nie chcia³ go rozgniewaæ i nagle umrzeæ z powodu uduszenia lub odwrotnie, z powodu pêkniêtych p³uc. Potrafi³ jednak równie¿ przyspieszyæ swój statek, u¿ywaj¹c magicznych wirów do nadmuchania ¿agli i blokuj¹c strza³y i kule armatnie tarcz¹ powietrzn¹. Dziêki temu jego ludzie rzadko byli bez bogatych ³upów, wiêc nigdy nie brakowa³o kandydatów chêtnych do uzupe³nienia jego za³ogi. 		Jednym z nich by³ Boyd, który tak nieostro¿nie naruszy³ autorytet okrutnego kapitana. Czy to by³a zwyk³a zazdroœæ, czy coœ innego? Tak czy inaczej, Boyd by³ przegrany. Istnia³o wiele teorii na temat tego, co ostatecznie spowodowa³o konflikt, ale stary karczmarz, który kiedyœ mia³ nieprzyjemnoœæ zafundowaæ za³odze ponurego brygadzisty ucztê w domu, pods³ucha³ historiê. Wed³ug niego, nieszczêsny pirat zosta³ zmuszony do tañca na konopnym sznurze w pal¹cym s³oñcu, ale wczeœniej upewni³ siê, ¿e pêtla nie udusi go od razu. Zapewnienie tego by³o ma³ym wyzwaniem dla wprawnego maga. 		Wiêc wisia³ tam, karmi¹c mewy, a gdy bryg przybi³ do brzegów Jadame, Dargem wymieni³ jego koœci z jakimœ ponurym gangrem za pióro z kapelusza. Nie wiadomo, co ten ostatni im zrobi³, ale od tego czasu rozesz³y siê pog³oski o podró¿nych, którzy natknêli siê na szkielet nieumar³ego pirata krzycz¹cego imiê Dargema w nocy. Niektórzy naoczni œwiadkowie dodali nawet, ¿e szkielet wymachiwa³ pa³aszem, z jego oczu bucha³y tajemne p³omienie a ziemia po której jecha³ jêcza³a i puch³a. Strach zamienia kopce kretów w góry, pomyœla³am; ale mo¿e powinnam spróbowaæ odszukaæ tego nieumar³ego mœciciela. Jak mówi¹, wróg mojego wroga jest moim... nie, nie moim przyjacielem. Nie jestem chêtny na przyjaŸñ z nieumar³ym! Powiedzmy... sojusznika.
+
+Nazwa:
+New Inventors
+Wiadomoœæ:
+W Burton nadesz³y nowe czasy. Po rozwi¹zaniu problemu z ogrami, a tak¿e kwestii zapewnienia sta³ych dostaw lokalnych produktów na rynek w porcie Orca’s Maw, perspektywa niedoborów ¿ywnoœci odesz³a w zapomnienie. Mieszkañcy miasta mogli teraz planowaæ coœ wiêcej ni¿ tylko kolejny dzieñ pracy. Frederick i Sam wci¹¿ odwiedzali port, aby spotkaæ siê z innymi swoimi wspó³pracownikami, których przekonali do przeprowadzki do Burton. Niektórzy przybyli, nie nios¹c ze sob¹ nic wiêcej ni¿ kilka ksi¹¿ek i skrzynkê z narzêdziami; inni przywieŸli ca³e statki pe³ne sprzêtu alchemicznego, rzadkich odczynników i instrumentów. 		Najwiêkszy ha³as robi³ krasnolud o imieniu Bertram; plotka g³osi³a, ¿e dziesi¹tki beczek wy³adowanych z jego karaweli by³y pe³ne z³ota. Prawda czy nie, ale wkrótce po jego przybyciu do miasta nap³ynê³a fala imigrantów z ró¿nych miejsc, z których ka¿dy dosta³ dobr¹ pracê za wynagrodzenie. Powsta³y nowe dzielnice mieszkalne; produkcjê przeniesiono z rodzimych kuŸni do nowego budynku fabrycznego, którego wysokie sklepienia wykonano ze stalowych kratownic i belek.
+
+Nazwa:
+Eeofol
+Wiadomoœæ:
+Gdy przybyli imigranci, pierwsze wieœci o nastêpstwach inwazji demonów dotar³y do naszych odleg³ych krain. Eeofol zosta³ zniszczony. Spustoszony. Nie pozosta³ ani jeden kwitn¹cy ogród, ani jedno czyste jezioro. Tylko niekoñcz¹ce siê grzbiety nowych gór, ziej¹ce p³omieniami i gryz¹cym dymem, hordy bezwzglêdnych demonów roj¹ce siê za jego zas³on¹. Widzia³em opêtanego Xarfaxa i ¿o³nierzy jego garnizonu na w³asne oczy — okropny i obrzydliwy widok; wydawa³o siê jednak, ¿e diab³y ostatecznie nie by³y w stanie ujarzmiæ umys³ów innych Erathian. Mo¿e nauczyli siê broniæ, a mo¿e demony po prostu nie by³y tak potê¿ne jak myœleliœmy po naszych pierwszych potyczkach z nimi; bez wzglêdu na powód, niebiañscy goœcie nie byli w stanie przeskoczyæ granic Eeofolu. Nawet Ogniste Wybrze¿e nadal pozostawa³o pod kontrol¹ Erathii, chocia¿ budz¹ce siê wulkany sprawia³y mu k³opoty. 		Rozmawiaj¹c z tymi, którzy przynieœli tê wiadomoœæ, cieszy³am siê z powodu tych k³opotów, które nie poch³onê³y tysiêcy istnieñ ludzkich w Erathii i AvLee, wbrew naszym ponurym przewidywaniom zrodzonym z ignorancji — ale moje serce krzycza³o z bólu. Zastanawia³o siê tylko nad jedn¹ rzecz¹: dlaczego Eeofol, a nie Erathia?
+
+Nazwa:
+Sentinel Automatons
+Wiadomoœæ:
+Nie pomaga³am ju¿ Frederickowi w jego warsztacie, poniewa¿ mia³am teraz w³asne zajêcie. Nawet nie zauwa¿y³am, jak to siê sta³o, ale w pewnym momencie wszyscy zaczêli nazywaæ mnie dru¿ynowym Burtona. Nadal interesowa³am siê postêpami mojego starego przyjaciela i wiedzia³am, ¿e zaprojektowa³ i zbudowa³ ulepszony silnik parowy. By³ zbyt nieporêczny i ciê¿ki, aby zamontowaæ go na sterowcu, ale idealny do fabrycznej elektrowni; pomaga³ zwielokrotniæ moment obrotowy na wa³ach maszyn do obróbki metalu. Teraz fabryka budowa³a siê sama: ulepszone maszyny pomaga³y tworzyæ nowe elementy konstrukcyjne, a obiekty stale ros³y i ros³y. 		Frederick by³ teraz ca³kowicie oddany sektorowi energetycznemu i nie mia³ czasu na realizacjê swoich innych starych projektów. Wiele z nich jednak zosta³o rozwiniêtych w rêkach nowo przyby³ych rzemieœlników. Jeden z nich, nieco dziwnie wygl¹daj¹cy siwow³osy mê¿czyzna o imieniu Todd, wzi¹³ na siebie zadanie wprowadzenia automatów do masowej produkcji. Spêdzi³ dobry miesi¹c zamkniêty w hangarze z prototypami, które Frederick przywióz³ z Eeofol, kilkoma asystentami, ró¿nymi narzêdziami i wielkim koszem suszonego miêsa pancernika. Kiedy w koñcu wyszed³ z tego dobrowolnego zamkniêcia, wygl¹da³, jakby nie zmru¿y³ oka przez miesi¹c — ale promienia³ radoœci¹. Obok niego dwa w pe³ni zmontowane modele prezentowa³y swoje lœni¹ce, wypolerowane boki, a on dumnie opar³ siê ³okciem o stos planów i schematów blokowych. Zabawne jest, ¿e w tym momencie moje wnioski zaczê³y siê i skoñczy³y na fakcie, ¿e stos papierów by³ zauwa¿alnie wy¿szy ode mnie — nawet gdybym stanê³a na palcach. 		Oczywiœcie widzia³am ju¿ automaty przygotowuj¹ce nasze sterowce, ale inni mieszkañcy Burton byli pod wielkim wra¿eniem, gdy maszyny wystawiono na wystawie na placu. WyobraŸ sobie metalow¹ maszynê na szeœciu mechanicznych nogach, wielkoœci niemal doros³ego pancernika, wygl¹daj¹c¹ jak mieszanka kraba, powszechnego widoku na brzegach Ravage Roaming z miêso¿ernym paj¹kiem z Murmurwoods. Z wnêtrza mechanizmu dobiega³ bulgocz¹cy dŸwiêk, a z licznych zaworów wydobywa³y siê cienkie strumienie pary; jego stalowa rama dr¿a³a, a stawy lekko skrzypia³y. Automat wydawa³ siê gor¹cy jak czajnik — có¿, w rzeczywistoœci by³ takim czajnikiem; potê¿ny uchwyt wystaj¹cy z czegoœ w rodzaju g³owy mia³ bardzo groŸny wygl¹d, a m³odzieñcy z Burton, chc¹c zaimponowaæ swoim dziewczynom, raz po raz podbiegali i wk³adali rêce w szczêki metalowego paj¹kokraba. Nie wiedzieli, ¿e jego przegrzany parowy silnik sam w sobie stanowi³ o wiele wiêksze zagro¿enie dla innych ni¿ szczêki czy koñczyny... 		Frederick powiedzia³ mi w zaufaniu, ¿e Todd nie by³ w stanie w pe³ni rozwi¹zaæ jego ma³ego problemu z niezawodnoœci¹ — ograniczy³ jedynie standardow¹ moc maszyny, ale zachowa³ mo¿liwoœæ prze³¹czenia siê na tryb nadkrytyczny. Po w³¹czeniu nie mo¿na by³o go jednak wy³¹czyæ. Oczywiœcie zespó³ odpowiedzialny za tê funkcjê zosta³ odsuniêty, ale mimo to wola³am zachowaæ dystans.
+
+Nazwa:
+Gunslingers
+Wiadomoœæ:
+Burton teraz pachnia³ pieniêdzmi, a ten zapach zawsze przyci¹ga tych, którzy chcieliby je przyw³aszczyæ, jak równie¿ tych, którzy s¹ gotowi za op³at¹ zniechêciæ tych pierwszych. Co ciekawe, wiêkszoœæ z nich mia³a ten sam rodowód: piracki. Nie wszyscy, którzy mieli do czynienia z rzemieœlnikami z Burton, ulegli namowom Dargema, by przyjœæ i si³¹ zabraæ to, czego potrzebowali. Bardziej stateczni dostrzegali korzyœci z pójœcia na s³u¿bê do szybko rozwijaj¹cego siê miasta. Ponadto obiecywano im najnowoczeœniejsz¹ i najpotê¿niejsz¹ broñ wytwarzan¹ w warsztatach Burtona, co oczywiœcie by³o bardzo dobr¹ zachêt¹. 		Mieszkañcy miasta patrzyli krzywo na tych ponurych ludzi; najemnicy, równie skuteczni na l¹dzie co na morzu, byli g³ównie zatrudniani jako ³owcy nagród. Ich ulubion¹ broni¹ by³y arkebuzy o ogromnym kalibrze i bardzo skomplikowanej konstrukcji. £atwo by³o zauwa¿yæ jak bardzo rewolwerowcy dbali o narzêdzia swojego fachu; ich mosiê¿ne i stalowe czêœci by³y wypolerowane na po³ysk i lœni³y w s³oñcu jak bi¿uteria, a kolby z twardego drewna by³y pieczo³owicie wypolerowane i polakierowane. Ich p³aszcze podejrzanie wybrzusza³y siê w talii; pod spodem nie kry³y siê prymitywne pistolety, takie jak te u¿ywane przez piratów, ale rzeczy równie wyrafinowane i drogie jak ich arkebuzy. Plotka g³osi³a, ¿e ta tajemnicza broñ ju¿ sprawi³a, ¿e niezliczeni poplecznicy Dargema zdrzemnêli siê w b³ocie; dobrze wyszkolony i zdyscyplinowany rewolwerowiec zawsze okazywa³ siê szybszy ni¿ wiecznie pijany pirat i jego g³adkolufowa artyleria kieszonkowa, jakkolwiek dumnym wilkiem morskim by nie by³ ten ostatni.
+
+Nazwa:
+Nemerthea
+Wiadomoœæ:
+Do Burton przyby³ stary rybak; mieszka³ na brzegu, niedaleko ma³ego portu, do którego piraci zwykli zawijaæ w celach handlowych. Zostawiali mu wiadomoœci, proponuj¹c daty nastêpnych wymian. Powiedzia³, ¿e kilka razy dostrzeg³ znajome czarne ¿agle na horyzoncie, ostatnio coraz czêœciej. 		„Niebieska panna wzywa swoje dziewczyny. I mówiê wam, przybêd¹ t³umnie — wszystkie maj¹ mê¿ów w ka¿dym porcie. Za³ó¿my, ¿e wszystkie je zbior¹, nawet ty bêdziesz mia³ du¿e k³opoty, a ja po prostu zostanê po¿arty, z koœæmi i wszystkim. Maj¹ twarze anio³ów, ale zêby rekinów…”
+
+Nazwa:
+Melchior interrogates pirates
+Wiadomoœæ:
+Jeœli istnieje zwiad, to musi byæ te¿ ktoœ, kto zajmie siê zwiadowcami pracuj¹cymi dla przeciwnika. Teraz by³ taki cz³owiek w Burtonie, Melchior z imienia. S³odki i uprzejmy, potrafi³ sprawiæ, ¿e ka¿dy czu³ siê swobodnie, nak³aniaj¹c go do dzielenia siê nawet takimi informacjami, których nigdy nie wiedzia³ o sobie. A teraz rozpracowa³ pirackiego szpiega. Procedura rozmowy kwalifikacyjnej dla osób poszukuj¹cych pracy jako rewolwerowcy, d³uga i myl¹ca dla nieœwiadomego obserwatora, po raz kolejny okaza³a siê skuteczna: kandydat za³ama³ siê, gdy nieoczekiwanie zadano mu pytanie o najlepszy sposób wydania du¿ej pensji, które zupe³nie nie pasowa³o do toku rozmowy. 		Podczas przes³uchania ten buñczuczny, bezczelny typ najpierw siê rozeœmia³ i wyrzuci³ z siebie groŸby, twierdz¹c, ¿e nie boi siê ani bicia, ani œmierci i ¿e z pewnoœci¹ zostanie pomszczony... Jednak wystarczy³a minuta spêdzona w towarzystwie automatonu, który ostro¿nie trzyma³ w paszczy pewne wystaj¹ce czêœci cia³a wiêŸnia; ten ostatni nagle rozwin¹³ niezwyk³¹ elokwencjê. 		Fragmenty raportu z przes³uchania: 	"...zwabi³ kilku czarodziejów na swoj¹ stronê, obiecuj¹c ka¿demu Kapelusz Zaklinacza... oczywiœcie oszuka³ starych g³upców, ale teraz najwyraŸniej nie maj¹ wyboru... 	...Dergem œmieje siê z twoich petard i kul. Jest pewien, ¿e zmia¿d¿y ciê jak stado karaluchów. Co wiêcej, ma kilka twierdz, w których zagnie¿d¿aj¹ siê jego s³udzy... 	...Nie dostaniesz Dargema. Chyba, ¿e potrafisz chodziæ po wodzie..."
+
+Nazwa:
+Portal warning (141)
+Wiadomoœæ:
+Zwiadowcy przynieœli niepokoj¹ce wieœci. W pobli¿u Burton znajdowa³o siê kilka staro¿ytnych portali, ale wszyscy uwa¿ali je za dawno zapomniane i pozbawione mocy. Nikt ju¿ nie spodziewa³ siê, ¿e powróc¹ do ¿ycia, a nie by³y uwa¿ane za potencjalne Ÿród³o zagro¿enia — ale teraz wygl¹da³o na to, ¿e ktoœ próbuje je reaktywowaæ: powietrze w portalach wirowa³o, a œwiat³a w nim miga³y...
+
+Nazwa:
+Steadwick's Fall
+Wiadomoœæ:
+Dziœ uchodŸcy z dalekiego Antagarich przybyli do Burton. Nie, nie migranci, ale uchodŸcy! Przynieœli wieœci, które sprawi³y, ¿e poczu³am siê chora i zawstydzona, jakby to moje myœli œci¹gnê³y te k³opoty. Daleko za oceanem wybuch³a wojna: W³adcy Lochów Nighonu po³¹czyli si³y z demonami! Trudno by³o uwierzyæ, ¿e nieziemscy goœcie tak szybko znaleŸli sojuszników, ale fakty by³y faktami. Erathia wci¹¿ nie otrz¹snê³a siê po niedawnej tajemniczej œmierci króla Gryphonhearta, a plotka g³osi³a, ¿e jej stolica, Steadwick, ju¿ pad³a ofiar¹ po³¹czonych si³ diab³ów i w³adców.
+
+Nazwa:
+Dargem's Fortress
+Wiadomoœæ:
+RozluŸniony piracki szpiega da³ wskazówkê, ¿e g³ówna forteca Dargema mo¿e znajdowaæ siê na wyspie. Rzeczywiœcie tak by³o, ale wyspa by³a otoczona klifami nie do zdobycia a fale rozbija³y siê o nie z przera¿aj¹c¹ si³¹. Najbli¿ej, gdzie mogliœmy siê dostaæ aby prowadziæ obserwacjê, znajdowa³o siê co najmniej milê od linii brzegowej. Gdyby tylko uda³o siê znaleŸæ sposób, aby wywabiæ Dargema z jego kompleksu! Czy istnia³yby jakieœ œrodki komunikacji miêdzy pirackimi fortecami?
+
+Nazwa:
+News about Catherine
+Wiadomoœæ:
+Dziœ spotkaliœmy kapitana kupców z Erathii. Wojna trwa, ale wygl¹da na to, ¿e wci¹¿ jest nadzieja! Królowa Katarzyna zbiera wojska, aby odbiæ stolicê, i ju¿ przegoni³a kilka armii demonów i w³adców Nighon! Co wiêcej, wed³ug plotek, którymi dzieli³ siê ten sam handlarz, AvLee i Bracada zamierzali udzieliæ pomocy Erathii w walce z demonami.
+
+Nazwa:
+Steadwick's Liberation
+Wiadomoœæ:
+Kupiec z Antagarich przyniós³ dobre wieœci: Steadwick zosta³ wyzwolony! Demony i podziemne stworzenia s¹ przepêdzane z ca³ej Erathii, a ziemia rzekomo wkrótce zostanie od nich uwolniona. 	Kupiec podzieli³ siê równie¿ kilkoma informacjami o konflikcie z Tatali¹ i Krewlodem oraz o wsparciu, jakie wojska Gavina Magnusa zapewni³y Erathii, ale ju¿ nie s³ucha³am... 		Nie uwa¿a³em ju¿ Kreeganów za niezwyciê¿onych. Nadal budzi³am siê z krzykiem w nocy, gdy w moich snach pojawia³y siê brzydkie oblicza nieziemskich najeŸdŸców, ale jeœli ludzie i elfy byli w stanie z nimi walczyæ, byæ mo¿e my równie¿ moglibyœmy kiedyœ siê z nimi zemœciæ. Jednak nie by³ to ani czas, ani miejsce, aby powa¿nie siê nad tym zastanawiaæ. Potrzeby Burtona wymaga³y ode mnie pe³nego zakresu energii.
+
+Nazwa:
+Warning
+Wiadomoœæ:
+Wed³ug plotek Dargem umacnia swoj¹ twierdzê. Jeœli nie uda nam siê pokonaæ si³ piratów w ci¹gu miesi¹ca i dotrzeæ do jego twierdzy teraz, bêdzie za póŸno.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(86, 97, 0) ***Przystañ***
+
+Zdarzenia czasowe:
+
+Nazwa:
+AI - 211 - Big bonus
+Wiadomoœæ:
+
+
+Nazwa:
+AI - 311 - Huge bonus
+Wiadomoœæ:
+
+
+(96, 1, 0) ***Chata proroka***
+Wiadomoœæ:
+Po walce z Liszami ostro¿nie zagl¹dasz do chaty. W œrodku widzisz ogromny kocio³ i nekromantê mieszaj¹cego w nim miksturê. 	„Widzia³em, jak poradzi³eœ sobie z Liszami” — mówi nekromanta. „Przyznajê, ¿e jestem pod wra¿eniem. Widzisz... w ostatnich latach studiowa³em proces tworzenia nowych typów nieumar³ych smoków, ale Gildia Nekromantów z Jadame zakaza³a tych badañ, obawiaj¹c siê, ¿e smoki wymkn¹ siê spod kontroli. G³upcy! Tchórze! Nie maj¹ pojêcia, jakiej mocy unikaj¹! Niedawno odkry³em zupe³nie nowy sposób tworzenia smoków duchów, ale nie mam wystarczaj¹co du¿o materia³ów alchemicznych, aby eksperymentowaæ. Trudno jest zdobyæ wystarczaj¹ce zapasy rtêci w tych krainach, ale jestem pewien, ¿e mo¿esz mi pomóc. W nagrodê móg³bym daæ ci kilka smoków duchów, które ju¿ stworzy³em”.
+Chyba mówiliœmy o rtêci. Obawiam siê, ¿e ¿aden inny surowiec nie sprawdzi siê w moich eksperymentach.
+Ta rtêæ to dok³adnie to, czego potrzebujê! Stworzy³em ju¿ kilka smoków duchów i chêtnie ci je oddam. I jeszcze jedno. Jeœli masz jakieœ smoki koœciane, przynieœ je do mnie, a ja... trochê nad nimi popracujê. Oddaæ rtêæ nekromancie w zamian za smoki duchy?
+Przynieœ mi smoka koœcianego, ¿ebym móg³ go przemieniæ w potê¿niejszego nieumar³ego.
+Przynieœ mi smoka koœcianego, ¿ebym móg³ go przemieniæ w potê¿niejszego nieumar³ego.
+Oddaæ nekromancie smoka koœcianego, ¿eby zamieni³ siê w smoka duchów?
+
+(27, 54, 0) ***Chata proroka***
+Wiadomoœæ:
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 16 rtêci, 16 kryszta³ów i 15000 z³ota.
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 16 rtêci, 16 kryszta³ów i 15000 z³ota.
+Zatrudniæ 15 piratów za 16 rtêci, 16 kryszta³ów i 15000 z³ota?
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 24 rtêci, 24 kryszta³y i 30000 z³ota.
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 24 rtêci, 24 kryszta³y i 30000 z³ota.
+Zatrudniæ 15 piratów za 24 rtêci, 24 kryszta³y i 30000 z³ota?
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 32 rtêci, 32 kryszta³y i 45000 z³ota.
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 32 rtêci, 32 kryszta³y i 45000 z³ota.
+Zatrudniæ 15 piratów za 32 rtêci, 32 kryszta³y i 45000 z³ota?
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 40 rtêci, 40 kryszta³ów i 60000 z³ota.
+Najemnicy, którzy wczeœniej s³u¿yli Dargemowi zatrzymali siê w obozie przemytników na brzegu tej zatoki. Piraci chêtnie do³¹cz¹ do twojej armii, jeœli zap³acisz im 40 rtêci, 40 kryszta³ów i 60000 z³ota.
+Zatrudniæ 25 piratów za 40 rtêci, 40 kryszta³ów i 60000 z³ota?
+
+(36, 24, 0) ***Tabliczka***
+Wiadomoœæ:
+Punkt handlowy gildii kupieckiej Alvar
+
+(18, 32, 0) ***Chata proroka***
+Wiadomoœæ:
+Zwoje magiczne mog¹ byæ bardzo przydatne, ale nic nie przebije faktycznej znajomoœci zaklêcia. W przesz³oœci uczy³em magów rzadkiego opanowania zaklêæ i mogê pomóc równie¿ tobie. Przynieœ mi zwój z zaklêciem Hipnoza, a ja ciê go nauczê; jednak w zamian poproszê ciê, abyœ da³ mi zwój. Wiem o pirackich najazdach, wiêc nie bêdê pobiera³ op³at za moje us³ugi. 	Zwoje z zaklêciem Hipnoza nie s¹ ³atwe do zdobycia, ale s³ysza³em, ¿e jeden z nich zgubi³ pewien ogr-mag na wschodzie. Mówi¹, ¿e niedawno nieumarli opanowali te ziemie.
+Niestety, nie mogê ci pomóc bez odpowiedniego zwoju z zaklêciem.
+Idealnie! Ten zwój jest dok³adnie tym, czego potrzebujê! Chcesz nauczyæ siê zaklêcia Hipnoza?
+Zwoje magiczne mog¹ byæ bardzo przydatne, ale nic nie przebije faktycznej znajomoœci zaklêcia. W przesz³oœci uczy³em magów rzadkiego opanowania zaklêæ i mogê pomóc równie¿ tobie. Przynieœ mi zwój z zaklêciem Antymagia, a ciê go nauczê; jednak w zamian poproszê ciê o oddanie mi zwoju. Wiem o pirackich najazdach, wiêc nie bêdê pobiera³ op³at za moje us³ugi. 	Zwoje zaklêcia Antymagia nie s¹ ³atwe do zdobycia, ale s³ysza³em, ¿e wêdrowny gremlin, który niedawno odwiedzi³ moj¹ chatê, mia³ jeden. Mo¿e nadal tu jest.
+Niestety, nie mogê ci pomóc bez odpowiedniego zwoju zaklêæ.
+Doskonale! Ten zwój jest dok³adnie tym, czego potrzebujê! Chcesz nauczyæ siê zaklêcia Antymagia?
+Zwoje magiczne mog¹ byæ bardzo przydatne, ale nic nie przebije faktycznej znajomoœci zaklêcia. W przesz³oœci uczy³em magów rzadkiego mistrzostwa w czarowaniu i mogê pomóc równie¿ tobie. Przynieœ mi zwój z zaklêciem Radoœæ, a ciê go nauczê; jednak w zamian poproszê ciê o oddanie mi zwoju. Wiem o pirackich najazdach, wiêc nie bêdê pobiera³ op³at za moje us³ugi. 	Zwoje zaklêcia Radoœæ nie s¹ ³atwe do zdobycia, ale s³ysza³em, ¿e jeden zagin¹³ gdzieœ w tych górach.
+Niestety, nie mogê ci pomóc bez odpowiedniego zwoju zaklêæ.
+Doskonale! Ten zwój jest dok³adnie tym, czego potrzebujê! Chcesz nauczyæ siê zaklêcia Radoœæ?
+Zwoje magiczne mog¹ byæ bardzo przydatne, ale nic nie przebije faktycznej znajomoœci zaklêcia. W przesz³oœci uczy³em magów rzadkiego opanowania zaklêæ i mogê pomóc równie¿ tobie. Przynieœ mi zwój z zaklêciem Klonowanie, a ciê go nauczê; jednak w zamian poproszê ciê, abyœ da³ mi zwój. Wiem o najazdach piratów, wiêc nie bêdê pobiera³ op³at za moje us³ugi. 	Zwoje zaklêcia Klonowanie nie s¹ ³atwe do zdobycia, ale s³ysza³em, ¿e jeden zagin¹³ na wyspie w zatoce.
+Niestety, nie mogê ci pomóc bez odpowiedniego zwoju zaklêcia.
+Idealnie! Ten zwój jest dok³adnie tym, czego potrzebujê! Chcesz nauczyæ siê zaklêcia Klonowanie?
+
+(25, 16, 0) ***Chata proroka***
+Wiadomoœæ:
+Eksperymentowa³em z wieloma rodzajami broni w przesz³oœci, ale dopiero niedawno osi¹gn¹³em wynik, z którego mogê byæ dumny. Niestety, nie mam wystarczaj¹co du¿o surowców, aby zbudowaæ tê now¹ rzecz, któr¹ zaprojektowa³em, a nawet gdybym mia³, nie ma wielu chêtnych, aby j¹ przetestowaæ. Czy móg³byœ znaleŸæ mi odpowiednie materia³y? Potrzebujê sporo siarki i klejnotów, a tak¿e z³ota, aby pokryæ koszty mojej pracy.
+Brak materia³ów? Szkoda. Z tego, co s³ysza³em, naprawdê przyda³aby ci siê moja nowa broñ.
+Doskonale! Jeœli chcesz mogê zacz¹æ produkowaæ te pistolety ju¿ teraz.
+Moje pistolety s¹ niezwykle potê¿ne, ale obawiam siê, ¿e w twoich szeregach nie ma wielu chêtnych, aby ich spróbowaæ. S³ysza³em jednak, ¿e wœród piratów najemnych jest kilku doskona³ych strzelców. PrzyprowadŸ kilku do mnie, a chêtnie przeszkolê ich w u¿ywaniu nowej broni.
+Nadal nie ma piratów? S³ysza³em, ¿e na po³udnie od tego miejsca jest obóz najemników. S¹ tam byli piraci, którzy odmówili wspó³pracy z Dargem. Mo¿e mog¹ ci pomóc?
+Widzê, ¿e znalaz³eœ odpowiednich ludzi, aby wypróbowaæ moj¹ now¹ broñ. Czy chcia³byœ ich teraz ponownie wyposa¿yæ?
+
+(91, 66, 0) ***Chata proroka***
+Wiadomoœæ:
+Wchodzisz do ma³ej chaty na palach i znajdujesz elfa grzebi¹cego w sieciach rybackich. WyraŸnie brzydzi siê prac¹ rybaka i nawet nie wygl¹da na takiego; ma w sobie coœ magicznego. 	„Myœla³em, ¿e piraci wrócili” — mówi elf. „Byli tu zarówno piraci, jak i bandyci, ale co mo¿na zabraæ? Ryby i sieci, to wszystko. 	Mój jedyny skarb, Kula Os³abienia, przepad³ gdy smoki zaatakowa³y moj¹ bibliotekê. Co dziwne, spalili tylko kilka rzeczy; ale zabrali nam najcenniejsz¹ rzecz, jak¹ mieliœmy. S³ysza³em, ¿e skrzydlate bestie przynios³y artefakt do swojej „utopii”, w po³owie drogi st¹d do Burton, ale bez wzglêdu na to, ile razy próbowa³em zbli¿yæ siê do legowiska smoków, wszystko na nic. Nie mog³em pokonaæ nawet jednego smoka. Widzia³em, jak walczy³eœ z piratami. Gdybyœ móg³ zdobyæ moj¹ kulê, z przyjemnoœci¹ nauczy³bym ciê tego, co sam wiem. Co o tym myœlisz?
+Przepraszam, ale potrzebujê mojej Kuli Os³abienia i nic innego nie pomo¿e!
+Myœla³em, ¿e ju¿ nigdy nie zobaczê mojej kuli! Mówisz, ¿e smoki siê jej obawia³y? To intryguj¹ce. Tak czy inaczej, mogê ju¿ wróciæ do swojej biblioteki.
+Dotrzyma³eœ swojej czêœci umowy, a ja dotrzymam swojej.
+Przepraszam, ale nie mogê ci pomóc. Tylko naprawdê potê¿ny mag mo¿e skorzystaæ z moich lekcji.
+Utalentowanego maga mo¿na poznaæ od razu! Pozwól, ¿e wprowadzê ciê w tajemnice magii.
+
+(56, 107, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(0, 54, 0) ***Kapitan***
+Nazwa:
+Nemerthea
+
+(93, 16, 0) ***Wiêzienie***
+Nazwa:
+Boyd
+Biografia:
+Wszystkie straszne historie opowiadaj¹ o jeŸdŸcu, który zosta³ powieszony, dŸgniêty no¿em lub nawet œciêty, a teraz jedzie noc¹ zamierzaj¹c zemœciæ siê na swoich zabójcach. Bzdura, powiedzia³by nekromanta, martwy cz³owiek, który sam zmartwychwsta³ nie mo¿e mieæ pamiêci ani woli. Mo¿e tak byæ, ale Boyd ma rachunki do wyrównania nie tylko ze zdrajc¹, który go zabi³ ale tak¿e z tym, który odmówi³ mu spoczynku w pokoju.
+
+(15, 99, 0) ***Nawigator***
+Nazwa:
+Evadne
+
+(101, 80, 0) ***Nawigator***
+Nazwa:
+Swarn
+
+(73, 10, 0) ***Chata proroka***
+Wiadomoœæ:
+W krypcie spotykasz zombie w ciemnej zbroi, pogr¹¿onego w myœlach. 	„Wiêc s³ysza³em, ¿e nie jestem jedynym, który cierpia³ z r¹k piratów Dargema. Tak! Kiedyœ by³em stra¿nikiem karawan Gildii. Zeytoss, ulubiony mag Dargema, zaatakowa³ nas z zasadzki. Nikt nie prze¿y³ bitwy, ale wkrótce miejscowy lisz przywróci³ mnie do ¿ycia — jeœli mo¿na to tak nazwaæ — zastanowi³ siê rycerz œmierci. — Teraz mogê tylko liczyæ na zemstê, ale jestem s³aby i nie mogê sam stawiæ czo³a ca³ej armii piratów. Wiem, ¿e Zeytoss niedawno by³ na tych ziemiach i mo¿e wróciæ lada dzieñ. Zniszcz go, a nauczê ciê jednej lub dwóch rzeczy.
+Wiem, ¿e Zeytoss wci¹¿ jest tam ze swoj¹ armi¹. ZnajdŸ go!
+Mówisz, ¿e odszed³? Nareszcie!
+Lisz, który wskrzesi³ mnie z martwych, nauczy³ mnie zaklêcia O¿ywienie. Jestem pewien, ¿e móg³byœ znaleŸæ dla niego lepsze zastosowanie ni¿ ja, ale nauczê go tylko Boyda.
+Bêdê rozmawia³ tylko z Boydem! Wy, ¿ywi, po prostu nie rozumiecie naszej niedoli.
+Aha, Boyd. Zawsze mi³o spotkaæ kogoœ takiego jak ty. Teraz pos³uchaj, co ci powiem...
+Zamierzam opuœciæ te ziemie, ale ja nie chcê wracaæ do domu z pustymi rêkami. Kiedy bandyci Zeytossa nas zaatakowali, nieœliœmy kilka mrocznych artefaktów — Miecz Rycerza Œmierci, Tarcza Zion¹cej Œmierci, Czaszkowy He³m i Klepsydrê Diabelskiej Godziny. Nasi kupcy zamierzali sprzedaæ je jakiemuœ nekromancie. S³ysza³em, ¿e piraci, którzy spl¹drowali nasze wozy, uznali artefakty za bezu¿yteczne i po prostu je wyrzucili. Te rzeczy prawdopodobnie wci¹¿ gdzieœ tu s¹, ale nigdy nie uda³o mi siê ich znaleŸæ. Mo¿e ty bêdziesz mia³ wiêcej szczêœcia?
+Nadal nie znalaz³eœ artefaktów? Jestem pewien, ¿e wci¹¿ s¹ na tych ziemiach!
+Mówisz, ¿e znalaz³eœ Klepsydrê Diabelskiej Godziny w skarbcu Koœcianych Smoków? Jakie to dziwne. Tak czy inaczej, te artefakty s¹ dok³adnie tym, czego potrzebujê! Od tej pory ¿aden pirat nie odwa¿y siê rzuciæ mi wyzwania.
+Kiedy by³em stra¿nikiem karawan Gildii, by³em znany jako szermierz o niemal niezrównanych umiejêtnoœciach. Jestem gotów ciê czegoœ nauczyæ; zas³ugujesz na to bardziej ni¿ ktokolwiek inny.
+Bêdê rozmawia³ tylko z Boydem! Wy, ¿yj¹cy, po prostu nie rozumiecie naszej niedoli.
+Teraz pos³uchaj, co ci powiem, Boyd.
+
+(64, 102, 0) ***Tabliczka***
+Wiadomoœæ:
+Wyspa Trolli
+
+(107, 75, 0) ***Nawigator***
+Nazwa:
+Zeytoss
+
+(65, 63, 0) ***Chata proroka***
+Wiadomoœæ:
+Zbli¿aj¹c siê do chaty, zatrzymujesz siê niezdecydowany. Wokó³ le¿¹ porozrzucane stosy koœci i stare zbroje. Co siê tu wydarzy³o? OdpowiedŸ pojawia siê, gdy w stosach koœci znajdziesz fragmenty starego pamiêtnika. 		„...wszystko posz³o nawet lepiej, ni¿ siê spodziewaliœmy. Uda³o nam siê stworzyæ nasze pierwsze smoki-duchy. Nasi bracia w Gildii powtarzaj¹, ¿e to szaleñstwo; uwa¿aj¹, ¿e animowane przez nas smoki mog¹ siê od nas odwróciæ. Co za bzdura! Chcia³bym zobaczyæ ich twarze, kiedy...” 		Pisanie nagle siê koñczy. NajwyraŸniej potwory stworzone przez Lisze okaza³y siê dla nich zbyt trudne do opanowania. Gdy siê rozgl¹dasz, nagle zauwa¿asz hordê smoków-duchów siedz¹cych na klifach, uwa¿nie ciê obserwuj¹cych. 	Mo¿e Boyd znajdzie z nimi wspólny jêzyk?
+Smoki-duchy ciê obserwuj¹. Wygl¹da na to, ¿e s¹ gotowe zaatakowaæ w ka¿dej chwili, wiêc rozs¹dnie by³oby ich nie prowokowaæ.
+Zdaj¹c sobie sprawê, ¿e Boyd równie¿ zosta³ wskrzeszony jako nieumar³y wbrew swojej woli, smoki wyra¿aj¹ chêæ do³¹czenia do twoich szeregów. 	Kierujesz siê do chaty bo mo¿e tam znajdziesz coœ wartoœciowego.
+W chacie widzisz zestawy zaczarowanej zbroi, ale najwyraŸniej pasuj¹ one tylko do nieumar³ych.
+W chacie widzisz zestawy zaczarowanej zbroi, ale najwyraŸniej pasuj¹ one tylko do nieumar³ych.
+Czy chcesz wyposa¿yæ Boyda i jego armiê w zbrojê?
+
+(22, 9, 0) ***Pirat***
+Wiadomoœæ:
+Dzisiaj nie trzeba daleko wêdrowaæ, ¿eby znaleŸæ uczciwego do bólu pirata. Niektórzy z nich stali siê tak bezczelni, ¿e czaj¹ siê tu¿ za murami Burton, obrywaj¹c od czasu do czasu, nieraz prosto z wie¿ miasta. Ta grupa jednak wydaje siê tu nowa, po prostu zastanawia siê co by tu ukraœæ i uciekaæ zanim nadleci ciê¿ka kula.
+
+(102, 56, 0) ***Przystañ***
+
+Odwiedzaj¹c Kapitan:
+Nazwa:
+Malathi
+
+Zdarzenia czasowe:
+
+Nazwa:
+AI - 211 - Bonus
+Wiadomoœæ:
+
+
+Nazwa:
+AI - 231 - Big bonus
+Wiadomoœæ:
+
+
+Nazwa:
+AI - minus gems
+Wiadomoœæ:
+
+
+(17, 68, 0) ***Tabliczka***
+Wiadomoœæ:
+Zatoka Nemerthea
+
+(18, 5, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Jest tu odlewnia, ale piraci Dargema zniszczyli j¹ podczas swoich najazdów. Jej odbudowa kosztowa³aby 15 rudy, 10 kryszta³ów, 10 siarki i 5000 z³ota.
+Niestety, nie masz wystarczaj¹cych zasobów, aby odbudowaæ tutejsz¹ odlewniê.
+Wydaæ zasoby i odbudowaæ konstrukcjê?
+
+(6, 10, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Tutaj znajduje siê manufaktura, ale piraci Dargema zniszczyli j¹ podczas swoich najazdów. Jej odbudowa wymaga³aby 30 drewna, 15 rtêci, 20 rudy i 7500 rudy.
+Niestety, nie masz wystarczaj¹cych zasobów, aby odbudowaæ manufakturê tutaj.
+Wydaæ zasoby i odbudowaæ konstrukcjê?
+
+(31, 12, 0) ***¯eglarz***
+Wiadomoœæ:
+Ci piraci wygl¹daj¹ na kompletnie sp³ukanych i bezradnych, uzbrojeni jedynie w prymitywne, krótkie pa³asze. Wygl¹da na to, ¿e Dargem zdecydowa³ siê na niekoñcz¹c¹ taktykê nêkania, aby wyczerpaæ obroñców Burtona; nawet jeœli nikt nie zginie, mo¿e to wróciæ by ich przeœladowaæ gdy tylko wyœle swoje g³ówne si³y do ataku.
+
+(13, 18, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Tutaj jest stanica, ale piraci Dargema zniszczyli j¹ podczas swoich najazdów. Jej odbudowa kosztowa³aby 50 drewna, 20 rudy i 12000 z³ota.
+Niestety, nie masz wystarczaj¹cych zasobów, aby odbudowaæ stanicê.
+Wydaæ zasoby i odbudowaæ konstrukcjê?
+
+(71, 14, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ten fort zosta³ zniszczony podczas ostatniego ataku piratów. Potrzebujesz 50 drewna i 10000 z³ota, aby go odbudowaæ.
+Ten fort zosta³ zniszczony podczas ostatniego ataku piratów. Potrzebujesz 50 drewna i 10000 z³ota, aby go odbudowaæ.
+Czy chcesz odbudowaæ zniszczony fort?
+
+(77, 76, 0) ***Zdarzenie***
+Wiadomoœæ:
+Eovacius bonus
+
+(99, 32, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(26, 6, 0) ***Fabryka***
+Nazwa:
+Burton
+
+(19, 49, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(89, 8, 0) ***Korsarz***
+Wiadomoœæ:
+Na drodze spotykasz utykaj¹cego pieszego, wygl¹daj¹cego na pirata, ubranego w czerwon¹ koszulkê, kiedyœ wystawn¹ a teraz obdart¹ i brudn¹. Nie wiadomo, co robi tak daleko od morza ale na pewno jest przera¿ony. Próbujesz go przekonaæ a on pocz¹tkowo chêtnie ci pomaga, ale gdy tylko pytasz jak siê tu znalaz³, podskakuje i atakuje ciê. Krzyczy, ¿e ledwo uciek³ z lochu zmar³ego i nie chce wyjawiæ sekretów, których siê tam dowiedzia³.
+
+(48, 27, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Grupa ³owców nagród zatrzyma³a siê tutaj na odpoczynek. Nie sprzeciwiaj¹ siê do³¹czeniu do twojej armii, ale ¿¹daj¹ zap³aty a tak¿e podkreœlaj¹, ¿e bêd¹ rozmawiaæ tylko ze swoim dowódc¹, Tancredem, który rozkaza³ im tu zostaæ. Jeden z rewolwerowców zauwa¿a, ¿e Tancreda ostatnio widziano na zachód st¹d gdzie rozbi³ swój obóz.
+£owcy nagród bêd¹ rozmawiaæ tylko z Tancredem!
+Widz¹c Tancreda, rewolwerowcy podchodz¹ do ciebie, przygotowuj¹c siê do og³oszenia swoich warunków.
+
+(49, 26, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Najemnicy i ³owcy nagród s¹ gotowi do³¹czyæ do twojej armii za 20000 z³ota i 20 klejnotów.
+Niestety, nie masz potrzebnych zasobów.
+Zatrudniæ najemników?
+
+(78, 78, 0) ***Wiêzienie***
+Nazwa:
+Yzraal
+
+(96, 7, 0) ***Pirat***
+Wiadomoœæ:
+Ten pirat wygl¹da, jakby przeszed³ przez rolki w hali kruszarek w fabryce przetwórstwa Burton. Ledwo mo¿e poruszaæ nogami a mimo to drepcze po drodze z wyrazem niesamowitej determinacji na swojej zakrwawionej twarzy. Widz¹c ciê, wydaje z siebie krzyk: 	„Puœci³ mnie! Powiedzia³, ¿e mogê odejœæ... daæ z siebie wszystko dla Dargema... Nie obchodzi mnie to, dam tobie... dam ci no¿em w brzuch, tak jak powiedzia³!”
+
+(47, 19, 0) ***Chata proroka***
+Wiadomoœæ:
+W chacie wita ciê ponury krasnolud. Na twój widok chwyta topór, ale po dok³adnym przyjrzeniu siê opuszcza broñ. 	„Nareszcie! Myœla³em, ¿e przez resztê ¿ycia bêdê widzia³ tylko pyski tych nieszczêsnych bestii, ale oto pojawia siê przyzwoita twarz!” - wykrzykuje krasnolud. „Przepraszam. W ostatnich dniach widzia³em tylko ogry i minotaury. Pozwól, ¿e opowiem ci moj¹ historiê. Nasz statek p³yn¹³ z Enroth do Jadame, gdy zaatakowa³ nas w¹¿ morski! Zanim zorientowaliœmy siê co robiæ, nasz statek ju¿ ton¹³. Jakimœ cudem uda³o mi siê dotrzeæ do brzegu i spêdzi³em ostatnie kilka tygodni b³¹kaj¹c siê po pustkowiach, a¿ natrafi³em na tê... chatê. 	Nie wiem czy ktokolwiek z za³ogi statku prze¿y³, ale mój brat tam by³. Myœlê, ¿e nadal ¿yje. Byæ mo¿e uda³o mu siê dostaæ na drug¹ stronê cieœniny. Gdybyœ móg³ go znaleŸæ i przyprowadziæ tutaj, by³bym nieskoñczenie wdziêczny.
+Gdzie jest mój brat? Muszê go zobaczyæ!
+Nareszcie! Wiedzia³em, ¿e go znajdziesz! Masz, weŸ ten magiczny p³aszcz. Nigdy go nie nosi³em. Uzna³em, ¿e moja zbroja bêdzie mi s³u¿yæ równie dobrze bez niego. Mo¿e znajdziesz dla niego zastosowanie?
+
+(67, 10, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Podczas przeprawy przez b³otnist¹ rzekê zauwa¿asz gremlina na brzegu. Stworzenie bada magiczny zwój obracaj¹c go z jednej strony na drug¹, ale nie wydaje siê byæ w stanie zrozumieæ z niego ani s³owa. 	Magiczne zwoje mog¹ byæ bardzo cenne, ale gremlin nie ma zamiaru siê nimi dzieliæ. Jeden z twoich mechaników sugeruje, ¿e stworzenie bêdzie rozmawiaæ tylko ze swoimi krewnymi.
+Magiczne zwoje mog¹ byæ bardzo cenne, ale gremlin nie ma zamiaru siê nimi dzieliæ. Jeden z twoich mechaników sugeruje, ¿e stworzenie bêdzie rozmawiaæ tylko ze swoimi krewnymi.
+Na twój widok gremlin znika w cierniowych zaroœlach. Trudno bêdzie sprawiæ by chcia³ rozstaæ siê ze zwojem.
+
+(27, 83, 0) ***Przystañ***
+
+Zdarzenia czasowe:
+
+Nazwa:
+AI - minus crystals
+Wiadomoœæ:
+
+
+Nazwa:
+AI - 411 - Huge bonus
+Wiadomoœæ:
+
+
+Nazwa:
+AI - 223 - Tavern+Castle
+Wiadomoœæ:
+
+
+Nazwa:
+AI - 232 - Build
+Wiadomoœæ:
+
+
+(89, 12, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ta droga prowadzi do kryjówki Boyda, ale tylko on wie jak siê tu dostaæ.
+Ta droga prowadzi do kryjówki Boyda, ale tylko on wie jak siê tu dostaæ.
+Czy chcesz przejœæ?
+
+(17, 78, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(74, 78, 0) ***Wiêzienie***
+Nazwa:
+Berhanu
+
+(76, 79, 0) ***Nawigator***
+Nazwa:
+Quing
+
+(75, 79, 0) ***Wiêzienie***
+Nazwa:
+Solendore
+
+(105, 48, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(107, 59, 0) ***Zdarzenie***
+Wiadomoœæ:
+Illor bonus
+
+(30, 83, 0) ***Wiêzienie***
+Nazwa:
+Ylendore
+
+(61, 66, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ, zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ, zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Czy chcesz przejœæ?
+
+(89, 101, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(73, 47, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na tych ziemiach znajduje siê piracka twierdza. Boyd z³apa³ jednego z bandytów i oto co mia³ do powiedzenia: "Berhanu, kapitan floty Dargema, zamierza udaæ siê na pó³noc, aby rozwi¹zaæ „problem nieumar³ych”. Nie mo¿emy udaæ siê na po³udnie, gdy pó³nocne ziemie s¹ w niebezpieczeñstwie".
+Na tych ziemiach znajduje siê piracka twierdza. Boyd z³apa³ jednego z bandytów i oto co mia³ do powiedzenia: "Berhanu, kapitan floty Dargema, zamierza udaæ siê na pó³noc, aby rozwi¹zaæ „problem nieumar³ych”. Nie mo¿emy udaæ siê na po³udnie, gdy pó³nocne ziemie s¹ w niebezpieczeñstwie".
+Udaæ siê na po³udniowe ziemie?
+
+(74, 47, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ta brama zosta³a przejêta przez elfy — ale one wydaj¹ siê byæ jakimiœ bandytami lub piratami. Wpuszczaj¹ tylko swoich.
+Ta brama zosta³a przejêta przez elfy — ale one wydaj¹ siê byæ jakimiœ bandytami lub piratami. Wpuszczaj¹ tylko swoich.
+
+(68, 62, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(94, 41, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(73, 57, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ, zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ, zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Czy chcesz przejœæ?
+
+(45, 67, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(106, 13, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(98, 13, 0) ***Pirat***
+Wiadomoœæ:
+Ten pirat wygl¹da jeszcze gorzej ni¿ dwaj pierwsi. Nie mo¿e nawet wypowiedzieæ s³owa, ale wygl¹da jakby Boyd odes³a³ go aby przekaza³ tê sam¹ wiadomoœæ co pozostali. Podnosi dr¿¹c¹ rêkê z broni¹ w twoj¹ stronê. Z westchnieniem poganiasz swoich wojowników w jego stronê.
+
+(9, 48, 0) ***Zdarzenie***
+Wiadomoœæ:
+AI - bonus movement
+
+(16, 103, 0) ***Zdarzenie***
+Wiadomoœæ:
+kill astra
+
+(103, 77, 0) ***Zdarzenie***
+Wiadomoœæ:
+death
+
+(59, 4, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(80, 62, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Ta droga prowadzi na zachód wzd³u¿ wybrze¿a. Wed³ug pirata schwytanego przez Boyda, Solendore, elf, jeden z kapitanów Dargema, zamierza udaæ siê na pó³noc aby rozwi¹zaæ „problem nieumar³ych”. Nie mo¿emy iœæ na po³udnie, dopóki pó³nocne ziemie nie bêd¹ w niebezpieczeñstwie.
+Ta droga prowadzi na zachód wzd³u¿ wybrze¿a. Wed³ug pirata schwytanego przez Boyda, Solendore, elf, jeden z kapitanów Dargema, zamierza udaæ siê na pó³noc aby rozwi¹zaæ „problem nieumar³ych”. Nie mo¿emy iœæ na po³udnie, dopóki pó³nocne ziemie nie bêd¹ w niebezpieczeñstwie.
+Czy chcesz przejœæ?
+
+(32, 11, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Jest tu chata nizio³ków, ale piraci Dargema zniszczyli j¹ podczas swoich najazdów. Odbudowanie go wymaga³oby 15 drewna, 10 rudy, 5 kryszta³ów i 3000 z³ota.
+Niestety, nie masz wystarczaj¹cych zasobów, aby odbudowaæ chatê nizio³ków.
+Wydaæ zasoby i odbudowaæ konstrukcjê?
+
+(94, 15, 0) ***Zdarzenie***
+Wiadomoœæ:
+Po wszystkich opowieœciach jakie s³ysza³em o ponurym mœcicielu, spodziewa³em siê wszystkiego po spotkaniu z nim, poza wpadniêciem w tak… o¿ywion¹ paplaninê. Gdy wszed³em do holu gdzie siedzia³ Boyd, zacz¹³ wyg³aszaæ tyradê pe³n¹ wulgaryzmów, coœ o jego niekoñcz¹cym siê docenianiu nieproszonych goœci. Jednak gdy tylko przyjrza³ mi siê bli¿ej wybuch³ gradem komplementów, dowcipów i ¿artów, które by³y o w³os od sproœnoœci. Nawet œwiat³o w jednym z jego oczodo³ów co jakiœ czas przygasa³o na chwilê, jakby do mnie mruga³. Jednak wkrótce nast¹pi³a nag³a przemiana w Boydzie; wydarzy³o siê to w chwili, gdy po raz pierwszy wspomnia³em o Dargemie. Do tego momentu mog³em zamkn¹æ oczy i ³atwo wyobraziæ sobie rozmowê z pogodnym mê¿czyzn¹ pe³nym energii i smaku do wszystkiego, co go otacza; jednak gdy zawo³ano imiê Dargema, oczodo³y Boyda sta³y siê ponure, jego bogaty baryton ust¹pi³ miejsca gwizdowi zimnego wiatru zmieszanemu z grzechotaniem koœci, a jego palce zaczê³y skrobaæ o porêcze krzes³a z md³ym chrupniêciem. 		„Jeœli chcesz rozwaliæ tego œmierdziela ... Zrobiê wszystko, ¿eby ci pomóc. On nie wie, czym siê sta³am dziêki niemu; jak¹ moc zyska³am dziêki emanacjom mêki zakorzenionym w moich koœciach. Ale obiecaj mi jedno; gdy ju¿ przyciœniemy tego nêdznika, oddasz go mnie! Minê³o du¿o czasu odk¹d by³am na jego statku a on sta³ siê kimœ wiêcej ni¿ tylko kapitanem, który zdobywa ³upy — teraz ma swoje w³asne ma³e królestwo bandytów, które nazywa „ksiêstwem”. Nie ruszy siê ze swojego zamku jeœli tylko dowie siê, ¿e na niego nastajemy, ale jak tylko nadapniemy mu ogon... On zacznie r¹baæ i zmieniaæ. A wtedy my ruszymy." 		Po raz pierwszy w ¿yciu poczu³em, ¿e moje stopy zamarzaj¹. Teraz wiedzia³em, jak powsta³y te historie o straszliwym martwym mœcicielu. Rzeczywiœcie: widziano go tylko wtedy, gdy polowa³ na swojego mordercê i w tym stanie naprawdê budzi³ podziw. Oczywiœcie, nikt nigdy nie próbowa³ odwiedziæ Boyda w jego martwym dworze — i nikt nie wiedzia³, jak drêczona by³a ta niespokojna dusza i jak umiera³ na nowo, gdy by³ zmuszony pamiêtaæ, ¿e jego ostatnie dni up³ynê³y w uœcisku tego bezlitosnego nêdznika.
+
+(60, 56, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Na wschodnich ziemiach znajduje siê piracka twierdza. Musimy j¹ zdobyæ zanim bêdziemy mogli kontynuowaæ eksploracjê tych ziem.
+Czy chcesz przejœæ?
+
+(56, 59, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(24, 13, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(25, 13, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(70, 4, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(71, 3, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(84, 99, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(103, 46, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(83, 99, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(14, 91, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(13, 91, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(12, 90, 0) ***Kapitan***
+Nazwa:
+Bess
+
+===== Koniec pliku =====

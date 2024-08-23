@@ -1,0 +1,63 @@
+Name:
+Postrach mórz
+
+Description:
+Tajemniczy Róg Otch³ani by³ ukryty przed oczyma œmiertelników ju¿ zbyt d³ugo. Prêdzej czy póŸniej ktoœ musia³by go w koñcu odnaleŸæ. Czy to wskutek szeregu zdarzeñ, czy mo¿e czystego przypadku? Ciê¿ko stwierdziæ. Jeremy i Bidley jeszcze nie wiedz¹, jakie przygody czekaj¹ ich w drodze po Róg.
+
+
+Wiêzieñ losu — Postrach mórz A
+
+Right-click text:
+Bidley ma zamiar uwolniæ tajemniczego wiêŸnia z antymagicznego wiêzienia w Krewlod. Brakuje mu jednak jeszcze si³ aby tego dokonaæ i dlatego musi zwróciæ siê o pomoc do lokalnych barbarzyñców.
+
+Prologue:
+W pieœniach bardów, prawie ka¿da historia zaczyna siê od bohatera siedz¹cego w tawernie. Pocz¹tek opowieœci o piracie Bidleyu nie jest tu wyj¹tkiem. Przybytek ów znajdowa³ siê w rybackiej wiosce u brzegu barbarzyñskiego Krewlod. 	Kto móg³ przypuszczaæ, ¿e pijackie plotki zamieni¹ siê w wielk¹ przygodê, która zmieni œwiat? Oczywiœcie, ¿e nikt. A ju¿ na pewno nie Bidley. 	Siedzia³ i pi³ tanie piwo, s³uchaj¹c starej pijackiej opowieœci o wiêŸniu, który podobno przebywa³ w magicznym wiêzieniu. 	Bidley pomyœla³, ¿e to musi byæ jakiœ potê¿ny mag, prawdopodobnie z Bracady. Oraz ¿e szczodroœæ takiego maga za ewentualne uwolnienie powinna byæ, có¿... szczodra. 	Niestety, Bidley nie by³ œwiadom istnienia powszechnie znanego maga Xanthora, który... nie przepada³ za piratami. Jednak¿e, na ratunek magowi los pos³a³ w³aœnie Bidleya. A to dopiero pocz¹tek... 	
+
+
+Evenmorn — Postrach mórz B
+
+Right-click text:
+Jeremy i Casmetra musz¹ ochroniæ magiczn¹ bibliotekê na wyspie Evenmorn przed przewa¿aj¹cymi si³ami nekromantów i ich najemników.
+
+Prologue:
+Krótkie spojrzenie, Ÿle dobrane s³owo, lekkomyœlna decyzja... Wszystkie te rzeczy mog¹ radykalnie odmieniæ nasze ¿ycie. Postanawiaj¹c pomóc kobiecie, Jeremy w jednej chwili odmieni³ los swój i los swojego brata. 	Trudno przewidzieæ kto w ¿yciu oka¿e siê przyjacielem, a kto wrogiem. Tak samo trudno przewidzieæ zdarzenia, które wywróc¹ ¿ycie do góry nogami.  Jeremy st¹pa po cienkim lodzie od czasu wojny z demonami na niewielkiej wyspie. I - podobnie jak wtedy - zak³ada, ¿e dziêki wrodzonemu szczêœciu wszystkie dziej¹ce siê wydarzenia zakoñcz¹ siê dla niego pomyœlnie. 	
+
+
+Wybrze¿a Piekie³ — Postrach mórz C
+
+Right-click text:
+Bidley i jego brat przygotowuj¹ siê do wyp³yniêcia po Róg Otch³ani, ale ich kufry nie s¹ na tyle pe³ne, aby wyposa¿yæ porz¹dn¹ flotê. Plotka g³osi, ¿e Kreeganie na wybrze¿u Eeofol maj¹ elementy Rógu Obfitoœci.
+
+Prologue:
+Bidley pozna³ legendê o Rogu Otch³ani po tym jak uratowa³ Xanthora.  Gwoli œcis³oœci - Xanthor powiedzia³ mu o artefakcie w nadziei, ¿e pirat przepadnie próbuj¹c go zdobyæ. Bidley nigdy siê o tym nie dowie. 	Teraz, wraz z odnalezionym bratem, zaczêli z ca³¹ powag¹ planowaæ wyprawê po Róg Otch³ani. Potrzebowali statków... wielu statków, a tak¿e ludzi i zapasów. Sk¹d to wszystko wzi¹æ? Casmetra zaproponowa³a zbadanie Piekielnego Wybrze¿a, a nastêpnie najazd na ziemie Kreegan.  Niebezpieczne, choæ obiecuj¹ce przedsiêwziêcie. 	
+
+
+Wolnoœæ Niks — Postrach mórz D
+
+Right-click text:
+Tark, Ksi¹¿ê Nix, udaje siê do lochów Nighon, aby uwolniæ swoich braci z jarzma czarnoksiê¿ników.
+
+Prologue:
+Có¿ pocz¹æ, gdy los ca³ej rasy zale¿y od ciebie? 	Ksi¹¿ê Niks, Tark, wiedzia³ co zrobiæ w tym przypadku. 	Mimo braku pewnoœci, czy jego ludzie bêd¹ w stanie przywróciæ dawn¹ œwietnoœæ ich królestwu, by³ gotów zrobiæ wszystko co w jego mocy by ich uratowaæ. 	Jego determinacja zaprowadzi³a go do g³êbin nighoñskich jaskiñ. Dotar³ do ponurych krain czarowników, okrutnych suwerenów i podziemnych potworów. 	Tark by³ gotów na poœwiêcenie samego siebie w zamian za ocalenie niks przed niewolnictwem i zwrócenie im wolnoœci. 	
+
+
+W poszukiwaniu Rogu — Postrach mórz E
+
+Right-click text:
+Bidley, Casmetra i Jeremy przybyli na wyspê Mœciwego Wê¿a. Lochy pod wysp¹ s¹ rzekom¹ lokalizacj¹ legendarnego Rogu Otch³ani.
+
+Prologue:
+I oto nadesz³a chwila prawdy! Bidley, Casmetra i Jeremy przybyli do miejsca, gdzie spoczywa Róg Otch³ani. 	Czy bêd¹ w stanie go zdobyæ? Czy wiedz¹, co na nich czeka? Oczywiœcie, ¿e nie. 	Zw³aszcza Bidley, który dotar³ tu pomimo wszelkich napotkanych trudów. Maj¹c brata u boku niestraszne mu by³o ¿adne niebezpieczeñstwo. 	Jednak¿e ca³a trójka powinna zachowaæ czujnoœæ i zimn¹ krew, bowiem sprawy nie mia³y potoczyæ siê po ich myœli, jak przewidywali na pocz¹tku swojej przygody... 	
+
+
+Zdrada — Postrach mórz F
+
+Right-click text:
+Mag Dargem zdradzi³ Bidleya i wzi¹³ dla siebie Róg Otch³ani. Podczas gdy Jeremy próbuje wyœledziæ zdrajcê, Tatalczycy nie mog¹ siê doczekaæ zemsty na piratach za ich niedawn¹ pora¿kê.
+
+Prologue:
+Gdy po wszystkich podziemnych przygodach Bidley nareszcie siêgn¹³ po Róg, us³ysza³ krzyk za swoimi plecami: "Niewiarygodne! Nareszcie jest mój!" 	Nastêpnie nowy kompan Bidleya, Dargem, zada³ mu cios w g³owê i pochwyci³ artefakt. Mury staro¿ytnej krypty zaczê³y siê trz¹œæ, a o³tarz uniós³ siê tworz¹c wyspê. 	Zdrajca uniós³ Róg, ale nie wiedzia³ jak go u¿yæ. Dargem przywo³a³ ³ódŸ i szybko na ni¹ wskoczy³ zabieraj¹c ze sob¹ nieprzytomnego Bidleya. 	Jeremy i Casmetra ujrzeli narodziny nowej wyspy. Widzieli równie¿ odp³ywaj¹cego z niej Dargema, a tak¿e wy³aniaj¹ce siê za nim z g³êbin ogromne wê¿e morskie. Jeremy nie wiedzia³ co siê tam wydarzy³o, ale by³ pewien, ¿e jego brat ma k³opoty. 	
+
+Epilogue:
+Obrona regnañskiej twierdzy zosta³a rozbita, a Casmetra z Jeremym wbiegli do œrodka. Dargem porzuci³ jeñca, z³apa³ Róg i czym prêdzej uda³ siê na najwy¿sz¹ wie¿ê. Podczas gdy Jeremy pomaga³ bratu zrzuciæ krêpuj¹ce go liny, Casmetra wyda³a z siebie potê¿ny krzyk: "Oddaj Róg! Natychmiast!" 	Mocno przera¿ony Dargem wrzasn¹³: "Nigdy! Zdradzi³aœ mnie i pozostawi³aœ samemu sobie! Teraz wiem, co muszê zrobiæ!" 	Dobywszy artefakt w obie rêce, Dargem by³ ju¿ bliski zadêcia w Róg, lecz Casmetra z przeszywaj¹cym okrzykiem "STÓJ!!!" w ostatniej chwili zd¹¿y³a rzuciæ zaklêcie w jego kierunku.	Dosz³o do potê¿nej magicznej eksplozji, a wytworzona fala uderzeniowa zniszczy³a po³owê twierdzy, tworz¹c pod ni¹ coœ w rodzaju wiru. 	Jedyn¹ rzecz¹, któr¹ zapamiêta³ Jeremy by³a jego desperacka próba przedostania siê wy¿ej oraz krzyk Casmetry: "G³upcze! Przez ciebie zostaniemy wci¹gniêci do innego wymiaru!" 	Kilka godzin, mo¿e tygodni póŸniej, Jeremy ockn¹³ siê na brzegu morza. Gdzie jest Bidley? I co siê sta³o z Rogiem? Czy to ju¿ koniec legendy o Rogu Otch³ani? 	
+

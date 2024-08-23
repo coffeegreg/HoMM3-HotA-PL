@@ -1,0 +1,719 @@
+===== Nazwa mapy =====
+Deus Ex Machina ("Bóg z maszyny")
+
+===== Opis mapy =====
+Rzemieœlnicy Todd i Bertram rywalizuj¹ o stworzenie pierwszego Drednota. Plan Todda zak³ada wykorzystanie dostêpnych zasobów in¿ynieryjnych, podczas gdy Bertram priorytetowo stawia na ekonomiê budowy. Aby wygraæ scenariusz, przeœcignij przeciwnika. Poziom bohaterów jest nieograniczony.
+
+===== Pog³oski =====
+
+Nazwa:
+Ogre Robbers
+Tekst:
+Ogry spl¹drowa³y placówkê handlow¹ na pó³noc st¹d. Ciekawe, czy coœ tam jeszcze zosta³o?
+
+Nazwa:
+Strange Minotaurs
+Tekst:
+Ostatnio coraz czêœciej s³yszê o minotaurach atakuj¹cych lochy. Dziwne. Minotaury Balthazara nigdy nas nie zaatakowa³y. Byæ mo¿e przybyli z innych krain?
+
+Nazwa:
+Kastore Clue
+Tekst:
+S³ysza³em, ¿e jedna z wiosek zosta³a zaatakowana przez ogry i minotaury. Ale od dawna tocz¹ ze sob¹ wojnê; co sprawi³o, ¿e nagle zjednoczyli siê przeciwko nam?
+
+Nazwa:
+Gunslingers
+Tekst:
+Rewolwerowcy zbudowali swój fort na po³udniu.
+
+Nazwa:
+Sandro and Thant come to power
+Tekst:
+Ostatnio pojawia siê tu coraz wiêcej nekromantów. Mówi siê, ¿e zostali wydaleni z Gildii po dojœciu do w³adzy jej nowych przywódców.
+
+Nazwa:
+Charles Quixote Clue
+Tekst:
+Mówi¹, ¿e na pó³nocy wybuch³a wojna pomiêdzy smokami a Erathiañskimi zabójcami smoków. Na nasze ziemie przenios³o siê tak¿e kolejne stado skrzydlatych bestii.
+
+Nazwa:
+Garrote Gorge
+Tekst:
+Smoki Jadame s¹ bardziej zjednoczone ni¿ ich krewni gdzie indziej. Zbudowali potê¿ne spo³eczeñstwo w górach na pó³noc od Ravage Roaming.
+
+Nazwa:
+Monsters
+Tekst:
+Czarnoksiê¿nicy i potwory osiedli³y siê w lokalnych jaskiniach, ale w tej chwili nie da siê ich ca³kowicie zniszczyæ.
+
+Nazwa:
+Time of Wonders
+Tekst:
+Ka¿dy rzemieœlnik marzy o stworzeniu maszyn podobnych do tych z Czasu Cudów przed Cisz¹. Wygl¹da na to, ¿e przynajmniej czêœæ tego marzenia siê spe³nia.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+AI - minus res
+Wiadomoœæ:
+
+
+Nazwa:
+Todd Intro
+Wiadomoœæ:
+Ju¿ dawno moje nazwisko zapisa³o siê w historii. Jasne, by³ taki czas, kiedy ten krasnolud Bertram przyw³aszcza³ sobie moje wynalazki i czerpa³ z nich zyski, mimo ¿e nie w³o¿y³ w to ¿adnego wysi³ku poza garœci¹ z³ota. Od tego czasu pod mostem przep³ynê³o du¿o wody. Dziœ w Jadame prawie nie ma nikogo, kto nie s³ysza³by o moich samobie¿nych silnikach parowych, Automatonach! Stary Rudobrody mo¿e sugerowaæ co chce, ¿e po prostu roz³o¿y³em i z³o¿y³em na nowo to, co Frederick zrobi³ przede mn¹... to wszysko nonsens! To prawda, prototypy rzeczywiœcie dosta³em od Fredericka, ale, na litoœæ bosk¹, opieraj¹ siê one na teorii opracowanej dobre dwa wieki temu, przez nikogo innego jak naszego wspólnego przodka! I jakim wspania³ym, niezas³u¿enie zapomnianym cz³owiekiem by³ – tylko po to, by zostaæ wymazanym z anna³ów Bracadan. Aby pamiêæ o nim przetrwa³a, zachowa³ siê jedynie pamiêtnik podpisany enigmatycznymi inicja³ami – D.P. oraz portret, który przechowujê w specjalnym miejscu w mojej pracowni. Frederick zaproponowa³ rozwi¹zanie w postaci zespo³u napêdowego, ale mechatronika, obliczenia wytrzyma³oœciowe, sprzêt steruj¹cy, wyj¹tkowa maszyna logiczna oparta na hydraulice – to wszystko ja! 		Nadszed³ czas, aby raz na zawsze udowodniæ temu handlarzowi i ca³emu Jadame – nie, ca³emu œwiatu – ¿e talentu nie mo¿na kupiæ! Albo to masz, albo masz na imiê Bertram. Czeka³em na to d³ugo, zdecydowanie za d³ugo. Oto moja szansa, aby w koñcu wyrównaæ rachunki z tym handlarzem ko³ami za jego protekcjonalny ton i pod³¹ ironiê; zdepcz go i upokorz, aby wszyscy widzieli jego hañbê! Moje bezcenne doœwiadczenie jako wynalazcy, moje z³ote rêce trochê t³uste, ale to przez Sama; Przyznjê, ¿e nie jest z³ym mechanikiem… Pozostaje nam tylko udoskonaliæ to, co dojrzewa³o w mojej g³owie przez tyle lat. To bêdzie s³uszny uk³on w stronê tej tak zwanej „Gildii”, dobrej tylko do wyrywania uczciwego zapracowanego chleba z r¹k pokornych geniuszy… takich jak ja.
+
+Nazwa:
+Bertram Intro
+Wiadomoœæ:
+Olej do lamp, który pali siê jaœniej ni¿ jakakolwiek œwieca — tylko jedna fili¿anka sprawi, ¿e twój dom bêdzie oœwietlony przez ca³¹ noc. Lina utkana z najlepszego w³osia jednoro¿ca, z rdzeniem z czystego jedwabiu pajêczego, która mo¿e powstrzymaæ wszystko, nawet czarnego smoka. Bomby, które mog¹ rozerwaæ ska³y w twoich kopalniach lub zamieniæ hordy wrogów w masê papki. Chcesz tego? To wszystko jest twoje, mój przyjacielu. Podobnie jak setki innych przedmiotów oferowanych przez Gildiê Kupców w Alvar! Ju¿ w Antagarich by³em bogaty i odnosi³em sukcesy w biznesie, ale nie mia³em zielonego pojêcia jakie mo¿liwoœci oferuje cz³onkostwo w tak potê¿nej firmie. 		Nasi rzemieœlnicy nie radziliby sobie nawet w po³owie tak dobrze, gdyby nie Gildia Kupców. To ja doszed³em do porozumienia z jej przedstawicielami, którzy teraz zajmuj¹ siê dostaw¹ rzadkich materia³ów i odczynników z ca³ego Jadame. Ta umowa zapewni³a mi miejsce i g³os w Radzie Kapitanów-Dyrektorów. 		Zawsze to mówi³em i jestem gotowy powtórzyæ to jeszcze raz: planowanie bud¿etu jest kluczem do pracy ka¿dego wynalazcy i od tego zale¿y przynajmniej po³owa jego sukcesu. Przyjrzyjmy siê teraz ostatnim osi¹gniêciom Todda: wiêkszoœæ zas³ug nale¿y siê tym, którzy wziêli na siebie nudn¹ papierkow¹ robotê, nieprzerwane dostawy materia³ów i wyposa¿enie jego sklepów. Ta dziecinna, beztroska... æma w ludzkim ciele… przylecia³a do Burtona i jakimœ cudem przekona³a krewnego, ¿e potrafi poprowadziæ prawdziw¹ manufakturê! 		Gdybym sam d³ugo nie zna³ Fredericka i gdybym nie wyczyta³ w jego oczach niemej proœby o pomoc staremu g³upcowi... Spójrz na niego teraz: co z siebie zrobi³, a wygl¹da na to, ¿e nie potrzebuje ju¿ Gildii! Jakbyœmy byli teraz nieistotni, przypomniano sobie o tym dopiero wtedy, gdy zdecydowa³ siê jeszcze ponarzekaæ na temat stóp procentowych! Robój wilki ja autostrada, jak oœmiela siê to nazwaæ! Nie wie, ¿e nasza stawka uwzglêdnia dziesi¹tki kryteriów i wykorzystuje formu³y kilka razy d³u¿sze ni¿ najbardziej z³o¿ona rzecz, jak¹ uda³o mu siê w ¿yciu z³o¿yæ! Wiesz co, kolego? Otó¿ to. Mam teraz poczekalniê pe³n¹ facetów takich jak ty. Ka¿dy m¹drzejszy i szybszy od poprzedniego. Gdzie by³byœ ze swoimi pluj¹cymi par¹ szczudlarzami, gdybym nie przemyci³ do twojego zespo³u trzech moich najlepszych in¿ynierów procesu? Mê¿czyŸni, w których poœwiêci³em dziesiêæ lat swojego ¿ycia, wbijaj¹c im do g³ów wiedzê o tym, jak dzia³a porz¹dna fabryka? Nadal by³byœ tam, poleruj¹c i szlifuj¹c ka¿dy nit i nakrêtkê, poniewa¿ nigdy nie by³eœ w stanie siê zatrzymaæ i trzeŸwo oceniæ z perspektywy tego, co robisz. 	Rzemieœlnik to tylko ko³o zêbate w maszynie i z ³atwoœci¹ mogê znaleŸæ takiego, któremu zêby siê nie œcieraj¹. Pieni¹dze nie s¹ problemem, a aprowadzenei o poziom ni¿ej niewdziêcznika jest bezcenne. Co on mo¿e zrobiæ bez naszego wsparcia? Rozœmieszaæ ludzi, gdy jego najnowsze urz¹dzenie potyka siê o kilka kroków, g³oœno przerywa i rozpada siê?! Tymczasem my, Gildia, mo¿emy Ci zagwarantowaæ: niezale¿nie od tego, jak trudne jest zlecenie, zostanie ono wykonane terminowo i w najwy¿szym standardzie!
+
+Nazwa:
+Todd and Bertram - Part I
+Wiadomoœæ:
+Todd testowa³ swój najnowszy wynalazek. Z ka¿dym nowym uruchomieniem mechanizm dzia³a³ coraz lepiej. W swoich snach odje¿d¿a³ ju¿ na szczycie mechanicznej bestii, kieruj¹c siê gdzieœ, gdzie zalesione góry spotyka³y siê z b³êkitnym niebem. Ach, gdyby tylko uda³o mu siê kiedyœ ukoñczyæ choæ jedno urz¹dzenie w ca³oœci! Nie tylko kolejny osobliwy brzêcz¹cy silnik na nogach, ale prawdziwy... dawno temu wymyœli³ s³owo na swoj¹ wymarzon¹ maszynê: wartownik, jeden z jego w³asnego projektu! 		Kiedy Todd by³ sam na sam ze swoimi myœlami, w³aœciciel warsztatu, Bertram, siedzia³ przy biurku w rogu, przeliczaj¹c ksiêgi i brzêcz¹c monetami. 	Todd otrz¹sn¹³ siê ze swojej marzycielskiej postawy i przemówi³, jakby do nikogo konkretnego: 		„Czy chocia¿ raz w ¿yciu stworzy³eœ coœ, z czego móg³byœ byæ naprawdê dumny?” 		Krasnolud zmarszczy³ nos i w milczeniu kontynuowa³ swoje sprawy. 		„Nie, pos³uchaj mnie, robaku papierowym; czy marzy³eœ kiedyœ o stopie, dziêki któremu d³uta bêd¹ mocniejsze ni¿ granit; o idealnym kszta³cie zêba przek³adni, który po prostu dzia³a, bez ¿adnych luzów i zataræ; narzêdzia, którego dotyk natychmiast odparowuje czêœæ metalowego przedmiotu, któr¹ chcesz usun¹æ? Czy kiedykolwiek b³aga³eœ, aby koñcówka cienkiego jak w³os wiert³a nie pêk³a, gdy niepowodzenie oznacza³oby zmarnowanie roku pracy?” 		Krasnolud skrzywi³ siê. Prawie skoñczy³ liczenie wp³ywów. 		„Hej, stary rudy mopie, znasz to uczucie, gdy ostatnia szorstkoœæ w twoim mechanizmie œciera siê o siebie, sprawiaj¹c, ¿e œpiewa jak magiczny œwierszcz z lasów AvLee? Zespawania solidnego szwu w dwóch przejœciach, podczas gdy nikt inny nie u¿y³by mniej ni¿ piêciu!” 		Krasnolud skoñczy³ liczyæ pieni¹dze. Do ostatniej monety. Zamkn¹³ woreczek w szufladzie, podniós³ wzrok i zapyta³: 		„Wiesz dlaczego nikt nas, krasnoludów, nie lubi?” 		Todd odpowiedzia³: 	„Bo jesteœ gruby, nudny i przyziemny!” 		„...i chciwy” – doda³ Todd i odwróci³ siê do okna. Coœ zalœni³o na jego policzku. 		Bertram pog³aska³ palcem zawi³¹ rzeŸbê i gwizdn¹³. Biurko wyda³o d³ugi, grzechocz¹cy dŸwiêk i odesz³o na zaplecze, a z ka³amarza unosi³ siê dym. Krasnolud zsun¹³ okulary na czubek nosa i spojrza³ na Todda. M³ody wynalazca westchn¹³ ciê¿ko i podszed³ do deski kreœlarskiej.
+
+Nazwa:
+Todd and Bertram - Part II
+Wiadomoœæ:
+Od tego czasu minê³y dziesiêciolecia. Todd nie pracowa³ ju¿ dla Bertrama; wróci³ do swojej ojczyzny, Bracady. Mia³ jednak trudnoœci ze znalezieniem tam alchemików o podobnych pogl¹dach, wiêc kontynuowa³ swoje badania sam. Prowadzi³ skromne ¿ycie, ale jego potrzeby by³y skromne i by³ w stanie pokryæ koszty narzêdzi i materia³ów, okazjonalnie sprzedaj¹c zabawne mechaniczne zabawki zamo¿nym i arystokratom. Nie wiedzia³ jednak, ¿e za reklam¹ jego dzie³ stoi ten sam krasnolud. Bertram nie mia³ ju¿ nadziei, ¿e jego by³y protegowany kiedykolwiek opanuje sztukê prowadzenia powa¿nych projektów, a mimo to nie chcia³ spuszczaæ go z pola widzenia – w koñcu g³owa Todda by³a pe³na bezcennych pomys³ów. 		Poza tym gdzieœ w g³êbi umys³u zachowa³ pozory ciep³ego szacunku dla cz³owieka, który kiedyœ przyszed³ do jego warsztatu jako chudy, g³upkowaty nastolatek. Todd z zapa³em studiowa³ wszystko, co krasnolud mia³ do zaoferowania, zanim uwierzy³, ¿e zostawi³ swojego mentora daleko w tyle i ¿e nadszed³ czas, aby opuœci³ tê z³ot¹ klatkê. Klatka czy nie, by³a rzeczywiœcie z³ota; Bertram nie p³aci³ Toddowi zbyt wiele pieniêdzy, ale uczeñ nigdy niczego nie chcia³ i nigdy nie odmówiono mu nawet najmniejszej proœby, pod warunkiem, ¿e potrafi³ wyjaœniæ, jakie korzyœci przyniesie to pracy. Jednak w³aœnie ten ostatni punkt by³ czêsto Ÿród³em problemu: Todd czu³ mechanizmy jak w³asne przeczucie, ale musia³ jasno i konsekwentnie wyjaœniaæ istotê tego czy innego osi¹gniêtego lub przypuszczalnego efektu? To go przerasta³o. 		Ludzie... tak pospieszni, tak zawodni, tak kapryœni, a ich ¿ycie tak krótkie. Todd by³ ju¿ siwiej¹cy, a jego g³owa wyraŸnie dr¿a³a na myœl, podczas gdy Bertram by³ jeszcze w kwiecie wieku krasnoludów. Mimo to wydawa³o siê, ¿e przesz³oœæ tylko wzmocni³a ich chêæ udowodnienia sobie czegoœ. Dawni towarzysze rozstali siê dawno temu, ale w koñcu spotkali siê ponownie – w Burton. Przyzwyczai³ siê do myœlenia, ¿e jest zdolny do wszystkiego i ¿e jedyne, czego potrzebuje, to pozwoliæ swoim myœlom odlecieæ, aby powróci³y silniejsze i znalaz³y materialne ucieleœnienie. Drugi uwa¿a³, ¿e najwa¿niejsza jest solidna podstawa; jego zdaniem, przy dobrze zorganizowanej pracy od pocz¹tku, sukces z pewnoœci¹ nast¹pi, niezale¿nie od tego, jak ciê¿ka bêdzie ta praca. 		Nie wiedzieli, ¿e w tym równaniu jest jeszcze trzecia osoba – on jednak zdecydowa³ siê na razie pozostaæ w cieniu. Postawi³ siê po drugiej stronie znaku równoœci; ca³a suma wysi³ków pierwszych dwóch zosta³a przeznaczona na jego niepodzieln¹ korzyœæ.
+
+Nazwa:
+Minotaurs
+Wiadomoœæ:
+Burton zosta³ kiedyœ za³o¿ony w pobli¿u kopalni rudy, co by³o rzadkim luksusem w regionie, ale obecnie jego zasoby s¹ prawie wyczerpane. Pustkowie nie bez powodu nazywane s¹ pustkowiami: s¹ ubogie w zasoby i teraz musimy za nie handlowaæ, p³ac¹c produktami naszych fabryk. Wiêkszoœæ z nich idzie na pokrycie potrzeb wewnêtrznych, gdy¿ rozwój poch³ania walcówkê, odlewy i wszystko inne jak dó³ bez dna, pozostawiaj¹c na handel jedynie mizerne okruszki ca³ej produkcji. Oczywiœcie klienci s¹ sk³onni za nie bardzo s³ono zap³aciæ, jednak budowa na tak¹ skalê poch³ania mnóstwo œrodków. Ca³¹ masê. 		A potem s¹ niespodziewane ataki minotaurów i innego mot³ochu na nasze poci¹gi zaopatrzeniowe. Minotaury z Jadame nigdy wczeœniej nie by³y otwarcie wrogo nastawione do swoich nowych s¹siadów; wydawali siê zadowoleni z trzymania siê swoich podziemnych labiryntów i wychodzili na powierzchniê tylko z jakiejœ pilnej potrzeby. 		Jakikolwiek by³ powód tych grabie¿y, moment nie móg³ byæ gorszy; konkurencja stulecia jest zagro¿ona!
+
+Nazwa:
+Kastore and Frederick
+Wiadomoœæ:
+Dzisiaj jest wielki dzieñ. Jasne, gdy terminy s¹ napiête, liczy siê ka¿da godzina, ale ten dzieñ jest naprawdê wyj¹tkowy, wiêc nie mia³em innego wyjœcia, jak tylko na chwilê przerwaæ pracê. Trzeba by³o siê trochê przygotowaæ i posprz¹taæ, ¿eby nie zrobiæ z siebie g³upka na oczach dostojnego goœcia. Frederick przyby³ do mojego warsztatu wraz ze swoim nowym znajomym, Kastore, królem odleg³ej Deyji, na wspóln¹ inspekcjê. 		Zawsze wyobra¿a³em sobie, ¿e królowie lubi¹ pozwoliæ sobie na luksus i biczowaæ swoje s³ugi; wyobraŸcie sobie moje zdziwienie, gdy dowiedzia³em siê, ¿e jeszcze przed rozpoczêciem konkursu Kastore by³ osobiœcie zaanga¿owany w badania nad artefaktem, który Henrietta przynios³a z Grobowca, oraz w prace nad prototypem generatora wi¹zki. Nie mam pojêcia jak, ale ten czarnoksiê¿nik wydaje siê wiedzieæ o wiele wiêcej o technologii i fizyce procesów ni¿ my wszyscy razem wziêci! 		Zatem to musi byæ prawda, co mówi¹: ci czarodzieje zawieraj¹ pakt z diab³em, aby zdobyæ ich wiedzê. Albo diab³y... Jeœli siê nad tym zastanowiæ, Frederick podzieli³ siê ze mn¹ kilkoma obserwacjami, które poczyni³ podczas badania dziwnych cia³ niebieskich, na których przybyli ci nieproszeni goœcie. Ach, teraz to ju¿ niewa¿ne. Dzisiaj obaj mê¿czyŸni rozejrzeli siê po moim warsztacie, sprawdzili plany i wdali siê w k³ótniê. 		Kiedy ju¿ to zrobili, zwrócili swoj¹ uwagê na mnie, a Frederick odezwa³ siê pierwszy. WyraŸnie by³ zadowolony z tempa postêpu budowy; jak zwykle zaanga¿owany, zada³ mi niezliczone pytania dotycz¹ce najdrobniejszych szczegó³ów i moich planów na przysz³oœæ. Kastore by³ jednak ca³kowitym przeciwieñstwem. Bez grymasu na twarzy, po prostu przekreœli³ kilka wzorów w obliczeniach i wartoœciach na rysunkach, zastêpuj¹c je innymi. Nastêpnie z t¹ sam¹ powa¿n¹ min¹ zapyta³, czy potrzebujê nowych materia³ów lub narzêdzi, stwierdzi³, ¿e nasze procesy pracy bardzo wymagaj¹ dostosowania i wyszed³. Wieczorem dowiedzia³em siê od zaufanych znajomych w Burton, ¿e przeszed³em kontrolê pomyœlnie, ale mój rywal równie¿. Teraz nale¿a³o zreorganizowaæ przep³yw pracy w ca³ym mieœcie, a projektem kierowa³ Kastore.
+
+Nazwa:
+Todd - Ore Hint
+Wiadomoœæ:
+By³o jeszcze ciemno, gdy przed sklepem Bertrama pojawi³y siê wozy. Oczywiœcie, ¿e tak! To by³y mroczne elfy, „koledzy” Bertrama z Gildii Kupców. Prawdopodobnie dostarcz¹ kolejn¹ dostawê rzadkich materia³ów. 		Gdyby tylko wszystko sz³o mi tak g³adko! Pierwsze kilka dni pracy nad wymyœlonym przeze mnie projektem suwnicy posz³o tak dobrze, jak mo¿na by³o siê spodziewaæ. Potem zda³em sobie sprawê, ¿e zamierzony plan mo¿e wymagaæ u¿ycia zbyt du¿ej iloœci metalu. Niestety, nasze huty nie pracuj¹ na pe³nych obrotach, poniewa¿ kopalnie Burton s¹ prawie wyczerpane. Jasne, surowce zawsze mo¿na kupiæ na rynku, ale chciwi kupcy pobieraj¹ du¿e op³aty. Cholerne elfy! 		Wraca³em do warsztatu, kiedy zawo³a³ mnie jeden z mechaników. 		„Todd!”, krzykn¹³. „Dowiedzieliœmy siê czegoœ o minotaurach, które zaatakowa³y obóz górniczy. Przyby³y z pobliskich jaskiñ. I w³aœnie to jest w tym dziwne… Widzisz, minotaury Balthazara opuœci³y te jaskinie dawno temu – jakieœ kilkadziesi¹t lat temu. Wiêc mogê zgadywaæ, ¿e ataki nie s¹ ich dzie³em. 		„Mo¿e to jacyœ bandyci albo renegaci?”, zasugerowa³em, „Czekaj... Co mówi³eœ o jaskiniach?” 		„To w rzeczywistoœci stare kopalnie Mrocznych Krasnoludów, odwiecznych zaprzysiê¿onych wrogów Minotaurów. Wiadomo, ¿e niegdyœ by³y one bardzo bogate w rudê ¿elaza, kryszta³y górskie i inne minera³y. Pó³ wieku temu Mroczne Krasnoludy wyrzuci³y stamt¹d rogatych i od tego czasu siedz¹ na tych bezcennych materia³ach jak pies w ¿³obie. 		Zastanawia³em siê. 		„Rzeczywiœcie dziwne. Jak zatem Minotaury znalaz³y siê tam ponownie? Warto siê nad tym zastanowiæ... Czy zosta³o tam du¿o rudy? Byæ mo¿e w³aœnie tam moglibyœmy zdobyæ materia³y do budowy suwnicy. 		Poklepa³em mechanika po ramieniu, poszed³em do warsztatu, roz³o¿y³em rysunki na stole i pogr¹¿y³em siê w zadumie.
+
+Nazwa:
+Bertram - Ore Hint
+Wiadomoœæ:
+Musia³em wstaæ wczeœnie, bo rano przyje¿d¿a³a karawana Mrocznych Elfów z Ravenshore! Moi koledzy z Gildii Kupców byli zachwyceni, mog¹c zapewniæ mi regularne dostawy wybranych surowców do moich eksperymentów... oczywiœcie za op³at¹. 		...Wiedzia³em, ¿e coœ posz³o nie tak w chwili, gdy zobaczy³em puste wagony. Karawanom zwykle towarzyszyli stra¿nicy, tym razem jednak w pobli¿u ich nie by³o. Co wiêcej, samych wagonów by³o podejrzanie ma³o. 		„Co siê sta³o?”, zapyta³em w koñcu jednego z kupców. 		„Co siê sta³o? Czy to nie oczywiste? Po drodze tutaj natknêliœmy siê na ogry i minotaury! To siê sta³o! Ich przywódca, Rumeon, da³ nam star¹ zasadê „stój i dawaj”. Ledwo uszliœmy z ¿yciem”. 		No to jest k³opot! Sprawy w ogóle nie sz³y zgodnie z moimi planami. Projekt suwnicy, który wymyœli³em wymaga³ u¿ycia wielu materia³ów konstrukcyjnych, g³ównie metali, w tym rzadkich dodatków stopowych, takich jak stal i kergar, a wszystkie te produkty s¹ rzadkie na rynku. 		W drodze powrotnej do warsztatu spotka³em jednego z rewolwerowców, których wynaj¹³em do ochrony tego miejsca. 		„Jangaard” – zawo³a³em do niego – „Wiesz coœ o Rumeonie? Wygl¹da na to, ¿e to bandyta, który okrada naszych kupców. 		Najemnik uœmiechn¹³ siê. 		"Cholera, s³ysza³em o nim, ale nie st¹d. Z czasów Antagarich. Ten minotaur by³ najemnikiem w s³u¿bie Nighona podczas wojny z Erathi¹, zanim przeszed³ na Deyjê. 		"Deyja, mówisz?" 		zastanawia³em siê. Drêczy³a mnie pewna myœl. 		„Niewa¿ne. Dowiedzia³eœ siê czegoœ o pozosta³ych minotaurach?” 		„Ostatnio obserwowa³em tych bandytów. Wygl¹da na to, ¿e wype³zaj¹ ze starych kopalni Mrocznych Krasnoludów. S³ysza³em, ¿e jest tam jeszcze mnóstwo cennych rzeczy do zdobycia. To by³y kopalnie minotaurów przed krasnoludami, ale to by³o dawno temu... Nie byliœmy wtedy nawet w Jadame. 		Zapali³em fajkê i zacz¹³em myœleæ. Czy zosta³o tam du¿o rudy ¿elaza? Mo¿e w³aœnie tam powinniœmy szukaæ materia³ów do budowy suwnicy. Wróci³em do warsztatu, wyci¹gn¹³em plany i pogr¹¿y³em siê w g³êbokiej zadumie.
+
+Nazwa:
+Todd Deadline Warning (311-317)
+Wiadomoœæ:
+Sprawy id¹ coraz gorzej. Moje Ÿród³a bliskie Bertramowi donosz¹, ¿e jego pierwsza suwnica jest ju¿ prawie ukoñczona i wkrótce rozpocznie monta¿ swojego pierwszego Drednota. Zosta³o mi tylko kilka dni. Muszê postawiæ na szali wszystko co mam, inaczej wszystko bêdzie stracone.
+
+Nazwa:
+Bertram Deadline Warning (311-317)
+Wiadomoœæ:
+Sprawy id¹ coraz gorzej. Jangaard przygl¹da³ siê ostatnio warsztatowi Todda i donosi, ¿e pierwsza suwnica mojego rywala jest ju¿ na ukoñczeniu. Jest prawie gotowy do rozpoczêcia monta¿u swojego pierwszego Drednota. Zosta³o mi tylko kilka dni. Czas przestawiæ sklepy na ca³odobowe dzia³anie i zwiêkszyæ wynagrodzenie za nadgodziny, bo inaczej ca³a wspania³a praca, któr¹ wykona³em pójdzie na marne.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(34, 36, 0) ***Brama misji***
+Wiadomoœæ:
+Umowa. 		My, ni¿ej podpisani, Bertram Hard Word, syn Boltona Silver Belly'ego, syna Benoita Deep Pocket'a [11 wierszy pominiêto] z klanu Twice-Belted Goldsmiths z Mount Lesser Smoked Head (zwany dalej „Bertramem”), i Todd (zwany dalej „Toddem”), przyrzekamy, ¿e dopóki ¿aden z nas nie zbuduje prototypu broni, którego specyfikacje s¹ okreœlone w Za³¹czniku 15.6 do niniejszej Umowy, nie przekroczymy granic laboratoryjnych terenów drugiej strony w ¿aden sposób, w tym, ale nie wy³¹cznie, pieszo, konno, w powietrzu lub za pomoc¹ magii (odpowiednie terytoria zostan¹ wyznaczone zgodnie z Sekcj¹ 7.12 niniejszej Umowy). Powy¿sze dotyczy równie¿ naszych Sojuszników, zwanych dalej „Szpiegami”. 		[kilkadziesi¹t stron wiêcej wykwintnych prawniczych sformu³owañ] 		Kto  naruszy umowê powinien siê wstudziæ i otrzymaæ ch³ostê. 		Todd 		Bertram
+Umowa. 		My, ni¿ej podpisani, Bertram Hard Word, syn Boltona Silver Belly'ego, syna Benoita Deep Pocket'a [11 wierszy pominiêto] z klanu Twice-Belted Goldsmiths z Mount Lesser Smoked Head (zwany dalej „Bertramem”), i Todd (zwany dalej „Toddem”), przyrzekamy, ¿e dopóki ¿aden z nas nie zbuduje prototypu broni, którego specyfikacje s¹ okreœlone w Za³¹czniku 15.6 do niniejszej Umowy, nie przekroczymy granic laboratoryjnych terenów drugiej strony w ¿aden sposób, w tym, ale nie wy³¹cznie, pieszo, konno, w powietrzu lub za pomoc¹ magii (odpowiednie terytoria zostan¹ wyznaczone zgodnie z Sekcj¹ 7.12 niniejszej Umowy). Powy¿sze dotyczy równie¿ naszych Sojuszników, zwanych dalej „Szpiegami”. 		[kilkadziesi¹t stron wiêcej wykwintnych prawniczych sformu³owañ] 		Kto  naruszy umowê powinien siê wstudziæ i otrzymaæ ch³ostê. 		Todd 		Bertram
+
+(25, 2, 0) ***Wiêzienie***
+Nazwa:
+Lyadra
+Biografia:
+Zainteresowania Lyadry obejmuj¹ wszelkie stworzenia zdolne do samodzielnego lotu, zw³aszcza te, które wygl¹daj¹, jakby w ogóle nie powinny lataæ, podobnie jak koœciane smoki. Ostatnio zainteresowa³ j¹ tak¿e niezwykle szybki lot anio³ów; jednak¿e spo³ecznoœæ naukowa nie jest jeszcze gotowa zaakceptowaæ teorii Lyadry, ¿e kryje siê za tym jakiœ rodzaj technologii.
+
+(69, 23, 0) ***Tabliczka***
+Wiadomoœæ:
+Wielka Wie¿a Zachodnia
+
+(26, 48, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Lepianka nizio³ków le¿y w ruinach po napadzie ogrów z pustkowi. Nizio³ki prosz¹ o twoj¹ pomoc: odbudowa ich chat poch³onie 10 drewna i 5000 z³ota.
+Lepianka nizio³ków le¿y w ruinach po napadzie ogrów z pustkowi. Nizio³ki prosz¹ o twoj¹ pomoc: odbudowa ich chat poch³onie 10 drewna i 5000 z³ota.
+Czy chcesz odbudowaæ lepiankê nizio³ków?
+
+(49, 40, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Odlewnia Todda zosta³a powa¿nie zniszczona w wyniku po¿aru. Mechanicy prosz¹ o 10 drewna i 5000 z³ota na odbudowê zniszczonej konstrukcji.
+Odlewnia Todda zosta³a powa¿nie zniszczona w wyniku po¿aru. Mechanicy prosz¹ o 10 drewna i 5000 z³ota na odbudowê zniszczonej konstrukcji.
+Czy chcesz odbudowaæ Odlewniê?
+
+(0, 66, 0) ***Chata proroka***
+Wiadomoœæ:
+Dziwnie wygl¹daj¹ca chatka okazuje siê byæ jednym z wejœæ do ogromnej jaskini. Ostro¿nie kroczysz przez jaskiniê z broni¹ w rêku, gotowy do walki. 	Nagle wpadasz prosto na wielkiego smoka, który do tej pory drzema³ w jaskiniach. Przygotowujesz siê do kontrataku, ale smok nie wydaje siê chêtny do ataku. 	„Wiem, kim jesteœ i tylko dlatego wpuœci³em ciê do mojej jaskini” – warczy cicho skrzydlaty jaszczur. „Obserwujê ciê i twoj¹ armiê ju¿ od jakiegoœ czasu. O ile wiem, twój przeciwnik jest przed tob¹. Nie chcesz, ¿eby by³ pierwszy, prawda? Pos³uchaj, ostatnie kilka miesiêcy by³o trudne dla naszego stada. 	Ostatnio kilka m³odych smoków zniknê³o podczas polowañ. ZnajdŸ moich zaginionych towarzyszy a ja ci pomogê.
+„Lepiej nie wracaj bez moich krewnych” – warczy groŸnie smok.
+„Myœla³em, ¿e nigdy nie wrócisz. Mówisz, ¿e wrogie stado ich zaatakowa³o? Jakie to dziwne. Takich konfliktów pomiêdzy smokami Jadame nie by³o od wieków. 	Wspomnia³em o nagrodzie; prawda? Nigdy nie oddam swojego skarbu, ale mogê Ci pomóc w inny sposób. Jeden z moich towarzyszy pragnie przy³¹czyæ siê do twojej sprawy.
+PrzyprowadŸ do mnie m³ode smoki, a jeden z moich z³otych smoków przy³¹czy siê do twojej sprawy.
+PrzyprowadŸ do mnie m³ode smoki, a jeden z moich z³otych smoków przy³¹czy siê do twojej sprawy.
+Czy przyjmiesz Z³otego Smoka do swojej armii, zastêpuj¹c Zielonego Smoka?
+
+(62, 14, 0) ***Tabliczka***
+Wiadomoœæ:
+Po³udnie — Sklepy Rzemieœlnicze. Zachód – Chata Z³omiarza.
+
+(43, 36, 0) ***Zdarzenie***
+Wiadomoœæ:
+Ty skorumpowany pretendencie! Naprawdê myœlisz, ¿e mo¿esz tak podkraœæ siê do mojego warsztatu i tak po protu wykraœæ moje wynalazki? Stra¿e, braæ go!
+
+(44, 36, 0) ***Zdarzenie***
+Wiadomoœæ:
+Allied AI bonus
+
+(24, 37, 0) ***Zdarzenie***
+Wiadomoœæ:
+Allied AI bonus
+
+(40, 34, 0) ***Fabryka***
+Nazwa:
+Sklep Todd'a
+
+Zdarzenia czasowe:
+
+Nazwa:
+113 - Tavern
+Wiadomoœæ:
+Wraz ze wzrostem produkcji wzrasta równie¿ iloœæ wymaganej pracy, co oznacza, ¿e nie jestem ju¿ w stanie tego robiæ sam. Czas zastanowiæ siê nad… jak to sie nazywa… delegowaniem, to jest w³aœciwe s³owo. W pobli¿u mojego sklepu otworzy³a siê tawerna; te¿ idealny moment. Zapewni mi zarówno przebieg³ych ludzi, których potrzebujê do eksploracji pustkowi, jak i robotników, którzy zamiast mnie bêd¹ ci¹gn¹æ ¿elazne belki. Nie jestem cz³owiekiem, który wykonuje swoj¹ pracê w dzieciêcych rêkawiczkach, jak niektórzy… ale mam tylko jedn¹ parê tych zrêcznych r¹k. Gdyby tylko... Eee, zapomnijmy o tym. Nasza konkurencja jest uwa¿nie obserwowana: przekupiony mê¿czyzna na budowie rywala zostanie natychmiast zdemaskowany, a moja inwestycja pójdzie przez komin jak czarny dym z p³on¹cych planów. Trzeba lepiej wykorzystaæ te fundusze.
+
+Nazwa:
+115 - Town Hall
+Wiadomoœæ:
+
+
+Nazwa:
+122 - Halfling Adobe
+Wiadomoœæ:
+
+
+Nazwa:
+117 - Fort
+Wiadomoœæ:
+
+
+Nazwa:
+124 - GM 1
+Wiadomoœæ:
+
+
+Nazwa:
+126 - Marketplace
+Wiadomoœæ:
+
+
+Nazwa:
+131 - Ranch
+Wiadomoœæ:
+
+
+Nazwa:
+133 - Manufactory
+Wiadomoœæ:
+
+
+Nazwa:
+135 - Upg. Adobe
+Wiadomoœæ:
+
+
+Nazwa:
+137 - City Hall
+Wiadomoœæ:
+
+
+Nazwa:
+142 - Upg. Foundry
+Wiadomoœæ:
+
+
+Nazwa:
+144 - Catacombs
+Wiadomoœæ:
+
+
+Nazwa:
+211 - Upg. Ranch
+Wiadomoœæ:
+
+
+Nazwa:
+146 - Citadel
+Wiadomoœæ:
+
+
+Nazwa:
+213 - GM 2
+Wiadomoœæ:
+
+
+Nazwa:
+215 - Mana Generator
+Wiadomoœæ:
+
+
+Nazwa:
+217 - Watchtower
+Wiadomoœæ:
+
+
+Nazwa:
+222 - Bank
+Wiadomoœæ:
+
+
+Nazwa:
+224 - Castle
+Wiadomoœæ:
+
+
+Nazwa:
+226 - Upg. Manufactory
+Wiadomoœæ:
+
+
+Nazwa:
+231 - Capitol
+Wiadomoœæ:
+
+
+Nazwa:
+233 - Silo
+Wiadomoœæ:
+
+
+Nazwa:
+235 - GM 3
+Wiadomoœæ:
+
+
+Nazwa:
+237 - Upg. Catacombs
+Wiadomoœæ:
+
+
+Nazwa:
+237 - GM 4
+Wiadomoœæ:
+
+
+Nazwa:
+244 - Upg. Watchtower
+Wiadomoœæ:
+
+
+Nazwa:
+246 - GM 5
+Wiadomoœæ:
+
+
+(39, 70, 0) ***Wiêzienie***
+Nazwa:
+Thulig
+Biografia:
+Thulig to niezwykle odwa¿ny elf i najlepszym sposobem na zrekrutowanie go jest zaproponowanie mu wyzwania typu „idŸ, nie wiem dok¹d, przynieœ nie wiem co”. Ukrad³ „nie-wiem-co” spod pyska smoka, podziemny krasnoludzki skarbiec, a nawet ujœcie wygas³ego wulkanu. Kolejnym jego znakiem rozpoznawczym s¹ g³oœne pora¿ki i zap³aci³ za to nieporównywalnie wysokie kwoty.
+
+(40, 70, 0) ***Nekromanta***
+Nazwa:
+Semkat
+
+(25, 37, 0) ***Zdarzenie***
+Wiadomoœæ:
+Ty skorumpowany pretendencie! Naprawdê myœlisz, ¿e mo¿esz tak podkraœæ siê do mojego warsztatu i tak po protu wykraœæ moje wynalazki? Stra¿e, braæ go!
+
+(26, 2, 0) ***Rycerz œmierci***
+Nazwa:
+Iust
+
+(27, 35, 0) ***Fabryka***
+Nazwa:
+Sklep Bertram'a
+
+Zdarzenia czasowe:
+
+Nazwa:
+113 - Tavern
+Wiadomoœæ:
+Wraz ze wzrostem produkcji wzrasta równie¿ iloœæ wymaganej pracy, co oznacza, ¿e nie jestem ju¿ w stanie tego robiæ sam. Czas zastanowiæ siê nad… jak to sie nazywa… delegowaniem, to jest w³aœciwe s³owo. W pobli¿u mojego sklepu otworzy³a siê tawerna; te¿ idealny moment. Zapewni mi zarówno przebieg³ych ludzi, których potrzebujê do eksploracji pustkowi, jak i robotników, którzy zamiast mnie bêd¹ ci¹gn¹æ ¿elazne belki. Nie jestem cz³owiekiem, który wykonuje swoj¹ pracê w dzieciêcych rêkawiczkach, jak niektórzy… ale mam tylko jedn¹ parê tych zrêcznych r¹k. Gdyby tylko... Eee, zapomnijmy o tym. Nasza konkurencja jest uwa¿nie obserwowana: przekupiony mê¿czyzna na budowie rywala zostanie natychmiast zdemaskowany, a moja inwestycja pójdzie przez komin jak czarny dym z p³on¹cych planów. Trzeba lepiej wykorzystaæ te fundusze.
+
+Nazwa:
+115 - Blacksmith
+Wiadomoœæ:
+
+
+Nazwa:
+117 - Halfling Adobe
+Wiadomoœæ:
+
+
+Nazwa:
+122 - Fort
+Wiadomoœæ:
+
+
+Nazwa:
+124 - GM 1
+Wiadomoœæ:
+
+
+Nazwa:
+126 - Foundry
+Wiadomoœæ:
+
+
+Nazwa:
+131 - Ranch
+Wiadomoœæ:
+
+
+Nazwa:
+133 - Manufactory
+Wiadomoœæ:
+
+
+Nazwa:
+135 - Upg. Adobe
+Wiadomoœæ:
+
+
+Nazwa:
+137 - City Hall
+Wiadomoœæ:
+
+
+Nazwa:
+142  Upg. Foundry
+Wiadomoœæ:
+
+
+Nazwa:
+144 - Catacombs
+Wiadomoœæ:
+
+
+Nazwa:
+211 - Upg. Ranch
+Wiadomoœæ:
+
+
+Nazwa:
+146 - Citadel
+Wiadomoœæ:
+
+
+Nazwa:
+213 - GM 2
+Wiadomoœæ:
+
+
+Nazwa:
+215 - Mana Generator
+Wiadomoœæ:
+
+
+Nazwa:
+217 - Watchtower
+Wiadomoœæ:
+
+
+Nazwa:
+224 - Castle
+Wiadomoœæ:
+
+
+Nazwa:
+226 - Upg. Manufactory
+Wiadomoœæ:
+
+
+Nazwa:
+231 - Capitol
+Wiadomoœæ:
+
+
+Nazwa:
+233 - Silo
+Wiadomoœæ:
+
+
+Nazwa:
+235 - GM 3
+Wiadomoœæ:
+
+
+Nazwa:
+237 - Upg. Catacombs
+Wiadomoœæ:
+
+
+Nazwa:
+237 - GM 4
+Wiadomoœæ:
+
+
+Nazwa:
+244 - Upg. Watchtower
+Wiadomoœæ:
+
+
+Nazwa:
+246 - GM 5
+Wiadomoœæ:
+
+
+(40, 40, 0) ***Zdarzenie***
+Wiadomoœæ:
+Ty skorumpowany pretendencie! Naprawdê myœlisz, ¿e mo¿esz tak podkraœæ siê do mojego warsztatu i tak po protu wykraœæ moje wynalazki? Stra¿e, braæ go!
+
+(28, 40, 0) ***Zdarzenie***
+Wiadomoœæ:
+Ty skorumpowany pretendencie! Naprawdê myœlisz, ¿e mo¿esz tak podkraœæ siê do mojego warsztatu i tak po protu wykraœæ moje wynalazki? Stra¿e, braæ go!
+
+(33, 36, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(32, 37, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(35, 36, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(36, 37, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(32, 43, 1) ***Lochy***
+
+Zdarzenia czasowe:
+
+Nazwa:
+221 - Tavern
+Wiadomoœæ:
+
+
+(39, 64, 1) ***Suweren***
+Nazwa:
+Thjard
+
+(33, 4, 1) ***Suweren***
+Nazwa:
+Thorrd
+
+(9, 66, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(9, 70, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(5, 71, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(1, 70, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(1, 66, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(4, 63, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(6, 63, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(51, 1, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Skrell
+
+(7, 41, 1) ***Suweren***
+Nazwa:
+Thrond
+
+(54, 37, 1) ***Suweren***
+Nazwa:
+Ysedore
+
+(55, 57, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Theard
+
+(48, 52, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Razargal
+
+(62, 4, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Reventyr
+
+(39, 22, 1) ***Nekromanta***
+Nazwa:
+Nahia
+
+(22, 2, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Tharud
+
+(14, 4, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Rumeon
+
+(18, 58, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Pyragast
+
+(2, 24, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(2, 16, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(67, 71, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(58, 34, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(58, 39, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(33, 9, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(38, 12, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(30, 13, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(9, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(56, 36, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(38, 60, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(34, 63, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(25, 62, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(23, 69, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(25, 14, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(16, 15, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(24, 22, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(59, 28, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(55, 26, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(62, 21, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(37, 54, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(12, 44, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(13, 38, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(43, 18, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(47, 8, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(62, 46, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(45, 43, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(22, 10, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(23, 58, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(9, 48, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(16, 46, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(15, 32, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(26, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(43, 60, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(43, 26, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(50, 63, 1) ***Zdarzenie***
+Wiadomoœæ:
+Slow pink AI
+
+(9, 57, 1) ***Czarnoksiê¿nik***
+Nazwa:
+Endrello
+
+===== Koniec pliku =====

@@ -1,0 +1,100 @@
+===== Nazwa mapy =====
+Wiêzieñ losu
+
+===== Opis mapy =====
+Bidley musi zdobyæ miasto Zargand, aby uwolniæ wiêŸnia barbarzyñców. Jeœli jednak Bidley zostanie pokonany w walce, wszystko przepadnie. Bohater mo¿e maksymalnie osi¹gn¹æ poziom 12. Po zwyciêstwie Bidley przejdzie do nastêpnego scenariusza kampanii.
+
+===== Pog³oski =====
+
+Nazwa:
+Beer
+Tekst:
+Chodz¹ plotki, ¿e erathiañskie tawerny rozcieñczaj¹ piwo wod¹.
+
+Nazwa:
+Kilgor
+Tekst:
+Kilgor straci³ swoje drugie oko w walce z behemotem.
+
+Nazwa:
+Demons
+Tekst:
+Armia Eeofolu szykuje najazd na Erathiê!
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Day 1
+Wiadomoœæ:
+Bidley nie przepada³ za wybrze¿ami Krewlod - za smrodem brudnych cia³ orków i goblinów, ich be³kotliwym jêzykiem, brakiem jakiejkolwiek kultury oraz uznaniem bestialskiej si³y jako najlepszego rozwi¹zania ka¿dego problemu. Preferowa³ pieœni erathiañskich bardów, sztukê tworzon¹ przez elfickich artystów, a tak¿e wina z Jadame. Wszystko to móg³ zastaæ w domu, na Regnie - co w gruncie rzeczy jest sprzecznie z powszechnymi stereotypami, jakoby piraci byli niemal barbarzyñcami. Rzeczywiœcie, wœród m³odych i g³upich znajdzie siê wielu nieokrzesanych, jak równie¿ niema³o jest osobników, którzy z ³atwoœci¹ wpasowaliby siê w szeregi krewlodzkich rêbaj³ów. Z drugiej strony, znajd¹ siê te¿ bystrzy i ucywilizowani kapitanowie oraz admira³owie.		Bidley opuœci³ gospodê "Rekini Chowder" pogr¹¿ony w myœlach. Jeœli ten pijaczyna nie bredzi³, a barbarzyñcy rzeczywiœcie pojmali tak potê¿nego maga, to czarodzieje z Bracady bêd¹ szczerze uradowani na wieœæ o jego ocaleniu. Oznacza³oby to, ¿e piraci mogliby oczekiwaæ nie tylko szczodrej nagrody, ale te¿ przywileju pl¹drowania statków nieopodal brzegów Bracady - tak d³ugo jak nie wyrz¹dz¹ ¿adnej krzywdy czarodziejom, rzecz jasna. Warto zaryzykowaæ.		W Krewlod koñczy³ siê w³aœnie Festiwal ¯ycia. Bidley, jak i ¿aden inny regnanin, nigdy nie móg³ zrozumieæ prawdziwego znaczenia tej uroczystoœci. Diuk Boragus by³ martwy, a jego miejsce zaj¹³ m³ody, choæ jeszcze bardziej okrutny i przebieg³y Kilgor. Krewlod zawsze sta³o na pograniczu anarchii, ale teraz by³o jej szczególnie bliskie. Floty Bidleya nie by³o nigdzie w pobli¿u, lecz i tak jej nie potrzebowa³. Wystarczy zgromadziæ nieco rdzennych zawadiaków, przej¹æ jeden z pobliskich fortów i wykorzystaæ go do oblê¿enia Zargandu. Lokalne plemiona zajête by³y wzajemnym wybijaniem siê bez wiêkszego powodu. Za parê monet, z radoœci¹ rzuci³yby siê na kogokolwiek wskazanego.		Bidley zatrzyma³ przypadkowego przechodnia, z ca³¹ pewnoœci¹ nie miejscowego.		"Hej kole¿ko, gdzie le¿y najbli¿szy fort krewlodzkiej armii?"		"Prosto na pó³noc, wzd³u¿ drogi." - nieznajomy odrzek³ lakonicznie i poszed³ swoj¹ drog¹.
+
+Nazwa:
+Day 4
+Wiadomoœæ:
+W gruncie rzeczy, Bidley wiedzia³, ¿e musi siê spieszyæ. Prêdzej czy póŸniej wieœæ o bandzie piratów dotrze do brudnouchych ³bów lokalnych wodzów, którzy na pewno zechc¹ pozbyæ siê nieproszonych goœci. B³yskawiczne i zdeterminowane dzia³ania zmusz¹ ich do poddania siê i zapewnienia wsparcia przy oblê¿eniu Zargandu. Oczywiœcie, gdy tylko przybêd¹ zausznicy Kilgora, wszyscy którzy pomogli Bidleyowi zostan¹ straceni - jednak barbarzyñski brak skrupu³ów pewnego dnia i tak przyniós³by konsekwencje.
+
+Nazwa:
+Day 8
+Wiadomoœæ:
+Zwiadowcy donosz¹, ¿e krewlodzka armia stacjonuje w kilku okolicznych fortach. Pierwszy z nich po³o¿ony jest na po³udniowym zachodzie; drugi na pó³nocnym wschodzie. Magiczne wiêzienie znajduje siê na pó³nocnym zachodzie, jednak tylko g³upiec zaatakowa³by je bez potê¿nej armii. Warto te¿ pamiêtaæ, ¿e wiêzienie to neguje dzia³anie wszelkiej magii.
+
+Nazwa:
+Day 11
+Wiadomoœæ:
+Dzisiejszej nocy Bidleya nawiedzi³ dziwny sen. ¯eglowa³ w nim pod wodami oceanu, a rozgl¹daj¹c siê dooko³a by³ w stanie dostrzec wszystkie otaczaj¹ce go ryby i stworzenia, tak przejrzyœcie i wyraŸnie, jak gdyby patrzy³ na odleg³y horyzont. Ku jego zdziwieniu móg³ te¿ oddychaæ pod wod¹. Co to mo¿e oznaczaæ? Czy to nostalgiczne wspomnienia mórz? A mo¿e to jedynie zwyk³y sen?
+
+Nazwa:
+Day 18
+Wiadomoœæ:
+Rankiem, cz³onek za³ogi poœpiesznie wrêczy³ Bidleyowi list, który dotar³ wczoraj póŸnym wieczorem. Pirat by³ mocno zaskoczony - kto móg³ wys³aæ do niego wiadomoœæ? Jednak rozwijaj¹c pergamin, od razu rozpozna³ znajomy styl pisma. Treœæ by³a krótka i zwiêz³a:		"Mam k³opoty. Twój oddany brat, J."
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(3, 5, 0) ***Twierdza***
+Nazwa:
+Zargand
+
+(67, 37, 0) ***Chata proroka***
+Wiadomoœæ:
+Mieszka tut kap³an. Opowiedzia³ ci o grupie mumii, które sprawiaj¹ mu problemy. Nie mia³ si³ samemu je odpêdziæ, wiêc prosi byœ to ty rozprawi³ siê z nieumar³ymi kreaturami.
+Mumie znajduj¹ siê na wschód od domu kap³ana. Uœmieræ je na dobre i powróæ.
+Kap³an jest wdziêczny za pozbycie siê nieumar³ych. Obiecuje podzieliæ siê z tob¹ swoj¹ wiedz¹.
+
+(45, 36, 0) ***Zdarzenie***
+Wiadomoœæ:
+Bidley zauwa¿y³ œlady licznych wozów. Fort musi byæ gdzieœ w pobli¿u. Teraz pozostaje tylko zaskoczyæ jego obroñców i zaatakowaæ.
+
+(54, 14, 0) ***Chata proroka***
+Wiadomoœæ:
+Skrywa siê tu banda korsarzy. Ich przywódc¹ jest Jabarkas, syn zamordowanego Diuka Boragusa. Teraz bezcelowo wy¿ywa siê na wszystkich z powodu œmierci swego ojca. Korsarze chcieliby znaleŸæ nowego przywódcê, jednak tylko je¿eli obecny zostanie pokonany.
+Jabarkas ¿yje i wêdruje gdzieœ po okolicy.
+Armia Jabarkasa zosta³a pokonana, a on sam poniós³ hañbê. Barbarzyñca na pewno zniknie na jakiœ czas. Czy jesteœ gotów by przyj¹æ korsarzy do swej armii?
+
+(40, 38, 0) ***Chata proroka***
+Wiadomoœæ:
+¯yj¹ tu dwie czarodziejki. Zgodzi³y siê do³¹czyæ do twojej armii i wspomóc ciê zaklêciami. Oczywiœcie, za drobn¹ op³at¹.
+¯¹daj¹ 5 klejnotów oraz 2000 z³ota, ani monety mniej.
+Wybornie! Czarodziejki s¹ gotowe do³¹czyæ do twoich oddzia³ów.
+
+(42, 28, 0) ***Twierdza***
+
+Zdarzenia czasowe:
+
+Nazwa:
+2
+Wiadomoœæ:
+
+
+Nazwa:
+3
+Wiadomoœæ:
+
+
+Nazwa:
+13
+Wiadomoœæ:
+
+
+===== Koniec pliku =====

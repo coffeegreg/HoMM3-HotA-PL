@@ -1,0 +1,591 @@
+===== Nazwa mapy =====
+Powrót do domu
+
+===== Opis mapy =====
+Henrietta wraca do Eeofol wraz ze swoimi sojusznikami, aby na zawsze wygnaæ Kreeganów i odzyskaæ swój dom. Aby zwyciê¿yæ zdob¹dŸ miasto Ullah, ale pamiêtaj, ¿e utrata g³ównego miasta ska¿e ciê na pora¿kê. Poziom bohaterów jest nieograniczony.
+
+===== Pog³oski =====
+
+Nazwa:
+Tunnels from Eeofol
+Tekst:
+Krótko po inwazji Kreeganów, Nighonese wykopali tunel ze swojej wyspy na sta³y l¹d. Mówi siê, ¿e w ostatnich latach sieæ tuneli rozros³a siê.
+
+Nazwa:
+Land of the Giants
+Tekst:
+Oprócz Kreegan, wschodni¹ czêœæ Krainy Gigantów zamieszkuj¹ smoki i tytani, wiêc b¹dŸ ostro¿ny!
+
+Nazwa:
+Lucifer requests support
+Tekst:
+Król Lucyfer zwróci³ siê o wsparcie do Nighonu!
+
+Nazwa:
+Stilbon
+Tekst:
+S³ysza³em, ¿e Kreeganie pojmali dowódcê Leœnej Stra¿y. Leœna Stra¿ roz³o¿y³a obóz w lasach na po³udniu. Mo¿e wiedz¹ wiêcej.
+
+Nazwa:
+Troglodyte Caves
+Tekst:
+Nieopodal jednego z miast Conflux jest pewien portal. Mojemu bratu uda³o siê do niego zajrzeæ - okaza³o siê, ¿e prowadzi do jaskiñ opanowanych przez troglodytów!
+
+Nazwa:
+Ullah
+Tekst:
+Ullah jest najwiêksz¹ twierdz¹ klanów Eofol na tych ziemiach. Powiadaj¹, ¿e mo¿na siê tam dostaæ tylko przez portale.
+
+Nazwa:
+Xex
+Tekst:
+Jeden ze s³ug Xerona opuœci³ swego pana, aby osobiœcie dowodziæ si³ami Kreegan w tej czêœci Eeofolu.
+
+Nazwa:
+Blind spell
+Tekst:
+Ogromna armia diab³ów zosta³a zauwa¿ona w pobli¿u jednego z miast Inferno. NajwyraŸniej strzeg¹ czegoœ cennego i próbuj¹ zapieczêtowaæ swój skarb.
+
+Nazwa:
+Forest Guard
+Tekst:
+Du¿e si³y Stra¿y Leœnej rozlokowa³y siê w pobli¿u jeziora na pó³nocy.
+
+Nazwa:
+Conflux
+Tekst:
+Obecnoœæ Wrót ¯ywio³ów sprzyja rozwojowi przyrody w nielicznych nietkniêtych czêœciach tej torturowanej krainy.
+
+Nazwa:
+Kergar
+Tekst:
+Pierwsz¹ Fabrykê w Eeofolu nazwano Kergar, od metalu, który przypomina o naszej determinacji.
+
+Nazwa:
+Kreegan
+Tekst:
+Diab³y rozmna¿aj¹ siê jeszcze szybciej ni¿ chochliki.
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Red AI - resource control
+Wiadomoœæ:
+
+
+Nazwa:
+Orange AI - resource control
+Wiadomoœæ:
+
+
+Nazwa:
+Pink AI - resource control
+Wiadomoœæ:
+
+
+Nazwa:
+Henrietta - Home
+Wiadomoœæ:
+Dom. Wracamy do domu. Powtarza³am te s³owa, patrz¹c przed siebie z pok³adu sterowca. Ta podró¿ do Eeofol przebieg³a bez zak³óceñ i g³adko — w przeciwieñstwie do d³ugiego, wyczerpuj¹cego lotu do Jadame... tak wiele lat temu. 		Nie byliœmy sami. Kilka godzin przed naszym wylotem w Rotwangu pojawili siê uzbrojeni mê¿czyŸni w kapeluszach — pocz¹tkowo za³o¿yliœmy, ¿e to nowa grupa ³owców nagród wynajêta przez Kastore'a. Okaza³o siê jednak, ¿e nie wszyscy najemnicy i poszukiwacze przygód lubili nowego w³adcê. Niektórzy nie byli zadowoleni z nowych, ni¿szych stawek za trudn¹ pracê, inni nie lubili pró¿nego elfa, który uwa¿a³ wszystkich w Terra Nova za zwyk³e pionki w swojej grze. By³o tysi¹c innych powodów, aby opuœciæ jego armiê, a ci najemnicy podjêli w³aœnie tak¹ decyzjê. Teraz byli gotowi udaæ siê z nami do Eeofol i nigdy nie wróciæ do Jadame. Wœród dezerterów by³ doœæ wysoko postawiony dowódca, pu³kownik Lee. Przywióz³ nie tylko swoich ludzi, ale tak¿e kilka Drednotów, które ju¿ tak dobrze znaliœmy. 		Przyznam, ¿e mia³em w¹tpliwoœci co do tych nowych towarzyszy podró¿y. Niektórzy z nich mogli byæ szpiegami Kastore'a a nawet go¿ej. Jednak dawno temu nauczy³am siê nie odwracaæ plecami do tych, którym nie ufam... 	A potem na horyzoncie pojawi³y siê wulkany i pasma górskie. Tak, oto jest, Eeofol — ale nie ten Eeofol, którego znaliœmy, gdy go opuszczaliœmy. Cokolwiek to jest — to nasz dom i wróciliœmy.
+
+Nazwa:
+Tavin - War diary entry
+Wiadomoœæ:
+Dziennik wojenny Tavina, wpis 11. 		Nie mogê w to uwierzyæ: W³adcy Erathii faktycznie wycofuj¹ swoje poparcie dla Królowej Katarzyny! Na pocz¹tku wierzy³em, ¿e nasi nowi sojusznicy, ¿ywio³aki, przyjd¹ i zmia¿d¿¹ diab³y jak zgni³e dynie, ale chyba po prostu za bardzo chcia³em, ¿eby tak by³o. Wojna pokaza³a, ¿e takie rzeczy nigdy nie przychodz¹ ³atwo. Pos³aniec Stra¿y Leœnej doniós³, ¿e elementalistka Ciele wpad³a w pu³apkê, a teraz diab³y trzymaj¹ j¹ w wiêzieniu gdzieœ na granicy z Eeofol. 		Kiedy to us³yszeliœmy, przestaliœmy marzyæ o spokojnej ¿egludze. Sta³o siê jasne: nawet wyci¹gniêcie czarodziejki z jej wiêzienia bêdzie trudnym zadaniem. Du¿y oddzia³ Kreegan strzeg³ tego miejsca i co wiêcej, zauwa¿yli nas po drodze, jakby wiedzieli, ¿e w³aœnie tam bêdziemy. 		Wycofaæ siê przez góry? Za póŸno, zostaliœmy odciêci. Musimy biec g³êboko przez Krainê Gigantów. Niedaleko znajduje siê obóz ³uczników Stra¿y Leœnej, sk¹d przyby³ ten pos³aniec, wiêc powinniœmy siê tam udaæ.
+
+Nazwa:
+Land of the Giants
+Wiadomoœæ:
+Rozbiliœmy obóz na ja³owych wzgórzach Krainy Gigantów, wschodniej czêœci Eeofolu. Nigdy wczeœniej tu nie by³am. Jasne, teraz mog³abym nazwaæ siebie doœwiadczonym podró¿nikiem, ale gdy mieszka³em w Eeofolu, podró¿ na odleg³oœæ kilkunastu mil od domu wydawa³a siê œmia³ym wyczynem! S³ysza³am, ¿e pe³no tu smoków, olbrzymów i innych potworów, a nizio³ki zawsze by³y ostro¿ne w stosunku do tych niebezpiecznych krain. 		Dzieñ wczeœniej wys³a³am grupê na zwiad w okolice naszego obozu. Powróci³a z niepokoj¹cymi wieœciami: niedaleko na zachód odnaleziono twierdzê diab³ów. 		Poza tym nie do pomyœlenia, aby nasze przybycie mog³o pozostaæ niezauwa¿one.
+
+Nazwa:
+Halfling
+Wiadomoœæ:
+Wczoraj w naszym obozie pojawi³ siê nizio³ek. Dopiero wtedy w koñcu uwierzy³am s³owom zmar³ego Ketta... Nieznajomy by³ chudy jak patyk i ledwo sta³ na nogach, wiêc natychmiast umieœciliœmy go w naprêdce przygotowanym szpitalu. Wyzdrowia³ szybciej, ni¿ s¹dzi³am — ju¿ nastêpnego dnia. Silni mê¿czyŸni, ci... 		Goœæ by³ ca³kowicie zszokowany, gdy mnie zobaczy³ — mimo ¿e siê nie znaliœmy, bo pochodzi³ z innego miejsca. Jeszcze bardziej zszokowani byli moimi towarzyszami podró¿y. Nizio³ek — nazywa³ siê Thull — chodzi³ po obozie od d³u¿szego czasu, gapi¹c siê na ogromne pancerniki i niesamowite Koatle, próbuj¹c zagadaæ do najemników, ale oni nie byli w nastroju do rozmów. W koñcu przyszed³ do mnie. Opowiedzia³am mu o naszej podró¿y do Jadame, bitwach z ogrami Zoga i piratami Dargema i wielu innych rzeczach, przez które przeszliœmy przez ostatnie dziewiêæ lat. Nizio³ek tylko skin¹³ g³ow¹, patrz¹c na mnie surowo i od czasu do czasu marszcz¹c brwi. 		W koñcu zawo³a³am do niego: 		„S³ysza³am, ¿e Tavin wci¹¿ ¿yje i walczy z naszymi ludŸmi przeciwko diab³om. Masz jakieœ wieœci o nim?” 		„Oczywiœcie” – odpowiedzia³ – „sam jestem jednym z jego oddzia³u”. 		Natychmiast zada³am mu sto pytañ o Tavina, ale Thull tylko pokrêci³ g³ow¹ ze smutkiem. 		„Chcia³bym wiedzieæ, gdzie on teraz jest. Mieliœmy w³amaæ siê do wiêzienia demonów, ale zostaliœmy napadniêci po drodze. Tavin i pozostali wycofali siê w stronê jeziora; przygl¹da³em siê z oddali i nie mog³em ich dogoniæ. Wiêc przycupn¹³em tutaj”. 		Halfling próbowa³ mi wyjaœniæ, gdzie jest jezioro, ale nie mog³am wyci¹gn¹æ z jego opowieœci niczego konkretnego. 		„...i gdy szed³em tutaj, zauwa¿y³em dziwne miasto w lesie. Myœla³em, ¿e twoja forteca jest taka sama – z jasnymi ceglanymi œcianami i b³yszcz¹cymi kopu³ami... ale teraz przyjrza³em siê bli¿ej i widzê, ¿e miasto tam by³o zupe³nie inne. To chyba miasto ¿ywio³aków. Ich armia musi byæ gdzieœ tutaj”. 		¯ywio³aki? Wiedzia³am o nich: dawno temu, w Eeofol, w laboratorium Fredericka, widzia³am kilka maleñkich, pozornie bezcielesnych stworzeñ uwiêzionych w szczelnie zakorkowanych butelkach i fiolkach. D³ugo wpatrywa³am siê w jedn¹ z tych dziwnych istot; wydawa³o siê, ¿e nie jest zrobiona z niczego innego poza powietrzem i migocz¹c¹ b³yskawic¹. Frederick wyjaœni³, ¿e to mniejszy ¿ywio³ak powietrza. PóŸniej, w Jadame, widzia³em ¿ywio³aki przywo³ywane przez Warlocków na ich w³asny u¿ytek; jednak by³y to o wiele potê¿niejsze i imponuj¹ce stworzenia. Ale nigdy nie s³ysza³em o ca³ej armii ¿ywio³aków ani o tym, ¿eby mieli w³asne miasta. A co dopiero tutaj, w Eeofol! 		„Och, tak” – Thull skin¹³ g³ow¹. „Nic nie wiesz. Teraz pos³uchaj: Erathia nie walczy z demonami sama. Maj¹ po swojej stronie ca³¹ armiê ¿ywio³aków! Nie wiem, sk¹d siê wziêli ani czego chc¹, ale teraz nas wspieraj¹! Widzia³em tê armiê na w³asne oczy, tak jak widzê was teraz. Te demony to szczeniaki w porównaniu z nimi!”
+
+Nazwa:
+Tor Anwyn is concerned about Kreegans
+Wiadomoœæ:
+Stary Kosta przebieg³ obok mojego namiotu w obozie. Wali³ lask¹ w kocio³ i krzycza³: 		„Znowu! Znów! Znów atakuj¹!” 		„Kto? Diab³y?” Wyci¹gn¹³am miecz, przygotowuj¹c siê do odparcia ataku. 		„Tam”, stary nizio³ek wskaza³ dr¿¹c¹ rêk¹ na wzgórza. Przed nami, u stóp wzgórza, widzia³em kilku najemników z mojego oddzia³u czyszcz¹cych swoje blunderbusy. W powietrzu wci¹¿ unosi³ siê zapach prochu. 		„Kto tym razem? Diab³y? Ifrity?” 		„Z pewnoœci¹ nie”, powiedzia³ chrapliwie jeden z najemników. „Spójrz, tutaj. P³ywaj¹ce oczy. I harpie i minotaury”. 		To nie by³ pierwszy raz ostatnimi czasy, kiedy musieliœmy walczyæ — nie z demonami, ale z tymi harpiami, minotaurami, a nawet mantikorami. 		„Wiem, kim oni s¹”, powiedzia³ jeden z miejscowych nizio³ków. W ostatnich dniach, gdy tylko rozesz³a siê wieœæ o naszym przybyciu, przyjmowaliœmy garstkê bojowników z ró¿nych grup partyzanckich, którzy przybywali, aby do nas do³¹czyæ. Niestety, nie spotkaliœmy ¿adnego z towarzyszy Tavina — wszyscy znali odwa¿nego dowódcê, ale nikt nie móg³ nam powiedzieæ o nim niczego przydatnego. - „Oni s¹ z Nighon. S¹ tu od lat. Wykopali w³asne tunele pod Eeofol. Zastanawiam siê, dlaczego teraz nas atakuj¹?” „Nie s¹dzê, ¿eby kogokolwiek atakowali” — odpowiedzia³am. „Myœlê, ¿e zmierzali gdzie indziej. Ale dok¹d?” 		OdpowiedŸ przysz³a sama. Jeden ze strzelców zawo³a³ mnie, gdy znalaz³ coœ na ciele jednego z zabitych minotaurów, gigantycznego brutala w bogatej, poz³acanej zbroi. 		„Wygl¹da jak zwój” – sykn¹³ najemnik. 		Ostro¿nie wzi¹³em zwój i rozwin¹³em go. Na pocz¹tku trudno by³o odczytaæ jego zawartoœæ, poniewa¿ styl pisma by³ nieznany; w Jadame pisaliœmy w znacznie prostszy sposób. Jednak kiedyœ Frederick nauczy³ mnie czytaæ i pisaæ, korzystaj¹c ze zwojów z Bracadian Academy, gdzie kaligrafia by³a uwa¿ana za jeden z najwa¿niejszych przedmiotów. Wysoki styl z mnóstwem loków i linii o idealnej gruboœci. Ten list jest ewidentnie czêœci¹ korespondencji miêdzy bardzo wa¿nymi osobami. 		„Muszê ciê poinformowaæ, ¿e Lucyfer Kreegan poprosi³ o wsparcie militarne Nighon. Mimo ¿e w kraju trwaj¹ walki wewnêtrzne, nasz król postanowi³ wys³aæ si³y, aby pomóc tej szalonej bestii. Bacznie obserwuj ruchy naszych wojsk i donieœ mi o wszystkom co nowe. Nie mo¿emy sobie pozwoliæ na marnowanie naszych si³ w tak trudnej dla Nighon godzinie. 		Tor Anwyn”.		 Imiê Anwyn brzmia³o dla mnie dziwnie znajomo... Chyba Frederick wspomina³ o nim wczeœniej? Nie, nie pamiêtam na pewno. Najwa¿niejsze s¹ wieœci, ¿e Nighon wysy³a wojska, by pomóc Eeofol. Królowa Erathii i si³y Conflux musz¹ zostaæ poinformowane przy pierwszej okazji. Nie mog¹ zostaæ zaskoczeni przybyciem armii W³adców Podziemi.
+
+Nazwa:
+Forest Guard camp and devil fortresses
+Wiadomoœæ:
+Odwiedzi³ nas zwiadowca z misj¹ od Gelu, pó³elfa dowódcy Stra¿y Leœnej. Przeczyta³ moj¹ relacjê o naszym l¹dowaniu, bestiach Nighon i niedawnych atakach diab³ów, po czym obieca³ przekazaæ j¹ swojemu dowódcy. Nastêpnie powiedzia³ mi, ¿e w lasach na po³udniowym wschodzie znajduje siê obóz Stra¿y. Dowódc¹, jak powiedzia³, by³ sam Stilbon, jeden z najbardziej doœwiadczonych oficerów Stra¿y Leœnej, ale od tygodni nie by³o od niego ¿adnych wieœci i Gelu obawia³ siê najgorszego. 		Okaza³o siê, ¿e Stra¿ Leœna bada³a teren od miesiêcy, szukaj¹c s³abych punktów w obronie Kreegan. Pojawienie siê naszej bazy nie pozosta³o niezauwa¿one, ale ¿ywio³aki mog³y przywo³aæ swoje miasta z powietrza, wiêc pocz¹tkowo Kreeganie nie byli nami szczególnie zainteresowani, wierz¹c, ¿e jesteœmy po prostu kolejnym posterunkiem tych goœci z innych równin. Wed³ug zwiadowcy, na po³udniu i pó³nocnym zachodzie znajdowa³y siê dwie du¿e fortece Kreeganów, a tak¿e kolejna, Ullah, daleko na zachodzie, lecz nie da³o siê do niej dotrzeæ; droga do niej prowadzi³ bowiem przez portale Kreeganów, magiczne bariery i garnizony wype³nione po brzegi piekielnymi bestiami.
+
+Nazwa:
+Situation is getting worse
+Wiadomoœæ:
+Mija³ dzieñ za dniem, ale wcale nie robi³o siê ³atwiej — liczba Kreeganów ros³a. Z frustracj¹ od³o¿y³am zwój z najnowszym raportem zwiadowczym. S¹ atakowani przez ludzi i elfy! Jak oni w ogóle mog¹ sobie pozwoliæ na to, ¿eby mieæ wojska, które bêd¹ z nami walczyæ? A jednak to robi¹. Wszystkie nasze grupy zwiadowcze przez ostatnie kilka dni próbowa³y wymyœliæ, jak dostaæ siê do kreegañskiej fortecy Ullah, ale wygl¹da na to, ¿e sytuacja wkrótce zaogni siê. Nie ma sensu teraz atakowaæ Ullaha — jest jeszcze inna pilna sprawa do za³atwienia. Sprawa przetrwania.
+
+Nazwa:
+Warning about reinforcements
+Wiadomoœæ:
+Pos³aniec od Gelu przynosi niepokoj¹ce wieœci: po³¹czone si³y Stra¿y Leœnej i wojsk Katarzyny zosta³y zmuszone do ponownego przegrupowania. Wymaga tego bardzo wa¿ny plan — los wojny, a mo¿e i ca³ego œwiata, bêdzie zale¿a³ od jego powodzenia. Korzystaj¹c z os³abienia dzia³añ na zachodzie, Kreeganie gromadz¹ ogromne si³y, aby powstrzymaæ nas przed przejêciem ich twierdz. Ich dwa bastiony na po³udniu i pó³nocnym zachodzie musz¹ zostaæ zdobyte i musi siê to staæ przed koñcem miesi¹ca; w przeciwnym razie bêdzie za póŸno.
+
+Nazwa:
+Red AI - 411 - Bonus gold
+Wiadomoœæ:
+
+
+Nazwa:
+Todd's story
+Wiadomoœæ:
+Nastêpny dzieñ spêdziliœmy roz³adowuj¹c sterowce, buduj¹c nowe warsztaty i anga¿uj¹c siê w niekoñcz¹ce siê pogawêdki — g³ównie pytania z mojej strony. Najbardziej, oczywiœcie, interesowa³ mnie los Fredericka. Tutaj Todd opowiedzia³: 		„Spotka³em Fredericka tylko raz, kiedy Floribert i ja zostaliœmy odpowiedzialni za inny, ca³kowicie szalony projekt Kastore'a. Protezy d³oni wyposa¿one w pi³y poprzeczne, aby i kaleki mog³y dalej walczyæ... Victoria odmówi³a zrobienia tego, chocia¿ by³a to dok³adnie jej specjalizacja. Powiedzia³a, ¿e takie prymitywne urz¹dzenia by³yby obraŸliwe dla samego... Eee, jak to by³o? Aaa, tak. Gdyby wynalazczoœæ i wiedza nie by³y w naszym wspólnym rodowodzie, pomyœla³bym, ¿e Frederick jest zaczarowany — tak pogr¹¿ony w swoich myœlach. To jak trans, kiedy nie zauwa¿asz niczego wokó³ siebie i ca³kowicie poddajesz siê muzie inspiracji. Znam ten stan bardzo dobrze, w przeciwieñstwie do pewnych d³ugobrodych, gruboskórnych... Uhh! Nic dziwnego, ¿e Frederick nie zauwa¿y³ ¿adnej z naszych ukrytych wiadomoœci. A jednak jestem pewien, ¿e jest wystarczaj¹co spostrzegawczy, aby prêdzej czy póŸniej rozpoznaæ pozory i odró¿niæ prawdziwych przyjació³ od fa³szywych”. 		To by³o tak, jakby jakiœ g³êboko osadzony miêsieñ we mnie, od dawna pod niewiarygodnym napiêciem, rozluŸni³ siê. Szepnê³am po raz setny, mo¿e nawet tysiêczny: 		„Dziêkujê, ch³opaki!” 		Kiedy napad sentymentalizmu min¹³, ponownie oceni³am nasze szanse. W ci¹gu dnia forteca je¿y³a siê broni¹ wszelkiego rodzaju; stopione ¿elazo bulgota³o za murami, przybieraj¹c postaæ mechanicznych wojowników, a nadzieja i pragnienie, aby odepchn¹æ Kreeganów z powrotem do opustosza³ego kad³uba na niebie, z którego spadli, rozpali³y siê w naszych sercach na nowo.
+
+Nazwa:
+News about Armageddon's blade
+Wiadomoœæ:
+Pos³aniec od Gelu pojawi³ siê w naszym obozie, niezauwa¿ony przez stra¿ników, jak zawsze. 		„Gelu przesy³a wiadomoœæ: Ostrze Armageddonu jest teraz w naszych rêkach, a jego twórca Khazandar nie ¿yje. Xeron siê wycofa³. Szeregi demonów zosta³y wstrz¹œniête; bitwa o Kreelah zbli¿a siê. Królowa Katarzyna b³aga ciê, abyœ wys³a³a wszystkie swoje si³y do ataku. Nasze zwyciêstwo jest bliskie!” 		Elf mówi³ w swoim zwyk³ym stylu, urywanymi, suchymi frazami, ale jego p³on¹ce oczy powiedzia³y mi, ¿e ten raport by³ najwa¿niejsz¹ i najlepsz¹ wiadomoœci¹ w tej d³ugiej mrocznej wojnie. S³ysza³am plotki o tym Ostrzu Armageddonu, ale trudno by³o uwierzyæ, ¿e coœ takiego móg³ stworzyæ cz³owiek, nawet geniusz o niespotykanym kalibrze. Jeœli to co o nim mówi¹ jest prawd¹, to jestem bardzo zadowolona, ¿e ostrze jest teraz w rêkach naszych sojuszników. Jeœli chodzi o Khazandara... S³ysza³em to imiê od Fredericka dawno temu, ale nie mog³em sobie przypomnieæ, kim on by³ dla mojego przyjaciela. Sam przerwa³a moje myœli: 		„Dowódco. Czy powinniœmy przygotowaæ siê do bitwy?” 		„Powinniœmy.”
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(9, 53, 0) ***Inferno***
+Nazwa:
+Ullah
+
+Zdarzenia czasowe:
+
+Nazwa:
+Red AI - 413 - Devils
+Wiadomoœæ:
+
+
+(11, 97, 0) ***Czart***
+Wiadomoœæ:
+„Hej, ty! Chcesz zawisn¹æ? Chcesz byæ zjedzony? Wracaj do roboty!” 		Pó³nagi demon z opuchniêtymi oczami podrapa³ siê po ty³ku i zamachn¹³ siê na mnie biczem. Ten drañ nawet nie zdawa³ sobie sprawy, ¿e nie jestem niewolnikiem, a wojownikiem uzbrojonym po zêby. W nastêpnej chwili demon tryska³ czarn¹ krwi¹ na ziemiê. Pojawili siê inni, ale my byliœmy gotowi na walkê. Po to tu przyszliœmy.
+
+(106, 107, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed tob¹ widaæ posterunek Stra¿y Leœnej. Z wielk¹ nadziej¹ w sercu zbli¿asz siê do kwatery dowódcy — teraz bardziej ni¿ kiedykolwiek potrzebujesz ich pomocy. Jednak wartownik przy drzwiach informuje ciê, ¿e dowódca posterunku, Stilbon, wpad³ w szpony Kreeganów podczas wyprawy. Krótko przed tym wyda³ pozosta³ym wojownikom w obozie rozkaz pozostania na miejscu. Jego oddzia³ pozostanie tutaj do czasu otrzymania dalszych rozkazów od dowódcy.
+Strzelcy wyborowi nie pójd¹ z tob¹, dopóki Stilbon nie wyda im nowych rozkazów.
+Rozpoznaj¹c swojego dowódcê, strzelcy wyborowi przygotowuj¹ siê do marszu. Czy chcesz zabraæ ich ze sob¹?
+
+(99, 8, 0) ***Tabliczka***
+Wiadomoœæ:
+Placówka Królewskich Si³ Erathii
+
+(10, 31, 0) ***Tabliczka***
+Wiadomoœæ:
+Œwi¹tynia Erebusa
+
+(3, 67, 0) ***Chata proroka***
+Wiadomoœæ:
+Podczas eksploracji spalonych wzgórz i równin Eeofolu zauwa¿asz samotn¹ chatê i postanawiasz przyjrzeæ siê jej bli¿ej. Nienaruszone struktury to rzadkoœæ w Eeofolu... ale jesteœ jeszcze bardziej zaskoczony, gdy wchodzisz do œrodka. 	W chacie wita ciê szeroki w ramionach wojownik, a ty podziwiasz bogat¹ kolekcjê zbroi i broni wisz¹cych na œcianach. 	„Zaskoczony, ¿e widzisz ¿ywego cz³owieka w Eeofolu?”, pyta rycerz. „Có¿, jestem równie zaskoczony jak ty. Kiedyœ mieszka³em sam na wschodzie, ale ostatnio postanowi³em zapuœciæ siê g³êboko w ziemie Kreegan. Widzisz, z tego co wiem, gdzieœ tutaj elementaliœci zgubili Kulê P³on¹cego Ognia. S¹ gotowi daæ najhojniejsz¹ nagrodê temu, kto j¹ znajdzie i zwróci si³om Conflux. Niestety, wszystkie moje poszukiwania posz³y na marne. Wiem tylko, ¿e Kreeganie nie zdobyli kuli. Czy chcia³byœ do³¹czyæ do moich poszukiwañ?”
+Dasz wiarê? Nie mog³em znaleŸæ kuli. I zak³adam, ¿e ty te¿ nie.
+„Znalaz³eœ j¹!”, wykrzykuje rycerz. „Daj mi j¹, a ja zwrócê j¹ si³om Conflux. Proszê, przyjmij ten miecz. S³u¿y³ mi dobrze w przesz³oœci, wiêc pozwól mu teraz pomóc tobie”. 	Czy chcia³byœ wymieniæ Kulê P³on¹cego Ognia na Miecz Sprawiedliwoœci?
+
+(16, 84, 0) ***Chata proroka***
+Wiadomoœæ:
+P³omienie wznosz¹ siê w powietrze, podpalaj¹c wyschniête drzewa i emituj¹c fale ciep³a. W p³omieniach widzisz postacie zbli¿aj¹ce siê do ciebie. To ¿ywio³aki ognia, ale nie wydaj¹ siê mieæ zamiaru atakowaæ. 	„S³uchaj”, mówi jeden z nich, „zaginê³a staro¿ytna relikwia, która skrywa sekrety naszej magii. Czujemy to: jest gdzieœ w pobli¿u i przyci¹ga nas. Przynieœ nam Ksiêgê Magii Ognia, a zapewnimy ci ochronê przed wszelk¹ broni¹!”
+¯ywio³aki wêdruj¹ wœród p³omieni, nie zwracaj¹c na ciebie uwagi. Nie interesuje ich nic poza staro¿ytn¹ ksiêg¹.
+Wyczuwaj¹c, ¿e masz Ksiêgê Magii Ognia, ¿ywio³aki podchodz¹ do ciebie. 	„Oddaj nasz¹ relikwiê, a stworzymy wokó³ ciebie magiczn¹ barierê, która ochroni ciê w bitwie”, mówi¹. 	Czy chcesz daæ im ksiêgê?
+
+(101, 104, 0) ***Leœny elf***
+Wiadomoœæ:
+Grupa elfów wita ciê: 	„To obóz Stra¿y Leœnej i jesteœmy po twojej stronie. Jednak nasi najlepsi strzelcy, dowodzeni przez Stilbona, otrzymali rozkaz pozostania tutaj do jego powrotu. W¹tpiê, ¿e przekonasz ich by poszli z tob¹”.
+
+(92, 51, 0) ***Tabliczka***
+Wiadomoœæ:
+Kraina Gigantów
+
+(3, 22, 0) ***Tabliczka***
+Wiadomoœæ:
+Nie ma drogi powrotnej
+
+(84, 58, 0) ***Fabryka***
+Nazwa:
+Kergar
+
+Zdarzenia czasowe:
+
+Nazwa:
+Player - 121 - bonus
+Wiadomoœæ:
+
+
+Nazwa:
+Player - 341 - Finale - Huge bonus
+Wiadomoœæ:
+Sytuacja pogarsza³a siê coraz bardziej. Mo¿e nasze plany zmia¿d¿enia si³ Kreegan w regionie na w³asn¹ rêkê by³y zbyt œmia³e — ale przynajmniej mogliœmy sprawiæ, ¿e poczuj¹ ci¹g³e bolesne ciosy ze wszystkich stron i nie bêd¹ w stanie siê pozbieraæ. Zamiast tego siedzieliœmy w fortecy, utrzymuj¹c œcis³¹ obronê. Ka¿dy ¿o³nierz siê liczy³, a my nie mogliœmy pozwoliæ sobie na ryzykowne wypady do obozu wroga, nawet jeœli wiedzieliœmy, ¿e mo¿e to os³abiæ legiony demonów. W przeciwieñstwie do piekielnych pomiotów nie mogliœmy przywróciæ zmar³ych do ¿ycia — i z pewnoœci¹ nie powinniœmy dawaæ im w prezencie cia³ naszych wojowników. Nie spa³am od kilku dni, próbuj¹c wymyœliæ wykonalny plan, który odwróci³by losy wojny. Po kolejnej nieprzespanej nocy wspiê³am siê po schodach na taras widokowy na szczycie jednego z kominów zamku i po prostu wpatrywa³am siê w dal. W z³otych promieniach porannego s³oñca, cudownie przebijaj¹cych siê przez szczeliny w gêstych chmurach, zobaczy³em balony sterowców. Jeden, dwa, trzy... Nadal patrzy³em têpo w dal, jakbym by³a oszo³omiona i ba³a siê odstraszyæ wizjê. Nagle zda³am sobie sprawê, ¿e s³yszê urywany dŸwiêk ³opatek œmig³a. By³ tak g³oœny, ¿e ogrodzenie wokó³ pok³adu zaczê³o siê trz¹œæ. Mój umys³ odmawia³ wiary, ¿e to, co siê dzieje, jest prawdziwe, ale wszystkie moje zmys³y mówi³y mi coœ innego. Sterowce podp³ynê³y tak blisko, ¿e mog³am dostrzec sylwetkê blondynki machaj¹cej do mnie z dziobówki okrêtu wiod¹cego. Zbieg³am po drabinie, ledwo unikaj¹c upadku z komina. Przygotowanie siê do opadniêcia kotwic zajê³o dobre pó³ godziny, ale prawie tego nie zauwa¿y³em. Gondole statków delikatnie dotknê³y ziemi. 		„Sam! Todd! Fla... Flu... Floribert!”, krzykn¹³am przez ³zy radoœci ponad rykiem silników. Coraz wiêcej tych znajomych, ukochanych twarzy pojawia³o siê nad burtami. W koñcu moi przyjaciele byli na ziemi, za nimi najemnicy, automatony, a nawet pancerniki za³adowane skrzyniami wszelkich rozmiarów. Sam podbieg³a i mnie przytuli³a. 		„Henrietta! Jestem taka szczêœliwa, ¿e nam siê uda³o!” 		„Ale jak? Nie zosta³aœ w Burton, z Kastore?” 		„Z t¹ kreatur¹? Nie ma mowy! Kiedy uciek³aœ mu sprzed nosa, poczu³am, jakby wyros³y nam skrzyd³a. Chcia³abym, ¿ebyœ widzia³a, jak zzielenia³, kiedy dowiedzia³ siê, ¿e uciek³aœ, gromadz¹c wszystkie zasoby z Southlands. Wygl¹da³ dok³adnie jak jego g³upie gobliny! Có¿, szczerze mówi¹c, Kastore na pocz¹tku wydawa³ siê wystarczaj¹co dobrym przywódc¹, ale im dalej w las, tym wiêcej drzew. To tyran! Nawet my, ludzie o pewnej pozycji w Burton, byliœmy traktowani jak s³udzy, nie mówi¹c ju¿ o robotnikach; nie wspominaj¹c o nizio³kach. Wyci¹gnêliœmy ich równie¿ z lochów i zabraliœmy ze sob¹! 		Todd przerwa³ Sam: 		„Genialne! Praca Sam by³a genialna! Nie wiem, kto nauczy³ j¹ sztuki wymiany ukrytych wiadomoœci, ale szyfrowanie informacji w numerach seryjnych masowo produkowanych czêœci… to by³ b³ysk geniuszu! Miesi¹cami oszukiwaliœmy Kastore'a, podczas gdy on rozkoszowa³ siê w³adz¹. I pewnego dnia, tak, tak, pewnego dnia, plan z setkami ma³ych, ruchomych, ci¹gle zmieniaj¹cych siê elementów zbieg³ siê i zadzia³a³ idealnie! Gobliny, minotaury i wszystkie inne bestie, które mu s³u¿y³y — nawet nie zdawa³y sobie sprawy, co siê sta³o, gdy ³adunki wybuch³y jednoczeœnie we wszystkich fabrykach, pod wszystkimi mostami. A wtedy ju¿ nas nie by³o! 		„Do cholery, odda³bym ca³y olej ziemny œwiata, ¿eby zobaczyæ, czy mo¿e jeszcze bardziej zzielenieæ! W tym tempie wkrótce stanie siê kaktusem! Henrietta, dziewczyno, pozwól, ¿e ciê przytulê! Jesteœmy tutaj, przybyliœmy i teraz jesteœmy z tob¹!”
+
+(29, 56, 0) ***Wiêzienie***
+Nazwa:
+Stilbon
+Biografia:
+Stilbon jest nieoficjalnym przywódc¹ konserwatystów Leœnej Stra¿y. Narzekaj¹c jak starcy, którymi s¹, jego towarzysze broni przyjêli wymyœlone przez Gelu ³uki strzeleckie, ale nie byli tak przychylni innym zmianom wprowadzonym przez nowego dowódcê. Stilbon nigdy nie przegapi okazji, by udowodniæ, ¿e ko³czany starych gwardzistów wci¹¿ s¹ pe³ne niemi³ych niespodzianek dla wroga.
+
+(65, 13, 0) ***Wysoki elf***
+Wiadomoœæ:
+Dziennik wojenny Tavina, wpis 12. 		W drodze do obozu spotkaliœmy plemiê centaurów. Elf dowodz¹cy obozem nakaza³ swoim ludziom natychmiastowe opuszczenie obozu gdy tylko us³ysza³ o nadci¹gaj¹cej armii demonów. Zg³osi³ równie¿, ¿e po drugiej stronie jeziora znajduje siê stara erathiañska placówka. Mo¿e tam ktoœ jeszcze jest.
+
+(106, 67, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(34, 39, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Oddzia³ strzelców wyborowych Leœnej Stra¿y roz³o¿y³ siê w tym miejscu. Witaj¹ ciê i informuj¹, ¿e otrzymali rozkaz pilnowania przechowywanych tutaj Anielskich Strza³, dopóki ich dowódca, Stilbon, nie powróci. Zgodz¹ siê do³¹czyæ do twoich szeregów, jeœli wyda on nowe rozkazy w tym celu.
+Oddzia³ strzelców wyborowych Leœnej Stra¿y roz³o¿y³ siê w tym miejscu. Witaj¹ ciê i informuj¹, ¿e otrzymali rozkaz pilnowania przechowywanych tutaj Anielskich Strza³, dopóki ich dowódca, Stilbon, nie powróci. Zgodz¹ siê do³¹czyæ do twoich szeregów, jeœli wyda on nowe rozkazy w tym celu.
+Raport strzelców wyborowych: 	„Artefakt jest bezpieczny i jesteœmy gotowi do drogi! Jakieœ dalsze instrukcje?”
+
+(21, 53, 0) ***Chata proroka***
+Wiadomoœæ:
+W pobli¿u dawno uschniêtego drzewa spotykasz postaæ spowit¹ jasnoniebieskim blaskiem. Od czasu do czasu iskry sp³ywaj¹ po ramionach i nogach stworzenia. 	„Witaj”, mówi ¿ywio³ak. „Tamar Wêdrowiec powiedzia³ mi, ¿e przewidzia³ twoje przybycie, do wschodnich czêœci Eeofolu. Wiêkszoœæ si³ Conflux walczy teraz w pobli¿u Kreelah, ale wci¹¿ mo¿emy wys³aæ czêœæ, ¿eby ci pomóc”.
+Czy chcesz przyj¹æ feniksy do swojej armii?
+Jest jeszcze jeden powód, dla którego zosta³em wys³any do tej krainy. Miesi¹c temu jeden z naszych wêdrowców wzi¹³ Kulê Sta³oœci i poszed³ zaatakowaæ Ullaha, ale od tamtej pory nie by³o o nim wieœci. Najprawdopodobniej zgin¹³ w bitwie, a Kula wpad³a w rêce Kreeganów lub ich sojuszników. Byæ mo¿e ¿ywio³aka zaatakowa³ Ayden lub Zydar — wiemy, ¿e ci dwaj ostatnio patrolowali okolice Ullaha. Jeœli tak jest w istocie, spróbuj znaleŸæ Kulê. Artefakt nie mo¿e zostaæ w rêkach Kreegan.
+Nadal nie ma œladu Kuli? Jestem pewien, ¿e musi byæ w pobli¿u.
+„To rzeczywiœcie Kula Sta³oœci. Przeka¿ê j¹ moim braciom i doniosê, ¿e kolejny wojownik ¿ywio³ów poleg³ w bitwie z diab³ami” — ¿ywio³ak na chwilê zapada w milczenie. „WeŸ tê Lwi¹ Tarczê Odwagi i dokoñcz to, co planowaliœmy zrobiæ: pojmaæ Ullaha i zakoñczyæ obecnoœæ Kreegan na tych ziemiach. 	Wymieniæ Kulê Sta³oœci na Lwi¹ Tarczê Odwagi?”
+
+(78, 13, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(12, 43, 0) ***Opêtany***
+Nazwa:
+Nixie
+
+(12, 71, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(36, 91, 0) ***Inferno***
+
+Zdarzenia czasowe:
+
+Nazwa:
+Red AI - minus gems
+Wiadomoœæ:
+
+
+Nazwa:
+Red AI - 337 - Extra strength
+Wiadomoœæ:
+
+
+Nazwa:
+Red AI - 421 - Dead end
+Wiadomoœæ:
+
+
+(90, 0, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(63, 2, 0) ***Chata proroka***
+Wiadomoœæ:
+Nad jeziorem spotykasz du¿¹ grupê Leœnej Stra¿y. Zgadzaj¹ siê do ciebie do³¹czyæ, ale nie mog¹ opuœciæ swojej kryjówki bez rozkazu od Stilbona, ich dowódcy.
+Nad jeziorem spotykasz du¿¹ grupê Leœnej Stra¿y. Zgadzaj¹ siê do ciebie do³¹czyæ, ale nie mog¹ opuœciæ swojej kryjówki bez rozkazu od Stilbona, ich dowódcy.
+Po us³yszeniu rozkazu opuszczenia kryjówki, strzelcy wyborowi natychmiast pakuj¹ siê do drogi. Czy chcesz powitaæ ich w swojej armii?
+
+(37, 72, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Magiczna bariera blokuje drogê w g³¹b krainy diab³ów. Wszystkie próby jej usuniêcia zawiod³y. 	Niedaleko, wœród wzgórz, zauwa¿asz istotê w czerwonym p³aszczu i turbanie. Zanim zd¹¿y³eœ otworzyæ usta, ¿ywio³ak przemówi³ do ciebie. Dziwne jest to, ¿e nie s³yszysz jego g³osu. Tysi¹ce myœli zalewaj¹ twój umys³. 	„My... próbowaliœmy podnieœæ barierê... Magia... zbyt silna... Ale nic nie mo¿e umkn¹æ naszemu wzrokowi... Trzech kreegañskich wodzów trzyma klucze... Ich imiona to Athe, Kydoimos i Miseria. ZnajdŸ ich. Zbierz klucze. Zniszcz barierê”.
+Bariera nadal tu jest. Byæ mo¿e ¿ywio³ak mia³ racjê i jedynym sposobem na wyjœcie jest pokonanie Athe, Kydoimosa i Miserii oraz zebranie ich artefaktów.
+P³aszcz Dyplomaty œwieci czerwonym œwiat³em. Czy jesteœ gotów poœwiêciæ p³aszcz i zapuœciæ siê g³êboko na terytorium Kreegan?
+
+(35, 35, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(37, 101, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(4, 6, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(49, 88, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(31, 48, 0) ***Zdarzenie***
+Wiadomoœæ:
+Îáíóëåíèå ìóâîâ ðîçîâîìó ÈÈ
+
+(11, 72, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(101, 8, 0) ***Nizio³ek grenadier***
+Wiadomoœæ:
+Dziennik wojenny Tavina, wpis 13. 		Oprócz ¿o³nierzy Erathii spotka³em kilku moich towarzyszy nizio³ków. Wszyscy mówi¹, ¿e ca³a armia pojawi³a siê na po³udnie st¹d w Krainie Gigantów, znik¹d! Nie mog³em zrozumieæ, o jakiej armii mówili, ale nie wygl¹da³o to na ¿ywio³aki. Nizio³ki mówi³y o miedzianych paj¹kach, ludziach z ¿elaznymi kijami i o pierzastych wê¿ach. Nie mam pojêcia, z jakiej „armii” oni s¹, ale jedno jest jasne: nie s¹ naszymi wrogami i walcz¹ równie¿ z diab³ami.
+
+(69, 11, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(42, 7, 0) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(12, 70, 0) ***Zdarzenie***
+Wiadomoœæ:
+Z wielkim wysi³kiem udaje ci siê odzyskaæ czêœæ utraconej mocy. S³ysza³eœ ju¿ o zdolnoœci Kreeganów do t³umienia magii, ale nigdy nie doœwiadczy³eœ jej osobiœcie. Bez w¹tpienia jest to jedna z pu³apek, które diab³y przygotowa³y, aby chroniæ swoj¹ twierdzê.
+
+(103, 45, 0) ***Zdarzenie***
+Wiadomoœæ:
+„Tavin ¿yje!” 		Ta myœl nie dawa³a mi spaæ przez ca³¹ noc. Teraz wiedzia³am na pewno: partyzant z jego oddzia³u w koñcu do nas dotar³. Czy muszê opisywaæ, jak bardzo czeka³am na to spotkanie! O œwicie trudno by³o dostrzec rysy twarzy podró¿nika. Wytê¿a³am wzrok, ile mog³am: ma³a postaæ jad¹ca na... kucyku? Tak! To zdecydowanie nizio³ek! 		„Tavin! Tavin, to ty?” krzykn¹³am i rzuci³am siê w stronê niskiego jeŸdŸca, zapominaj¹c o wszelkiej ostro¿noœci. 		JeŸdziec podniós³ siê w siodle i zawaha³ siê przez chwilê. Potem, najwyraŸniej mnie rozpoznaj¹c, zeskoczy³ z konia i pobieg³ w moj¹ stronê, garbi¹c siê na jednej nodze i niezrêcznie machaj¹c krótkimi, silnymi ramionami. To by³ on. 		Prawie wbi³am zmêczonego podró¿nika w ziemiê, bo by³am tak szczêœliwa, ¿e go widzê. Dopiero wtedy zda³em sobie sprawê, jak wielkie piêtno odcisnê³y na nim minione lata. Blizny, oparzenia, siwy zarost... Jednak jego oko — jedyne oko, drugie by³o odra¿aj¹c¹, czerwonaw¹ dziur¹ — patrzy³o na mnie œmia³o i z wielkim zainteresowaniem, jakby mówi³o: „Dobra, dziewczyno, zobaczmy, jaka bestia z ciebie wyros³a.”. 		Przerywaj¹c sobie nawzajem, zaczêliœmy wymieniaæ siê historiami o podró¿y, któr¹ ka¿dy z nas odby³. Dowiedzia³am siê, jak w dniu naszego wyjazdu Tavin samotnie poprowadzi³ poœcig Kreeganów fa³szywym tropem, sprawiaj¹c, ¿e uwierzyli, ¿e w lesie czai siê ca³y oddzia³ grenadierów. Jak na pocz¹tku inwestowa³ ca³¹ swoj¹ si³ê w przetrwanie na w³asn¹ rêkê, drêczony faktem, ¿e nie mo¿e pomóc swojemu ludowi. PóŸniej znalaz³ swoich pierwszych towarzyszy i zacz¹³ organizowaæ ma³e napady na Kreegan — uda³o im siê uwolniæ tu i ówdzie jednego lub dwóch niewolników i wydostaæ ich z Eeofolu lub zasadziæ siê na diab³a i poder¿n¹æ mu gard³o. 		„Ale to wszystko by³o tylko kropl¹ w morzu. Nasza wiara zaczyna³a nas zawodziæ. Rozpacz jest trucizn¹ gorsz¹ ni¿ cuchn¹ca krew Kreegan”, mrukn¹³ Tavin, jakby prze¿ywaj¹c na nowo ból tamtych dni. 		W najczarniejszej godzinie, gdy sprawy w Eeofolu zdawa³y siê iœæ tak Ÿle, jak tylko mog³y, partyzanci dowiedzieli siê o zwyciêstwie Erathii w Wojnie Odrodzenia. Od tego czasu Kreeganie, którym zadano ciê¿ki cios, stracili kontrolê. Partyzanci stawali siê odwa¿niejsi, a wielu uwolnionych niewolników zaczê³o do nich do³¹czaæ. Oczywiœcie nie s¹dzili, ¿e naprawdê bêd¹ w stanie wypêdziæ diab³y, dopóki ¿ywio³aki nie pojawi³y siê w Eeofolu... 		Tavin by³ pod wra¿eniem tego, co mu opowiedzia³am o moich przygodach i o si³ach, które przyby³y ze mn¹ z Jadame - ale nie by³o niczego, co móg³abym mu teraz pokazaæ. Wynona by³a moj¹ jedyn¹ towarzyszk¹ na spotkaniu, a stary partyzant co chwilê rzuca³ ukradkiem spojrzenia na Mroczn¹ Elfkê, zerkaj¹c na jej d³ugi miecz i lekki napierœnik z niebieskawej stali i kaszl¹c w piêœæ. 		„Jedno mnie niepokoi, Tavin. Mo¿e bêdziesz na tyle odwa¿ny, ¿eby powiedzieæ mi prawdê? Nie mogê poj¹æ, dlaczego nazywaj¹ mnie Ksiê¿ycowym Dzieckiem. Bez wzglêdu na to, jak bardzo stara³am siê dowiedzieæ, ka¿dy, kogo pyta³em, wydawa³ siê przestraszony. Gdyby nie uciekli, po prostu zmieniliby temat. Nie mogê tego znieœæ... Coœ tu jest na rzeczy: czujê, jakby ca³e moje ¿ycie posz³o nie tak z tego powodu, od tamtej pory której nawet nie pamiêtam.”. Tavin wzi¹³ porz¹dny ³yk z podró¿nej manierki, zapali³ swoj¹ krótk¹ fajkê, westchn¹³ ciê¿ko kilka razy i zacz¹³: 		„Có¿, pos³uchaj. Oto, o co chodzi... W³aœnie do³¹czy³em do Stra¿y Granicznej jako nowy rekrut i to by³y ciê¿kie czasy! S³ysza³em o wielu rzeczach, o których mieszkañcy wioski milczeli — kilka lat wczeœniej wydarzy³y siê straszne rzeczy. Gigancie zeszli z gór do doliny. Dlaczego, myœlisz, wszyscy dooko³a uwa¿aj¹ nas, nizio³ków, za szczêœciarzy? To dlatego, ¿e nikt nigdy nie s³ysza³ o naszych k³opotach — nie rozmawiamy o nich, nawet z s¹siadami. A jeœli ktoœ siê o czymœ dowie, milcz¹ jak ryby. Przes¹dni ludzie! Wierz¹, ¿e jeœli wspomnisz o smutku, on to us³yszy i powróci dziesiêæ razy bardziej smutny. I jak mo¿na nie oszaleæ z ¿alu, jeœli nie ma sposobu, aby siê obroniæ? Nie mog³em tego wszystkiego znieœæ, wiêc do³¹czy³em do stra¿y. Mia³em doœæ przes¹dów. Tak to by³o... Wiele wiosek zosta³o wdeptanych w ziemiê przez gigantów. Co za katastrofa! I tylko w jednej wiosce, w jasnym œwietle pe³ni ksiê¿yca, znaleziono ¿ywe dziecko. Ca³y dom wokó³ by³ zrujnowany, ale ko³yska by³a nienaruszona. Wiêc zbawcy nazwali j¹ ksiê¿ycowym dzieckiem. Co zrobisz! Dziecko ¿y³o, ale gdy na nie spojrza³eœ, znów czu³eœ dudni¹ce stopy gigantów. Wiêc wszyscy przysiêgli, ¿e bêd¹ milczeæ w tej sprawie; ani s³owa, aby nie sprowadziæ nowego nieszczêœcia.”		 Zamar³am. Przez lata Frederick próbowa³ wyrzuciæ ze mnie tê g³upotê, ³aja³ mnie, próbowa³ t³umaczyæ rzeczy, coœ udowodniæ — ale ja nadal wierzy³em w znaki. Tylko trochê, z przyzwyczajenia, jakbym siê czegoœ trzyma³a. A teraz — czy diab³y spad³y na Eeofol tylko dlatego, ¿e ja, Dziecko Ksiê¿yca, by³am... ¿ywa? To by³o tak, jakby stary partyzant czyta³ mi w myœlach: 		„Nie, dziecko. Ten, kto zamierza czyniæ z³o, potrzebuje czasu, ¿eby siê przygotowaæ, a potem idzie i to robi. Czym s¹ dla niego znaki? Jest odwrotnie, Henrietto. Gdyby nie ty, twoja odwaga, twoja przyjaŸñ z tym chudym czarodziejem... nie by³oby nas teraz. Jesteœ naszym szczêœciem. Wtedy, gdy nie by³em pewien, czy na œwiecie jest jeszcze jakaœ nadzieja, i wêdrowa³em po tych spalonych lasach jak nieboszczyk, który zapomnia³ po³o¿yæ siê spaæ, dowiedzia³em siê, ¿e nizio³ki widziano gdzieœ za odleg³ymi morzami. Cieszy³em siê jak ch³opiec! Wiedzia³em, ¿e nasze korzenie nie zginê³y i ¿e wykie³kuj¹ na nowo. Kiedyœ nas uratowa³aœ, a teraz wracasz, ¿eby nas uratowaæ ponownie! Jeœli tak bardzo lubisz z³e znaki, to s¹dzê, ¿e wszystkie lustra Kreeganów roztrzaska³y siê, przestraszeni swoimi brzydkimi ca³usami. A teraz powiedz mi, kto pokona³ strach? Kto nazwa³ ciê Ksiê¿ycowym Dzieckiem? 		„Wujek Kett tak zrobi³. Zmar³ w moich ramionach”. 		Tavin zrobi³ siê naburmuszony i westchn¹³. 		„A wiêc, stary Kett. By³ dobrym ¿o³nierzem, szkoda, ¿e go nie uratowa³em. Myœla³em, ¿e wtedy z tob¹ polecia³, ale dwa lata póŸniej pojawi³ siê w moim oddziale. Walczyliœmy razem, a¿... Ach, niech spoczywa w pokoju. Cieszê siê, ¿e zanim umar³, zobaczy³ twoj¹ twarz, a nie te czerwone gêby. Nie ka¿dy ma tyle szczêœcia w dzisiejszych czasach w Eeofol”. 		„A co z Aun¹? S³ysza³eœ o niej?” 		„Nie. Nigdy nie zna³em nikogo o tym imieniu”. 		£zy nap³ynê³y mi do oczu. Dowiedzieæ siê, ¿e straci³aœ wszystko, zanim zda³aœ sobie sprawê, ¿e to masz. A teraz zosta³o ci tylko imiê. Dlaczego wiedza o tym jest bardziej bolesna ni¿ niewiedza w ogóle? 		„Ona jest Dzieckiem Ksiê¿yca 	Zbieraj¹cym kwiaty w ogrodzie. 	Cudownym Dzieckiem Ksiê¿yca 	Dryfuj¹cym na echach godzin. 	¯egluj¹c na wietrze w mlecznobia³ej sukni, 	Rzucaj¹c kamienie krêgu na zegar s³oneczny, 	Bawi¹c siê w chowanego z duchami œwitu, 	Czekaj¹c na uœmiech od s³onecznego dziecka. 		Us³ysza³am g³os i poczu³am, jakbym pod¹¿a³a za nim z ciemnego lasu — ma³a, zagubiona dziewczynka. Otworzy³am oczy i poczu³am ciep³e ramiona Wynony oplataj¹ce mnie, gdy kuca³a, i sztywn¹ d³oñ Tavina na moim ramieniu.
+
+(32, 39, 0) ***Strzelec***
+Wiadomoœæ:
+Wrogowie naszych wrogów s¹ naszymi przyjació³mi. Jesteœmy gotowi walczyæ u twego boku, dopóki nie bêdziemy mogli do³¹czyæ do innych oddzia³ów Leœnej Stra¿y.
+
+(27, 99, 0) ***Zdarzenie***
+Wiadomoœæ:
+Ocaleni... nawet nie. Marniej¹ce stworzenia. Tak wygl¹dali niewolnicy diab³ów. Wychudzone, szare od popio³u i kurzu, nizio³ki wygl¹da³y bardziej jak gremliny lub gobliny. Nie nosi³y ¿adnych ³añcuchów — wystarczy³a uncja metalu na ka¿dym, by uniemo¿liwiæ im ruch. Dostrzeg³em warunki, w jakich ¿yli: brudne chaty, które widzia³y lepsze czasy. Dachy pospiesznie za³atane œmieciami. I ogrody... Nie mog³am uwierzyæ w³asnym oczom. Te ogrody! Co to tam ros³o? 		Nie, na pewno nie kwiaty... to by³y pomarszczone grzyby o obrzydliwym odcieniu. Gdyby nizio³ek natkn¹³ siê na takie w lesie w dawnych czasach, splun¹³by ze z³oœci na sam¹ myœl o zjedzeniu takiej obrzydliwoœci. Biedactwa zdawa³y siê nie zauwa¿aæ, ¿e ich oprawcy le¿eli bez tchu na ziemi. Niewolnicy ci¹gnêli za sob¹ wiadra czegoœ cuchn¹cego. Lodowaty pot mnie obla³: wiadra by³y pe³ne odciêtych koñczyn i innych czêœci cia³a. Ludzi, demonów, nie mo¿na by³o stwierdziæ, z którego pochodzi³y. Nizio³ki wysypywa³y swoje ³adunki do ogromnej kadzi w pobli¿u zagrody. A potem us³ysza³am pisk lub warczenie — g³êboko obrzydliwy, md³y dŸwiêk. Stworzenia, które zobaczy³am jako nastêpne, by³y grube i czerwone, z rogami na ca³ym ciele — na pocz¹tku pomyœla³em, ¿e to pancerniki, ale potem zrozumia³em. Ogromne. Demoniczne. Dziki. To w³aœnie one by³y. Perwersyjna mieszanka œwiñ i demonów. £apczywie po¿era³y miêso i ros³y, gdy patrzy³am. Nie³atwo by³o oderwaæ wzrok od obrzydliwej uczty, ale tam, gdzie spojrza³am, widok nie by³ mniej brzydki. 		Obok stajni znajdowa³a siê rzeŸnia, z tuszami demonów œwiñ wisz¹cymi na hakach, koœæmi i skrawkami gnij¹cego miêsa rozrzuconymi dooko³a. Wiêc tak diab³y karmi¹ swoje mno¿¹ce siê legiony. Zawsze uwa¿a³am, ¿e s¹ jak szarañcza, po¿eraj¹ce wszystko na swojej drodze, a gdy ju¿ skoñczyli z jedn¹ wiosk¹, krajem, kontynentem... planet¹, szukali nastêpnej. NajwyraŸniej opór i zamkniêcie w Eeofol zmusi³y Kreegan do zajêcia siê hodowl¹ zwierz¹t, co z kolei uratowa³o ¿ycie niektórym moim braciom. Gdybym nie by³a przypadkiem w pobli¿u laboratorium Fredericka tamtego pamiêtnego dnia, pewnie niós³abym teraz te wiadra. 		„Bracia! Siostry! Wasze cierpienie siê skoñczy³o!”
+
+(93, 64, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(94, 64, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(35, 4, 0) ***Heretyk***
+Nazwa:
+Phrike
+
+(48, 8, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(107, 89, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(18, 16, 0) ***Inferno***
+
+Zdarzenia czasowe:
+
+Nazwa:
+Red AI - minus crystals
+Wiadomoœæ:
+
+
+Nazwa:
+Red AI - 337 - Extra strength
+Wiadomoœæ:
+
+
+Nazwa:
+Red AI - 421 - Dead end
+Wiadomoœæ:
+
+
+(85, 66, 1) ***Lochy***
+
+Zdarzenia czasowe:
+
+Nazwa:
+231 - Orange AI - crystals
+Wiadomoœæ:
+
+
+(83, 17, 1) ***Chata proroka***
+Wiadomoœæ:
+W chacie spotykasz czarnoksiê¿nika i przygotowujesz siê do odparcia ataku, ale on nie ma zamiaru walczyæ. 	„Daj mi spokój” – mówi. „Kiedyœ by³em wa¿n¹ osobistoœci¹ w domenie Ordwalda, ale teraz Mutare dosz³a do w³adzy w Nighon i musia³em odejœæ. Próbowa³em uciec na kontynent, ale zgubi³em siê i wyl¹dowa³em w tunelach, które zaprowadzi³y mnie do Eeofol. Pomocnik Mutare, Dace, przyby³ tutaj, aby mnie pojmaæ, a ja nie mogê opuœciæ tej jaskini, kiedy on siê tu krêci”.
+Czarnoksiê¿nik nadal tu jest i lepiej go nie niepokoiæ, jeœli nie musisz.
+„Mówisz, ¿e Dace zosta³ pokonany i uciek³ do Nighon w nies³awie? Nareszcie! Mam ci za co podziêkowaæ – zabra³em ze sob¹ czêœæ mojego maj¹tku, kiedy ucieka³em. WeŸ te kryszta³y; myœlê, ¿e oka¿¹ siê przydatne”.
+„Teraz móg³bym opuœciæ te jaskinie, ale ¿eby zacz¹æ nowe ¿ycie, potrzebowa³bym kilku przedmiotów, które kiedyœ posiada³em. Zabra³em je ze sob¹, kiedy ucieka³em z Nighon, ale zosta³em zaatakowany przez potwory w jaskiniach. Uda³o mi siê uciec przed nimi dziêki cudownemu zbiegowi okolicznoœci, ale i tak straci³em pelerynê i p³aszcz. Gdybyœ móg³ je znaleŸæ, by³bym ci bardzo wdziêczny”.
+Czarnoksiê¿nik nadal tu jest i lepiej mu nie przeszkadzaæ, jeœli nie musisz.
+Czarnoksiê¿nik nadal tu jest i lepiej mu nie przeszkadzaæ, jeœli nie musisz.
+
+(3, 34, 1) ***Wiêzienie***
+Nazwa:
+Horkos
+
+(9, 37, 1) ***Opêtany***
+Nazwa:
+Xex
+
+(23, 99, 1) ***Suweren***
+Nazwa:
+Luedro
+
+(31, 98, 1) ***Chata proroka***
+Wiadomoœæ:
+Kr¹¿¹ pog³oski, ¿e kryjówka Leœnej Stra¿y, któr¹ wys³a³ tu Gelu, znajduje siê gdzieœ w tych jaskiniach. Dok³adnie zbada³eœ jaskinie, ale nie uda³o ci siê znaleŸæ kryjówki. Stra¿ leœna jest bardzo dobra w zacieraniu œladów. Mo¿e któryœ z ich dowódców wie, jak j¹ znaleŸæ?
+Dalsze poszukiwania kryjówki nie przynios³y rezultatu.
+Stilbon nie mia³ wiêkszych problemów ze znalezieniem kryjówki — w koñcu to on j¹ za³o¿y³ na tych ziemiach aby mieæ oko na ruch Kreegan w Eeofol. Zauwa¿asz ludzi i elfy wychodz¹ce ze schronienia. Czy chcesz z nimi porozmawiaæ?
+Kiedyœ wyszkolenie dobrego strzelca zajmowa³o miesi¹ce, a nawet lata, ale nam czasu brakuje. PrzyprowadŸ nam porz¹dnych ludzi, którzy nas zast¹pi¹, i 15000 sztuk z³ota na zakup strzeleckich ³uków a my w mgnieniu oka nauczymy ich pos³ugiwania siê nimi.
+Niestety, ta kwota nie wystarczy.
+Chcesz zap³aciæ?
+PrzyprowadŸ nam 20 Wysokich Elfów, a my damy im ³uki strzelców leœnych.
+Ta liczba elfów nie jest wystarczaj¹ca.
+Chcesz wyszkoliæ swoje elfy?
+
+(20, 60, 1) ***Suweren***
+Nazwa:
+Insaneos
+
+(25, 98, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(22, 98, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(104, 101, 1) ***Suweren***
+Nazwa:
+Broulg
+
+(83, 46, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(70, 24, 1) ***Lochy***
+
+Zdarzenia czasowe:
+
+Nazwa:
+Orange AI - minus crystals
+Wiadomoœæ:
+
+
+(4, 38, 1) ***Nekropolis***
+Nazwa:
+Darkness
+
+(0, 36, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(27, 92, 1) ***Zdarzenie***
+Wiadomoœæ:
+Drugi brzeg podziemnego jeziora wygl¹da na ca³kowicie zaroœniêty. Wydaje siê niemo¿liwe, aby tam przybiæ ³odzi¹.
+
+(93, 41, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(107, 1, 1) ***Forteca***
+Nazwa:
+there
+
+(104, 1, 1) ***Forteca***
+Nazwa:
+hello
+
+(101, 0, 1) ***Forteca***
+Nazwa:
+Oh
+
+(70, 25, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(66, 8, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(54, 22, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(10, 25, 1) ***Wiêzienie***
+Nazwa:
+Taugarn
+
+(0, 35, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(5, 27, 1) ***Wiêzienie***
+Nazwa:
+Miseria
+
+(3, 27, 1) ***Wiêzienie***
+Nazwa:
+Kydoimos
+
+(1, 27, 1) ***Wiêzienie***
+Nazwa:
+Athe
+
+(1, 25, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 25, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(5, 25, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(10, 23, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 32, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(6, 32, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(11, 33, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(14, 33, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(17, 37, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(3, 42, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(8, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(8, 42, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(7, 42, 1) ***Opêtany***
+Nazwa:
+Polemos
+
+(13, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(13, 42, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(18, 40, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(18, 42, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(95, 37, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(53, 58, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+===== Koniec pliku =====

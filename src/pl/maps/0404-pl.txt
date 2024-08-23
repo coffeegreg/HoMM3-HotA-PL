@@ -1,0 +1,1225 @@
+===== Nazwa mapy =====
+£owcy Grobów
+
+===== Opis mapy =====
+Frederick musi uratowaæ Henriettê zagubion¹ w podziemnych tunelach podczas jej poszukiwañ czarnoksiê¿nika Agara. Jej ostatnia wiadomoœæ dotyczy³a znalezienia zaginionego grobowca, do którego nastêpnie uda³a siê jej ekspedycja. Poziom bohaterów jest nieograniczony. Wybrany poziom trudnoœci okreœli twoje mo¿liwoœci na mapie.
+
+===== Pog³oski =====
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Henrietta's Expedition
+Wiadomoœæ:
+Minê³y cztery lata odk¹d pokonaliœmy piratów Dargema. Wiele siê zmieni³o w Burton wraz ze wszystkimi nowymi wynalazkami, nowymi sojusznikami... i nowymi, wczeœniej nieznanymi twarzami. 		Czarodzieje, którzy kiedyœ s³u¿yli Archibaldowi ¯elaznej Piêœci, zaczêli pojawiaæ siê coraz czêœciej w miastach pustkowi, które teraz s¹ przystani¹ dla odrzuconych z tego œwiata. Pamiêtam, jak pozna³em Wrathmonta podczas walk z piratami, ale ich nap³yw nie skoñczy³ siê na nim. 		Niedawno us³yszeliœmy plotki, ¿e sam nies³awny czarnoksiê¿nik Agar przyby³ na pustkowia, rzekomo osiedlaj¹c siê w zachodnich górach i zak³adaj¹c tam laboratorium. By³em prawie pewien, ¿e Agar zamieni³ siê w lisza a nastêpnie zosta³ zabity. Nie mia³o to znaczenia. Teraz naprawdê wa¿ne by³o coœ zupe³nie innego... 		Nied³ugo po tym, jak Agar rzekomo osiedli³ siê na zachodzie, do Burton zaczê³y docieraæ niepokoj¹ce doniesienia. Na pocz¹tku by³y to wieœci o osuwiskach skalnych i b³otach w górach, ale nie zwracaliœmy na nie wiêkszej uwagi. Osuniêcia ziemi nie s¹ rzadkoœci¹ w tak zró¿nicowanym geologicznie krajobrazie. PóŸniej jednak dowiedzieliœmy siê, ¿e mog³y byæ w to zamieszane Czerwie. Te stworzenia by³y tu od dawna, czasami nêkaj¹c rolników, ale rzadko je widywano. Wiêkszoœæ œwiadków mówi³a albo o szerokich bruzdach w ziemi, które wydawa³y siê byæ wykopane od do³u, albo o tajemniczych dziurach, które powodowa³y zawalenie siê s³upków i p³otów, ale nie by³o ¿adnych bezpoœrednich konfrontacji. Jednak stworzenia, o których mówi³y ostatnie plotki, by³y inne: nie tylko wiêksze, ale i znacznie bardziej agresywne — atakowa³y obozy górnicze, po¿era³y stada, karawany handlowe i samotnych podró¿ników. 		Wszystko wskazywa³o na to, ¿e nie by³y to zwyk³e robaki. Te stworzenia nie by³y zwyk³ymi zwierzêtami — nie, wygl¹da³y jak produkt czyjegoœ bystrego umys³u. 		Rada miejska Burton postawi³a sobie za zadanie za wszelk¹ cenê znaleŸæ Agara i dowiedzieæ siê, czy mia³ coœ wspólnego z dziwnymi atakami robaków. Henrietta natychmiast zg³osi³a siê na ochotnika do wyprawy. Nie trac¹c wiele czasu na pakowanie, jej grupa zwiadowcza opuœci³a Burton. Mija³y dni, potem tygodnie i w koñcu sta³o siê jasne, ¿e coœ sta³o siê z jej dru¿yn¹. Wszelkie próby pod¹¿ania jego œladem by³y daremne: powtarzaj¹ce siê osuwiska i trzêsienia ziemi powodowa³y, ¿e œcie¿ki przez zachodnie góry zmienia³y siê jak zaczarowany labirynt. 		Wtedy zrozumia³em, czego potrzebowaliœmy. Sterowców, które nie zatrzymywa³y siê przed ¿adn¹ przeszkod¹ — to by³o nasze rozwi¹zanie! Zbyt d³ugo robi³em inne, choæ bardzo wa¿ne rzeczy; bola³o mnie, ¿e mój ulubiony projekt utkn¹³ w martwym punkcie bez ¿adnego rozwoju.
+
+Nazwa:
+Frederick meets Kastore
+Wiadomoœæ:
+By³em w drodze do Volty, wolnego miasta na wschód od Burton. Niedawne trzêsienie ziemi zniszczy³o tamtejsze fabryki, ale mia³em nadziejê znaleŸæ towarzyszy wœród tych, którzy mimowolnie stracili pracê. To miasto by³o ostatnim miejscem, w którym widziano Henriettê i jej grupê. Tego popo³udnia wsiad³em na statek w porcie Orca's Maw: zamierza³em op³yn¹æ pierwszy ³añcuch górski drog¹ morsk¹ i dotrzeæ do Volty, sk¹d mia³a rozpocz¹æ siê moja lotnicza wyprawa. 		WyobraŸcie sobie moje zdziwienie, gdy tu¿ przed wyp³yniêciem z³apa³ mnie pos³aniec i oznajmi³: „Kastore, król Deyja, zamierza odwiedziæ Burton, aby nawi¹zaæ i zacieœniæ wiêzi gospodarcze i pragnie spotkaæ siê z Frederickiem”. 		Król Deyja? Tutaj? Oczywiœcie dotar³y do mnie wieœci o tym, jak pewien Kastore doszed³ do w³adzy w zesz³ym roku w tej krainie nekromantów i mrocznych czarowników, ale nigdy nie interesowa³y mnie te k³ótnie. W Deyja zamachy stanu s¹ na porz¹dku dziennym. Ale czego on tu chce i o jakie wiêzi gospodarcze chodzi, skoro w Deyji nie ma ani jednego miasta portowego? I sk¹d zna³ moje imiê? Z drugiej strony œwiat magii jest ma³y, a œwiat rzemieœlników jeszcze mniejszy. Rozkaza³em, aby szybki bryg wyruszy³ i zaproponowa³em kapitanowi statku Kastore'a, aby zawin¹³ do Volty zamiast do Orca's Maw. Czasu mi brakowa³o, ale przygotowania do wyprawy mia³y potrwaæ jeszcze kilka dni i mia³em nadziejê, ¿e spotkanie z niespodziewanym goœciem nie potrwa zbyt d³ugo. Nie chcia³em zignorowaæ wizyty w³adcy Deyji i zrobiæ sobie z niego nowego wroga — na liœcie by³o ju¿ zbyt wielu potê¿nych czarodziejów... i kto wie, mo¿e ten Kastore oka¿e siê intryguj¹cym rozmówc¹? 		Uderzy³ mnie widok, który otworzy³ siê gdy zbli¿yliœmy siê do portu Volta. Z daleka zobaczy³em wielki statek pod szarymi ¿aglami, który z ³atwoœci¹ móg³ pomieœciæ ca³¹ armiê. Jakie to szczêœcie, ¿e rok wczeœniej pog³êbiliœmy port, aby ciê¿kie, du¿e frachtowce rudy mog³y siê tu roz³adowaæ. 		Wtedy po raz pierwszy zobaczy³em Kastore'a. Elf w lœni¹cej zbroi sta³ przy trapie gigantycznego statku z rêkami z ty³u. Po obu jego stronach sta³y wielorêkie kobiety-wê¿e zamro¿one jak pos¹gi, uzbrojone po zêby. Nagi s¹ powszechnym widokiem w Brakadzie, gdzie mo¿na ich spotkaæ na s³u¿bie wielu bogatych magów, ale wiedzia³em, ¿e ka¿dy wykwalifikowany czarodziej mo¿e przywo³aæ te przera¿aj¹ce stworzenia. Trudniej by³o jednak zmusiæ je do wykonywania poleceñ, a to potrafili tylko najpotê¿niejsi czarodzieje. 		Moje przybycie nie zrobi³o wiêkszego wra¿enia na w³adcy Deyji. Nawet nie odwracaj¹c g³owy, powiedzia³ sucho: 		„Spodziewa³em siê ciê zobaczyæ, ale kaza³eœ mi czekaæ... Frederick, prawda?” 		„To ja”, odpowiedzia³em. „Co mogê dla ciebie zrobiæ?” 		Kastore zwróci³ siê do mnie niespiesznie. 		„Wieœæ o twoich wynalazkach rozchodzi siê po ka¿dym zak¹tku Enroth — i zwraca uwagê tych bardziej rozumych. Deyja nie jest wyj¹tkiem, oczywiœcie. Znasz mnie tylko jako w³adcê dalekiej krainy, ale chcia³bym, ¿ebyœ ty, Fredericku, myœla³ o mnie jak o koledze. Sam jestem swego rodzaju wynalazc¹”.
+
+Nazwa:
+Conversation with Kastore
+Wiadomoœæ:
+Kastore mnie zaskoczy³. Mo¿e spodziewa³em siê wystawnego pochodu, który towarzyszy³by w³adcy z portu do miasta... albo mrocznych duchów kr¹¿¹cych wokó³ króla krainy Nekromantów. Kastore jednak jecha³ na bardzo zwyczajnym koniu, z godn¹ pozazdroszczenia jazd¹ obok mojego wierzchowca, ca³kiem sam. Nagowie odeszli, ale nie mia³em w¹tpliwoœci, ¿e gdyby król znalaz³ siê w niebezpieczeñstwie, natychmiast pojawiliby siê znik¹d. Wszystko w sposobie poruszania siê Kastore, w jego postawie na koniu i w jego umiejêtnoœci dostrzegania nawet najmniejszych szczegó³ów wokó³ niego mówi³o mi, ¿e by³ doœwiadczonym podró¿nikiem z wieloma przygodami na koncie. Ja mówi³em w wiêkszoœci, Kastore tylko od czasu do czasu pyta³ o wiêcej szczegó³ów na temat tego czy innego aspektu naszego ¿ycia na pustkowiach i by³ szczególnie zainteresowany tym, jak siê tu znaleŸliœmy. By³em wystarczaj¹co ostro¿ny, aby zachowaæ niektóre szczegó³y dla siebie. Nie by³ w najmniejszym stopniu zainteresowany moimi opowieœciami o demonach spadaj¹cych z nieba wraz z gwiazdami, ale moja teoria o ksiê¿ycu  gdzie, jak zak³ada³em, wczeœniej przebywa³y te demony, najwyraŸniej go bawi³a. Kiedy nadesz³a pora na nasz¹ podró¿ sterowcem, Kastore uniós³ brew, spojrza³ mi w oczy i zapyta³: 		„Czy mogê mieæ nadziejê zobaczyæ twoje cudowne maszyny lotnicze? Jeœli s¹ choæ w po³owie tak dobre, jak je opisujesz, to nawet najubo¿szy rycerz nie bêdzie mia³ problemu z bezpieczn¹ podró¿¹ gdziekolwiek w Antagarich, a bogaty, nowoczeœnie myœl¹cy kupiec bêdzie w stanie rozszerzyæ swoj¹ sieæ klientów na ca³y œwiat!” 		Nie mog³em uwierzyæ w³asnym uszom, ale Kastore… by³o tak, jakby czyta³ w moich myœlach i widzia³ moje marzenia na d³oni. To by³a ryzykowna decyzja, ale perspektywa zdobycia potê¿nego sojusznika, który móg³by ukazaæ œwiatu chwa³ê moich wynalazków, by³a zbyt kusz¹ca. Powiedzia³em, ¿e tak. 		„Oczywiœcie. Za kilka dni bêdê musia³ siê z tob¹ po¿egnaæ; moja asystentka i uczennica Henrietta, któr¹ ju¿ znasz z mojej opowieœci ma k³opoty, a ja planujê w³aœnie sterowcem wyruszyæ z Volty na jej poszukiwania. Mam do wykonania kilka lotów testowych nowym modelem, wiêc zapraszam ciê, abyœ do³¹czy³ do mnie i zobaczy³ to sam”.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(34, 84, 0) ***Twierdza***
+
+Odwiedzaj¹c Barbarzyñca:
+Nazwa:
+Gorghe
+
+(141, 96, 0) ***Twierdza***
+
+Odwiedzaj¹c Barbarzyñca:
+Nazwa:
+Semachus
+
+(11, 99, 0) ***Chata proroka***
+Wiadomoœæ:
+S³yszysz krzyki mê¿czyzn. Pêdz¹c w stronê dŸwiêku, znajdujesz grupê rewolwerowców otoczonych przez nieumar³ych. Chcesz im pomóc, ale zatrzymuje ciê nekromanta kieruj¹cy szar¿¹ nieumar³ych ¿o³nierzy. Mówi: 	„Mo¿emy zawrzeæ umowê! PrzyprowadŸ mi co najmniej 200 szkieletów i 1 koœcianego smoka, a pozwolê tym ludziom odejœæ”. 	Nie chcesz ufaæ nekromancie, ale walka z nim narazi³aby twoj¹ armiê na niebezpieczeñstwo.
+Nekromanta nie bêdzie czeka³ wiecznie. PrzyprowadŸ 200 szkieletów i 1 koœcianego smoka, aby uwolni³ schwytanych ludzi.
+Nekromanta jest zadowolony z posi³ków, które mu przynios³eœ i jest sk³onny dotrzymaæ s³owa. Czy chcesz wymieniæ szkielety za schwytanych rewolwerowców?
+
+(42, 113, 0) ***Chata proroka***
+Wiadomoœæ:
+Kiedy wchodzisz do chaty na drzewie, znajdujesz trolla. Jego ciê¿ka maczuga le¿y na pod³odze, a on na pocz¹tku nie zwraca na ciebie uwagi. W koñcu zwraca siê do ciebie. 	„Daj mi spokój! Jestem zhañbiony. By³em znany jako najsilniejszy wojownik mojego plemienia, ale jakiœ czas temu, wracaj¹c z polowania, zasta³em moj¹ wioskê w p³omieniach. Pod¹¿y³em tropem i znalaz³em armiê nieumar³ych z rycerzem œmierci na czele. S¹ dla mnie o wiele za silni, wiêc nie mogê pomœciæ moich wspó³plemieñców. Pomo¿esz mi? Nasze plemiê nigdy nie by³o zbyt bogate, ale mo¿e mam ci coœ, czym móg³bym ci podziêkowaæ”.
+Wiem, ¿e Thammus, rycerz œmierci, wci¹¿ chodzi po tej ziemi. Kiedy góra siê zawali³a, jego armia równie¿ zosta³a uwiêziona. Nie mogli uciec daleko!
+Ogl¹da³em bitwê ze wzgórza i widzia³em twoje zwyciêstwo. Wy, ludzie, cenicie z³oto ponad wszystko inne, ale nie mogê ci zap³aciæ. Mo¿e zadowolisz siê tym stadem pancerników? 		Chcesz przyj¹æ nagrodê?
+
+(43, 103, 0) ***Rycerz œmierci***
+Nazwa:
+Thammus
+
+(107, 165, 0) ***Tabliczka***
+Wiadomoœæ:
+Volta Mines
+
+(121, 20, 0) ***Twierdza***
+
+Odwiedzaj¹c Barbarzyñca:
+Nazwa:
+Akratos
+
+(109, 65, 0) ***Tabliczka***
+Wiadomoœæ:
+Punkt handlowy gildii kupieckiej Alvar
+
+(138, 85, 0) ***Tabliczka***
+Wiadomoœæ:
+Arena Chwa³y
+
+(121, 163, 0) ***Fabryka***
+Nazwa:
+Volta
+
+(157, 156, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+{Na poziomie trudnoœci £atwy mo¿esz dostaæ siê do Namiotu Bia³ego Klucznika}
+{Na poziomie trudnoœci £atwy mo¿esz dostaæ siê do Namiotu Bia³ego Klucznika}
+{Czy chcesz przejœæ?}
+
+(141, 164, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+{Na poziomie trudnoœci Normalny lub ni¿szym mo¿esz dostaæ siê do Namiotu Zielonego Klucznika}
+{Na poziomie trudnoœci Normalny mo¿esz dostaæ siê do Namiotu Zielonego Klucznika}
+{Czy chcesz przejœæ?}
+
+(123, 172, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+{Na poziomie trudnoœci Ekspert lub ni¿szym mo¿esz dostaæ siê do Namiotu Jasnoniebieskiego Klucznika}
+{Na poziomie trudnoœci Ekspert mo¿esz dostaæ siê do Namiotu Jasnoniebieskiego Klucznika}
+{Czy chcesz przejœæ?}
+
+(133, 157, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+{Na poziomie trudnoœci Trudny lub ni¿szym mo¿esz dostaæ siê do Namiotu Br¹zowego Klucznika}
+{Na poziomie trudnoœci Trudny mo¿esz dostaæ siê do Namiotu Br¹zowego Klucznika}
+{Czy chcesz przejœæ?}
+
+(3, 132, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Laboratorium Agara znajduje siê gdzieœ na pó³noc st¹d. Nie zapominajmy jednak, ¿e naszym g³ównym celem jest odnalezienie ekspedycji Henrietty.
+Naszym zadaniem jest teraz zbadanie grobowca.
+Nasze poszukiwania w grobowcu do tej pory nie przynios³y rezultatu, ale wci¹¿ jest tam wiele do zbadania. Teraz, gdy Czerwie zniszczy³y przejœcia prowadz¹ce w g³¹b, nie da siê dotrzeæ dalej. Jedynym rozwi¹zaniem jest znalezienie Agara. Mo¿e on bêdzie móg³ pomóc. 		Chcesz udaæ siê na pó³noc?
+
+(55, 174, 0) ***Hobgoblin***
+Wiadomoœæ:
+Przed nami pojawi³ siê wóz — a raczej jego resztki. Rama, osie pêkniête, ko³a odpad³y, le¿a³ na boku, a wokó³ niego zebra³y siê gobliny, mamrocz¹c coœ niewyraŸnie. NajwyraŸniej ich karawana utknê³a w osuwisku i teraz ich droga na sta³y l¹d zosta³a odciêta. 		Dowiedziawszy siê o naszym „lataj¹cym statku”, gobliny zaczê³y paplaæ i b³agaæ nas, ¿ebyœmy siê nimi zajêli. Có¿... teraz kilka par dodatkowych r¹k mo¿e siê przydaæ.
+
+(30, 160, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Spotykasz innych Pogromców Smoków z ty³u obozu. Wygl¹da na to, ¿e z³apali czterech ³owców nagród. Jeden z rycerzy mówi, ¿e jest gotów uwolniæ wiêŸniów jeœli dostarczysz jego towarzyszom zapasy na podró¿ powrotn¹; najwyraŸniej wóz z ich w³asnymi zapasami zosta³ zniszczony w wyniku zawalenia siê góry. Wed³ug rycerzy wystarczy 25 kryszta³ów, 25 klejnotów i 50 000 sztuk z³ota.
+Rycerze s¹ nieugiêci. Chc¹ dok³adnie 25 kryszta³ów, 25 klejnotów i 50 000 sztuk z³ota i ani jednej monety mniej!
+Jeden z rycerzy, mrucz¹c z niezadowoleniem idzie uwolniæ wiêŸniów. 		Czy chcia³byœ daæ rycerzom 25 kryszta³ów, 25 klejnotów i 50 000 sztuk z³ota?
+
+(31, 159, 0) ***£owca nagród***
+Wiadomoœæ:
+Wœród wiêŸniów rozpoznajesz znajomego rewolwerowca z Burton. 	„Frederick!”, wykrzykuje. „Nigdy nie myœla³em, ¿e ciê jeszcze zobaczê. Po osuwisku zostaliœmy uwiêzieni, a potem ci Pogromcy Smoków pojawili siê niespodziewanie i oskar¿yli nas o spowodowanie katastrofy. 	Z tego, co s³ysza³em od tych ¿o³nierzy, ich dowódca, Volothomon, polowa³ na czarne smoki w górach na pó³noc od pewnego grobowca i wygl¹da na to, ¿e wpad³ w tê sam¹ pu³apkê co nasza grupa”.
+
+(110, 156, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Poza kopalni¹ spotykasz mê¿czyznê sk³adaj¹cego Automatony; jednak rzemieœlnik wygl¹da na raczej niedoœwiadczonego, a sk³adanie nowych maszyn zajmuje czas, którego nie masz. Rzemieœlnik mówi ci, ¿e gdybyœ przyniós³ mu 25 Rtêci, 50 Rudy i 25 Siarki, by³by w stanie budowaæ Automatony szybciej.
+Niestety, bez zasobów nie mo¿esz nic zrobiæ, aby pomóc rzemieœlnikowi. Manufaktura w mieœcie zosta³a zniszczona i nie ma sposobu, aby szybciej sk³adaæ Automatony.
+Z twoj¹ pomoc¹ wynalazca mo¿e szybko z³o¿yæ 16 Automatonów. Czy chcia³byœ podzieliæ siê z nim zasobami?
+
+(86, 89, 0) ***Rycerz***
+Nazwa:
+Volothomon
+
+(11, 152, 0) ***Harpia wiedŸma***
+Wiadomoœæ:
+Kiedy poleg³ ostatni wampir byliœmy zaskoczeni znajduj¹c kilkadziesi¹t harpii gnij¹cych w klatkach. Nie mamy pojêcia, co wampiry dla nich przygotowa³y!
+
+(111, 123, 0) ***Chata proroka***
+Wiadomoœæ:
+Niedawno nasza wioska na pó³noc st¹d zosta³a zniszczona przez wybuch wulkanu. Myœleliœmy, ¿e to kolejna katastrofa naturalna; w tych czêœciach œwiata zdarzaj¹ siê one doœæ czêsto. Jednak mag, z którym rozmawia³em, twierdzi, ¿e to sprawka z³ego ducha ziemi, Ulkumi, który mieszka gdzieœ w tych górach. Nie wiem, czy to prawda, ale jeœli mag nie k³ama³, duch nadal tu jest. Kto wie, jakie k³opoty nam przyniesie? 	Proszê, znajdŸ tego potwora i uwolnij nas od tego zagro¿enia!
+Nadal nie znalaz³eœ ducha ziemi? Mo¿e on w ogóle nie istnieje...
+Mówisz, ¿e by³a horda ¿ywio³aków? Nie s¹dzi³em, ¿e bêdzie ich tak wiele. Tak czy inaczej, Ulkumi zosta³ pokonany. WeŸ ten Pierœcieñ ¯ycia. Nie uratowa³ naszej wioski, ale mo¿e ci pomóc.
+
+(115, 94, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(112, 92, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(152, 167, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+W drodze tutaj zaatakowa³y mnie dzikie centaury. Co gorsza, zabrali mi Emblemat Wiedzy! Pomó¿ mi go znaleŸæ, a moi przyjaciele szkutnicy pomog¹ ci zbudowaæ ³ódŸ. Centaury ostatnio widziano w pobli¿u starej latarni morskiej na zachód st¹d.
+W drodze tutaj zaatakowa³y mnie dzikie centaury. Co gorsza, zabrali mi Emblemat Wiedzy! Pomó¿ mi go znaleŸæ, a moi przyjaciele szkutnicy pomog¹ ci zbudowaæ ³ódŸ. Centaury ostatnio widziano w pobli¿u starej latarni morskiej na zachód st¹d.
+To rzeczywiœcie mój Emblemat Wiedzy! Natychmiast dam znaæ moim znajomym, jak bardzo mi pomog³eœ. 	Chcesz przejœæ?
+
+(12, 178, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Wampirzy stra¿nik w czarnym p³aszczu stoi przy wejœciu do Szkieletorni, patrz¹c podejrzliwie na twoj¹ armiê. 	„Szukasz nowego sposobu na uzupe³nienie swojej armii, prawda?”, uœmiecha siê wampir. „Zapomnij o tym! Olbrzymie robaki dosta³y siê do Szkieletorni i teraz nie dzia³a. Mo¿e uda nam siê go znowu uruchomiæ, jeœli znajdziesz wystarczaj¹co mocny artefakt”.
+¯adnego artefaktu? Szkoda.
+„W porz¹dku!”, wampir pociera chude d³onie. „Ten amulet pomo¿e nam przywróciæ Szkieletorni, aby znów móg³ dzia³aæ! Ach, tak, prawie o tym zapomnia³em. Mamy tu kilku goblinów-wiêŸniów. Mormolykos niedawno przyszed³; mia³ zamieniæ ich w szkielety, ale nie s³yszeliœmy o nim od ostatniego osuwiska. Mo¿e znajdziesz lepsze zastosowanie dla tych bezwartoœciowych stworzeñ?”, z tymi s³owami wampir odchodzi. Chcesz pójœæ do Szkieletorni i uwolniæ schwytane gobliny?
+
+(103, 116, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(17, 151, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(128, 80, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(111, 81, 0) ***Tabliczka***
+Wiadomoœæ:
+Pó³noc — Mroczny Punkt Handlowy Elfów 	Wschód — Arena Chwa³y
+
+(140, 58, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(117, 78, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(98, 152, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(95, 21, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Przed tob¹ widaæ zapieczêtowane wejœcie, które prowadzi g³êboko pod ziemiê do dalszej czêœci grobowca. Zauwa¿asz œlady stóp ludzi i nizio³ków jeszcze niezasypane piaskiem. Nie ma w¹tpliwoœci, ¿e ekspedycja Henrietty niedawno tu by³a. 	Próby otwarcia wejœcia nie powiod³y siê. Zauwa¿asz niezwyk³y postument, na którym wyraŸnie kiedyœ sta³a ogromna statua. Co dziwne, nigdzie nie ma œladu samej statuy. Mo¿e powinieneœ jej poszukaæ?
+Przejœcie jest nadal zapieczêtowane, a próby dostania siê do œrodka spe³z³y na niczym.
+Gdy tylko statua jest na swoim miejscu, s³ychaæ dziwny dudni¹cy dŸwiêk. Przejœcie w g³¹b grobowca otwiera jakaœ nieznana si³a. 	Kiedy zagl¹dasz do œrodka, jesteœ zaskoczony widz¹c nie œciany grobowca, ale jaskinie, które siêgaj¹ g³êboko pod ziemiê. Trudno powiedzieæ, dlaczego Henrietta i jej ekspedycja udali siê tutaj — ale w ka¿dym razie na pewno s¹ gdzieœ przed nami. Pozostaje tylko ich znaleŸæ. 	Czy chcia³byœ wejœæ do jaskiñ?
+
+(51, 37, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(2, 150, 0) ***Nekromanta***
+Nazwa:
+Mormolykos
+
+(104, 98, 0) ***Obie¿ysfer***
+Nazwa:
+Ulkumi
+
+(31, 54, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(105, 160, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mechanicy pracuj¹cy w wiosce za Volt¹ odmawiaj¹ do³¹czenia do wyprawy. Ich fabryka zosta³a zniszczona po ataku czerwi i nigdzie siê nie rusz¹, dopóki nie zostanie odbudowana. Po rozmowie z nimi dowiadujesz siê, ¿e 30 sztuk drewna, 30 sztuk rudy, 20 sztuk siarki i 20 sztuk kryszta³ów wystarczy aby odbudowaæ wszystkie kuŸnie.
+Niestety, te zasoby nie wystarcz¹.
+Po otrzymaniu twojego wsparcia, mechanicy byli w stanie odbudowaæ swoje kuŸnie i s¹ teraz gotowi wyruszyæ z tob¹ na wyprawê w poszukiwaniu Henrietty. Czy chcia³byœ ich zabraæ?
+
+(114, 154, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+W pobli¿u kopalni zauwa¿asz siedmiu najemników. S¹ gotowi do³¹czyæ do ka¿dego, kto dostarczy im 50 drewna, 25 kryszta³ów i 25 klejnotów.
+Te zasoby s¹ niewystarczaj¹ce. Iloœæ ¿¹dana przez najemników jest wygórowana, ale nie wydaj¹ siê byæ sk³onni do ustêpstw.
+Widz¹c zasoby, najemnicy podnosz¹ broñ, odkurzaj¹ j¹ i przygotowuj¹ siê do do³¹czenia do twoich oddzia³ów. 	Czy chcesz ich teraz zatrudniæ?
+
+(18, 176, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(20, 72, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(141, 153, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(147, 76, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(139, 85, 0) ***Minotaur królewski***
+Wiadomoœæ:
+Przy wejœciu na arenê wita ciê zaskakuj¹co przyjazny minotaur. 	„Witamy na Arenie Chwa³y!”, wo³a g³oœno i uderza piêœci¹ w szerok¹ pierœ. „Chcesz wzi¹æ udzia³ w walkach? WejdŸ! Ka¿dy mo¿e tu zostaæ wielkim wojownikiem!”
+
+(120, 165, 0) ***Zdarzenie***
+Wiadomoœæ:
+Nastêpnego dnia opuœciliœmy Voltê. Stocznia sterowców by³a kawa³ek od miasta, a my musieliœmy tam dotrzeæ i za³adowaæ trochê sprzêtu na pok³ad. Kastore milcza³ przez wiêkszoœæ podró¿y, tylko od czasu do czasu wypowiadaj¹c siê na temat konstrukcji automatonów i innych owoców postêpu, jakie widzia³ w Volcie. Czasami elf zadawa³ mi pytania techniczne — przyznajê, ¿e nie rozumia³em ich wszystkich w pe³ni, ale odpowiada³em najlepiej, jak potrafi³em i erudycyjnie. Elf odpowiada³ na moje pytania krótko i sucho, ale trudno mi by³o wyci¹gn¹æ z nich po¿yteczne wnioski. Najbardziej zaskoczy³a mnie jego zdolnoœæ do wykonywania skomplikowanych obliczeñ w umyœle niemal natychmiast; w takich momentach odwraca³ siê i podnosi³ do twarzy rêkê z niepozorn¹ bransoletk¹ z dziwnego materia³u. Wygl¹da³o to trochê zabawnie: jakby w tym kawa³ku matowej szarej koœci ukrywa³ siê wszechwiedz¹cy duch, udzielaj¹c mu gotowych odpowiedzi — ale wiedzia³em na pewno, ¿e duchy nie s¹ dobre w naukach œcis³ych. 	Coœ mi mówi³o, ¿e ten w³adca z zagranicy wiedzia³ o wiele wiêcej ni¿ którykolwiek z rzemieœlników w Burton, a mo¿e nawet ja sam. Sk¹d mia³ tê wiedzê? Dlaczego tak interesowa³ siê naszymi wynalazkami? 		Zupe³nie nie tak wyobra¿a³em sobie króla nekromantów…
+
+(84, 116, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Wielkie D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. Chcesz przejœæ?
+
+(167, 52, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(57, 89, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(73, 177, 0) ***Brama misji***
+Wiadomoœæ:
+Widzisz przed sob¹ plac budowy sterowców.
+Widzisz przed sob¹ plac budowy sterowców.
+Czy chcesz kontynuowaæ?
+
+(76, 176, 0) ***Nizio³ek***
+Wiadomoœæ:
+Przed nami majaczy³a stocznia sterowców, a przy bramie sta³ nizio³ek w he³mie z du¿ymi goglami. PrzyjaŸnie do mnie pomacha³ i zaprosi³ do œrodka. 		Nasza operacja zbierania zasobów trwa³a ju¿ zbyt d³ugo — a poszukiwania mia³y nas jeszcze bardziej opóŸniæ... 		Gdy zbli¿aliœmy siê do sterowców, Kastore nie powiedzia³ ani s³owa. Wydawa³ siê byæ pogr¹¿ony we w³asnych myœlach podczas lotu testowego. Gdy gondola ponownie dotknê³a ziemi, Kastore zwróci³ siê do mnie: 		„Chcia³bym wzi¹æ udzia³ w twojej wyprawie. Drzemie w tobie wielki potencja³ i by³oby nierozs¹dne, gdybym nie kontynuowa³ naszej znajomoœci. Ju¿ zauwa¿y³eœ, ¿e przygody nie s¹ mi obce. Wspomnienia minionych przedsiêwziêæ chwytaj¹ mnie za serce. Nie odmówisz mojej proœbie, prawda?” 		„Oczywiœcie... Wyruszamy za godzinê” — mrukn¹³em zdezorientowany. 		Nie spodziewa³em siê, ¿e Kastore do³¹czy do wyprawy. Jednak w mojej g³owie roi³o siê od pytañ, na które, jak mia³em nadziejê, elf udzieli mi odpowiedzi. Oczywiœcie, kolejny silny czarodziej po naszej stronie równie¿ by³by mile widziany.
+
+(90, 135, 0) ***Tabliczka***
+Wiadomoœæ:
+Strze¿ siê stra¿ników.
+
+(162, 29, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(147, 162, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(32, 87, 0) ***Hobgoblin***
+Wiadomoœæ:
+Kastore rozmawia³ o czymœ z przywódc¹ goblinów, których spotka³eœ po drodze. Nie masz pojêcia, jakie punkty zosta³y omówione, ale elf z ³atwoœci¹ przekona³ ca³y gang do przy³¹czenia siê. Czy przyjmujesz ich pomoc?
+
+(8, 152, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Te bramy s¹ strze¿one przez Arcylisze. Niechêtnie z tob¹ rozmawiaj¹, ale ostatecznie przyznaj¹, ¿e chêtnie otworz¹ przejœcie temu, kto odda im ich Emblemat Wiedzy. Jeden z Liszy mówi ci, ¿e Emblemat zosta³ utracony po ataku Z³otego Smoka, który mieszka w pobliskiej wie¿y.
+Te bramy s¹ strze¿one przez Arcylisze. Niechêtnie z tob¹ rozmawiaj¹, ale ostatecznie przyznaj¹, ¿e chêtnie otworz¹ przejœcie temu, kto odda im ich Emblemat Wiedzy. Jeden z Liszy mówi ci, ¿e Emblemat zosta³ utracony po ataku Z³otego Smoka, który mieszka w pobliskiej wie¿y.
+Lisze zabieraj¹ ci Emblemat Wiedzy i niechêtnie pozwalaj¹ ci przejœæ dalej. 	Czy chcesz przejœæ?
+
+(94, 104, 0) ***Zdarzenie***
+Wiadomoœæ:
+To, co zobaczyliœmy wznosz¹ce siê przed nami, by³o wejœciem do ogromnego grobowca... jeœli to rzeczywiœcie by³ grobowiec. Kastore, który pod¹¿a³ za mn¹ ze swoim zwyk³ym obojêtnym, a nawet kwaœnym wyrazem twarzy, nagle siê o¿ywi³. Przez jakiœ czas patrzy³ z wielkim zainteresowaniem na dziwne symbole rozrzucone tu i ówdzie. Potem powiedzia³: 		„Có¿, ciekawe. By³em ju¿ w takich grobowcach”. 		Z tymi s³owami Kastore wyci¹gn¹³ zza pasa przedmiot o nieznanym przeznaczeniu i zrobi³ kilka kroków do przodu. Ta rzecz ju¿ dawno przyku³a moj¹ uwagê. Co to by³o? Instrument naukowy nieznany nawet mnie? Rodzinna pami¹tka? Kto wie... 		Elf przez chwilê macha³ przedmiotem z boku na bok, patrz¹c w ciemne korytarze grobowca, i w koñcu wypuœci³ powietrze. 		„Wydaje siê, ¿e tam nikogo nie ma; mo¿emy wejœæ. Nie oznacza to jednak, ¿e mo¿emy sobie pozwoliæ na obni¿enie gardy” — powiedzia³ Kastore dydaktycznym tonem.
+
+(38, 157, 0) ***Chata proroka***
+Wiadomoœæ:
+U podnó¿a gór znajdujesz ma³y obóz górniczy i grupê uzbrojonych In¿ynierów. Po us³yszeniu o zaginionej ekspedycji Henrietty wyra¿aj¹ chêæ pójœcia z tob¹, ale niestety nie mog¹ pozostawiæ obozu bez opieki, poniewa¿ wampir Mormolykos by³ niedawno widziany przy wiosce, a kilku górników pad³o jego ofiar¹. 	Jeœli uda ci siê wyœledziæ wampira i go zniszczyæ, In¿ynierowie do³¹cz¹ do ciebie w twojej misji.
+In¿ynierowie uwa¿aj¹, ¿e osada nadal wymaga ochrony. Wampir mo¿e jeszcze wróciæ.
+Kiedy in¿ynierowie widz¹ Kaptur Mormolykosa, natychmiast wyra¿aj¹ chêæ pójœcia z tob¹. S¹ zaskoczeni, dowiaduj¹c siê, ¿e wampir zosta³ znaleziony tak daleko, ale kiwaj¹ g³owami ze zrozumieniem, gdy s³ysz¹ twoj¹ historiê o starej rezydencji. 	Czy chcesz zabraæ ze sob¹ In¿ynierów?
+
+(153, 136, 0) ***Chata proroka***
+Wiadomoœæ:
+Wykuwam zbroje z rzadkich i cennych metali, takich jak Kergar i Erudine. Przynieœ mi 20 kryszta³ów, a wykujê najlepsz¹ zbrojê dla ciebie i twoich ¿o³nierzy.
+To za ma³o! Potrzebujê 20 kryszta³ów, ani jednego mniej!
+Te kryszta³y to dok³adnie to, czego potrzebujê! Mogê zacz¹æ wykuwaæ zbrojê ju¿ teraz. 	Czy chcesz oddaæ kryszta³y kowalowi?
+Wykuwam zbroje z rzadkich i cennych metali, takich jak Kergar i Erudine. Przynieœ mi 40 kryszta³ów, a wykujê najlepsz¹ zbrojê dla ciebie i twoich ¿o³nierzy.
+To za ma³o! Potrzebujê 40 kryszta³ów, ani jednego mniej!
+Te kryszta³y to dok³adnie to, czego potrzebujê! Mogê zacz¹æ wykuwaæ zbrojê ju¿ teraz. 	Czy chcesz oddaæ kryszta³y kowalowi?
+Wykuwam zbroje z rzadkich i cennych metali, takich jak Kergar i Erudine. Przynieœ mi 60 kryszta³ów, a wykujê najlepsz¹ zbrojê dla ciebie i twoich ¿o³nierzy.
+To za ma³o! Potrzebujê 60 kryszta³ów, ani jednego mniej!
+Te kryszta³y to dok³adnie to, czego potrzebujê! Mogê zacz¹æ wykuwaæ zbrojê ju¿ teraz. 	Czy chcesz oddaæ kryszta³y kowalowi?
+Wykuwam zbroje z rzadkich i cennych metali, takich jak Kergar i Erudine. Przynieœ mi 80 kryszta³ów, a wykujê najlepsz¹ zbrojê dla ciebie i twoich ¿o³nierzy.
+To za ma³o! Potrzebujê 80 kryszta³ów, ani jednego mniej!
+Te kryszta³y to dok³adnie to, czego potrzebujê! Mogê zacz¹æ wykuwaæ zbrojê ju¿ teraz. 	Czy chcesz oddaæ kryszta³y kowalowi?
+Wykuwam zbroje z rzadkich i cennych metali, takich jak Kergar i Erudine. Przynieœ mi 100 kryszta³ów, a wykujê najlepsz¹ zbrojê dla ciebie i twoich ¿o³nierzy.
+To za ma³o! Potrzebujê 100 kryszta³ów, ani jednego mniej!
+Te kryszta³y to dok³adnie to, czego potrzebujê! Mogê zacz¹æ wykuwaæ zbrojê ju¿ teraz. 	Czy chcesz oddaæ kryszta³y kowalowi?
+
+(128, 148, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(24, 82, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(147, 98, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(90, 142, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Wejœcie do grobowca znajduje siê na pó³noc st¹d. Niedawno przechodzi³a têdy ekspedycja Henrietty, ale teraz ta œcie¿ka przez góry jest zasypana ska³ami. 	Byæ mo¿e, jeœli znajdziesz potê¿ny artefakt zdolny do wzmocnienia Magii Ziemi, bêdziesz w stanie przebiæ siê przez ska³ê i przejœæ.
+Wejœcie do grobowca znajduje siê na pó³noc st¹d. Niedawno przechodzi³a têdy ekspedycja Henrietty, ale teraz ta œcie¿ka przez góry jest zasypana ska³ami. 	Byæ mo¿e, jeœli znajdziesz potê¿ny artefakt zdolny do wzmocnienia Magii Ziemi, bêdziesz w stanie przebiæ siê przez ska³ê i przejœæ.
+U¿ywaj¹c pe³nej mocy Kuli ¯ywio³u Ziemi, bêdziesz w stanie przejœæ. Niestety, jeœli to zrobisz, kula straci swoj¹ magiczn¹ moc. 	Czy chcesz poœwiêciæ Kulê i przejœæ?
+
+(19, 145, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(175, 100, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Laboratorium Agara znajduje siê gdzieœ na pó³noc st¹d. Nie zapominajmy jednak, ¿e naszym g³ównym celem jest odnalezienie ekspedycji Henrietty.
+Naszym zadaniem jest teraz zbadanie grobowca.
+Nasze poszukiwania w grobowcu do tej pory nie przynios³y rezultatu, ale wci¹¿ jest tam wiele do zbadania. Teraz, gdy Czerwie zniszczy³y przejœcia prowadz¹ce w g³¹b, nie da siê dotrzeæ dalej. Jedynym rozwi¹zaniem jest znalezienie Agara. Mo¿e on mo¿e pomóc. 	Chcesz udaæ siê na pó³noc?
+
+(145, 11, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(161, 60, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(141, 78, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(27, 67, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(76, 166, 0) ***Rycerz œmierci***
+Nazwa:
+Skoulex
+
+(168, 19, 0) ***Bastion***
+
+Odwiedzaj¹c £owca:
+Nazwa:
+Dryope
+
+(4, 58, 0) ***Lochy***
+
+Odwiedzaj¹c Czarodziej:
+Nazwa:
+Palaemon
+
+(2, 131, 0) ***Rycerz***
+Nazwa:
+Erybarus
+
+(175, 99, 0) ***Alchemik***
+Nazwa:
+Aiedia
+
+(4, 59, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do twierdzy Palaemona jest zablokowana przez mur. Gdy przyjrzysz siê bli¿ej, zauwa¿ysz du¿¹ bramê, która wydaje siê byæ zapieczêtowana magi¹. Jedynym sposobem na z³amanie pieczêci jest u¿ycie Pierœcienia Wêdrowca.
+Mur jest niezniszczalny, a ty jeszcze nie znalaz³eœ pierœcienia. Mo¿e powinniœmy poszukaæ go w grobowcu na wschód st¹d.
+Chcesz przejœæ?
+
+(155, 136, 0) ***Alchemik***
+Nazwa:
+Aietes
+
+(146, 161, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(143, 8, 0) ***Tabliczka***
+Wiadomoœæ:
+This is where the dragons' domain begins
+
+(156, 33, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(134, 166, 0) ***Stra¿nik misji***
+Wiadomoœæ:
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(172, 113, 0) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(90, 141, 0) ***Kleryk***
+Nazwa:
+Tagete
+
+(51, 64, 1) ***Brama misji***
+Wiadomoœæ:
+Przejœcie do laboratorium Agara jest przed nami, ale jest jednokierunkowe.
+Przejœcie do laboratorium Agara jest przed nami, ale jest jednokierunkowe.
+Czy chcesz przejœæ?
+
+(19, 47, 1) ***Tabliczka***
+Wiadomoœæ:
+Nie karmiæ wiwern.
+
+(121, 49, 1) ***Suweren***
+Nazwa:
+Kotus
+
+(106, 51, 1) ***Suweren***
+Nazwa:
+Breus
+
+(28, 54, 1) ***Z³e oko***
+Wiadomoœæ:
+Ostro¿nie przechodzi³em przez jaskinie, które prowadzi³y g³êbiej od laboratorium Agara. Przez chwilê czu³em, jakby moje w³asne magiczne moce gas³y... ale tylko przez chwilê. Moje myœli zosta³y przerwane przez dziwne dŸwiêki. Z³e Oczy pojawi³y siê przede mn¹! Oczywiœcie. Mog³em siê domyœliæ, ¿e Agar zostawi swoje ulubione „bestie”, aby strzeg³y laboratorium!
+
+(134, 63, 1) ***Awanturnik***
+Nazwa:
+Henrietta
+
+(135, 65, 1) ***Olgoj-Chorchoj***
+Wiadomoœæ:
+Biegliœmy tunelem przez wiele godzin. Nie potrafiê powiedzieæ, ile czasu minê³o, ale minê³o go sporo odk¹d zacz¹³em znajdowaæ znaki na œcianach i kolumnach, w jêzyku, który sam wymyœli³em i którego nauczy³em Henriettê w tamtych czasach. Labirynt jaskiñ i katakumb zdawa³ siê nie mieæ koñca, ale niew¹tpliwie by³o nam ciep³o w drodze. Moim jedynym zmartwieniem by³o to, ¿e dotrzemy tam za póŸno... nie by³o szans, ¿eby dru¿yna nizio³ka mia³a wystarczaj¹co du¿o prowiantu, aby przetrwaæ przez wszystkie te miesi¹ce, ani na tyle czasu co spêdziliœmy pod ziemi¹. Nie wiedzia³em, czy mogê jeszcze ufaæ swojemu postrzeganiu czasu. Kastore gestem wskaza³ na mnie. Niektóre œciany jaskini wydawa³y siê stopione, jakby dotkn¹³ ich promieñ ognia. Wtedy us³yszeliœmy dziwne buczenie; nad nami b³ysnê³o œwiat³o i wszystko znów zamar³o. Chwilê póŸniej do naszych nosów dotar³ odór palonego miêsa. Kastore doby³ broni, a ja przygotowa³em zaklêcia. Wpadliœmy do przejœcia, z którego w³aœnie wybuch³o to pal¹ce œwiat³o. Im bli¿ej byliœmy Ÿród³a tego okropnego zapachu, tym wiêcej zwêglonych chitynowych skorup robaków napotykaliœmy. W koñcu zobaczy³em Henriettê. Dziewczyna by³a wychudzona, mia³a brudn¹ i podrapan¹ twarz — ale ¿y³a! Trzyma³a w rêkach coœ w rodzaju kamiennej kuli, wymachuj¹c ni¹. 		„Frederick! Uwa¿aj! S¹ ich tu setki! Ta rzecz, ona... ona je pali!” 		Nie do koñca rozumia³em, o czym ona mówi. Kamienna kula? Ale jak to mo¿liwe... 	Œciana po naszej prawej stronie zawali³a siê. Zobaczy³em rozwarte paszcze robaków — mia³y wyskoczyæ, prosto na nas. Nagle przestrzeñ wype³ni³o mechaniczne buczenie. Na sekundê oœlep³em, a gdy odzyska³em wzrok, robaki wi³y siê w p³omieniach, a kamienna kula Henrietty migota³a blaskiem podobnym do tego b³ysku, ale ³agodniejszym. 		„Frederick, nie stój tam jak g³upiec! Rozejrzyj siê!” Kastore sykn¹³ na mnie, ale by³o ju¿ za póŸno. Ziemia pod nami rozst¹pi³a siê i zapad³a; spadliœmy na jeszcze ni¿szy poziom jaskiñ. Tam spotkaliœmy Matriarchê. To by³o jej legowisko; roi³o siê w nim od larw i doros³ych robaków, a jej ohydnych jaj by³o jeszcze wiêcej. 		„Có¿... wygl¹da na to, ¿e znaleŸliœmy obie: Henriettê i Matriarchê” – mrukn¹³em i przygotowa³em siê do walki.
+
+(104, 91, 1) ***Olgoj-Chorchoj***
+Wiadomoœæ:
+Ostro¿nie przeszliœmy przez grobowiec, sprawdzaj¹c, czy nie ma œladów nizio³ków lub ludzi. Z miejsca przed nami dobywa³ sie jakiœ ha³as, ha³as, który ju¿ dobrze zna³em. By³y to czerwie. 		Teraz by³o dla mnie jasne, co siê tu wydarzy³o: rycie robaków spowodowa³o zawalenie siê grobowca. Tam, gdzie niedawno przeszli Henrietta i jej ekspedycja, znaleŸliœmy tylko sterty gruzu: kamienie, rozbite staro¿ytne kolumny i stele, wszystkie pokryte nieznanym pismem. Musieliœmy znaleŸæ sposób...
+
+(4, 104, 1) ***Chata proroka***
+Wiadomoœæ:
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+W tym miejscu znajdziesz niebiesk¹ kulê ukryt¹ za szklan¹ barier¹. Chcesz j¹ rozbiæ?
+
+(4, 117, 1) ***Chata proroka***
+Wiadomoœæ:
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+W tym miejscu znajdziesz bia³¹ kulê ukryt¹ za szklan¹ barier¹. Chcesz j¹ rozbiæ?
+
+(14, 84, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(149, 94, 1) ***Elementalista***
+Nazwa:
+Yrkula
+
+(8, 78, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(17, 78, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(16, 77, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(9, 79, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(140, 105, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ elementalistkê, Yrkulê. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+To miejsce jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ elementalistkê, Yrkulê. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Teraz, gdy Yrkula zosta³a pokonana, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(58, 64, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Pierwsze wejœcie do laboratorium Agara by³o zablokowane drzwiami wykonanymi z dziwnego metalu, którego nigdy wczeœniej nie widzia³eœ. Po kilku próbach w³amania siê lub stopienia drzwi sta³o siê oczywiste, ¿e marnujesz czas. Zauwa¿y³eœ dziurkê od klucza, ale drzwi mo¿na by³o otworzyæ tylko od œrodka. 	Zawiedziony, po raz ostatni przygl¹dasz siê drzwiom i zamierzasz wyjœæ, gdy nagle zauwa¿asz œlady stóp ogrów i orków na pod³odze jaskini. Niektóre z nich najwyraŸniej prowadz¹ do laboratorium. Byæ mo¿e Agar nie jest jedyn¹ osob¹, która mo¿e wejœæ?
+Dalsze próby sforsowania drzwi zakoñczy³y siê niepowodzeniem. Musisz znaleŸæ klucz…
+Znalaz³eœ dziwnie wygl¹daj¹cy przedmiot w górskiej fortecy barbarzyñcy Akratosa. Po powrocie do laboratorium zdajesz sobie sprawê, ¿e jest to klucz do kryjówki Agara! Chcesz wejœæ?
+
+(130, 97, 1) ***Chata proroka***
+Wiadomoœæ:
+Podczas gdy wpatrywa³eœ siê w drzewa i trawê rosn¹c¹ tu¿ w sali grobowej, nie zauwa¿y³eœ d¿ina unosz¹cego siê na bok. NajwyraŸniej czyta³ ksi¹¿kê, ale w koñcu zwróci³ siê w twoj¹ stronê. 	„Minê³y dekady, odk¹d ktokolwiek odwiedzi³ ten grobowiec” – powiedzia³ d¿in. „Dawno, dawno temu przysi¹g³em chroniæ to miejsce, podobnie jak inne d¿iny – ale nie ma tu nic szczególnie wartoœciowego, a ja opuœci³em moich braci dawno temu. Wielu z nich jest jednak nadal lojalnych wobec mistrzów, którzy nas porzucili. 	Ostatnie kilka lat spêdzi³em na studiowaniu natury rzeczy, które t³umi¹ magiê, ale niestety nigdy nie uda³o mi siê zdobyæ ¿adnych naprawdê potê¿nych artefaktów, które by³yby przydatne w moim przedsiêwziêciu. Czy móg³byœ mi pomóc? Na powierzchni, wœród gór na pó³noc od grobowca, ¿yj¹ plemiona barbarzyñców. Ci dzikusy brzydz¹ siê magi¹ i szukaj¹ sposobów na jej st³umienie. Byæ mo¿e znajdziesz u nich to, czego potrzebujê”.
+Niestety, nie masz artefaktów, których szukam.
+Ten p³aszcz i ta peleryna to dok³adnie to, czego potrzebowa³em! Nie mam z³ota, ¿eby ci zap³aciæ, ale mogê ci daæ zaczarowany pierœcieñ, który t³umi wszelk¹ magiê wskrzeszenia. Kto wie, mo¿e siê kiedyœ przydaæ.
+
+(107, 106, 1) ***Su³tañski ifryt***
+Wiadomoœæ:
+Gdy tylko zbli¿y³em siê do portalu, znik¹d pojawi³o siê ponad tuzin ognistych wirów — Ifrytów. Rozkaza³em moim ludziom przygotowaæ broñ.
+
+(50, 34, 1) ***Zdarzenie***
+Wiadomoœæ:
+Technical block event
+
+(45, 40, 1) ***Nekropolis***
+Nazwa:
+Darkness
+
+(12, 34, 1) ***Nekropolis***
+Nazwa:
+Darkness
+
+(32, 32, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(54, 54, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(15, 20, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(15, 19, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(41, 22, 1) ***Zdarzenie***
+Wiadomoœæ:
+Zalane jaskinie pojawi³y siê ponownie i wygl¹da³o na to, ¿e znów bêdziemy musieli pop³yn¹æ ³odzi¹. Agar nas ostrzeg³: on sam kilkakrotnie próbowa³ dotrzeæ na drugi brzeg tego podziemnego jeziora, za pomoc¹ magii i ³odzi, ale jezioro by³o pe³ne podwodnych ska³, a drugi brzeg by³ zbyt daleko, aby dotrzeæ do niego za pomoc¹ zaklêcia. 		Byæ mo¿e moglibyœmy zobaczyæ to, co chcieliœmy zobaczyæ chodz¹c po wodzie wokó³ naszego statku?
+
+(9, 77, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(10, 78, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(116, 3, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(108, 6, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(111, 13, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(119, 12, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(173, 11, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(168, 4, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(12, 111, 1) ***Obie¿ysfer***
+Nazwa:
+Tonant
+
+(61, 27, 1) ***Nekromanta***
+Nazwa:
+Meline
+
+(120, 177, 1) ***£owca***
+Nazwa:
+Keio
+
+(41, 114, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(132, 122, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(37, 85, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(38, 85, 1) ***Opêtany***
+Nazwa:
+Phlegeth
+
+(159, 176, 1) ***Chata proroka***
+Wiadomoœæ:
+Dobrze walczysz, ale mo¿e nasze Automatony spodobaj¹ ci siê bardziej ni¿ te, które masz. Przynieœ nam 10 rtêci i 20000 z³ota, a my chêtnie dostarczymy ci nowe modele.
+Niestety, to nie wystarczy.
+To œwietnie!
+Przynieœ nam 2 Automatony, a my wymienimy je na lepsze.
+Niestety, nie mo¿emy ci jeszcze pomóc. Wróæ póŸniej!
+Chcesz wymieniæ siê teraz?
+
+(149, 177, 1) ***Chata proroka***
+Wiadomoœæ:
+Dobrze walczysz, ale mo¿e nasz sprzêt spodoba ci siê bardziej ni¿ to, co masz. Przynieœ nam 10 siarki i 20000 z³ota, a my chêtnie dostarczymy ci nowe modele.
+Niestety, to nie wystarczy.
+To œwietnie!
+Przynieœ nam 6 Mechaników, a my wyposa¿ymy ich w nowe narzêdzia.
+Niestety, nie mo¿emy ci jeszcze pomóc. Wróæ póŸniej!
+Chcesz wymieniæ siê teraz?
+
+(161, 177, 1) ***Chata proroka***
+Wiadomoœæ:
+Dobrze walczysz, ale mo¿e nasze karabiny spodobaj¹ ci siê bardziej ni¿ te, które masz. Przynieœ nam 10 klejnotów i 20000 z³ota, a my chêtnie dostarczymy ci now¹ broñ.
+Niestety, to nie wystarczy.
+To œwietnie!
+Przynieœ nam 1 Najemnika, a my dostarczymy mu now¹ broñ.
+Niestety, nie mo¿emy ci jeszcze pomóc. Wróæ póŸniej!
+Chcesz wymieniæ siê teraz?
+
+(152, 176, 1) ***Chata proroka***
+Wiadomoœæ:
+Dobrze walczysz, ale mo¿e nasze bestie spodobaj¹ ci siê bardziej ni¿ te, które masz. Przynieœ nam 10 kryszta³ów i 20000 z³ota, a my chêtnie dostarczymy ci lepsze bestie.
+Niestety, to nie wystarczy.
+To œwietnie!
+Przynieœ nam 4 Pancerniki, a my wymienimy je na silniejsze.
+Niestety, nie mo¿emy ci jeszcze pomóc. Wróæ póŸniej!
+Chcesz wymieniæ siê teraz?
+
+(132, 32, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Ostro¿nie podchodzisz do bramy w Sali Iluzji. Nagle brama siê zmienia, a na go³ym kamieniu pojawia siê obraz przera¿aj¹cego Ifrita.
+Wszystkie próby otwarcia drzwi zakoñczy³y siê niepowodzeniem. Byæ mo¿e bêdziemy musieli znaleŸæ inne wejœcie.
+Pokona³eœ iluzjê Zydara. Brama siê otwiera. Droga wolna.
+
+(163, 51, 1) ***Alchemik***
+Nazwa:
+Frederick
+Biografia:
+
+
+(142, 13, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Ostro¿nie podchodzisz do bramy w Sali Iluzji. Nagle brama siê zmienia, a na go³ym kamieniu pojawia siê wizerunek zadziornego pirata.
+Wszystkie próby otwarcia drzwi zakoñczy³y siê niepowodzeniem. Byæ mo¿e bêdziemy musieli znaleŸæ inne wejœcie.
+Pokona³eœ iluzjê Dargema. Brama siê otwiera. Droga wolna.
+
+(143, 12, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Ostro¿nie podchodzisz do bramy w Sali Iluzji. Nagle brama siê zmienia, a na go³ym kamieniu pojawia siê obraz szkieletu w kapeluszu, w którym rozpoznajesz Boyda.
+Wszystkie próby otwarcia drzwi zakoñczy³y siê niepowodzeniem. Byæ mo¿e bêdziemy musieli znaleŸæ inne wejœcie.
+Pokona³eœ iluzjê Boyda. Brama siê otwiera. Droga wolna.
+
+(111, 7, 1) ***Rycerz œmierci***
+Nazwa:
+Boyd
+
+(55, 74, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+To jest dwukierunkowy portal, ale mo¿esz otworzyæ wejœcie tylko z jednej strony.
+Czy chcesz otworzyæ portal?
+
+(57, 60, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Pierwsze wejœcie do laboratorium Agara by³o zablokowane drzwiami wykonanymi z dziwnego metalu, którego nigdy wczeœniej nie widzia³eœ. Po kilku próbach w³amania siê lub stopienia drzwi sta³o siê oczywiste, ¿e marnujesz czas. Zauwa¿y³eœ dziurkê od klucza, ale drzwi mo¿na by³o otworzyæ tylko od œrodka. 	Zawiedziony, po raz ostatni przygl¹dasz siê drzwiom i zamierzasz wyjœæ, gdy nagle zauwa¿asz œlady stóp ogrów i orków na pod³odze jaskini. Niektóre z nich najwyraŸniej prowadz¹ do laboratorium. Byæ mo¿e Agar nie jest jedyn¹ osob¹, która mo¿e wejœæ?
+Dalsze próby sforsowania drzwi zakoñczy³y siê niepowodzeniem. Musisz znaleŸæ klucz…
+Znalaz³eœ dziwnie wygl¹daj¹cy przedmiot w górskiej fortecy barbarzyñcy Akratosa. Po powrocie do laboratorium zdajesz sobie sprawê, ¿e jest to klucz do kryjówki Agara! Chcesz wejœæ?
+
+(172, 15, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(165, 14, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(87, 68, 1) ***Zdarzenie***
+Wiadomoœæ:
+Dziwne uczucie wype³ni³o twój umys³. Przez chwilê czu³eœ jakby czas siê zatrzyma³...
+
+(51, 2, 1) ***Elementalista***
+Nazwa:
+Fulghea
+
+(106, 106, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Ten jednokierunkowy portal wyraŸnie prowadzi g³êboko do grobowca, ale ma³o prawdopodobne jest, aby Henrietta i jej ekspedycja mog³y podró¿owaæ t¹ drog¹.
+Musimy dowiedzieæ siê, dok¹d uda³a siê ekspedycja Henrietty.
+Czy chcesz przejœæ przez portal?
+
+(80, 107, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Wielkie D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(160, 135, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(160, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³ siê do niej B³êkitny Smok. Byæ mo¿e jeœli wypêdzisz potwora, bariera zostanie usuniêta.
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³ siê do niej B³êkitny Smok. Byæ mo¿e jeœli wypêdzisz potwora, bariera zostanie usuniêta.
+Smoka ju¿ nie ma, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(164, 135, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(164, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Upiorne Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Upiorne Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Smoki zniknê³y, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(168, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(168, 135, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(172, 135, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(172, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Teraz, gdy Ioke zosta³a pokonana, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(176, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê jeœli przyniesiesz im zaginiony artefakt — Znak Odwagi.
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê jeœli przyniesiesz im zaginiony artefakt — Znak Odwagi.
+D¿iny zauwa¿aj¹, ¿e masz wisiorek i s¹ sk³onne ciê wpuœciæ. Czy chcesz przejœæ?
+
+(176, 135, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(160, 138, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginiony artefakt — Znak Œwiêtoœci.
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginiony artefakt — Znak Œwiêtoœci.
+D¿iny zauwa¿aj¹, ¿e masz wisiorek i s¹ sk³onne ciê wpuœciæ. Czy chcesz przejœæ?
+
+(160, 139, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(164, 138, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê tu Rdzawe Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Rdzawe Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Smoki zniknê³y, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(164, 139, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(168, 139, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(172, 138, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Czrodziejskie Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Czrodziejskie Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Smoki zniknê³y, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(172, 139, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(176, 138, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Tonanta. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Tonanta. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Teraz, gdy Tonant zosta³ pokonany, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(176, 139, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(15, 78, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(16, 79, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(10, 76, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(11, 75, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(9, 75, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(10, 74, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(14, 75, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(15, 76, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(16, 75, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(15, 74, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(8, 74, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(17, 74, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(12, 77, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(13, 79, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(76, 178, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(74, 178, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginione artefakty — Amulet Œmierci i Amulet Wolnej Woli.
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginione artefakty — Amulet Œmierci i Amulet Wolnej Woli.
+D¿iny zauwa¿aj¹, ¿e masz artefakty i s¹ sk³onne ciê wpuœciæ. 	Czy chcesz przejœæ?
+
+(53, 178, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginione artefakty — Amulet Œmierci i Amulet TrzeŸwego Umys³u.
+Grupa D¿inów blokuje wejœcie do tej czêœci grobowca. Zgadzaj¹ siê wpuœciæ ciê, jeœli przyniesiesz im zaginione artefakty — Amulet Œmierci i Amulet TrzeŸwego Umys³u.
+D¿iny zauwa¿aj¹, ¿e masz artefakty i s¹ sk³onne ciê wpuœciæ. 	Czy chcesz przejœæ?
+
+(61, 179, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(62, 176, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(55, 173, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest dobrze zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie czaszki.
+Skarb, który jest ukryty za tymi drzwiami, nie jest jeszcze dla ciebie dostêpny.
+U¿ywaj¹c Amuletu Œmierci mo¿esz otworzyæ drzwi, ale strac¹ one swoj¹ moc. 	Chcesz wejœæ?
+
+(51, 178, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(23, 154, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(66, 176, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(67, 179, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(64, 174, 1) ***Nekromanta***
+Nazwa:
+Ioke
+
+(58, 157, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(52, 136, 1) ***Elementalista***
+Nazwa:
+Telchion
+
+(159, 30, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Ostro¿nie podchodzisz do bramy w Sali Iluzji. Nagle brama siê zmienia, a na go³ym kamieniu pojawia siê obraz m³odego brakadyjskiego czarodzieja. Jego twarz wydaje siê dziwnie znajoma...
+Wszystkie próby otwarcia drzwi zakoñczy³y siê niepowodzeniem. Byæ mo¿e bêdziemy musieli znaleŸæ inne wejœcie.
+Pokona³eœ iluzjê Fredericka. Brama siê otwiera. Droga wolna.
+
+(92, 43, 1) ***Suweren***
+Nazwa:
+Ghius
+
+(56, 61, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Za drzwiami widzisz groŸnie wygl¹daj¹cego uskrzydlonego demona, który stoi ci na drodze. Potêga takich stworzeñ jest legendarna, a ty nie oœmielasz siê z nim walczyæ. Jak Agar zdo³a³ zdobyæ zaufanie takiej bestii? 	Demon milcza³ przez jakiœ czas, podejrzliwie spogl¹daj¹c na nieproszonych goœci, a w koñcu rykn¹³: 	„Przynieœcie mi relikwie, a pozwolê wam przejœæ!”
+Demon nadal tu jest. Nie powinieneœ go denerwowaæ, jeœli nie ma ku temu dobrego powodu.
+Demon zbli¿a siê do ciebie, chêtny, by odzyskaæ swoje artefakty. Czy chcesz je oddaæ bestii i udaæ siê do laboratorium?
+
+(89, 38, 1) ***Zdarzenie***
+Wiadomoœæ:
+Jaskinie stawa³y siê coraz g³êbsze i robi³o siê coraz ciemniej. Nawet magiczne œwiat³o, które wyczarowa³em, zdawa³o siê gasn¹æ zaledwie kilka ³okci dalej. 		„Coœ jest przed nami” – powiedzia³em. 		„Albo ktoœ”. Agar wypowiedzia³ kilka s³ów i pomacha³ rêkami, rzucaj¹c jakiœ czar. Gdzieœ z g³êbin dobieg³ dziwny dŸwiêk – warczenie, ryki? 	„Mog³em wyczuæ obecnoœæ potworów. Trzy ogromne… grupy i w lochu nie by³o nikogo oprócz nich” – zauwa¿y³. „Niektóre to robaki, ale s¹ te¿ mantykory, behemoty i inne stworzenia… niestety z tej odleg³oœci trudno powiedzieæ które”.
+
+(35, 82, 1) ***Chata proroka***
+Wiadomoœæ:
+W najdalszym k¹cie jaskini spotykasz grupê Ifrytów. Ich przywódca wo³a do ciebie: 	„Wolnoœæ! Czekaliœmy zbyt d³ugo na ten moment. Kiedy Cisza przyby³a do naszego œwiata, odmówiliœmy strze¿enia tego grobowca. Z tego powodu zostaliœmy uwiêzieni w jaskiniach, a Phlegeth zosta³, aby nas strzec. Proszê, pozwól nam pójœæ z tob¹ i w koñcu opuœciæ to miejsce!”
+Czy chcesz zabraæ Ifryty do swojej armii?
+
+(154, 174, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Te drzwi zosta³y magicznie zapieczêtowane przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Te drzwi zosta³y magicznie zapieczêtowane przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+D¿iny zosta³y pokonane, a przejœcie jest otwarte. 	Chcesz przejœæ?
+
+(39, 19, 1) ***Nekromanta***
+Nazwa:
+Trophon
+
+(162, 93, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego elementalistê, Telchiona. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego elementalistê, Telchiona. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Teraz, gdy Telchion zosta³ pokonany, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(169, 91, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(168, 138, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ tropicielkê, Keio. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ tropicielkê, Keio. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Teraz, gdy Keio zosta³a pokonana, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(24, 137, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Ulkumi. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Ulkumi. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Teraz, gdy Ulkumi zosta³ pokonany, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(92, 60, 1) ***Butelka***
+Wiadomoœæ:
+Author of this map has Hoodwink 30 lvl
+
+(154, 149, 1) ***Zdarzenie***
+Wiadomoœæ:
+Mieszkanie w najdalszym k¹cie jaskini wygl¹da³o na opuszczone na pierwszy rzut oka, ale szybko zda³eœ sobie sprawê, ¿e tak nie jest: gdy ju¿ by³eœ w œrodku, znalaz³eœ siê otoczony rega³ami z ksi¹¿kami i fiolkami z miksturami. Alchemik, najwyraŸniej w³aœciciel tego miejsca, pochyla³ siê nad kryszta³ow¹ kul¹, patrz¹c na coœ. 		„Nareszcie!”, powiedzia³. „Obserwowa³em ciê od jakiegoœ czasu i wiedzia³em, ¿e przyjdziesz. Szukasz laboratorium Agara, prawda? Wiem, gdzie ono jest i dobrze znam tego cz³owieka. Jeœli chodzi o laboratorium, kiedyœ by³o stosunkowo ³atwo siê tam dostaæ, ale wszystko siê zmieni³o, gdy zacz¹³ eksperymentowaæ z tymi... robakami. Teraz wiele dróg zosta³o zniszczonych przez osuwiska i mo¿na siê tam dostaæ tylko drog¹ powietrzn¹. Proszê, spójrz na to”, alchemik wskazuje na swoj¹ kryszta³ow¹ kulê. „Mam ci coœ do pokazania”.
+
+(45, 140, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(59, 140, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(64, 166, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(167, 101, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(125, 140, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(104, 137, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(76, 89, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(23, 137, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(16, 160, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(8, 136, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿n¹ nekromantkê, Ioke. Dopóki ona utrzymuje tê barierê, nie ma przejœcia.
+Teraz, gdy Ioke zosta³a pokonana, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(169, 82, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego elementalistê, Telchiona. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego elementalistê, Telchiona. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Teraz, gdy Telchion zosta³ pokonany, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(100, 109, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(79, 96, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(17, 160, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Ulkumi. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Przejœcie do tej czêœci grobowca jest chronione magiczn¹ barier¹, stworzon¹ prawdopodobnie przez potê¿nego ¿ywio³aka, Ulkumi. Dopóki utrzymuje on tê barierê, nie ma przejœcia.
+Teraz, gdy Ulkumi zosta³ pokonany, magiczna bariera zniknê³a. Chcesz przejœæ?
+
+(19, 110, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(91, 106, 1) ***Wielki d¿inn***
+Wiadomoœæ:
+B³yskawica rozb³ys³a, a t³um d¿inów wylecia³ zza rogu wprost na mnie! Wiadomo, ¿e D¿iny i Ifrity s¹ zaprzysiê¿onymi wrogami... Jaka moc mog³aby zmusiæ ich do zjednoczenia siê jako stra¿ników tego grobowca? 	Pozna³em d¿iny w Bracadzie, ale te, które widzia³em teraz... coœ by³o z nimi nie tak. Mia³em zamiar zawo³aæ jednego z nich, ale by³o za póŸno; nie mówi¹c ani s³owa, d¿iny zaatakowa³y.
+
+(103, 107, 1) ***Zdarzenie***
+Wiadomoœæ:
+Nasza wyprawa w g³¹b tajemniczego skarbca trwa³a. Musieliœmy zrobiæ co w naszej mocy, aby ten grobowiec — zbudowany dla kogo? kiedy? — nie sta³ siê równie¿ naszym. Nie tylko robaki i zwykli nieumarli, ale tak¿e wszelkiego rodzaju magiczne stworzenia grasowa³y po ciemnych korytarzach i zakurzonych salach. Niektóre z tych potworów prawdopodobnie przedosta³y siê tutaj z pobliskich jaskiñ gdy zawaliska otworzy³y przejœcia; inne wydawa³y siê byæ tu od zawsze strzeg¹c swoich staro¿ytnych sekretów. Chocia¿ nazywa³em to miejsce grobowcem nie znaleŸliœmy tu ¿adnych rytualnych pochówków. Ci¹gle myœla³em o tym, kto i dlaczego wzniós³ tê majestatyczn¹ podziemn¹ œwi¹tyniê. Jednak mój towarzysz najwyraŸniej nie przejmowa³ siê takimi rzeczami. 		Kastore wydawa³ siê byæ odmienionym cz³owiekiem — niczym m³ody alchemik, któremu jego mistrz w koñcu pozwoli³ u¿ywaæ swoich rur destylacyjnych, odczynników i inkunabu³ów po latach treningu, wci¹¿ biega³ od jednej œciany do drugiej, najwyraŸniej czytaj¹c niezrozumia³e dla mnie pisma. Co jakiœ czas gorliwie przerzuca³ kartki ma³ej ksi¹¿eczki, robi¹c notatki. Wkrótce elf najwyraŸniej zauwa¿y³, ¿e staro¿ytne hieroglify nie wzbudzaj¹ we mnie takiego samego entuzjazmu.
+
+(174, 137, 1) ***Zdarzenie***
+Wiadomoœæ:
+„Powiedz mi, Fredericku, co wiesz o epoce zwanej Czasem Cudów?” – zapyta³ mnie Kastore, gdy eksplorowaliœmy kolejny pokój. 		Jako m³ody cz³owiek, gorliwie studiowa³em nawet najbardziej w¹tpliwe Ÿród³a na ten temat, próbuj¹c znaleŸæ sposób na ponowne odkrycie tajemnic zagubionych w czasie, ale teraz, z jakiegoœ powodu, w mojej g³owie pojawi³ siê akademicki podrêcznik. Wyrecytowa³em tekst, który kiedyœ zapamiêta³em: 		„Czas Cudów by³ czasem, gdy œwiat nie by³ jeszcze podzielony na pañstwa i rz¹dzili nim wszechmocni magowie. Ich nieograniczone moce pozwala³y im tworzyæ potê¿ne artefakty z czystej energii i kontrolowaæ ¿ywio³y sto razy sprawniej ni¿ najpotê¿niejsi elementaliœci ¿yj¹cy obecnie. Ich rz¹dy by³y tak m¹dre i mi³osierne, ¿e œwiat nie zna³ g³odu ani wojny. Najbardziej wyrafinowane z ich magicznych dzie³, zwane Niebiañskimi KuŸniami, mog³y nawet tworzyæ pe³noprawne kopie przedmiotów. Wiele przedmiotów znanych obecnie jako legendarne artefakty, by³o w tamtych czasach zwyk³ym wyposa¿eniem ¿o³nierzy. Czas Cudów trwa³, a¿ pewien cz³owiek, wicekról magów w krainie znanej obecnie jako Dragonsand, na kontynencie Enroth, spowodowa³ niszczycielski kataklizm. Ta katastrofa zmiot³a z powierzchni ziemi dziesi¹tki miast w ci¹gu jednej nocy i zamieni³a ten obszar w zatrute pustkowie. Wszyscy czekali na odpowiedŸ wszechmocnych magów, ale zapad³a cisza. 		Wtedy regenci krain zdali sobie sprawê, ¿e nie ma ju¿ nad nimi najwy¿szej w³adzy i rozpoczê³a siê era niekoñcz¹cych siê wojen, w których stawk¹ by³a w³adza nad resztkami idealnego œwiata. Oczywiœcie œwiat nigdy ju¿ nie by³ taki sam. I pozosta³o tylko Bracaduun, imperium stworzone z dyscypliny i mocy umys³u... „Nie musisz kontynuowaæ”, Kastore machn¹³ d³oni¹. „Nie interesuje mnie to, co jest napisane w ksiêgach bracadiañskich. Gavin Magnus nigdy nie ujawni prawdy, chocia¿ zna j¹ równie dobrze jak ja”. 		Nigdy nie w¹tpi³em, ¿e król Bracady jest pe³en tajemnic i wie wiêcej ni¿ jakikolwiek inny czarodziej w tej krainie. ¯y³ od stuleci i nie wygl¹da³o na to, ¿e zamierza wkrótce zemdleæ. Kr¹¿y³y pog³oski o jego tajnym skarbcu, w którym rzekomo zebrano relikwie z Czasu Cudów po tym, jak cudem przetrwa³ niszczycielski najazd barbarzyñskiego króla Tarnuma, który zniszczy³ imperium Bracaduun. Wcale nie by³o zaskakuj¹ce, ¿e starzec nie chcia³ dzieliæ siê wiedz¹ i robi³ wszystko, co móg³, aby przeszkodziæ uczonym akademii, którzy chcieli znaleŸæ nowe sposoby jej zdobywania. W Bracadzie mo¿na u¿ywaæ tylko metod poznawczych zatwierdzonych przez niego osobiœcie, a wszystko inne jest potêpione lub wyklête. Doœwiadczy³em tego na w³asnej skórze! 		Zapyta³em Kastore: 		„Wiêc stare ksiêgi k³ami¹?” 		„Tak i nie. Raczej nie mówi¹ ca³ej prawdy”. 		„Czy znasz prawdê?” – zapyta³em Kastore. Nasze rozmowy stawa³y siê coraz mniej formalne i nie uwa¿a³em go ju¿ za króla. Naukowca, wynalazcê, nauczyciela... By³em g³odny odpowiedzi na pytania, które drêczy³y mój umys³, i przygotowywa³em siê na now¹ wiedzê.
+
+(122, 177, 1) ***Zdarzenie***
+Wiadomoœæ:
+Kastore postanowi³ kontynuowaæ rozmowê, któr¹ zaczêliœmy o odleg³ej przesz³oœci Enroth: „W³adcy Czasu Cudów nie odpowiedzieli swoim poddanym w godzinie potrzeby... a ty i ja dziœ eksplorujemy ten staro¿ytny grobowiec. Wydaje siê, ¿e nie ma miêdzy nimi ¿adnego zwi¹zku — ale w rzeczywistoœci powód tych wydarzeñ jest ten sam. To Kreeganie, lub jak ich tu nazywaj¹, demony. Choæ te stworzenia nie maj¹ ¿adnego pokrewieñstwa z tymi, które zamieszkuj¹ podziemne g³êbiny i eteryczne plany, a wygl¹dem przypominaj¹ je tylko nieznacznie" – kontynuowa³ Kastore. Nie wyobra¿a³em sobie, ¿e móg³bym mu przerwaæ, choæ chcia³em pytaæ, pytaæ i pytaæ. 		Zabawne, prawda? Kiedyœ sam by³em wszechwiedz¹cym mentorem, dziel¹cym siê tym, co uwa¿a³em za niezrównan¹ wiedzê, podczas gdy ma³a krêc¹ca siê dziewczynka przerywa³a mi co jakiœ czas swoimi g³upimi komentarzami i wyjaœnieniami. Jaki¿ to by³ cudowny czas w naszym ¿yciu… i jaki podwójnie, potrójnie cudowny czas jest teraz. Gdybym tylko móg³ znaleŸæ Henriettê w tych labiryntach – chcia³bym, ¿eby przesz³a ze mn¹ tê œcie¿kê. 		Elf wydawa³ siê rozumieæ, co dzieje siê w mojej g³owie, i czasami milcza³, pozwalaj¹c mojemu umys³owi strawiæ objawienia. 		„Ale Cisza nadesz³a ponad tysi¹c lat temu… Czy ci Kreeganie próbowali ju¿ najechaæ Enroth?” 		„Tym razem im siê nie uda³o. Ale zanim opowiem ci tê czêœæ historii, pozwól, ¿e rozjaœniê ci temat kosmosu i planet. S³uchaj¹c twoich hipotez na temat pochodzenia demonów, zauwa¿y³em: trzymasz siê geocentrycznego systemu œwiata, ale astrologowie i astronomowie od dawna spieraj¹ siê o to, czy S³oñce kr¹¿y wokó³ Enroth, czy jest odwrotnie”. „Ja równie¿ jestem wnikliwym obserwatorem cia³ niebieskich i wiem o tym kilka rzeczy...” Oburzy³em siê, zdaj¹c sobie sprawê, do czego zmierza ta rozmowa, ale zamkn¹³em usta, gdy zobaczy³em, jak twarz Kastore'a wykrzywia siê w œwietle pochodni. 		„Planeta kr¹¿y wokó³ s³oñca. To jedyna prawda. Podobnie jak fakt, ¿e tam na niebie ka¿da gwiazda, a¿ do ostatniej, jest równie¿ s³oñcem. Wiele z tych s³oñc ma równie¿ planety kr¹¿¹ce wokó³ tych cia³ niebieskich. Mog³abym ci to teraz udowodniæ, gdybyœmy nie byli pod ziemi¹... chocia¿ spl¹tane uroki tych miejsc s¹ tak zdradliwe, nawet ja mia³abym trudnoœci z okreœleniem, kiedy nadejdzie nastêpna noc. Jak d³ugo tu jesteœmy — dni? tygodnie?” 		„Wydaje siê, ¿e miesi¹ce” — dokoñczy³am jego tok myœlenia. Kastore zmarszczy³ brwi i zapisa³ coœ w notesie.
+
+(130, 104, 1) ***Zdarzenie***
+Wiadomoœæ:
+Nasza podró¿ przez katakumby trwa³a dalej. Trudno by³o poj¹æ, ile czasu minê³o; wydawa³o siê, ¿e nie ma koñca. Ci¹gle zasypywa³em Kastore pytaniami. Nie na wszystkie otrzymywa³em odpowiedzi, ale nawet urywane fragmenty wiedzy, którymi siê ze mn¹ dzieli³, wystarczy³y, aby zape³niæ wiele bia³ych plam w moim obrazie œwiata. W koñcu zdecydowa³em siê zadaæ mu najwa¿niejsze pytanie: 		„Sk¹d, u licha, wiesz to wszystko, Kastore? Czy s¹ jakieœ staro¿ytne manuskrypty — czy w³ama³eœ siê do skarbca Gavina?” 		„Mia³em swój udzia³ w nieprzyjemnych doœwiadczeniach ze s³ugusami Magnusa; ale nie, Ÿród³o mojej wiedzy jest inne. Jesteœ bystrym facetem — musisz ju¿ mieæ hipotezê tak szalon¹, ¿e nie oœmielasz siê nawet powa¿nie o niej myœleæ, a co dopiero o niej mówiæ. Ale najpierw... powiedz mi, Fredericku, czy jesteœ gotowy do³¹czyæ do mnie jako uczeñ? Czy jesteœ gotów zaufaæ mi i zostaæ moim asystentem? Czy jesteœ gotów otworzyæ swój umys³ na moj¹ wiedzê?” 		Zauwa¿y³em, ¿e prawa rêka Kastore zamar³a na biodrze z zabójcz¹ broni¹, tak jak u burtoñskich ³owców nagród, gotowa do strza³u w chwili, gdy rozmowa skrêci w z³ym kierunku. 		„Nie ma takiej potrzeby, Mistrzu” – skin¹³em g³ow¹, by pokazaæ, ¿e zauwa¿y³em jego ruch. „Ju¿ dawno podj¹³em decyzjê. Przyjmujê twoj¹ ofertê”. 		Nie by³em pewien, czy naprawdê wiem, w co siê pakujê, ale zawsze chcia³em uczyæ siê od najlepszych. Wielki Khazandar by³ kiedyœ moim bohaterem, a ja ³apa³em cz¹stkê jego m¹droœci niczym krople deszczu na pustyni. Elf przede mn¹ by³ kolejnym takim. I nawet gdybym odmówi³, by³o oczywiste, ¿e po takich objawieniach król Deyja – lub ktokolwiek to by³ – ledwo by mnie puœci³; a ¿ycie Henrietty, a mo¿e nawet los ca³ego m³odego narodu pustkowi, zale¿a³y ode mnie. Zobaczy³em, jak Kastore uœmiecha siê w bladym œwietle emitowanym przez fasetowane minera³y zdobi¹ce sklepienia sali. 		„Wiêc wiedz to, Fredericku: przyby³em do Enroth z innej wyspy-œwiata. Nazywa siê Terra. Nasz zespó³ odwa¿nych podró¿ników prze¿y³ tam mnóstwo przygód, a ja dozna³em tam wielu objawieñ. By³o nas oœmiu; przybyliœmy tutaj na statku kosmicznym, który znaleŸliœmy w g³êbinach oceanu Terran. Niektórzy z moich by³ych towarzyszy s³u¿yli Gavinowi, ale inni pozostali u mojego boku. Podró¿uj¹c po Enroth, znalaz³em niemal nienaruszon¹ Niebiañsk¹ KuŸniê i musia³em zostaæ w³adc¹ Deyji, aby j¹ zdobyæ. WyobraŸ sobie moj¹ radoœæ, gdy dowiedzia³em siê, ¿e jeden z tych wielkich artefaktów przetrwa³ epokê szalonych niszczycieli! Niestety, minê³o zbyt wiele lat; przez ca³y ten czas Niebiañska KuŸnia sta³a bez opieki, brakowa³o jej konserwacji, a teraz jest wy³¹czona z u¿ytku. Jak ju¿ zauwa¿y³eœ, nie narodzi³a siê z czyjegoœ magicznego objawienia; jest to z³o¿ony, ale zrozumia³y mechanizm, który kryje wiele tajemnic. Chcê, ¿ebyœ pomóg³ mi je wykorzystaæ, Fredericku. Twoja umiejêtnoœæ myœlenia nieszablonowego, twoje eksperymenty z ³¹czeniem technologii i tego, co uwa¿asz za magiê w niestrudzonym sercu twojego sterowca, zrobi³y na mnie wra¿enie. Razem przywrócimy temu œwiatu wielkoœæ, moc i utracon¹ wiedzê! 		Od jutra bêdziemy nieustannie d¹¿yæ do tego celu i nic nie stanie nam na drodze. Tymczasem... ChodŸmy uratowaæ twojego przyjaciela. W naszym przedsiêwziêciu ka¿dy lojalny s³uga bêdzie wielk¹ pomoc¹”.
+
+(112, 165, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Ankh.
+Ta czêœæ grobowca jest dla ciebie jeszcze zamkniêta. Musisz poszukaæ innej drogi.
+U¿ywaj¹c Amuletu ¯ycia mo¿esz otworzyæ bramê, ale straci ona swoj¹ moc. 	Chcesz wejœæ?
+
+(111, 164, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Upiorne Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Droga do tej czêœci grobowca zosta³a magicznie zamkniêta przez stra¿ników po tym, jak w³ama³y siê Upiorne Smoki. Byæ mo¿e jeœli wypêdzisz potwory, bariera zostanie usuniêta.
+Smoki zniknê³y, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(21, 137, 1) ***Zdarzenie***
+Wiadomoœæ:
+„Rzeczywiœcie, wiem coœ o Czasie Cudów, a ten grobowiec jest nierozerwalnie zwi¹zany z tymi czasami. Myœlê, ¿e mogê siê tym z wami podzieliæ. S³uchajcie... Ci, którzy rz¹dzili œwiatem w Czasie Cudów... nie, nie byli magami, ale byli mistrzami magii. I nie tylko magii: znali wszystkie prawa wszechœwiata, a ich wynalazki by³y eleganckie i doskona³e — twoi koledzy z Burton, biegli w tworzeniu mechanizmów, nie byliby w stanie odró¿niæ ich efektów od najpotê¿niejszych czarów. Niebiañskie KuŸnie, o których wspomnia³eœ, by³y cudem techniki — i zosta³y stworzone bez kropli magii. Ich mo¿liwoœci by³y o wiele wiêksze ni¿ po prostu tworzenie kopii ró¿nych rzeczy. Œwiat w tamtych czasach osi¹gn¹³ wy¿yny, których ¿aden kraj prawdopodobnie nie osi¹gnie ponownie w najbli¿szym czasie, zw³aszcza bez ludzi takich jak ty i ja, którzy ceni¹ prawdê i naukê”. 		By³em zszokowany. Cywilizacja, której osi¹gniêcia w nauce i technologii by³y porównywalne z magi¹, ale nie by³y? Cywilizacja, która mia³a odpowiedzi na wszystkie pytania wszechœwiata? Co mog³o siê z tym staæ i dlaczego nasz dzisiejszy œwiat jest tak... nêdzny w porównaniu z tym obrazkiem z odleg³ej przesz³oœci? 		„A potem nadesz³a Cisza. Tak, to prawda: wszystko rozpad³o siê w jednej chwili. Zawsze dzieje siê w jednej chwili... Ale przyczyn¹ nie by³a jakaœ eksplozja, nawet taka, która mog³aby zmia¿d¿yæ ca³e fortece i doprowadziæ do wrzenia jezior. W³adcy nie odpowiedzieli... poniewa¿ nie wiedzieli, ¿e zostali wezwani. I nie mogli wiedzieæ, poniewa¿ utracono komunikacjê. A potem, przez setki lat walk, ci, którzy kiedyœ ¿yli w dobrobycie i pokoju, zniszczyli swoj¹ w³asn¹ przysz³oœæ. Z ka¿d¹ now¹ wojn¹ wiedza by³a tracona, poniewa¿ ci, którzy j¹ posiadali, umierali. Staro¿ytne miasta zosta³y zamienione w gruzy, a Niebiañskie KuŸnie popad³y w ruinê... Nawet pozornie bezdenne arsena³y i magazyny ostatecznie zosta³y wyczerpane, ale ludzie nie mogli sobie pomóc. Chwycili ³uki i miecze. Resztê znasz. Wieki barbarzyñstwa i rozk³adu”. 		„Wiêc co sprawi³o, ¿e w³adcy milczeli? Co uniemo¿liwi³o nawi¹zanie z nimi kontaktu?” 		Kastore uœmiechn¹³ siê enigmatycznie na moje pytanie. Zrozumia³em, ¿e dostanê odpowiedzi, ale dopiero wtedy, gdy uzna, ¿e nadszed³ czas.
+
+(13, 147, 1) ***Zdarzenie***
+Wiadomoœæ:
+...Przed mn¹ wznosi³a siê samotna kolumna, jedyna rzecz, która pozosta³a z niegdyœ majestatycznej budowli. Kolumna by³a ozdobiona dziesi¹tkami dziwnych symboli, których nawet ja nie rozumia³em — a widzia³em napisy w niezliczonych staro¿ytnych jêzykach, gdy by³em w Bracadian Academy! 		Kastore, który do tej pory pod¹¿a³ za mn¹ w milczeniu, unikaj¹c bitew, nagle zmarszczy³ brwi. Zacz¹³ czytaæ tekst na kolumnie, a potem, zanim mog³em cokolwiek zrozumieæ, z³apa³ mnie za ramiona i odrzuci³ na bok. I to z dobrego powodu, jak siê okaza³o. Z ciemnoœci wynurzy³ siê na mnie ogromny potwór — jego g³owa wygl¹da³a jak g³owa psa lub szakala, ale bieg³ na dwóch nogach. Œciska³ w d³oniach dziwnie wygl¹daj¹c¹ broñ, unosz¹c j¹ do ataku. 		Wypuœci³em piorun w stronê stworzenia, ale nie wydawa³o siê to mieæ ¿adnego efektu. Gor¹czkowo myœla³em, co jeszcze zrobiæ, zanim z przera¿eniem zda³em sobie sprawê, ¿e nie mam ju¿ czasu na nic wiêcej; Nastêpnie Kastore wyci¹gn¹³ tajemniczy instrument zza pasa i wycelowa³ w bestiê. Oœlepiaj¹co jaskrawozielony promieñ uderzy³ w giganta o psiej g³owie, a on pad³ martwy na miejscu. Przez chwilê le¿a³em oszo³omiony na zakurzonej pod³odze, przenosz¹c wzrok z Kastore na pokonanego potwora. 		Z typowym obojêtnym wyrazem twarzy elf schowa³ swoj¹ dziwn¹ broñ z powrotem za pas, po czym gestem da³ mi znak, ¿ebym poszed³ za nim. Widzia³em, ¿e ten instrument jest zasadniczo podobny do naszych pistoletów lub pistoletów piratów z Regnan. Mia³ uchwyt, spust, prostok¹tne podobieñstwo do lufy... ale ani jednej ruchomej czêœci, która sugerowa³aby zasadê jego dzia³ania! Ten przeroœniêty gnoll po prostu strz¹sn¹³ piorun, w który w³o¿y³em ca³¹ swoj¹ znaczn¹ si³ê, a pojedynczy strza³ z tej broni powali³ go jak muchê... Wiêc jak potê¿ny jest?! Czy to rzeczywiœcie artefakt z zapomnianej epoki? 		Czy to dowód, ¿e wszystko, co powiedzia³ Kastore, by³o prawd¹?
+
+(123, 177, 1) ***Zdarzenie***
+Wiadomoœæ:
+„WyobraŸ sobie te odleg³e œwiaty jako wyspy rozdzielone rozleg³ym oceanem gwiazd. Dawno temu, nawet nie wiem kiedy i sk¹d, w tym oceanie pojawi³y siê statki potê¿nej, staro¿ytnej cywilizacji. Ró¿ne Ÿród³a maj¹ dla nich ró¿ne nazwy: Bogowie, Twórcy, Staro¿ytni... Ich miêdzygwiezdne imperium rozros³o siê, poch³aniaj¹c œwiaty, tak jak morskie panowanie poch³ania niezamieszkane wyspy, buduj¹c na nich swoje osady i fortece. Enroth jest tylko jedn¹ z tych wysp, a ten grobowiec jest ich statkiem... nie, tylko ma³ym fragmentem jednego z nich. Staro¿ytni maj¹ inne narzêdzia, które pozwalaj¹ im przekroczyæ otch³añ pustki. W pewnym sensie s¹ nawet bardziej wydajni ni¿ statki. Bez w¹tpienia natkn¹³eœ siê na portale”. 		„Oczywiœcie, ¿e tak! Sztuka umieszczania portali to jedna z dyscyplin nauczanych w Akademii Magii Bracadan. Te portale zapewniaj¹ Bracadzie po³¹czenie z trudno dostêpnymi wie¿ami i pa³acami poza chmurami, do których prawie nie da siê dotrzeæ normalnymi œrodkami. Ale im dalej od siebie znajduj¹ siê dwa punkty, tym trudniej stworzyæ miêdzy nimi stabilny portal. 		„To prawda: zasada jest taka sama, ale te bramy pokrywaj¹ niewyobra¿alne odleg³oœci na skalê kosmiczn¹. Staro¿ytni pokryli swoje œwiaty wyspiarskie sieci¹ portali, które sta³y siê czêœci¹ wielkiej, wi¹¿¹cej Sieci Œwiatów. Dopóki kolonie by³y po³¹czone, rozwija³y siê. A potem przyszli Kreeganie. 	Byli silni, dysponowali zaawansowan¹ technologi¹ i charakteryzowali siê niezwyk³¹ spójnoœci¹: umys³em zbiorowym podobnym do mrówek. Rozmna¿ali siê równie¿ nieustannie i niewiarygodnie szybko. Coraz wiêcej zasobów by³o potrzebnych do zaopatrzenia ich z³owrogich kolonii i uli. 		Wiêc Kreeganie wypowiedzieli wojnê Staro¿ytnym, mimo ¿e Staro¿ytni próbowali najpierw z nimi negocjowaæ. Podobnie jak piraci, diab³y pustoszy³y œwiaty, a gdy ju¿ spl¹drowa³y i ich zabi³y, robi³y to samo gdzie indziej. Maszyny, których Kreeganie u¿ywaj¹ do przemieszczania siê ze œwiata do œwiata, wygl¹daj¹ jak cia³a niebieskie”, przypomnia³em sobie wnêtrza meteorytów, które widzia³em tamtego pamiêtnego dnia! „Ale oczywiœcie, jak ka¿dy statek, s¹ powolne w porównaniu do podró¿y przez portal. Kreeganie znaj¹ zasadê teleportacji, mog¹ przywo³ywaæ istoty, maj¹ dostêp do innych planów istnienia… Ale nie opanowali sztuki podró¿owania miêdzy œwiatami tak doskonale jak Staro¿ytni”. 		Kastore zamilk³. Spojrza³em na niego i zda³em sobie sprawê, ¿e spodziewa³ siê us³yszeæ moj¹ konkluzjê. Ostro¿nie zacz¹³em wy³awiaæ ca³¹ myœl z oceanu za³o¿eñ i hipotez: 		„To, co siê wydarzy³o, by³o takie, ¿e Kreeganie zaatakowali nie tylko ró¿ne œwiaty, ale tak¿e sam system portali stworzony przez Staro¿ytnych… W ten sposób utracono kontakt miêdzy planetami”. 		„To prawda. Kreeganie zinfiltrowali system bram miêdzy œwiatami. Staro¿ytni byli w stanie przeciwdzia³aæ temu zagro¿eniu, ale ostatecznie jednoœæ sieci portali zosta³a zak³ócona. To uszkodzi³o niewidzialne nici, które trzyma³y go razem i przenios³y g³os i wskazówki Staro¿ytnych do niezliczonych kolonii. Sieæ Œwiatów zosta³a rozdarta. I tak zaczê³o siê to, co wiele planet nazywa Cisz¹ lub innymi podobnymi s³owami. 		„Osieroconym koloniom uda³o siê odkryæ, ¿e nie maj¹ ju¿ wy¿szej mocy, a wicekrólowie wdali siê w krwawe wojny wewnêtrzne” – dokoñczy³em. 		Ca³y mój œwiat stan¹³ na g³owie i rozszerzy³ siê z dnia na dzieñ do rozmiarów nieba, a mo¿e nawet dalej. Potrzebowa³em czasu, ¿eby siê nad tym zastanowiæ.
+
+(126, 32, 1) ***Zdarzenie***
+Wiadomoœæ:
+Ostro¿nie st¹paliœmy po du¿ym pomieszczeniu. Kastore przeczyta³ napis przy wejœciu: „Sala Iluzji”. By³o tu dziwnie cicho — widzieliœmy d¿iny, ifrity i inne potwory w innych halach, ale ta by³a zaskakuj¹co pusta. Rozgl¹da³em siê nerwowo. 		W mgnieniu oka wszystko siê zmieni³o. Z g³êbi grobowca dobieg³ dziwny dudni¹cy dŸwiêk, a chwilê póŸniej ifrici i Kreeganie pojawili siê przede mn¹: dziesi¹tki, dziesi¹tki ogromnych, czerwonoskórych stworzeñ! Jedno z nich wygl¹da³o znajomo... Oczywiœcie! To by³ ten sam Ifrit, z którym musieliœmy walczyæ, zanim uciekliœmy z Eeofol. Ale jak...? Ach, racja! To s¹ iluzje, przed którymi mnie ostrzegano. Te widma to coœ wiêcej ni¿ gra œwiat³a i cienia. Ich kosy i bicze mog¹ nam zaszkodziæ równie dobrze, jak prawdziwe.
+
+(6, 49, 1) ***Zdarzenie***
+Wiadomoœæ:
+Agar. Czego spodziewa³em siê po spotkaniu z tym cz³owiekiem? Trudno powiedzieæ. Kr¹¿y³y o nim najró¿niejsze plotki, niektóre przecz¹ce innym. Lata temu s³ysza³em, ¿e wkrótce po wojnach sukcesyjnych zamieni³ siê w lisza. Potem us³ysza³em, ¿e zosta³ zabity podczas eksperymentu w swoim laboratorium. S³ysza³em te¿ bardzo naturalistyczn¹ opowieœæ, ¿e Agar zosta³ zagryziony na œmieræ przez w³asne potwory. Wed³ug innego wiarygodnego Ÿród³a, Agar poleg³ w turnieju czarodziejów. W koñcu nadesz³a wieœæ, ¿e Agar przyby³ do Jadame ca³y i zdrowy... 		Wœród czarodziejów i rzemieœlników Burtona istnia³o wiele spekulacji na temat robaków piaskowych. Niektórzy twierdzili, ¿e Agar zacz¹³ eksperymentowaæ na dzikich robakach, a obiekty wymknê³y siê spod kontroli. Inni nalegali, ¿e celowo wysy³a³ robaki do osad w celach znanych tylko jemu. 		A teraz Agar stan¹³ przede mn¹. Czarodziej by³ wyraŸnie tak ¿ywy, jak to tylko mo¿liwe — przynajmniej nie wygl¹da³ jak lisz. Mai³ rozbiegane oczy, a na twarzy drga³ mu nerwowy uœmiech. Wydawa³ siê niezdecydowany, czy porozmawiaæ ze mn¹, czy czmychn¹æ. 		„Czy oni... czy oni nadal tu s¹?” — zapyta³, patrz¹c mi w oczy, potem Kastore, a potem znowu w moje. 		„Robaki? Te w laboratorium? Zabite”. 		Agar westchn¹³ z ulg¹ cz³owieka, którego wyci¹gniêto z pêtli i zrzucono z rusztowania. 		„Gdybym tylko wiedzia³, jak skoñczy siê ten nowy eksperyment... Nigdy bym go nie zacz¹³. Na pocz¹tku wszystko sz³o œwietnie. Pierwsza partia Olgoj-Chorchoj wypad³a znakomicie: ich ¿ar³ocznoœæ by³a godna podziwu, a ich zêby by³y twardsze ni¿ jakikolwiek naturalnie wystêpuj¹cy materia³, jaki znam. A potem... potem... wydawa³o mi siê, ¿e ktoœ w³ama³ siê do mojej pracy i wprowadzi³ do niej chaos. W nowym pokoleniu pojawi³ siê robak innego rodzaju — nazwa³em go, a raczej j¹, Matriarch¹. Uwa¿a³em, ¿e to nic szczególnego, po prostu nowy etap przyspieszonej ewolucji, coœ, co od dawna by³o moim chlebem powszednim... Ale wola Matriarchy by³a silniejsza dla stworzeñ ni¿ moja. Wiêkszoœæ jej pokolenia ju¿ mnie nie s³ucha³a, a teraz zaczyna³a przejmowaæ kontrolê równie¿ nad wczeœniejszymi pokoleniami. Uda³o mi siê utrzymaæ czêœæ z nich pod swoj¹ kontrol¹, wk³adaj¹c w to szalone iloœci magii, ale to nie by³o zbyt pomocne — nie by³y wystarczaj¹co silne, aby pomóc mi wydostaæ siê z laboratorium! Gdybyœ wiedzia³, ile k³opotów sprawi³y mi te robaki... 		"Choæby dla ciebie" — powiedzia³em z³oœliwie. "Twoje robaki zamieni³y okolice laboratorium w piek³o. Osuwiska niszcz¹ górskie drogi. Olgoj-Chorchoj atakuj¹ kopalnie i osiedla graniczne, a ich kopanie powoduje trzêsienia ziemi, które siej¹ spustoszenie nawet w miejscach, w których nigdy nie pojawiaj¹ siê nad ziemi¹". 		Agar nagle siê wyprostowa³ i spojrza³ na mnie ostro¿nie, mru¿¹c oczy. 		„M³ody cz³owieku... Jesteœ taki wœciek³y — prawie uwierzy³em, ¿e przeby³eœ ca³¹ tê drogê tylko po to, ¿eby mnie odszukaæ i wytkn¹æ mi moj¹ nieostro¿noœæ. A teraz powiedz, co myœlisz. Co siê sta³o? Czego naprawdê chcesz?” 		„Có¿, ta historia rzeczywiœcie by³a o tobie, kiedy siê zaczyna³a. Niedawno z Burton wyruszy³a ekspedycja, ¿eby ciê odszukaæ. A potem zniknêli. NajwyraŸniej zgubili siê w podziemnych przejœciach i zawêdrowali do staro¿ytnego grobowca, ale robaki zniszczy³y przejœcie do pó³nocnej czêœci grobowca, wiêc teraz nasi towarzysze s¹ odciêci od œwiata zewnêtrznego”. 		„Robaki... Obawiam siê, ¿e jedynym sposobem na powstrzymanie ich rozprzestrzeniania siê jest zniszczenie Matriarchini. Nie widzê innego wyjœcia. Poza tym nie mogê kontynuowaæ badañ, dopóki ona ¿yje, a nie mam zwyczaju porzucaæ pracy w po³owie. Przysiêgam, ¿e jeszcze uœciœniesz d³oñ starego Agara, kiedy poka¿ê ci, co moje ma³e robaki potrafi¹ zrobiæ, kiedy nie maj¹ nikogo innego w g³owie! A co do twojej wyprawy... Chyba wiem, o którym grobowcu mówisz. S¹ zalane jaskinie obok mojego laboratorium, które prowadz¹ na pó³noc, do jaskiñ grobowych i kolejnego wejœcia — za nim jest dziwna sala, Sala Iluzji. Kilka razy próbowa³em przejœæ przez te jaskinie, ale bezskutecznie — s¹ wype³nione dziwn¹, gêst¹ mg³¹, przez któr¹ niezwykle trudno siê przedzieraæ. Ale jeœli nalegasz... W moim laboratorium zosta³y dwa magiczne zwoje, które bardzo nam siê przydadz¹”. 		Po tych s³owach Agar gestem nakaza³ mi pójœæ za nim w stronê laboratorium.
+
+(53, 174, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie czaszki.
+Skarb, który jest ukryty za tymi drzwiami, nie jest jeszcze dla ciebie dostêpny.
+U¿ywaj¹c Amuletu Œmierci mo¿esz otworzyæ drzwi, ale strac¹ one swoj¹ moc. 	Chcesz wejœæ? 
+
+(73, 173, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie czaszki.
+Skarb, który jest ukryty za tymi drzwiami, nie jest jeszcze dla ciebie dostêpny.
+U¿ywaj¹c Amuletu Œmierci mo¿esz otworzyæ drzwi, ale strac¹ one swoj¹ moc. 	Chcesz wejœæ? 
+
+(75, 174, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Brama prowadz¹ca w g³¹b grobowca jest szczelnie zamkniêta, a ty nie mo¿esz jej otworzyæ. Jednak gdy przyjrzysz siê jej bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie czaszki.
+Skarb, który jest ukryty za tymi drzwiami, nie jest jeszcze dla ciebie dostêpny.
+U¿ywaj¹c Amuletu Œmierci mo¿esz otworzyæ drzwi, ale strac¹ one swoj¹ moc. 	Chcesz wejœæ? 
+
+(140, 8, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Drzwi prowadz¹ce do drugiej Sali Iluzji s¹ szczelnie zamkniête, a twoje próby ich otwarcia s¹ bezskuteczne. Jednak gdy przyjrzysz siê drzwiom bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Emblematu Wiedzy.
+Te drzwi s¹ dla ciebie zamkniête. Mo¿e Emblemat Wiedzy mo¿e je otworzyæ?
+Emblemat Wiedzy mo¿e otworzyæ drzwi, ale bêdziesz musia³ poœwiêciæ artefakt. 	Czy chcesz przejœæ?
+
+(145, 8, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Drzwi prowadz¹ce do drugiej Sali Iluzji s¹ szczelnie zamkniête, a twoje próby ich otwarcia s¹ bezskuteczne. Jednak gdy przyjrzysz siê drzwiom bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Emblematu Wiedzy.
+Te drzwi s¹ dla ciebie zamkniête. Mo¿e Emblemat Wiedzy mo¿e je otworzyæ?
+Emblemat Wiedzy mo¿e otworzyæ drzwi, ale bêdziesz musia³ poœwiêciæ artefakt. 	Czy chcesz przejœæ?
+
+(127, 32, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Drzwi prowadz¹ce do drugiej Sali Iluzji s¹ szczelnie zamkniête, a twoje próby ich otwarcia s¹ bezskuteczne. Jednak gdy przyjrzysz siê drzwiom bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Emblematu Wiedzy.
+Te drzwi s¹ dla ciebie zamkniête. Mo¿e Emblemat Wiedzy mo¿e je otworzyæ?
+Emblemat Wiedzy mo¿e otworzyæ drzwi, ale bêdziesz musia³ poœwiêciæ artefakt.	 Czy chcesz przejœæ?
+
+(164, 30, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Drzwi prowadz¹ce do drugiej Sali Iluzji s¹ szczelnie zamkniête, a twoje próby ich otwarcia s¹ bezskuteczne. Jednak gdy przyjrzysz siê drzwiom bli¿ej, zauwa¿ysz niezwyk³¹ dziurkê od klucza w kszta³cie Emblematu Wiedzy.
+Te drzwi s¹ dla ciebie zamkniête. Mo¿e Emblemat Wiedzy mo¿e je otworzyæ?
+Emblemat Wiedzy mo¿e otworzyæ drzwi, ale bêdziesz musia³ poœwiêciæ artefakt. 	Czy chcesz przejœæ?
+
+(91, 69, 1) ***Stra¿nik misji***
+Wiadomoœæ:
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+Droga do tej czêœci grobowca zosta³a magicznie zapieczêtowana przez Wielkie D¿iny. Dopóki s¹ w pobli¿u, nie da siê otworzyæ tej bramy.
+D¿iny zosta³y pokonane, a przejœcie do tej czêœci grobowca jest otwarte. 	Chcesz przejœæ?
+
+(154, 166, 1) ***Zdarzenie***
+Wiadomoœæ:
+
+
+(144, 164, 1) ***Puszka Pandory***
+Wiadomoœæ:
+
+
+(157, 166, 1) ***Kapitan***
+Nazwa:
+Ascalabus
+
+===== Koniec pliku =====

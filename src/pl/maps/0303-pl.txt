@@ -1,0 +1,118 @@
+===== Nazwa mapy =====
+Róg Otch³ani
+
+===== Opis mapy =====
+Bidley, Jeremy i Tark musz¹ pokonaæ Casmetrê, zanim u¿yje Rogu Otch³ani. Bohaterowie ograniczeni s¹ do 24. poziomu doœwiadczenia. Bidley, Jeremy i Tark przejd¹ do ostatniego scenariusza.
+
+===== Pog³oski =====
+
+===== Zdarzenia czasowe =====
+
+Nazwa:
+Dzieñ 1-1
+Wiadomoœæ:
+Jeremy wszed³ do „Czarnego Znaku”, szybko siê rozejrza³, roz³o¿y³ rêce i krzykn¹³ radoœnie.		"Mój braciszek!"		Bidley nie mia³ czasu na reakcjê i znalaz³ siê w objêciach krewniaka. 		"Jeremy! Do stu piorunów! Sk¹d przybywasz? W³aœnie mia³em zacz¹æ ciê szukaæ."		"Gwiazda przewodnia wskaza³a mi drogê." - odpar³ beztrosko Jeremy wypuszczaj¹c brata z uœcisku. 		"Jaka gwiazda?" - zmarszczy³ brwi Bidley.		"Niewa¿ne. I tak ju¿ zniknê³a. Nie uwierzysz, gdzie by³em! Plemiona kanibali, handlarze niewolników, ta kukurydza..."		"Farciarz! Ja trafi³em do Wymiaru Wody.” 		"Co tam robi³eœ?" - zapyta³ Jeremy podejrzliwie.		"¯eglowa³em." - Bidley odpowiedzia³ spokojnie. 		Piraci zasiedli do stolika i opowiadali o swoich przygodach, nadrabiaj¹c stracony czas. Koniec koñców - temat wreszcie zszed³ na sprawczyniê ich roz³¹ki i tu³aczek.		"Casmetra." - westchn¹³ Bidley. - "Ta wiedŸma. Zwiod³a nas wszystkich. Zdradzi³a nawet swojego najemnika. To by³... Dagren?"	 	"Dargem." - poprawi³ brat. - "Ale Jeremy Albatross nigdy nie zapomina tych, którzy mu podpadli! Casmetra zap³aci za swoje z³e czyny."	 	"Co ty nie powiesz!" - Bidley uœmiechn¹³ siê i poci¹gn¹³ trochê wina. -  "Myœla³em, ¿e byliœcie sobie bliscy."		"Tak, ale co mog³em zrobiæ?!" - Jeremy podniós³ bezradnie rêce. - "Zawsze dawa³em siê omotaæ kobiecemu piêknu! Nie jestem tak okrutny jak mój brat, którego nie interesuj¹ ani kobiety, ani mê¿czyŸni, ani syreny. Nie myœla³eœ o pos³udze w Œwi¹tyni S³oñca?" - zachichota³.		"Zastanowiê siê nad tym jak tylko osobiœcie i w³asnorêcznie uduszê Casmetrê." - odpowiedzia³ ch³odno starszy brat.		"Wiesz co jest najbardziej zastanawiaj¹ce?" - powiedzia³ Jeremy uderzaj¹c w powa¿niejszy ton i koñcz¹c z kpinami. - "Ona siê nie ukrywa. Ta wiedŸma og³osi³a ca³ej Regnie, ¿e Róg Otch³ani znajduje siê w jej posiadaniu. Myœlê, ¿e nawet Straszny Pirat Stanley ukrywa siê w swojej posiad³oœci, udaj¹c, ¿e nic specjalnego siê nie wydarzy³o. Poza tym uda³o mi siê zebraæ trochê informacji..."		"Boj¹ siê jej." - przytakn¹³ Bidley. - "Ca³e przeklête Imperium Bezkresnego Oceanu k³adzie uszy po sobie, niczym szczur wiêzienny czekaj¹cy na to, co niechybnie nadejdzie. Nie mam pojêcia do czego potrzebny jest jej Róg i dlaczego tak uparcie do niego d¹¿y³a, ale teraz musimy go jej odebraæ. Nie tylko dlatego, ¿e jest mó... nasz, ale równie¿ dlatego, ¿e nie podoba mi siê to, co ta wiedŸma mo¿e planowaæ!"
+
+Nazwa:
+Dzieñ 1-2
+Wiadomoœæ:
+W rzeczy samej Casmetra nie ukrywa³a siê i ka¿dy pijany marynarz na Regnie wiedzia³, ¿e osiad³a w swojej rezydencji wraz z Rogiem Otch³ani. Tark, stary przyjaciel Bidleya i Jeremy'ego, szpiegowa³ j¹ ju¿ od jakiegoœ czasu. Od chwili, gdy fort Dargema run¹³, ³uskoskóry wierzy³, ¿e piraci nie umarli i kiedyœ wróc¹ by dokonaæ zemsty. I wcale siê nie myli³.		Jedyny problem polega³ na tym, ¿e wyspa Casmetry by³a strze¿ona przez du¿¹ grupê jej zbirów. Znajdowa³y siê tutaj co najmniej cztery zamki, lecz nie wiadomo by³o, w którym z nich dok³adnie rezyduje zdrajczyni. Bidley, Jeremy i Tark zacumowali w ró¿nych czêœciach wyspy, zbudowali obozy i przygotowywali siê do ataku na ziemie potê¿nej wiedŸmy.
+
+Nazwa:
+AI stuff
+Wiadomoœæ:
+
+
+Nazwa:
+Dzieñ 2
+Wiadomoœæ:
+Jeden ze zwiadowców Tarka wróci³ z informacjami. Od pewnego czasu kr¹¿y plotka, ¿e Casmetra nie tylko jest w posiadaniu Rogu Otch³ani, ale tak¿e chce go do czegoœ wykorzystaæ, przeprowadziæ jakiœ rytua³. Jeœli to prawda, musisz j¹ powstrzymaæ, zanim jej siê to uda, poniewa¿ nikt nie wie, co w³aœciwie robi i w jakim celu. 
+
+Nazwa:
+Dzieñ 5
+Wiadomoœæ:
+"Hej, braciszku, g³owa do góry! Wkrótce dorwiemy tê wiedŸmê i zap³aci za wszystko!" - powiedzia³ radoœnie Jeremy.		"Tylko jeœli zd¹¿ymy na czas." - Bidley zmarszczy³ brwi. - "Nie bez powodu mam obawy. Ona wie coœ o Rogu, czego my nie wiemy."		"Zatrudnimy nekromantê, ¿eby przes³ucha³ jej zw³oki!" - m³odszy brat ponuro rykn¹³ œmiechem i strzeli³ z pistoletu w powietrze, manifestuj¹c swój m³odzieñcz¹ zuchwa³oœæ.
+
+Nazwa:
+Dzieñ 7
+Wiadomoœæ:
+W koñcu, wróci³ kolejny zwiadowca. Dowiedzia³ siê, ¿e pod wysp¹ znajduje siê tajemne przejœcie wiod¹ce do du¿ej jaskini. Prawdopodobnie tam trzeba poszukaæ Casmetry. Musisz tylko znaleŸæ sposób na przedostanie siê do tej ukrytej jamy.
+
+Nazwa:
+Dzieñ 12
+Wiadomoœæ:
+To by³ dziwny dzieñ. Morze pokry³o siê falami, które zniknê³y równie szybko, jak siê pojawi³y. To mog³o byæ tylko zjawisko natury, ale wiêkszoœæ ludzi, w tym Bidley i Jeremy, obwinia o to czarownicê i jej uroki. 
+
+Nazwa:
+Dzieñ 30
+Wiadomoœæ:
+Wygl¹da na to, ¿e obawy siê jednak potwierdzi³y! Setki ludzi z okolicznych wysp by³o œwiadkami drgañ i ryku morza. Zupe³nie tak, jakby chcia³o wyskoczyæ na brzegi, ale ostatecznie zmieni³o zdanie.		"Do kroæset!" - zakl¹³ Bidley. - "Lepiej siê pospieszmy. Nie wiem, co takiego robi Casmetra: niszczy Róg, ratuje œwiat, tworzy now¹ miot³ê... ale Róg musi byæ jej odebrany najszybciej jak tylko siê da! Nie podoba mi siê co siê tutaj dzieje."		"Mnie równie¿." - przytakn¹³ blady Jeremy - "Co jeœli chce obudziæ Uœpionego?"		"Kogo?" - starszy pirat zapyta³ zdziwiony.		"W³aœciwie to ma sens. ¯eby go obudziæ, musisz zad¹æ w Róg..." - wyszepta³ do siebie Jeremy, spojrza³ na brata i kontynuowa³. - "Istnieje legenda o staro¿ytnym bogu, który œpi na dnie morza..."		"Och, przytoczmy sobie teraz od razu wszystkie ¿eglarskie opowieœci." - Bidley machn¹³ rêk¹ i poszed³ zaj¹æ siê w³asnymi sprawami.
+
+Nazwa:
+Dzieñ 56
+Wiadomoœæ:
+Dziœ znów wydarzy³o siê coœ dziwnego. Wszyscy us³yszeli dŸwiêk wydobywaj¹cy siê z g³êbin oceanu, który zabrzmia³ jak jakiœ jêk. Czas ucieka...  
+
+Nazwa:
+Dzieñ 66
+Wiadomoœæ:
+Wygl¹da na to, ¿e Jeremy oszala³ na punkcie teorii tego boga œpi¹cego na dnie morza. Uda³o mu siê gdzieœ znaleŸæ traktaty staro¿ytnego maga Joycrafta. Przestudiowa³ je i doszed³ do wniosku, ¿e Casmetra by³a cz³onkini¹ tajemniczego kultu, s³u¿¹cego Uœpionemu.
+
+Nazwa:
+Dzieñ 84
+Wiadomoœæ:
+Niebo zasz³o chmurami i od dwóch dni pada³ siarczysty deszcz. Na morzu panuje wieczny sztorm. Bez w¹tpienia jest to dzie³o Casmetry: podczas gdy dni coraz bardziej siê d³u¿¹, burze staj¹ siê coraz silniejsze i gwa³towniejsze.
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(50, 35, 0) ***Przystañ***
+Nazwa:
+Aronhem
+
+(37, 6, 0) ***Przystañ***
+Nazwa:
+Downwich
+
+(40, 69, 0) ***Tabliczka***
+Wiadomoœæ:
+Wkraczasz na ziemie Casmetry
+
+(6, 27, 0) ***Zdarzenie***
+Wiadomoœæ:
+Zasadzka!
+
+(8, 19, 0) ***Zdarzenie***
+Wiadomoœæ:
+Powietrze w tym miejscu jest bardzo pyliste i suche. Trudno oddychaæ. Twoi ¿o³nierze zakrywaj¹ twarze chustami.  
+
+(73, 27, 0) ***Tabliczka***
+Wiadomoœæ:
+Witamy w Opactwie Abon!
+
+(38, 15, 0) ***Zdarzenie***
+Wiadomoœæ:
+Poœród innych ¿o³nierzy grupa niks obsadzi³a mury garnizonu. Wszyscy ju¿ wiedzieli, ¿e po wyzwoleniu z r¹k Nighonu skoñczy³y jako najemnicy w s³u¿bie u ró¿nych kapitanów Regny. A teraz mia³y prowadziæ bratobójcz¹ walkê.	Tark, wyzwoliciel i w³adca niks, chcia³ przemówiæ wszystkim do rozs¹dku i wezwa³ swoich pobratymców do ponownego zjednoczenia przeciwko wspólnemu zagro¿eniu. 		"Bracia, do³¹czcie do mnie, jak za dawnych czasów! Biada temu, kto wyst¹pi przeciwko swemu bratu. Nie chcê tego." 		Jedna z niks z garnizonu, najwyraŸniej ich przywódca, odpowiedzia³a: 		"W jaki sposób kapitan, którego but dzisiaj li¿esz, jest lepszy od innych? Zdradzi³eœ swój lud, Tark! Pozbawi³eœ nas jednoœci, zmuszaj¹c do przy³¹czenia siê do piratów. Nie zamierzam zabiæ ciê za obiecane z³oto. Zrobiê to, poniewa¿ jesteœ wrogiem!"		To by³y ostatnie s³owa niksy, poniewa¿ kula armatnia zmiot³a j¹ z murów.
+
+(38, 13, 0) ***Zdarzenie***
+Wiadomoœæ:
+Po bitwie, armia piratów z³apa³a chwilê wytchnienia. Jeremy chwyci³ ma³¹ torbê na wypadek, gdyby mia³ znaleŸæ coœ wartoœciowego przy poleg³ych. Nie omieszka³ równie¿ zabraæ ze sob¹ butelki brandy z owoców toberska z Wysp Krwawego Sztyletu, co umili³oby mu targanie tych wszystkich rupieci.	Wêdruj¹c od cia³a do cia³a, zauwa¿y³ w pobli¿u Tarka. Wojownik pochyla³ siê nad ka¿d¹ poleg³¹ niks¹, k³ad¹c d³oñ na ich klatce piersiowej i szepcz¹c coœ ledwo s³yszalnego.	 	"Co robisz, Tark?" - Jeremy zachichota³, podchodz¹c bli¿ej. 		"Wysy³am ich na ostatni¹ podró¿, wed³ug starego zwyczaju naszego ludu. Podobnie robili nasi przodkowie w czasach, gdy jeszcze istnia³o Imperium Nixaar." 		"Nixaar? Nigdy o tym nie s³ysza³em."		"Kiedy œwiat okry³ siê chaosem Ciszy, zanurkowaliœmy do Bezkresnego Oceanu i tam zbudowaliœmy nasze Imperium. Nasze spo³eczeñstwo rozkwita³o, do czasu ataku trytonów przyby³ych z Wymiaru Wody. Naród zosta³ podzielony. Wielu zginê³o, mimo mêstwa w walce. Ci, którzy prze¿yli, trafili do niewoli u Suwerenów z Nighonu. Kto by³ kiedyœ niewolnikiem, nigdy ju¿ nie zapomni, jak to jest... Walczy³em o wolnoœæ moich braci i sióstr, aby mogli powróciæ do normalnego ¿ycia i dobrobytu. Teraz grzebiê ich, zabitych w nowej wojnie."		"Pewnego dnia wszyscy umrzemy. Ale wierzê, ¿e nic nie pozostaje bez œladu. Nasze czyny bêd¹ trwaæ wiecznie!” - powiedzia³ z uœmiechem Jeremy.		"Twój brat, Bidley, pragnie potêgi ponad wszystko. A czego ty sobie ¿yczysz, Jeremy Albatrossie?" - zapyta³ nagle Tark.		Nie daj¹c odpowiedzi, Jeremy poci¹gn¹³ ³yk brandy i poszed³ dalej, zostawiaj¹c za sob¹ torbê z ³upami.
+
+(74, 15, 0) ***Zdarzenie***
+Wiadomoœæ:
+Widz¹c zbli¿aj¹ce siê wojska Tarka, wroga niksa syknê³a i krzyknê³a:		"Bez litoœci!".		Wszyscy garnizonowi stra¿nicy byli przygotowani do ataku.
+
+(74, 13, 0) ***Zdarzenie***
+Wiadomoœæ:
+"Znowu staliœmy siê bratobójcami." - westchn¹³ Tark na widok poleg³ych. Z³apa³ ³opatê i zacz¹³ kopaæ grób. Inne niksy posz³y jego œladem.
+
+(60, 19, 1) ***Tabliczka***
+Wiadomoœæ:
+Pokój rytualny
+
+(59, 10, 1) ***Zdarzenie***
+Wiadomoœæ:
+Wygl¹da na to, ¿e pod¹¿asz w³aœciw¹ drog¹ – Casmetra ukrywa siê gdzieœ tutaj.
+
+===== Koniec pliku =====
