@@ -1,3 +1,5 @@
+![HotA](img/HotA.png)  
+
 # Heroes of Might and Magic III - Róg Otchłani - wersja PL
 Projekt ten jest próbą tłumaczenia na język polski scenariusza czwartej kampanii "Forged in Fire" rozszerzenia "Horn of the Abyss"/"Róg Otchłani" (autorstwa HotA Crew) dla Heroes of Might and Magic III.
 
